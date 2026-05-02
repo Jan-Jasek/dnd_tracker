@@ -1,0 +1,15 @@
+{
+  "name": "dnd-tracker",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "ai:generate": "rulesync generate --config rulesync.jsonc",
+    "format": "prettier --write \"**/*.{json,jsonc,md,mdx,yml,yaml}\"",
+    "format:check": "prettier --check \"**/*.{json,jsonc,md,mdx,yml,yaml}\""
+  },
+  "devDependencies": {
+    "@joplin/onenote-converter": "^3.5.1",
+    "prettier": "3.8.3",
+    "rulesync": "8.8.1"
+  }
+}

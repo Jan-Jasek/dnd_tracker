@@ -1,0 +1,7 @@
+node_modules
+.git
+.venv
+.obsidian
+.claude
+.codex
+imports/onenote/extracted
