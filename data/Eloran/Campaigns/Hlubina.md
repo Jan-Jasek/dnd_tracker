@@ -2,7 +2,8 @@
 id: campaign.hlubina
 type: campaign
 status: canon
-world: world.eloran
+plane: eloran
+universe: veiling
 locations:
   - places.hlubina
   - places.ellesmere-region
@@ -13,6 +14,8 @@ source_evidence:
 ---
 
 # Hlubina — The Prologue Arc
+
+> Part of: [[Eloran]] | [[Veiling]] | Precedes: [[Campaigns/Dragon Independence]]
 
 The campaign that precedes Dragon Independence. Players arrive as mercenaries protecting a refugee caravan and end up working for a local crime boss. Ends with Aemon Whitecloak (Kate / WhiteOak) recruiting them into imperial service.
 
@@ -74,7 +77,7 @@ Cave encounter: 1× Ghoul (resistances) + 3× zombie. When the ghoul is killed i
 
 ### Side Quests
 
-- Ruined Tyr's temple east of town — magical creature
+- Ruined Orion's temple east of town — magical creature
 - Wiped-out trade caravan (Gnolls)
 - **Sibilla Fayen** — can be encountered on the road; appears as an old woman (Order of Maegi)
 - **Branon Křivohubý** — accompanied by remnants of Shining Blades

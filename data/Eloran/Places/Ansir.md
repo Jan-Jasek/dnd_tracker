@@ -2,13 +2,16 @@
 id: places.ansir
 type: location
 status: canon
-world: world.eloran
+plane: eloran
+universe: veiling
 region: dragon-islands
 source_evidence:
   - imports/onenote/extracted/dra-nezavislost-one-on-26-04-2026.md
 ---
 
 # Ansir
+
+> Part of: [[Eloran]] | [[Places/Regions|Dragon Archipelago]]
 
 The main colonial city of the Dragon Archipelago and the seat of the Free Corsair Republic (Triple Coalition). Also referred to as Saltwater in some sources.
 
@@ -28,7 +31,7 @@ External threats:
 - **The Local (Lokál)** — main tavern/gathering place for soldiers and corsairs; where the weapon theft plot begins
 - **The Fortress** — military garrison; oiled leather-wrapped weapons were lowered from its walls to the river during the theft
 - **Harry Mansion** — site of the Act I climax; partially destroyed by Orion's First Seal detonation
-- **Tyr's Temple (Tyrův chrám)** — reorganized by soldiers after players' visit; connected to Harry's ritual
+- **Orion's Temple (Orionův chrám)** — reorganized by soldiers after players' visit; connected to Harry's ritual
 - **Temple of Umberlee** — on a small square; rune inscription: "Křič s námi" ("Scream with us")
 - **The Brothel** — used as distraction during the weapon theft
 - **Brauner & Hess banking house** — newly constructed; Imperial bank operating in the city

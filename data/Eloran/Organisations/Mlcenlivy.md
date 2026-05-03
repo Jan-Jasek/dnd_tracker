@@ -2,7 +2,8 @@
 id: organisation.mlcenlivy
 type: organisation
 status: canon
-world: world.eloran
+plane: eloran
+universe: veiling
 locations:
   - places.orestor
 source_evidence:
@@ -10,6 +11,8 @@ source_evidence:
 ---
 
 # Mlčenliví — The Silents
+
+> Part of: [[Eloran]] | [[Places/Orestor]]
 
 Orestor's thieves' and assassins' guild. Probably as old as the city itself. Specializes in silence: about their work, about themselves. Members who are captured must commit suicide; failure means they are marked for execution by the guild.
 

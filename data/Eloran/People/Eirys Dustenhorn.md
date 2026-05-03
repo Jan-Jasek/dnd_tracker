@@ -2,7 +2,8 @@
 id: character.eirys-dustenhorn
 type: character
 status: canon
-world: world.eloran
+plane: eloran
+universe: veiling
 locations:
   - places.orestor
 source_evidence:
@@ -11,6 +12,8 @@ source_evidence:
 ---
 
 # Eirys Dustenhorn
+
+> Part of: [[Eloran]] | [[Places/Orestor]] | [[Organisations/Mlcenlivy|Mlčenliví]]
 
 The true leader of the Mlčenliví (Silents) thieves' guild in Orestor, and simultaneously the Treasurer of the city's closed council. Her public face is that of a successful merchant; her actual power base is criminal.
 

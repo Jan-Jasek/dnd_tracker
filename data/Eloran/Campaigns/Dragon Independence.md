@@ -2,7 +2,8 @@
 id: campaign.dragon-independence
 type: campaign
 status: canon
-world: world.eloran
+plane: eloran
+universe: veiling
 locations:
   - places.ansir
   - places.saltmarsh
@@ -16,6 +17,8 @@ source_evidence:
 ---
 
 # Dragon Independence
+
+> Part of: [[Eloran]] | [[Veiling]] | See also: [[Places/Ansir]], [[Factions/Triple Coalition]], [[People/Snowwhite Carleon]]
 
 Working English title: Dragon Independence. Set in the Dragon Archipelago around Ansir, the capital of the Free Corsair Republic.
 

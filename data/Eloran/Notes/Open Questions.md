@@ -2,10 +2,13 @@
 id: notes.eloran.open-questions
 type: open-questions
 status: active
-world: world.eloran
+plane: eloran
+universe: veiling
 ---
 
 # Open Questions
+
+> Part of: [[Eloran]] | See also: [[Cosmology]] for cosmological open questions
 
 These are unresolved decisions that need DM input before the relevant content becomes hard canon.
 
@@ -37,6 +40,65 @@ These are unresolved decisions that need DM input before the relevant content be
 - What exactly is Darkwood — a region, a curse, an entity?
 - What is the nature of the Fey gate?
 - What does Snowwhite's shadow-lord fragment actually grant/cost him?
+
+## Cosmology — Veiling
+
+- What caused the Sundering that shattered the Veil and broke the Paths between planes?
+- How many pre-Sundering beings exist across the Veiling, and what are they doing?
+- Are any pre-Sundering beings benevolent, or does isolation inevitably corrupt them?
+- What is the name of the Fey plane?
+- What do the pre-Sundering beings in the Fey plane (besides Erathon) want?
+- What is the nature of The Hollow — is it stable, growing, or decaying?
+
+## Orion and the Maegi
+
+- What was Orion's true intent during the sealing ritual — savior, would-be world-consumer, or something else? (deliberately unknowable)
+- **Who actually killed Orion?** The disciples broke the ritual and tried to kill him — but were they alone? Orion would not have trusted only his closest disciples; he would have had earlier creations and allies present too. The political picture is broader than just the nine.
+- **What other parties of power were present at the time?** The disciples were not alone in the world. Orion's earlier framings of the Veil produced rival lineages (blood mages, others). Druids existed (the Bloody War of the Druids — Krvavá válka druidů — is in legend; possibly a ripple effect of post-Orion Maegi crusade). Other unnamed factions almost certainly.
+- **The post-Orion crusade.** Whoever killed him, the Maegi used his death to launch a crusade against rival powers — eliminating many of them. Identity of the targets and survivors is open.
+- What remains of Orion in the depths beneath Ellesmere — body, consciousness, Veil-residue, or nothing?
+- What is the tenth power of the Art?
+- Are the nine powers and the nine seals the same thing, or related but distinct?
+- Who were the nine disciples? (Only Ilrusk named so far)
+- Why did Ilrusk co-found the Templars? Miscalculation, deliberate weapon against rival lineages, or genuine repentance? (all three valid)
+- **Who is Azolar?** A figure Ilrusk hates intensely — likely a survivor of the post-Orion crusade, or a rival of the Maegi from that era. Identity, faction, current status all open.
+- Is **Ilrusko** (present-day Orestor) confirmed as Ilrusk surviving via mind-swap?
+
+## Other Parties of Power (Pre-Orion / Contemporary)
+
+- **The Druids** — the *Krvavá válka druidů* (Bloody War of the Druids) is in legend. May be a ripple effect of the Maegi crusade against rival powers after Orion's death.
+- **The Deadlands** (Dragon Islands) — hold a crypt of an old Maegi enemy. Identity, location specifics, and current threat status open.
+- **Earlier Veil lineages** — blood mages and others created by Orion's earlier framings. How many remain today, and where?
+
+## Church of Orion
+
+- How much does the current Church leadership know of the founding cover-up?
+- Are there factions within the Church that suspect or know the truth?
+- Does any Templar know Severite was forged from Veil knowledge by Ilrusk?
+- What happens when the Hammer of Orion realizes the fragments contain traces of their saint?
+- **Did the Church rename when the Templars took over?** Possibly the Church has a different name now from its founding name; possibly the original Maegi-led Church was something else and the present "Church of Orion" is the Templar-era rebranding.
+
+## Maegi Nature and Creation
+
+- **How are Maegi created?** Canon: the creation ritual centers on blood — living creatures concentrate the Veil, and the ritual channels that concentration through blood. Specific mechanics, costs, and constraints are open.
+- How do the earlier "blood mage" lineages relate to Maegi creation? Same root technique, less refined?
+- Can a Maegi be unmade — and if so, how?
+- Maegi don't die of natural causes. **How did the eight disciples die?** Killed by rivals during the post-Orion crusade? Factional conflict among themselves? Templars during the takeover? Something else?
+
+## Jeod Isthar
+
+- Jeod is a founding-era Maegi (not a descendant), alive since Orion's time. Where is he now, and what is he doing?
+- Was he created by one of the original nine, or by a disciple of a disciple?
+- **What is his relationship with Ilrusk?** They were both there in the founding era. Allies, enemies, indifferent veterans?
+- Does he know what the seal-shattering would scatter (Erathon + Orion-residue fragments)?
+- Does he have allies among other surviving Maegi?
+- Is he still pursuing further seal-breaking?
+- Did he leave records about which seal he destroyed and why?
+
+## Fragments
+
+- The fragments carry Erathon's essence + Orion's Veil residue (not the disciples)
+- The "shadow lord" in Snowwhite's fragment — is it Erathon-aspect, Orion-residue, or something formed by their interaction?
 
 ## World History
 

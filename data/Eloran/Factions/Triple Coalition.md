@@ -2,7 +2,8 @@
 id: faction.triple-coalition
 type: faction
 status: canon
-world: world.eloran
+plane: eloran
+universe: veiling
 locations:
   - places.ansir
   - places.dragon-islands
@@ -13,6 +14,8 @@ player_doc: true
 
 # Trojkoalice svobodných republik korzárských
 ## Triple Coalition of Free Corsair Republics
+
+> Part of: [[Eloran]]
 
 The political entity that controls the Dragon Archipelago. Broke away from the major powers during the chaos of the Third Meredian War.
 

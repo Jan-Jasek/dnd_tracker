@@ -2,7 +2,8 @@
 id: places.orestor
 type: location
 status: canon
-world: world.eloran
+plane: eloran
+universe: veiling
 region: eloran-continent
 source_evidence:
   - imports/onenote/extracted/orestor-one-on-01-03-2023.md
@@ -10,6 +11,8 @@ source_evidence:
 ---
 
 # Orestor
+
+> Part of: [[Eloran]] | [[Places/Regions|Eloran Continent — Meredie]]
 
 Ancient city reputedly founded by Orion himself (Prastaré město — the Ancient City). Political successor to Ellesmere after the Third Meredian War. Now a fractured city-state controlled by overlapping criminal and political factions.
 
@@ -40,7 +43,7 @@ See [[Organisations/Mlcenlivy]].
 ### Orionovi Zvěstovatelé (Orion's Heralds)
 Magic-positive faction. Wants to restore Orion's legacy. Will pursue Erathon fragments for their own reasons.
 
-### Tyrův hněv (Tyr's Wrath)
+### Orionův hněv (Orion's Wrath)
 Paladin faction. Can sense Erathon fragment power from catacombs. Patrols in pairs near catacomb entrances. Two named templars: **Jaskell** (huge blonde man, masterwork two-handed sword) and **Jimmy** (short, stocky, bald with black beard; shield, axe, mace). Arci-Templar: **Lucian Tillibor**.
 
 ### Bořiči (Demolishers)

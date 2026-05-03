@@ -19,22 +19,83 @@ This repository is a source-of-truth workspace for a custom DND world, campaign 
 - Tooling, imports, generators, templates, and agent configuration stay outside `data/`.
 - Drafts, imported notes, and generated ideas are not canon until promoted.
 
-## Campaign Content Rules
+## Setting Identity
+
+- **Universe:** Veiling — named for the Veil, the primal energy that flows through all planes via the Paths
+- **Material plane:** Eloran — largely sealed from the Veil since Orion's working; primary campaign setting
+- **Fey plane:** name TBD — dominated by Erathon; saturated with tainted Veil
+- **Shadow plane:** The Hollow — a hollow reflection of Eloran, created as a byproduct of Erathon's attempted merger
+- **Primal energy:** the Veil — once unified across the Veiling; shattered by the Sundering into isolated, hungry pockets
+- **The Paths:** channels that carry Veil between planes; broken or corrupted since the Sundering
+- **The Accord:** the pre-Sundering era when the Veil flowed freely and the universe was harmonious
+- **The Sundering:** the cataclysm that shattered the Veil; cause unknown
+- **Erathon:** a pre-Sundering being, trapped in a pocket of Veil overlapping the Fey plane; imprisoned on Eloran by Orion; now fragmenting back into the world
+- See `data/Eloran/Cosmology.md` for the full cosmological account
+
+## Universe Ontology
+
+The setting is organized as a strict hierarchy. Every content file belongs to exactly one layer:
+
+```
+Universe (e.g. Eloran)
+└── Planes (Material World, Feywild, Shadowfell, Divine Realms…)
+    └── Regions (geographic areas within a plane)
+        └── Places (cities, towns, dungeons, landmarks)
+            └── Districts / Sub-locations
+Pantheon (gods; spans all planes; child of Universe)
+Factions (political/military groups; child of a Plane or Region)
+Organisations (guilds, orders, companies; child of a Plane or Region)
+People (NPCs; linked to their plane, faction/org, and primary location)
+Campaigns (narrative arcs; child of Universe; reference Planes/Places/People)
+└── Sessions
+└── Player Characters
+└── Timeline (campaign-specific events)
+Timeline (also exists at Universe level and per-Plane level)
+```
+
+- **Universe hub** (`data/<Universe>/<Universe>.md`) is the graph root. Everything links back to it.
+- The material world/planet and each additional plane each have their own hub file under `Planes/`.
+- `README.md` should not be used as a hub or index inside `data/`. Use `<Universe>.md` or `<PlaneName>.md` instead.
+
+## Content File Rules
 
 - Use Markdown with YAML frontmatter for campaign content.
-- Every canon file should have `id`, `type`, and `status`.
-- Prefer stable lowercase dotted IDs like `world.veiled-sun`, `campaign.city-of-ash`, or `faction.crimson-ledger`.
+- Every canon file must have `id`, `type`, `status`, and `universe` fields.
+- Plane-specific files must also have a `plane` field. Location files add `region`. People files add `faction` or `org` where applicable.
+- Prefer stable lowercase dotted IDs: `universe.eloran`, `plane.material-world`, `faction.triple-coalition`, `place.orestor`, `person.eirys-dustenhorn`.
 - Preserve contradictions as notes instead of silently overwriting them.
 - Separate public belief, hidden truth, and contested interpretation when useful.
 - Favor playable consequences over encyclopedia prose.
+
+## Obsidian Graph Linking Conventions
+
+These rules ensure the Obsidian graph is navigable and centers on the right nodes:
+
+1. **Hub files link down.** The universe hub links to each Plane hub, Pantheon, and Campaigns index. Each Plane hub links to its Regions, Factions, Organisations, People, and Timeline.
+2. **Content files link up.** Every file includes a `> Part of: [[Parent]]` line (or `parent:` frontmatter) pointing one level up the hierarchy.
+3. **People link sideways.** People files link to their primary location, faction or org, and any campaigns they appear in.
+4. **Factions and Orgs link to their key people and key locations.**
+5. **Timeline entries link to all people, places, and factions involved in that event.**
+6. **Campaigns link to the universe hub, the planes/places they occur in, and all key NPCs and factions.**
+7. **Do not create orphan files.** Every new file must link to at least one existing file and be linked from at least one existing file on creation.
+
+## Timeline Structure
+
+There are three timeline scopes — all three may coexist and cross-reference each other:
+
+- **Universe timeline** (`data/<Universe>/History/Timeline.md`): cosmological and world-age events spanning all planes — creation, god-wars, extinction events, planar rifts.
+- **Plane timeline** (`data/<Universe>/Planes/<Plane>/History/Timeline.md`): events scoped to that plane — wars, empires, migrations, magical catastrophes.
+- **Campaign timeline** (`data/<Universe>/Campaigns/<Campaign>/Timeline.md`): events from play — session outcomes, player decisions, NPC state changes.
+
+Timeline entries should link to the people, places, and factions they involve.
 
 ## Workflow Rules
 
 - Put OneNote exports under `imports/onenote/raw/` before classification.
 - Put brainstorming under `ideas/` unless it is being promoted into canon.
-- Put polished world material under `data/<WorldName>/`, organized into sections such as `History/`, `Places/`, `Factions/`, `Organisations/`, `Campaigns/`, `People/`, `Pantheon/`, and `Notes/`.
+- Put polished world material under `data/<Universe>/`, organized by: `Planes/`, `Pantheon/`, `Factions/`, `Organisations/`, `People/`, `Campaigns/`, `History/`, `Notes/`. Place-specific content lives under `Planes/<PlaneName>/Places/` and `Planes/<PlaneName>/Regions/`.
 - Major player choices should create timeline events and consequences.
-- Faction changes should update relevant faction files, campaign state, and timeline events.
+- Faction changes should update the faction file, any linked campaign state, and the relevant timeline.
 - Generated maps, images, and other assets should include a nearby Markdown brief explaining purpose, prompts, and canon status.
 
 ## Validation

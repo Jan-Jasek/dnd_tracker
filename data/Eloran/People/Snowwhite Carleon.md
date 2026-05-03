@@ -2,7 +2,8 @@
 id: character.snowwhite-carleon
 type: character
 status: canon
-world: world.eloran
+plane: eloran
+universe: veiling
 locations:
   - places.ansir
   - places.dragon-islands
@@ -12,6 +13,8 @@ source_evidence:
 ---
 
 # Sněhobílý Carleon — Snowwhite
+
+> Part of: [[Eloran]] | [[Places/Ansir]] | [[Campaigns/Dragon Independence]]
 
 Full name: Sněhobílý Carleon. Carleon is an Empire location (his origin city or family name).
 

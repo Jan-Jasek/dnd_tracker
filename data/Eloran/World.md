@@ -1,7 +1,8 @@
 ---
-id: world.eloran
-type: world
+id: plane.eloran.world
+type: world-bible
 status: canon
+universe: veiling
 themes:
   - low-magic
   - political-fracture
@@ -22,7 +23,7 @@ player_doc: true
 
 # Eloran
 
-> Main index: [[README]]
+> Part of: [[Eloran]]
 
 ## The World at a Glance
 
@@ -36,7 +37,7 @@ Five major territorial blocks, each with their own language alongside Common:
 
 | Region | Inspiration | Language | Notes |
 |--------|-------------|----------|-------|
-| **Valdie** | Britain | Vaeldic | Fell to Triskal in the last war |
+| **Valdie** | Britain | Veildic | Fell to Triskal in the last war |
 | **Triskal** | Netherlands | Triskal | Expansionist; allied with the Empire against Meredie |
 | **Meredie** | Czech/Prussia | Meredic | Former Empire holding; fought for independence; capital (name TBD) destroyed in the Erathon explosion |
 | **Spojené císařství** (United Empire) | Rome/Byzantium | Common | Dominant power; home language of Common |
@@ -71,9 +72,13 @@ Hidden truth: magic is not truly gone — it is suppressed and feared. The Erath
 
 ## Religion
 
-Pantheon from Forgotten Realms. Among humans, **Tyr** is dominant. Gods are more symbolic here — they do not intervene the way they do in FR. Necromancy and demon-summoning are universally condemned; practitioners are killed on sight.
+The dominant religion of the continent is the **[[Organisations/Church of Orion|Church of Orion]]** — Orion as Saint and Martyr who saved the world from Erathon's corruption. The Forgotten Realms pantheon exists in the background as lesser celestial powers (Tyr, Latander, etc.), but the Saint's cult is supreme on Eloran. Gods are more symbolic here — they do not intervene the way they do in FR.
 
-Symbol of Tyr's Order: a golden plate gauntlet on a white field. Senior templars have stars above the gauntlet marking rank. Members of the Hammer of Tyr have the gauntlet crossed with a warhammer.
+The Church teaches that the Veil (magic) is a corrupting force that destroys those who wield it; suppression of Veil-wielders is a sacred duty. Necromancy and demon-summoning are universally condemned; practitioners are killed on sight. The militant arm — **the Templars** (also called *the Just Ones*) — hunts Veil-wielders with fire, sword, and **Severite** (Imperial term) / **Mlčoun** (Meredic term) — a Veil-suppressing material.
+
+Symbol of the Templars: a golden plate gauntlet on a white field. Senior templars have stars above the gauntlet marking rank. Members of the **Hammer of Orion** (elite militant faction) have the gauntlet crossed with a warhammer.
+
+The Church is a lie built by Orion's surviving disciples to cover up their betrayal of him. See [[Organisations/Church of Orion]] for the full account.
 
 ## Races
 

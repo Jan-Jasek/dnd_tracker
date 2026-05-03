@@ -2,7 +2,8 @@
 id: places.eloran.regions
 type: location-index
 status: canon
-world: world.eloran
+plane: eloran
+universe: veiling
 source_evidence:
   - imports/onenote/extracted/lore-one-on-01-03-2023.md
   - imports/onenote/extracted/dra-nezavislost-one-on-26-04-2026.md
@@ -10,6 +11,8 @@ player_doc: true
 ---
 
 # Regions
+
+> Part of: [[Eloran]]
 
 ## Eloran Continent
 
@@ -29,7 +32,7 @@ Czech/Prussian inspiration. Language: Meredic. Former Empire holding that fought
 Symbol: White apple tree on green field.
 
 ### Valdie
-British inspiration. Language: Vaeldic. Fell to Triskal during the last war. Location of Nialmar (mentioned in notes).
+British inspiration. Language: Veildic. Fell to Triskal during the last war. Location of Nialmar (mentioned in notes).
 
 ### Vilmar
 Sultanate. Language: Vilmaran. Southern power. Hilua — a Vilmaran agent — was working to weaken the Free Republic and disrupt its truce with Triskal so Vilmar could take Ansir. Active antagonist power in the Dragon Islands arc.

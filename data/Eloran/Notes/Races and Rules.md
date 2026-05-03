@@ -78,7 +78,7 @@ If an Underdark exists, nothing from it has surfaced. No opportunity to have enc
 |----------|-----------|
 | **Common** | Universal; home language of the United Empire |
 | **Triskal** | Triskal |
-| **Vaeldic** | Valdie |
+| **Veildic** | Valdie |
 | **Meredic** | Meredie |
 | **Vilmaran** | Vilmar |
 | **Elvish** | Elves |

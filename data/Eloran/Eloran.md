@@ -1,13 +1,22 @@
 ---
-id: world.eloran.index
-type: world-index
+id: plane.eloran
+type: plane
 status: canon
-world: world.eloran
+universe: veiling
 ---
 
 # Eloran
 
-Eloran is the continent from which the players' characters originate. The campaign is set in the Dragon Archipelago around the Azure Sea — a colonial frontier recently seized by the Free Corsair Republic.
+> Part of: [[Veiling]]
+
+The material plane of the [[Veiling]]. Largely sealed from the Veil since Orion's working. The continent of Eloran and the Dragon Archipelago are the primary campaign setting.
+
+## Cosmology & Universe
+
+- [[Veiling]] — the universe
+- [[Cosmology]] — the Veil, the Accord, the Sundering, Erathon's rise
+- [[../Fey|Fey Plane]] — the fey plane (name TBD); dominated by Erathon
+- [[../The Hollow|The Hollow]] — the shadow plane; a reflection of Eloran
 
 ## Start Here
 
@@ -33,12 +42,15 @@ Eloran is the continent from which the players' characters originate. The campai
 
 ## People
 
+- [[People/Orion]] — founder of Orestor and the Order of Maegi; consumed beneath Ellesmere
+- [[People/Jeod Isthar]] — Maegi descendant; destroyed the Ellesmere seal; present-day catalyst
 - [[People/Eirys Dustenhorn]] — Silents guild leader; Orestor council treasurer
 - [[People/Snowwhite Carleon]] — key Act II/III figure; shadow-lord fragment
 
 ## Organisations
 
-- [[Organisations/Order of Maegi]] — mage order; pre-war; members scattered
+- [[Organisations/Church of Orion]] — dominant continental religion; Templars; built on a cover-up
+- [[Organisations/Order of Maegi]] — mage order; founded by Orion; descendants now hunted
 - [[Organisations/Mlcenlivy]] — the Silents; Orestor's thieves' guild
 
 ## Factions

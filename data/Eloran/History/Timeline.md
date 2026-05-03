@@ -2,7 +2,8 @@
 id: history.eloran.timeline
 type: timeline
 status: canon
-world: world.eloran
+plane: eloran
+universe: veiling
 source_evidence:
   - imports/onenote/extracted/lore-one-on-01-03-2023.md
   - imports/onenote/extracted/orestor-one-on-01-03-2023.md
@@ -11,16 +12,47 @@ source_evidence:
 
 # Timeline
 
+> Part of: [[Eloran]] | See also: [[Cosmology]] for pre-campaign cosmological history
+
+*This is the Eloran plane timeline — wars, civilizations, campaign events. For universe-level cosmological history see [[Cosmology]].*
+
 Events are relative. "Campaign start" = players arrive in Ansir as corsairs of the Free Republic.
 
 ---
 
-## Ancient / Mythic Age
+*Note on dates: rough anchors only — exact figures TBD. Calibrate within these ranges.*
 
-**Orion seals Erathon.**
-Orion — master of magic — imprisons the great demon Erathon in a crystal. He founds the city of Orestor (Prastaré město / Ancient City) and his order of mages. Legends also reference the Bloody War of the Druids (Krvavá válka druidů), the dragon god Ilimoxi, and the King of Giants Vrognir.
+## ~5,000 Years Before Campaign — The Age of Darkness and Orion's Rise
 
-**The Order of Maegi** forms, possibly in this era or shortly after. Named members include Theodor Eon (evocation, diamond ring), Roderik Loon (abjuration, citrine ring), Sibyla Fayen, Garcilaso von Vega, Josias Simmler. Deceased: Niels Loon, Roderik Maedir.
+The Veil on Eloran is tainted following the Sundering. Pre-Sundering beings (Erathon chief among them) feed on it. Veil users become corrupted and hungry for power. Civilizations are built and destroyed in cycles of war.
+
+**Orion rises.** A mortal born in this era. Develops the Art through multiple attempts — earlier frameworks produce other Veil lineages (blood mages and others) before he achieves the complete ten-power structure. Founds Orestor (Prastaré město — the Ancient City). See [[People/Orion]].
+
+**The Binding of Erathon.** Orion and his nine inner disciples perform the nine seals ritual. Erathon is bound into the crystal. The disciples survive.
+
+## ~2,000 Years Before Campaign — The Sealing Ritual and Orion's Death
+
+Orion attempts the larger ritual: nine seals plus the 10th, to permanently seal Eloran from the Paths. Other parties of power are present alongside the disciples. The disciples betray him. Orion sacrifices his own Veil to force partial completion of the 10th seal. He vanishes into the depths beneath Ellesmere.
+
+The disciples found the Church of Orion as cover-up. They launch a crusade against rival powers (the Bloody War of the Druids — *Krvavá válka druidů* — is a likely ripple effect of this era). Over centuries, eight of the nine disciples are killed; Maegi don't die naturally, so each was killed by violence, factional conflict, or rival action. Only Ilrusk survives, in a stolen body.
+
+The Order of Maegi continues to grow through later generations of blood-ritual creation. Members visible in present-day records include Theodor Eon (evocation, diamond ring), Roderik Loon (abjuration, citrine ring), Sibyla Fayen, Garcilaso von Vega, Josias Simmler.
+
+## The Long Depletion (~2,000 years)
+
+With Eloran's Paths sealed and the Veil unable to replenish, magic slowly fades. Species wither. Civilizations that once practiced the Art lose access to it. The process takes thousands of years.
+
+The Church of Orion grows autonomous. The Templars (co-founded by Ilrusk, equipped with **Severite / Mlčoun**) eventually overtake the Church's leadership and turn anti-Veil enforcement on the Maegi lineages themselves.
+
+## ~100–150 Years Before Campaign — The Ellesmere Culling
+
+The Templars take political control of Ellesmere and conduct a culling of Maegi practitioners in the city. Many Maegi are killed. Jeod Isthar — at this point already a Maegi, perhaps a few centuries old — witnesses this. The grievance is personal, not generational.
+
+## ~3 Years Before Campaign — The Ellesmere Explosion
+
+[[People/Jeod Isthar|Jeod Isthar]] — a Maegi up to ~500 years old, who witnessed the Templar rise and the Ellesmere culling — destroys the seal at Ellesmere. His **primary purpose** was to break the seal and restore the flow of the Veil. The catastrophic blast was **collateral**: he knew it would happen, took no precautions to spare Ellesmere, and accepted that the Templars and the civilian population alike would die.
+
+The crystal shatters. Soul fragments — carrying Erathon's essence and Orion's sacrificed Veil residue — scatter across the continent. Ellesmere is leveled. Jeod survives. The Third Meredian War's aftermath leaves the region in chaos, and the fragments begin finding hosts.
 
 ---
 
