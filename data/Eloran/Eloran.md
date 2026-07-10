@@ -33,7 +33,6 @@ The material plane of the [[Veiling]]. Largely sealed from the Veil since Orion'
 - [[Campaigns/Hlubina]] — prologue arc (marshland village, Skrček, refugee caravan)
 - [[Campaigns/Dragon Independence]] — main campaign (Ansir, Free Republic, Acts I–III)
 
-
 ## Places
 
 - [[Places/Ansir]] — Free Republic capital, Dragon Islands (with map)
@@ -44,8 +43,8 @@ The material plane of the [[Veiling]]. Largely sealed from the Veil since Orion'
 
 - [[People/Orion]] — founder of Orestor and the Order of Maegi; consumed beneath Ellesmere
 - [[People/Jeod Isthar]] — Maegi descendant; destroyed the Ellesmere seal; present-day catalyst
-- [[People/Eirys Dustenhorn]] — Silents guild leader; Orestor council treasurer
-- [[People/Snowwhite Carleon]] — key Act II/III figure; shadow-lord fragment
+- [[People/Eirys]] — Silents guild leader; Orestor council treasurer
+- [[People/Carleon Snowhite]] — key Act II/III figure; shadow-lord fragment
 
 ## Organisations
 

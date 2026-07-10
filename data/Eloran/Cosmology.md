@@ -49,7 +49,7 @@ He had nine inner disciples, each gifted with one of the ten powers; he kept the
 
 When Orion attempted the larger ritual to seal Eloran from the Paths permanently, his disciples betrayed him. Orion sacrificed his own Veil to force a partial completion of the 10th seal alone. The result was an imperfect sealing — enough to cut Eloran off from the Paths, not enough to do whatever Orion's full plan required. The Veil began draining slowly with no way to replenish.
 
-The disciples survived, founded the [[Organisations/Church of Orion|Church of Orion]] as a cover-up, and **launched a crusade against the rival powers of the era** — earlier Veil lineages, druids, and other figures of power who had been near Orion. The *Krvavá válka druidů* in legend, and the crypt of an old Maegi enemy reportedly held in the Deadlands of the Dragon Islands, are echoes of this crusade. Over centuries all but Ilrusk died. The fragments scattered by Jeod Isthar's destruction of the Ellesmere seal carry **Erathon's essence laced with traces of Orion's sacrificed Veil** — not the disciples.
+The disciples survived, founded the [[Organisations/Church of Orion|Church of Orion]] as a cover-up, and **launched a crusade against the rival powers of the era** — earlier Veil lineages, druids, and other figures of power who had been near Orion. The _Krvavá válka druidů_ in legend, and the crypt of an old Maegi enemy reportedly held in Darkwood, are echoes of this crusade. Over centuries all but Ilrusk died. The fragments scattered by Jeod Isthar's destruction of the Ellesmere seal carry **Erathon's essence laced with traces of Orion's sacrificed Veil** — not the disciples.
 
 See [[People/Orion]] for the full account.
 
@@ -63,7 +63,7 @@ Over centuries the [[Organisations/Church of Orion|Church of Orion]] grew autono
 
 ## Jeod Isthar and the Ellesmere Explosion
 
-[[People/Jeod Isthar|Jeod Isthar]] — a Maegi up to ~500 years old who witnessed the Templar rise and the Ellesmere culling, *not* a founding-era Maegi — destroyed the seal at Ellesmere ~3 years before campaign start. His **primary goal**: restore the Veil before Eloran finished dying. The catastrophic blast was **collateral**: he knew it would level the city, did nothing to prevent it, and accepted both Templar and civilian deaths as the cost.
+[[People/Jeod Isthar|Jeod Isthar]] — a Maegi up to ~500 years old who witnessed the Templar rise and the Ellesmere culling, _not_ a founding-era Maegi — destroyed the seal at Ellesmere ~3 years before campaign start. His **primary goal**: restore the Veil before Eloran finished dying. The catastrophic blast was **collateral**: he knew it would level the city, did nothing to prevent it, and accepted both Templar and civilian deaths as the cost.
 
 He was right that the world was dying. He chose to act with full knowledge of the price and indifference to most of it.
 
@@ -73,13 +73,13 @@ See [[History/Timeline]] for the sequence of events.
 
 ## Current State
 
-| Layer | State |
-|---|---|
-| Veiling (universe) | Fragmented; most Paths broken or corrupted |
-| Eloran (material plane) | Sealed; Veil-dark; fragments of Erathon loose |
-| Fey plane | Veil-saturated; dominated by Erathon's hunger |
-| The Hollow | Dead space; no Veil; Erathon uses it as a conduit |
-| Pre-Sundering beings | Many exist; locations and states unknown |
+| Layer                   | State                                             |
+| ----------------------- | ------------------------------------------------- |
+| Veiling (universe)      | Fragmented; most Paths broken or corrupted        |
+| Eloran (material plane) | Sealed; Veil-dark; fragments of Erathon loose     |
+| Fey plane               | Veil-saturated; dominated by Erathon's hunger     |
+| The Hollow              | Dead space; no Veil; Erathon uses it as a conduit |
+| Pre-Sundering beings    | Many exist; locations and states unknown          |
 
 ## Open Questions
 

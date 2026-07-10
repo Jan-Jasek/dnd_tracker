@@ -34,22 +34,24 @@ Combine three elements into one dense paragraph:
 3. **Technical constraints** — orientation, label style, compass rose if needed, what to exclude
 
 Example structure:
+
 > "Top-down hand-drawn ink map on aged parchment, slightly yellowed, fine crosshatching. [Scene content from brief]. No grid lines. Labelled in a serif font. Compass rose in lower-right corner. No modern elements."
 
 ## Style Reference by Scope
 
-| Scope | Style Anchor |
-|-------|-------------|
-| City | Top-down ink illustration, isometric optional, aged parchment |
-| District / neighborhood | Street-level perspective map, detail-dense, faction colors |
-| Region | Painted watercolor terrain map, illustrated mountains and forests |
-| Continent | Classical political map, solid territory colors, coastline focus |
+| Scope                   | Style Anchor                                                      |
+| ----------------------- | ----------------------------------------------------------------- |
+| City                    | Top-down ink illustration, isometric optional, aged parchment     |
+| District / neighborhood | Street-level perspective map, detail-dense, faction colors        |
+| Region                  | Painted watercolor terrain map, illustrated mountains and forests |
+| Continent               | Classical political map, solid territory colors, coastline focus  |
 
 ## Asset Naming
 
 `data/<World>/Maps/assets/<world-id>-<location-id>-<scope>.<ext>`
 
 Examples:
+
 - `eloran-orestor-city.png`
 - `eloran-meredie-region.png`
 - `eloran-continent.png`

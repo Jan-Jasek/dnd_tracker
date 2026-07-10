@@ -1,17 +1,17 @@
 ---
-id: character.eirys-dustenhorn
-type: character
+id: person.eirys
+type: person
 status: canon
 plane: eloran
 universe: veiling
 locations:
-  - places.orestor
+  - place.orestor
 source_evidence:
   - imports/onenote/extracted/orestor-one-on-01-03-2023.md
   - imports/onenote/extracted/lore-one-on-01-03-2023.md
 ---
 
-# Eirys Dustenhorn
+# Eirys
 
 > Part of: [[Eloran]] | [[Places/Orestor]] | [[Organisations/Mlcenlivy|Mlčenliví]]
 
@@ -29,10 +29,10 @@ She recruited remnants of scattered armies after the Meredian crisis and used th
 
 ## Role in Orestor Council
 
-| Position | Person | Faction |
-|----------|--------|---------|
-| Treasurer | Eirys Dustenhorn | Mlčenliví (via Zvěstovatelé front) |
-| Merchant Guild | Euron Abb'Shiran | Bořiči |
+| Position       | Person           | Faction                            |
+| -------------- | ---------------- | ---------------------------------- |
+| Treasurer      | Eirys            | Mlčenliví (via Zvěstovatelé front) |
+| Merchant Guild | Euron Abb'Shiran | Bořiči                             |
 
 ## Connections
 

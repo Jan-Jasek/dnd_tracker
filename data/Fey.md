@@ -10,7 +10,7 @@ plane_name_status: placeholder
 
 > Part of: [[Veiling]]
 
-*Name TBD. Referred to as "the Fey world" or "the fey gate" in Eloran legend.*
+_Name TBD. Referred to as "the Fey world" or "the fey gate" in Eloran legend._
 
 The fey plane was cut off from the broader Veil alongside [[Eloran/Eloran|Eloran]] during the Sundering. Unlike Eloran, which was subsequently sealed by Orion, the fey plane fell under the domination of Erathon — a pre-Sundering being now trapped in an isolated pocket of Veil overlapping this plane.
 

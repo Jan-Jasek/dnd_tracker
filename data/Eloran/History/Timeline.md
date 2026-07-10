@@ -14,13 +14,13 @@ source_evidence:
 
 > Part of: [[Eloran]] | See also: [[Cosmology]] for pre-campaign cosmological history
 
-*This is the Eloran plane timeline — wars, civilizations, campaign events. For universe-level cosmological history see [[Cosmology]].*
+_This is the Eloran plane timeline — wars, civilizations, campaign events. For universe-level cosmological history see [[Cosmology]]._
 
 Events are relative. "Campaign start" = players arrive in Ansir as corsairs of the Free Republic.
 
 ---
 
-*Note on dates: rough anchors only — exact figures TBD. Calibrate within these ranges.*
+_Note on dates: rough anchors only — exact figures TBD. Calibrate within these ranges._
 
 ## ~5,000 Years Before Campaign — The Age of Darkness and Orion's Rise
 
@@ -34,7 +34,7 @@ The Veil on Eloran is tainted following the Sundering. Pre-Sundering beings (Era
 
 Orion attempts the larger ritual: nine seals plus the 10th, to permanently seal Eloran from the Paths. Other parties of power are present alongside the disciples. The disciples betray him. Orion sacrifices his own Veil to force partial completion of the 10th seal. He vanishes into the depths beneath Ellesmere.
 
-The disciples found the Church of Orion as cover-up. They launch a crusade against rival powers (the Bloody War of the Druids — *Krvavá válka druidů* — is a likely ripple effect of this era). Over centuries, eight of the nine disciples are killed; Maegi don't die naturally, so each was killed by violence, factional conflict, or rival action. Only Ilrusk survives, in a stolen body.
+The disciples found the Church of Orion as cover-up. They launch a crusade against rival powers (the Bloody War of the Druids — _Krvavá válka druidů_ — is a likely ripple effect of this era). Over centuries, eight of the nine disciples are killed; Maegi don't die naturally, so each was killed by violence, factional conflict, or rival action. Only Ilrusk survives, in a stolen body.
 
 The Order of Maegi continues to grow through later generations of blood-ritual creation. Members visible in present-day records include Theodor Eon (evocation, diamond ring), Roderik Loon (abjuration, citrine ring), Sibyla Fayen, Garcilaso von Vega, Josias Simmler.
 
@@ -79,9 +79,10 @@ Meredie, a former Empire holding, declared independence and took the name the Me
 **The Ellesmere explosion** shatters Erathon's prison crystal and scatters soul fragments across the continent. Anyone who handles a fragment is psychically influenced — violence, corruption, obsession. This is the hidden root cause of the Ellesmere catastrophe.
 
 **Aftermath:**
+
 - The war effectively ends without a clean victory for either side.
 - Meredie's noble class is decimated. Political power shifts to merchant-criminal networks.
-- **Eirys Dustenhorn** rises in Orestor as actual power behind the council (guild leader + treasury).
+- **Eirys** rises in Orestor as actual power behind the council (guild leader + treasury).
 - Triskal keeps Valdie. The Empire is weakened but intact.
 - The chaos creates an opening for the **Triple Coalition of Free Corsair Republics** to declare independence and seize the Dragon Islands.
 
@@ -89,7 +90,7 @@ Meredie, a former Empire holding, declared independence and took the name the Me
 
 ## Campaign Prologue — Hlubina (~1 year before campaign)
 
-Players arrive in Hlubina, a marshland village near Ellesmere (destroyed), as mercenaries with a refugee caravan. They end up working for Skrček (local crime boss) and eventually get recruited into imperial service by **Kate / WhiteOak** (Aemon Whitecloak). See [[Campaigns/Hlubina]].
+Players arrive in Hlubina, a marshland village near Ellesmere (destroyed), as mercenaries with a refugee caravan. They end up working for Skrček (local crime boss) and eventually get recruited into imperial service by **Aemon Bělodub (Kate)**. See [[Campaigns/Hlubina]].
 
 ---
 

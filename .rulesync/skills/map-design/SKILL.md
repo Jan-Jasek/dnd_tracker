@@ -22,32 +22,38 @@ Use this skill to produce a structured map brief: the authoritative written desc
 Work through each layer in order. A layer can be left partial if the canon does not support it yet.
 
 ### 1. Geography
+
 - Natural features: rivers, coastlines, hills, forests, roads, walls
 - Scale and orientation
 - What terrain shapes movement, trade, and conflict
 
 ### 2. Zones / Districts
+
 - Named areas with distinct character, function, or control
 - Who lives here, who passes through, what activity is normal
 - Boundaries — hard (walls, rivers) or soft (culture, fear, class)
 
 ### 3. Faction Control
+
 - Which faction controls or contests each zone
 - Visible presence: guards, signs, colors, checkpoints, shrines
 - Hidden presence: safe houses, informants, tunnels, dead drops
 - Contested or transitional zones — mark explicitly
 
 ### 4. Key Locations
+
 - Named buildings, squares, landmarks with playable purpose
 - Each location should have: a function, who is here, and one hook or secret
 - Do not list generic locations (taverns, markets) unless they have a specific name or role
 
 ### 5. Secrets and Hidden Layer
+
 - Things a player could discover through investigation or faction trust
 - Underground, rooftop, or off-map extensions
 - What public belief is wrong about this place
 
 ### 6. Encounter Density
+
 - Where combat, social tension, or chase scenes naturally happen
 - Patrol routes, choke points, crowd density, sightlines
 - This feeds directly into the Generation Prompt
@@ -64,6 +70,7 @@ Produce or update a map brief at `data/<World>/Maps/<name>.md` with:
 ## Output Bias
 
 Favor:
+
 - Specific named places over generic zone descriptions
 - Faction tension visible in the geography
 - Secrets that reward player investigation
@@ -71,6 +78,7 @@ Favor:
 - Contradictions preserved, not resolved
 
 Avoid:
+
 - Inventing canon the DM has not confirmed
 - Symmetric or "balanced" layouts that feel designed rather than grown
 - Filling open questions with placeholder fantasy content

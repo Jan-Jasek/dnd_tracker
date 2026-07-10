@@ -4,7 +4,7 @@ type: person
 status: canon
 universe: veiling
 plane: eloran
-location: places.ellesmere-depths
+location: place.ellesmere-depths
 org: organisation.order-of-maegi
 ---
 
@@ -20,7 +20,7 @@ What he was at the end — savior, monster, or both — is the central mystery o
 
 ## Public Belief
 
-The Church of Orion teaches that Orion was the Saint and Martyr who saved the world from Erathon's corruption. He sealed the demon, gave his life closing the Paths, and left behind the Order of Maegi — though the Church teaches that even the Art was a curse, and that Orion's true legacy was the *suppression* of the Veil that protects humanity.
+The Church of Orion teaches that Orion was the Saint and Martyr who saved the world from Erathon's corruption. He sealed the demon, gave his life closing the Paths, and left behind the Order of Maegi — though the Church teaches that even the Art was a curse, and that Orion's true legacy was the _suppression_ of the Veil that protects humanity.
 
 ## Hidden Truth
 
@@ -42,7 +42,7 @@ The tenth power was tied to the **10th seal** — the final ritual that would ha
 
 ## The Binding of Erathon
 
-To imprison Erathon in the crystal, Orion and his nine disciples performed the nine seals — rituals, not fixed locations, that can in principle be performed anywhere. All nine together were the mechanism of binding. The disciples *survived* this. Erathon was bound; the Maegi went on.
+To imprison Erathon in the crystal, Orion and his nine disciples performed the nine seals — rituals, not fixed locations, that can in principle be performed anywhere. All nine together were the mechanism of binding. The disciples _survived_ this. Erathon was bound; the Maegi went on.
 
 ## The Sealing Ritual and the Betrayal
 
@@ -64,9 +64,9 @@ What happened to Orion in that moment is unknown. He may have been killed in the
 
 Orion would not have trusted only his closest disciples with a working of this scale. Earlier creations and allies — practitioners from his cruder pre-Maegi frameworks (blood mages and others), perhaps druids, perhaps figures whose names are lost — were almost certainly present at or near the ritual. **Who actually killed Orion** is therefore a deeper question than "the disciples did it." The disciples broke the ritual, but the political picture around the betrayal involved multiple factions of power.
 
-After Orion's death, the Maegi did not just construct a cover-up. They **launched a crusade** against the rival powers of that era — eliminating witnesses, rivals, and survivors of Orion's earlier work. The *Krvavá válka druidů* (Bloody War of the Druids) referenced in Eloran legend is likely a ripple effect of this crusade. The crypt of an old Maegi enemy reportedly held in the Deadlands of the Dragon Islands is another fragment of that purge.
+After Orion's death, the Maegi did not just construct a cover-up. They **launched a crusade** against the rival powers of that era — eliminating witnesses, rivals, and survivors of Orion's earlier work. The _Krvavá válka druidů_ (Bloody War of the Druids) referenced in Eloran legend is likely a ripple effect of this crusade. The crypt of an old Maegi enemy reportedly held in Darkwood is another fragment of that purge.
 
-**Azolar** — a name surfacing as the figure Ilrusk hates most. Identity unconfirmed; likely a survivor of the post-Orion crusade, or a powerful rival of that era who escaped the Maegi's reach. Possibly still alive or possibly the entity in the Deadlands crypt.
+**Azolar** — a name surfacing as the figure Ilrusk hates most. Identity unconfirmed; likely a survivor of the post-Orion crusade, or a powerful rival of that era who escaped the Maegi's reach. Possibly still alive or possibly the entity in the Darkwood crypt.
 
 ## Aftermath — The Cover-Up
 
@@ -80,16 +80,16 @@ Only **Ilrusk** survived, having anticipated the betrayal and prepared for it: h
 
 Other Maegi created in later generations — by the original disciples and their successors — also survive in the present day. They are not Orion's contemporaries. They know the founding era only through Maegi teaching. [[People/Jeod Isthar]] is one such Maegi (~500 years old or less, witnessed the Templar rise but not Orion's time).
 
-A figure named **Ilrusko** appears in present-day Orestor, tracking Erathon fragments for [[People/Eirys Dustenhorn|Eirys Dustenhorn]]. Strong candidate connection: this is Ilrusk, still alive after thousands of years, in a body not his own.
+A figure named **Ilrusko** appears in present-day Orestor, tracking Erathon fragments for [[People/Eirys|Eirys]]. Strong candidate connection: this is Ilrusk, still alive after thousands of years, in a body not his own.
 
 ---
 
 ## The Fragments
 
-Because the disciples were *not* consumed in the binding, the soul fragments scattered by Jeod Isthar's destruction of the Ellesmere seal carry **Erathon's essence laced with traces of Orion's sacrificed Veil** — not the disciples. What this means in practice:
+Because the disciples were _not_ consumed in the binding, the soul fragments scattered by Jeod Isthar's destruction of the Ellesmere seal carry **Erathon's essence laced with traces of Orion's sacrificed Veil** — not the disciples. What this means in practice:
 
 - Each fragment is mostly Erathon, but tinged with whatever survives of Orion
-- A "shadow lord" appearing in a fragment (e.g. Snowwhite Carleon's) may be Erathon-aspect, or Orion-residue, or something formed by the interaction of the two
+- A "shadow lord" appearing in a fragment (e.g. Carleon Snowhite's) may be Erathon-aspect, or Orion-residue, or something formed by the interaction of the two
 - Ilrusk has reasons to be hunting them that go beyond Eirys's interests
 
 ---

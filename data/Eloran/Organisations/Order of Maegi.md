@@ -1,7 +1,7 @@
 ---
 id: organisation.order-of-maegi
 type: organisation
-status: candidate
+status: canon
 plane: eloran
 universe: veiling
 source_evidence:
@@ -21,7 +21,7 @@ An order of Veil practitioners founded on [[People/Orion|Orion's]] complete fram
 
 Maegi do not die of natural causes. Once a person has been made into a Maegi, they are effectively immortal against age, disease, and slow decay. They can still be killed — by violence, by Veil-related catastrophe, by their own choice — but time alone does not claim them.
 
-This means that the Order's longest-lived members are *deeply* old. Some of those listed as members may be centuries or millennia in age. The Order's broader membership today consists overwhelmingly of post-founding Maegi made by lineage transmission from the original disciples and their successors.
+This means that the Order's longest-lived members are _deeply_ old. Some of those listed as members may be centuries or millennia in age. The Order's broader membership today consists overwhelmingly of post-founding Maegi made by lineage transmission from the original disciples and their successors.
 
 ## How Maegi Are Made
 
@@ -43,24 +43,24 @@ The ring system (diamond, citrine, etc.) reflects the original nine-power divisi
 
 ## The Art vs. Other Veil Lineages
 
-The Order of Maegi is Orion's *final* attempt. Before it, he made cruder, earlier frameworks that produced practitioners with real but divergent and uncontrolled Veil access — blood mages and other lineages. Those lineages persist. They are not lesser in raw terms, just structurally incomplete relative to the Art.
+The Order of Maegi is Orion's _final_ attempt. Before it, he made cruder, earlier frameworks that produced practitioners with real but divergent and uncontrolled Veil access — blood mages and other lineages. Those lineages persist. They are not lesser in raw terms, just structurally incomplete relative to the Art.
 
-The Art's advantage: it is a *controlled* relationship with the Veil. Practitioners bend the Veil to their will rather than being shaped by it.
+The Art's advantage: it is a _controlled_ relationship with the Veil. Practitioners bend the Veil to their will rather than being shaped by it.
 
 ---
 
 ## Known or Candidate Members
 
-| Name | School | Ring | Status |
-|------|--------|------|--------|
-| Theodor Eon | Evocation | Diamond | Active? |
-| Roderik Loon | Abjuration | Citrine | Active? |
-| Eirys Dustenhorn | Unknown | — | Possibly connected |
-| Sibyla Fayen | Unknown | — | Can be encountered on roads; appears as old woman |
-| Garcilaso von Vega | Unknown | — | |
-| Josias Simmler | Unknown | — | |
-| Niels Loon | — | — | Deceased |
-| Roderik Maedir | — | — | Deceased |
+| Name               | School     | Ring    | Status                                            |
+| ------------------ | ---------- | ------- | ------------------------------------------------- |
+| Theodor Eon        | Evocation  | Diamond | Active?                                           |
+| Roderik Loon       | Abjuration | Citrine | Active?                                           |
+| Eirys              | Unknown    | —       | Possibly connected                                |
+| Sibyla Fayen       | Unknown    | —       | Can be encountered on roads; appears as old woman |
+| Garcilaso von Vega | Unknown    | —       |                                                   |
+| Josias Simmler     | Unknown    | —       |                                                   |
+| Niels Loon         | —          | —       | Deceased                                          |
+| Roderik Maedir     | —          | —       | Deceased                                          |
 
 ## Sibyla Fayen
 
@@ -75,5 +75,5 @@ Former templar of the Just. Has taken it upon himself to hunt the mages who esca
 - Is the Order still operating as an organization, or are the members scattered survivors?
 - What is the Order's actual charter — academic, political, protective?
 - Do the rings grant power, signal membership, or both?
-- Is Eirys Dustenhorn's connection to the Order the source of her intelligence network?
+- Is Eirys's connection to the Order the source of her intelligence network?
 - Are the surviving members being hunted by Sir Hans, or just the Ellesmere escapees?

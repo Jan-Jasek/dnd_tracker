@@ -25,6 +25,7 @@ Campaign → Timeline          (session-scope: player actions and consequences)
 ```
 
 When creating a new file, always assign the correct layer and include the correct frontmatter fields:
+
 - All files: `id`, `type`, `status`, `universe`
 - Plane-level and below: add `plane`
 - Region-level and below: add `region`
@@ -89,11 +90,11 @@ Use these statuses:
 
 Three timeline scopes exist — populate the right one:
 
-| Scope | File location | What belongs here |
-|---|---|---|
-| Universe | `data/<Universe>/History/Timeline.md` | Creation, god-wars, planar rifts, extinction events |
-| Plane | `data/<Universe>/Planes/<Plane>/History/Timeline.md` | Wars, empires, magical catastrophes on that plane |
-| Campaign | `data/<Universe>/Campaigns/<Campaign>/Timeline.md` | Session outcomes, player decisions, NPC state changes |
+| Scope    | File location                                        | What belongs here                                     |
+| -------- | ---------------------------------------------------- | ----------------------------------------------------- |
+| Universe | `data/<Universe>/History/Timeline.md`                | Creation, god-wars, planar rifts, extinction events   |
+| Plane    | `data/<Universe>/Planes/<Plane>/History/Timeline.md` | Wars, empires, magical catastrophes on that plane     |
+| Campaign | `data/<Universe>/Campaigns/<Campaign>/Timeline.md`   | Session outcomes, player decisions, NPC state changes |
 
 Timeline entries must link to all people, places, and factions involved. Cross-reference between scopes when an event has cascading effects (e.g. a planar event that triggers a campaign event).
 

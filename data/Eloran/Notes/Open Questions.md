@@ -36,10 +36,10 @@ These are unresolved decisions that need DM input before the relevant content be
 
 - What is Erathon's goal in reopening the Fey gate, and what does he gain from it?
 - How much agency does Erathon have while fragmented — is he directing the corruption, or spreading passively?
-- Does Snowwhite's fragment make him a vessel/conduit for Erathon, or is he merely corrupted?
+- Does Snowhite's fragment make him a vessel/conduit for Erathon, or is he merely corrupted?
 - What exactly is Darkwood — a region, a curse, an entity?
 - What is the nature of the Fey gate?
-- What does Snowwhite's shadow-lord fragment actually grant/cost him?
+- What does Snowhite's shadow-lord fragment actually grant/cost him?
 
 ## Cosmology — Veiling
 
@@ -66,8 +66,8 @@ These are unresolved decisions that need DM input before the relevant content be
 
 ## Other Parties of Power (Pre-Orion / Contemporary)
 
-- **The Druids** — the *Krvavá válka druidů* (Bloody War of the Druids) is in legend. May be a ripple effect of the Maegi crusade against rival powers after Orion's death.
-- **The Deadlands** (Dragon Islands) — hold a crypt of an old Maegi enemy. Identity, location specifics, and current threat status open.
+- **The Druids** — the _Krvavá válka druidů_ (Bloody War of the Druids) is in legend. May be a ripple effect of the Maegi crusade against rival powers after Orion's death.
+- **Darkwood** (Dragon Islands) — hold a crypt of an old Maegi enemy. Identity, location specifics, and current threat status open.
 - **Earlier Veil lineages** — blood mages and others created by Orion's earlier framings. How many remain today, and where?
 
 ## Church of Orion
@@ -98,7 +98,7 @@ These are unresolved decisions that need DM input before the relevant content be
 ## Fragments
 
 - The fragments carry Erathon's essence + Orion's Veil residue (not the disciples)
-- The "shadow lord" in Snowwhite's fragment — is it Erathon-aspect, Orion-residue, or something formed by their interaction?
+- The "shadow lord" in Snowhite's fragment — is it Erathon-aspect, Orion-residue, or something formed by their interaction?
 
 ## World History
 

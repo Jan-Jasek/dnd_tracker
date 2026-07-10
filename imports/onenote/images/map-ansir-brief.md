@@ -2,8 +2,9 @@
 id: asset.map-ansir
 type: map-brief
 status: canon
-world: world.eloran
-location: places.ansir
+universe: veiling
+plane: eloran
+location: place.ansir
 ---
 
 # Ansir Map

@@ -5,12 +5,12 @@ status: canon
 plane: eloran
 universe: veiling
 locations:
-  - places.ansir
-  - places.saltmarsh
-  - places.mokra-lhota
+  - place.ansir
+  - place.saltmarsh
+  - place.mokra-lhota
 related:
   - faction.triple-coalition
-  - character.snowwhite-carleon
+  - person.carleon-snowwhite
 source_evidence:
   - imports/onenote/extracted/dra-nezavislost-one-on-26-04-2026.md
   - imports/onenote/extracted/dra-nezavislost-one-on-01-03-2023.md
@@ -18,7 +18,7 @@ source_evidence:
 
 # Dragon Independence
 
-> Part of: [[Eloran]] | [[Veiling]] | See also: [[Places/Ansir]], [[Factions/Triple Coalition]], [[People/Snowwhite Carleon]]
+> Part of: [[Eloran]] | [[Veiling]] | See also: [[Places/Ansir]], [[Factions/Triple Coalition]], [[People/Carleon Snowhite]]
 
 Working English title: Dragon Independence. Set in the Dragon Archipelago around Ansir, the capital of the Free Corsair Republic.
 
@@ -29,6 +29,7 @@ The campaign is structured in three acts. The players start as corsairs of the R
 ## Master Plot
 
 **Hilua** (Vilmaran agent/sorceress) is working to destabilize the Republic and disrupt its truce with Triskal so that Vilmar can take over Ansir. Her tools:
+
 - Captain **Henry Von Telten** (former Imperial admiral) is coerced into weapon smuggling by holding his family hostage in Saltmarsh (through **Xendra**).
 - The weapons pass through **Rotgar** (Rotgar is from the Empire; believed killed at the Battle of Corvel; actually operating as a smuggler) and through **Kuliš** in Ansir.
 - **Friedrich**, a local underworld figure, acts as intermediary and wants a rival (**Harry**) dead.
@@ -43,15 +44,15 @@ Hilua is killed at some point before Act III. Her second Sending Stone is with X
 
 ### Timeline of Events
 
-| Day | Event |
-|-----|-------|
-| Night before Day 1 | Players in Ansir during events in Dřevolhota. Survivor of a coup dies 3 days prior. |
-| Night of Day 1 | Prcek and Třesavec arrive with Arryn's men. At The Local (Lokál), players encounter them and realize someone is moving weapons. Prcek and Třesavec + soldiers stage a party, lure guards to the brothel, kill Třesavec, break into the fortress, steal weapons (wrapped in oiled leather), lower them to the river, barge upriver, load onto a wagon, depart for Mokrá Lhota overnight. |
-| Night after Day 1 | Kuliš dies. Weapons are stolen. Drson's men depart. |
-| Day 2 morning | Stoupač (Commander) leaves for the front to chase a sorceress. |
-| Evening of Day 3 | Hemmond dies. Captain Kaplan takes command. |
-| Morning of Day 4 | Players have an arranged meeting with Nastěnka (Kuliš's girlfriend). |
-| Evening of Day 4 | Friedrich summons the players. |
+| Day                | Event                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Night before Day 1 | Players in Ansir during events in Dřevolhota. Survivor of a coup dies 3 days prior.                                                                                                                                                                                                                                                                                                     |
+| Night of Day 1     | Prcek and Třesavec arrive with Arryn's men. At The Local (Lokál), players encounter them and realize someone is moving weapons. Prcek and Třesavec + soldiers stage a party, lure guards to the brothel, kill Třesavec, break into the fortress, steal weapons (wrapped in oiled leather), lower them to the river, barge upriver, load onto a wagon, depart for Mokrá Lhota overnight. |
+| Night after Day 1  | Kuliš dies. Weapons are stolen. Drson's men depart.                                                                                                                                                                                                                                                                                                                                     |
+| Day 2 morning      | Stoupač (Commander) leaves for the front to chase a sorceress.                                                                                                                                                                                                                                                                                                                          |
+| Evening of Day 3   | Hemmond dies. Captain Kaplan takes command.                                                                                                                                                                                                                                                                                                                                             |
+| Morning of Day 4   | Players have an arranged meeting with Nastěnka (Kuliš's girlfriend).                                                                                                                                                                                                                                                                                                                    |
+| Evening of Day 4   | Friedrich summons the players.                                                                                                                                                                                                                                                                                                                                                          |
 
 ### Key NPCs (Act I)
 
@@ -88,6 +89,7 @@ Hilua is killed at some point before Act III. Her second Sending Stone is with X
 Harry is ~60 years old in appearance but actually barely forty. Connected to Hedváb (Silky), who has close ties to the Empire — one of few people who could run this scheme. Heard Rotgar is from the Empire and supposedly died at Corvel. Denies ordering the assassination attempt; says his traitorous advisors would otherwise be dead.
 
 **Harry stats:** Resist all except psychic. 24 STR+, 16 DEX+, 20 AC, 10 INT, 16 WIS, 16 CHR. 100 HP. Advantage on STR checks/saves. Legendary Save 2.
+
 - Lair Action: AOE Blood Drain — CON 16 save; nearby enemies take 1d6 force damage, lose that much max HP; Harry heals for damage dealt + temporary HP.
 - Actions: 2× Attack (+10, 1d6+7). Close range: Blood Drain (CON 16, 2d6 force + heal) instead of one attack.
 
@@ -111,7 +113,7 @@ Players travel to the Dragon Islands proper on an imperial ship (Šupina or Levi
 
 First Officer Vigo or Agitus — tall, sinewy 40-year-old. Captain is an older stout imperial in ornate clothes.
 
-**Sněhobílý Carleon (Snowwhite)** — receives a fragment containing a shadow lord's soul. Determined to free himself from both Triskal and the United Empire's power. A fragment of ancient power offers a path — but requires acquiring a relic from the indigenous peoples, who want something in return first.
+**Carleon Sněhobílý (Snowhite)** — receives a fragment containing a shadow lord's soul. Determined to free himself from both Triskal and the United Empire's power. A fragment of ancient power offers a path — but requires acquiring a relic from the indigenous peoples, who want something in return first.
 
 **Banyu** — spiritual/tribal leader. Sent Mego to spy on the dark-eyed who joined Aditya.
 
@@ -123,16 +125,17 @@ First Officer Vigo or Agitus — tall, sinewy 40-year-old. Captain is an older s
 
 **Grimír Špinavec (Dirty Grimír)** — owes 7,100–17,100 gold Imperial marks to the bank Brauner & Hess (debt bought from the Grundermwald State Library, originally his grandfather's). Escalating due to interest and fees.
 
-**Aemon Whitecloak (WhiteOak)** — wants to create a strong, respected free democratic republic. One of the key political figures of the Free Republic.
+**Aemon Bělodub** — wants to create a strong, respected free democratic republic. One of the key political figures of the Free Republic.
 
 ### Indigenous Relic Quest
+
 The indigenous peoples want their desecrated lands cleansed — a son of their spiritual leader gained the power of their ancestors, took their sacred relics, and retreated. The players must reclaim the relics.
 
 ---
 
 ## Act III — The Gate and the Endgame
 
-**Erathon** wants to reopen the gate to the Fey world, using Snowwhite as a medium, before his powers are depleted.
+**Erathon** wants to reopen the gate to the Fey world, using Snowhite as a medium, before his powers are depleted.
 
 **Darkwood** — dark powers are returning or have returned. Connected to the cursed-blood Tauber factions.
 
@@ -148,4 +151,4 @@ Details still fragmentary — to be developed.
 - Who is Arryn and what do his men want?
 - What is the Tříštivý proud (Shattering Current) cult doing in Ansir?
 - What is the nature of Darkwood?
-- Does Erathon have a full identity separate from Snowwhite's arc?
+- Does Erathon have a full identity separate from Snowhite's arc?

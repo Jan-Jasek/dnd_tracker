@@ -5,7 +5,7 @@ status: canon
 universe: veiling
 plane: eloran
 org: organisation.order-of-maegi
-location: places.ellesmere
+location: place.ellesmere
 ---
 
 # Jeod Isthar
@@ -22,7 +22,7 @@ Responsible for breaking the Ellesmere seal — the act that shattered Erathon's
 
 Maegi do not die of natural causes (see [[Organisations/Order of Maegi]]). Jeod has lived continuously through the recent centuries of Maegi persecution — long enough to watch the Templars consolidate, the lineages dwindle, the Veil draining grow undeniable. He has stayed in his own body throughout.
 
-He is *old*, but not *ancient*. He is not Ilrusk's contemporary. He is the kind of Maegi who has seen everything that matters in the Templar era and nothing of what came before.
+He is _old_, but not _ancient_. He is not Ilrusk's contemporary. He is the kind of Maegi who has seen everything that matters in the Templar era and nothing of what came before.
 
 ## Motive
 

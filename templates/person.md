@@ -1,15 +1,18 @@
 ---
-id: character.example
-type: character
+id: person.example
+type: person
 status: draft
-world: world.example
+universe: veiling
+plane: eloran
+location:
+org:
+faction:
 campaigns: []
-factions: []
-locations: []
+related: []
 tags: []
 ---
 
-# Character Name
+# Person Name
 
 ## Role In Play
 

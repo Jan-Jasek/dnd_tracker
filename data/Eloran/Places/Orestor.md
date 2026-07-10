@@ -1,5 +1,5 @@
 ---
-id: places.orestor
+id: place.orestor
 type: location
 status: canon
 plane: eloran
@@ -32,24 +32,29 @@ Ancient city reputedly founded by Orion himself (Prastaré město — the Ancien
 Key council members:
 | Position | Person | Faction |
 |----------|--------|---------|
-| Treasurer | Eirys Dustenhorn | Mlčenliví (Silents) via Zvěstovatelé |
+| Treasurer | Eirys | Mlčenliví (Silents) via Zvěstovatelé |
 | Merchant Guild | Euron Abb'Shiran | Bořiči (Demolishers) |
 
 ## Factions
 
 ### Mlčenliví (the Silents)
+
 See [[Organisations/Mlcenlivy]].
 
 ### Orionovi Zvěstovatelé (Orion's Heralds)
+
 Magic-positive faction. Wants to restore Orion's legacy. Will pursue Erathon fragments for their own reasons.
 
 ### Orionův hněv (Orion's Wrath)
+
 Paladin faction. Can sense Erathon fragment power from catacombs. Patrols in pairs near catacomb entrances. Two named templars: **Jaskell** (huge blonde man, masterwork two-handed sword) and **Jimmy** (short, stocky, bald with black beard; shield, axe, mace). Arci-Templar: **Lucian Tillibor**.
 
 ### Bořiči (Demolishers)
+
 Led by Euron Abb'Shiran (Merchant Guild). Wants council power. Will pursue Erathon fragments.
 
 ### The Just Ones
+
 Surviving paladin order from Meredie's destruction. Set up a new branch in Orestor for those who survived the Meredie massacres. Also want the fragments.
 
 ## The Erathon Fragment Plot

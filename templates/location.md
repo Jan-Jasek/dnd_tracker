@@ -1,12 +1,14 @@
 ---
-id: location.example
+id: place.example
 type: location
 status: draft
-world: world.example
+universe: veiling
+plane: eloran
+region:
 campaigns: []
 parent_location:
 factions: []
-characters: []
+people: []
 ---
 
 # Location Name

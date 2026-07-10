@@ -5,10 +5,10 @@ status: canon
 plane: eloran
 universe: veiling
 locations:
-  - places.hlubina
-  - places.ellesmere-region
+  - place.hlubina
+  - place.ellesmere-region
 related:
-  - character.aemon-whitecloak
+  - person.aemon-whitecloak
 source_evidence:
   - imports/onenote/extracted/meredie-one-on-01-03-2023.md
 ---
@@ -17,7 +17,7 @@ source_evidence:
 
 > Part of: [[Eloran]] | [[Veiling]] | Precedes: [[Campaigns/Dragon Independence]]
 
-The campaign that precedes Dragon Independence. Players arrive as mercenaries protecting a refugee caravan and end up working for a local crime boss. Ends with Aemon Whitecloak (Kate / WhiteOak) recruiting them into imperial service.
+The campaign that precedes Dragon Independence. Players arrive as mercenaries protecting a refugee caravan and end up working for a local crime boss. Ends with Aemon Bělodub (Kate) recruiting them into imperial service.
 
 ## Setting
 
@@ -28,6 +28,7 @@ Hlubina — a small marshland village built on a water-protected center (moat co
 Players arrive with a refugee caravan organized by Otto (merchant with no goods; used the players as bodyguards for 1 gold coin). Caravan: ~20 people — three farming families (two human, one halfling; 7 children), Otto and his wife, poacher Držgrešle, former elf blacksmith Austin, and Bardon (real armor, fled Triskal law).
 
 Road events before Hlubina:
+
 - Felled tree with old dried blood traces; following the blood leads to a half-eaten imperial army horse (with an arrow in it). Saddlebags: 5 days' food, tent, blanket.
 - Night kobold ambush: kobolds bring captured monsters (2× Grimlock, 2× Gnoll Withering) with half-tied legs as distraction while trying to steal from the wagons. DC 15 Perception to notice.
 - Bardon vs. Držgrešle brawl: Bardon attacks Držgrešle for rifling through his things; Držgrešle claims he was looking for a pendant from his (now dead) mother.
@@ -38,26 +39,27 @@ The village is controlled by **Skrček** — a fat, cruel halfling/dwarf crime b
 
 ### Skrček's Inner Circle
 
-| Name | Role | Notes |
-|------|------|-------|
-| Skrček | Boss | Lvl 4 Mastermind, HP 36, AC 16; escape plan via window → palisade → hidden boat |
-| Rudý Rudi | Champion, lvl 3 | Most willing to solve problems fairly |
-| Jon Syčák | Assassin, lvl 3, HP 24, AC 15 | Bought the garrison captain |
-| Majzlík | Berserker, lvl 4 | |
+| Name      | Role                          | Notes                                                                           |
+| --------- | ----------------------------- | ------------------------------------------------------------------------------- |
+| Skrček    | Boss                          | Lvl 4 Mastermind, HP 36, AC 16; escape plan via window → palisade → hidden boat |
+| Rudý Rudi | Champion, lvl 3               | Most willing to solve problems fairly                                           |
+| Jon Syčák | Assassin, lvl 3, HP 24, AC 15 | Bought the garrison captain                                                     |
+| Majzlík   | Berserker, lvl 4              |                                                                                 |
 
 ### Key Village NPCs
 
-| Name | Notes |
-|------|-------|
-| Mark Šedivák | Old man; former mayor before Skrček; won't fight; will contact players about joining forces with Hector |
-| Norton půlruký | Runs the inn (Spící panoš / Sleeping Squire or Mrtvý Písař); lets a few trusted people sleep there |
-| Lisa Číšnice | Barmaid |
-| Gilodor | Black market sausage vendor (rat-and-algae sausages, sold as pork) |
-| Latander's priest Farnum | Holds a morning service daily at 9 |
+| Name                     | Notes                                                                                                   |
+| ------------------------ | ------------------------------------------------------------------------------------------------------- |
+| Mark Šedivák             | Old man; former mayor before Skrček; won't fight; will contact players about joining forces with Hector |
+| Norton půlruký           | Runs the inn (Spící panoš / Sleeping Squire or Mrtvý Písař); lets a few trusted people sleep there      |
+| Lisa Číšnice             | Barmaid                                                                                                 |
+| Gilodor                  | Black market sausage vendor (rat-and-algae sausages, sold as pork)                                      |
+| Latander's priest Farnum | Holds a morning service daily at 9                                                                      |
 
 ### The Opposition
 
 **Hector "Zkurvysyn"** and the Osvoboditeli (Liberators):
+
 - 20 fighters operating from the eastern marshes
 - Hector has history with Skrček — he helped Skrček clear out the remaining imperial soldiers after the war, then Skrček tried to kill him; Hector survived by hiding in a chimney for a day
 
@@ -87,4 +89,4 @@ Cave encounter: 1× Ghoul (resistances) + 3× zombie. When the ghoul is killed i
 
 ## Resolution
 
-Skrček stages a night raid on the Liberators' position (using Ilis to set fire to the inn/tavern). A large battle breaks out. Regardless of outcome, the next morning **Kate / WhiteOak (Aemon Whitecloak)** arrives with an imperial advance guard and recruits the players into the service of the Republic. This is the handoff to Dragon Independence.
+Skrček stages a night raid on the Liberators' position (using Ilis to set fire to the inn/tavern). A large battle breaks out. Regardless of outcome, the next morning **Aemon Bělodub (Kate)** arrives with an imperial advance guard and recruits the players into the service of the Republic. This is the handoff to Dragon Independence.

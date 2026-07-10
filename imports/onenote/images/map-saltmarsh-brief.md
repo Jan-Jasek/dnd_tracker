@@ -2,8 +2,9 @@
 id: asset.map-saltmarsh
 type: map-brief
 status: canon
-world: world.eloran
-location: places.saltmarsh
+universe: veiling
+plane: eloran
+location: place.saltmarsh
 ---
 
 # Saltmarsh Map

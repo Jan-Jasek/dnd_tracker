@@ -10,7 +10,7 @@ Open this `data/` folder as the Obsidian vault.
 
 ## Worlds
 
-- [[Eloran/README|Eloran]]
+- [[Eloran/Eloran|Eloran]]
 
 ## Workflow
 

@@ -57,10 +57,10 @@ The **Just Ones** in Hlubina (paladin order from Meredie's destruction) is part 
 
 The Church's most distinctive tool: a material that suppresses the Veil. Used in shackles, blades, manacles, and reinforced armor for hunting Veil-wielders.
 
-- **Severite** — Common/Imperial term (also: *oddělovač* — "separator")
-- **Mlčoun** — Meredic term (from *mlčet*, to be silent — "the silencer")
+- **Severite** — Common/Imperial term (also: _oddělovač_ — "separator")
+- **Mlčoun** — Meredic term (from _mlčet_, to be silent — "the silencer")
 
-Both names refer to the same material. Cultural use varies by region; Imperial Templars favor *Severite*, Meredic Templars favor *Mlčoun*.
+Both names refer to the same material. Cultural use varies by region; Imperial Templars favor _Severite_, Meredic Templars favor _Mlčoun_.
 
 **Hidden truth:** Severite was created by Ilrusk himself, who provided the knowledge to forge it when the Templars were founded. Why he gave the institution that would eventually hunt his own kind the means to do so is one of the great open questions of the Veiling.
 

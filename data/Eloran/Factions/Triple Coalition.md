@@ -5,14 +5,15 @@ status: canon
 plane: eloran
 universe: veiling
 locations:
-  - places.ansir
-  - places.dragon-islands
+  - place.ansir
+  - place.dragon-islands
 source_evidence:
   - imports/onenote/extracted/dra-nezavislost-one-on-26-04-2026.md
 player_doc: true
 ---
 
 # Trojkoalice svobodných republik korzárských
+
 ## Triple Coalition of Free Corsair Republics
 
 > Part of: [[Eloran]]
@@ -27,7 +28,7 @@ The Republic uses a military-civic structure with commanders (Hemmond, then Kapl
 
 ## Key Figures
 
-- **Aemon Whitecloak (WhiteOak)** — the leading political voice. Wants a strong, respected free democratic republic, fast. Concerned with legitimacy in the eyes of surrounding nations, the PCs, and the common population.
+- **Aemon Bělodub** — the leading political voice. Wants a strong, respected free democratic republic, fast. Concerned with legitimacy in the eyes of surrounding nations, the PCs, and the common population.
 - **Harry** — council member; possessed/corrupted; Act I antagonist
 - **Hemmond** — commander; killed during Act I
 - **Kaplan** — captain; takes command after Hemmond

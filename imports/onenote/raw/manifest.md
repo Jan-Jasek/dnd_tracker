@@ -24,13 +24,13 @@ Raw OneNote backups are kept in the local OneNote backup directory for now inste
 
 ## Extraction status (DnD_Eloran_Campaigns)
 
-| Section | Extracted | Images |
-|---------|-----------|--------|
-| Dračí nezavislost (2026-04-26) | `dra-nezavislost-one-on-26-04-2026.md` | 21 |
-| Dračí nezavislost (2023-03-01) | `dra-nezavislost-one-on-01-03-2023.md` | 11 |
-| Lore | `lore-one-on-01-03-2023.md` | 0 |
-| Meredie | `meredie-one-on-01-03-2023.md` | 0 |
-| Orestor | `orestor-one-on-01-03-2023.md` | 0 |
-| Quick Notes | `quick-notes-one-on-01-03-2023.md` | 0 |
+| Section                        | Extracted                              | Images |
+| ------------------------------ | -------------------------------------- | ------ |
+| Dračí nezavislost (2026-04-26) | `dra-nezavislost-one-on-26-04-2026.md` | 21     |
+| Dračí nezavislost (2023-03-01) | `dra-nezavislost-one-on-01-03-2023.md` | 11     |
+| Lore                           | `lore-one-on-01-03-2023.md`            | 0      |
+| Meredie                        | `meredie-one-on-01-03-2023.md`         | 0      |
+| Orestor                        | `orestor-one-on-01-03-2023.md`         | 0      |
+| Quick Notes                    | `quick-notes-one-on-01-03-2023.md`     | 0      |
 
 Images are in `imports/onenote/images/`.

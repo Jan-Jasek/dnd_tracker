@@ -1,22 +1,22 @@
 ---
-id: character.snowwhite-carleon
-type: character
+id: person.carleon-snowwhite
+type: person
 status: canon
 plane: eloran
 universe: veiling
 locations:
-  - places.ansir
-  - places.dragon-islands
+  - place.ansir
+  - place.dragon-islands
 source_evidence:
   - imports/onenote/extracted/dra-nezavislost-one-on-26-04-2026.md
   - imports/onenote/extracted/orestor-one-on-01-03-2023.md
 ---
 
-# Sněhobílý Carleon — Snowwhite
+# Carleon Sněhobílý — Carleon Snowhite
 
 > Part of: [[Eloran]] | [[Places/Ansir]] | [[Campaigns/Dragon Independence]]
 
-Full name: Sněhobílý Carleon. Carleon is an Empire location (his origin city or family name).
+Full name: Carleon Sněhobílý. Carleon is an Empire location (his origin city or family name).
 
 ## Role
 
@@ -30,7 +30,7 @@ Central figure in Act II/III of Dragon Independence. Receives a fragment contain
 
 ## Connection to Orestor
 
-Mentioned in the Orestor notes as "Sněhobílý Carleon" alongside the thieves' guild faction names — suggesting he has a prior history in Orestor, possibly as a guild-adjacent figure or young criminal.
+Mentioned in the Orestor notes as "Carleon Sněhobílý" alongside the thieves' guild faction names — suggesting he has a prior history in Orestor, possibly as a guild-adjacent figure or young criminal.
 
 ## Open Questions
 
