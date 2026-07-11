@@ -78,8 +78,8 @@ Continental faith centers on **Orion** as Saint and Martyr — worshippers are *
 
 Two institutions, one history — see [[Organisations/Church of Orion]]:
 
-- **[[Organisations/Apostolic Church of Orion|Apostolic Church of Orion]]** (_Apoštolská Orionova církev_) — founded at the betrayal; secretly mage-governed for most of the Age of Salvation
-- **[[Organisations/Order of the Just|Order of the Just]]** (_Řád Spravedlivých_) — templar coup ~150 YBP; rules the last century as the **Age of Purity** (_Věk čistoty_). Opposed the mage church, not Orionist devotion.
+- **[[Organisations/Apostolic Church of Orion|Apostolic Church of Orion]]** (_Apoštolská církev Orionova_) — founded at the betrayal; secretly mage-governed for most of the Age of Salvation
+- **[[Organisations/Order of the Just|Order of the Just]]** (_Řád Spravedlivých_) — templar coup ~150 YBP; rules the last century as the **Just Age** (_Věk spravedlnosti_). Opposed the mage church, not Orionist devotion.
 
 The Order teaches that the Veil is corrupting; suppression of Veil-wielders is sacred duty. Necromancy and demon-summoning are killed on sight. Tools: **Severite** / **Mlčoun** — gauntlet on white field; Hammer of Orion adds crossed warhammer.
 

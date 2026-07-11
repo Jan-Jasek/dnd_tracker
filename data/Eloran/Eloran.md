@@ -59,7 +59,7 @@ The material plane of the [[Veiling]]. Largely sealed from the Veil since Orion'
 
 - [[Organisations/Church of Orion]] — faith index (Orionists, two eras)
 - [[Organisations/Apostolic Church of Orion]] — founding mage-governed church
-- [[Organisations/Order of the Just]] — templar regime; Age of Purity
+- [[Organisations/Order of the Just]] — templar regime; Just Age
 - [[Organisations/Order of Maegi]] — mage order; founded by Orion; descendants now hunted
 - [[Organisations/Mlcenlivy]] — the Silents; Orestor's thieves' guild
 

@@ -12,10 +12,10 @@ plane: eloran
 
 "Church of Orion" is an **umbrella term** in play and in old notes. Canon splits it into two successive powers:
 
-| Institution                                 | Czech                      | Era                                    | Role                                                            |
-| ------------------------------------------- | -------------------------- | -------------------------------------- | --------------------------------------------------------------- |
-| [[Organisations/Apostolic Church of Orion]] | Apoštolská Orionova církev | ~2,000 → ~150 YBP (within _Věk spásy_) | Founding faith; Orion as martyr/god; secretly mage-governed     |
-| [[Organisations/Order of the Just]]         | Řád Spravedlivých          | ~150 YBP → ~3 YBP (_Věk čistoty_)      | Templar coup; anti-Maegi dictatorship; Orionist worship allowed |
+| Institution                                 | Czech                      | Era                                     | Role                                                            |
+| ------------------------------------------- | -------------------------- | --------------------------------------- | --------------------------------------------------------------- |
+| [[Organisations/Apostolic Church of Orion]] | Apoštolská církev Orionova | ~2,000 → ~150 YBP (within _Věk spásy_)  | Founding faith; Orion as martyr/god; secretly mage-governed     |
+| [[Organisations/Order of the Just]]         | Řád Spravedlivých          | ~150 YBP → ~3 YBP (_Věk spravedlnosti_) | Templar coup; anti-Maegi dictatorship; Orionist worship allowed |
 
 ## Worshippers
 
@@ -24,6 +24,6 @@ plane: eloran
 ## World Ages (faith perspective)
 
 - **Age of Salvation** (_Věk spásy_) — since Orion's sacrifice (~2,000 YBP → present in doctrine; effectively ended institutionally ~3 YBP)
-- **Age of Purity** (_Věk čistoty_) — last ~150 years under the Just Ones, nested inside Salvation
+- **Just Age** (_Věk spravedlnosti_) — last ~150 years under the Just Ones, nested inside Salvation
 
 See [[History/Timeline]] for full chronology.

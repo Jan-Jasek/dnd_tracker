@@ -9,7 +9,7 @@ source_evidence:
   - data/Eloran/People/Orion.md
 ---
 
-# Apostolic Church of Orion (Apoštolská Orionova církev)
+# Apostolic Church of Orion (Apoštolská církev Orionova)
 
 > Part of: [[Eloran]] | See also: [[People/Orion]], [[Organisations/Order of Maegi]], [[Organisations/Order of the Just]], [[Organisations/Church of Orion]]
 

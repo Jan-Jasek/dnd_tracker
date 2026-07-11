@@ -57,9 +57,9 @@ See [[People/Orion]] for the full account.
 
 Orion's sealing was incomplete. The Veil on Eloran has been slowly draining since — consumed with no way to replenish through the blocked Paths. Over thousands of years, this caused species to wither, civilizations to fade, and the Art to weaken. Orion likely had a different solution in mind — the 10th seal — but never completed it.
 
-## The Age of Purity and the Ellesmere Culling
+## The Just Age and the Ellesmere Culling
 
-Over centuries the [[Organisations/Apostolic Church of Orion|Apostolic Church]] grew autonomous — mage-governed behind the Orionist myth. ~150 years before campaign start the [[Organisations/Order of the Just|Order of the Just]] (_Řád Spravedlivých_) overthrew that hierarchy (the **Age of Purity**, _Věk čistoty_). They hunted Maegi lineages, not Orionist worship. ~100–150 years before campaign start the Order took political control of Ellesmere and culled Maegi practitioners there.
+Over centuries the [[Organisations/Apostolic Church of Orion|Apostolic Church]] grew autonomous — mage-governed behind the Orionist myth. ~150 years before campaign start the [[Organisations/Order of the Just|Order of the Just]] (_Řád Spravedlivých_) overthrew that hierarchy (the **Just Age**, _Věk spravedlnosti_). They hunted Maegi lineages, not Orionist worship. ~100–150 years before campaign start the Order took political control of Ellesmere and culled Maegi practitioners there.
 
 ## Jeod Isthar and the Ellesmere Explosion
 

@@ -72,7 +72,7 @@ After Orion's death, the Maegi did not just construct a cover-up. They **launche
 
 The nine disciples survived. They returned to a world that had begun to wither and faced two problems: explain what happened, and eliminate anyone who could contradict their story. Their answer was the **[[Organisations/Apostolic Church of Orion|Apostolic Church of Orion]]** — Orionists worshipping the saint-and-martyr myth while mages governed in secret — and a generational crusade against rival Veil-wielders.
 
-The church grew beyond its founders. Ilrusk co-founded the **[[Organisations/Order of the Just|Order of the Just]]** and gave them **Severite** / **Mlčoun**. ~150 YBP the Order overthrew mage control of the hierarchy — the **Age of Purity** — without suppressing Orionist faith. They turned on Maegi lineages, not parish devotion.
+The church grew beyond its founders. Ilrusk co-founded the **[[Organisations/Order of the Just|Order of the Just]]** and gave them **Severite** / **Mlčoun**. ~150 YBP the Order overthrew mage control of the hierarchy — the **Just Age** (_Věk spravedlnosti_) — without suppressing Orionist faith. They turned on Maegi lineages, not parish devotion.
 
 By the time of the coup, eight of the nine disciples were dead. Maegi do not die of natural causes — they were **killed**. By whom is open: rival powers during the post-Orion crusade, factional conflict among the disciples themselves, the Templars during the takeover, or events that left no clear culprit. Their secret died with them.
 
