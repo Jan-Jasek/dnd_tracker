@@ -34,4 +34,4 @@ Post–Third Meredian War. Imperial garrison decimated at Orestor; local captain
 ## Playable Hooks
 
 - Skrček's night raid using **Ilis** (gnome sorcerer) to burn the inn
-- Handoff: **Aemon Bělodub (Kate)** arrives with imperial advance guard and recruits players toward Dragon Independence
+- Handoff: **Captain Aemon Whiteoak (Aemon Bělodub)** arrives with imperial advance; **Kate** recruits players toward [[Campaigns/Dragon Independence]]

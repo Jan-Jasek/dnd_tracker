@@ -36,7 +36,8 @@ The material plane of the [[Veiling]]. Largely sealed from the Veil since Orion'
 ## Places
 
 - [[Places/Regions]] — all named regions across Eloran and the Archipelago
-- [[Places/Dragon Islands]] — archipelago hub; Triple Coalition territory
+- [[Places/Dračí ostrovy]] — souostroví; území Trojkoalice
+- [[Places/Temnoles]] — les Tauberů (stub)
 - [[Places/Ansir]] — Free Republic capital (with map)
 - [[Places/Saltmarsh]] — port town; Von Telten hostage plot (with map)
 - [[Places/Mokrá Lhota]] — weapon-smuggling waypoint
@@ -51,6 +52,7 @@ The material plane of the [[Veiling]]. Largely sealed from the Veil since Orion'
 - [[People/Jeod Isthar]] — Maegi descendant; destroyed the Ellesmere seal; present-day catalyst
 - [[People/Eirys]] — Silents guild leader; Orestor council treasurer
 - [[People/Carleon Snowhite]] — key Act II/III figure; shadow-lord fragment
+- [[People/Aemon Whiteoak]] — imperial captain; Hlubina prologue only
 
 ## Organisations
 

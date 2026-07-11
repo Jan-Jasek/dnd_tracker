@@ -8,7 +8,7 @@ locations:
   - place.hlubina
   - place.ellesmere-region
 related:
-  - character.aemon-whitecloak
+  - character.aemon-whiteoak
 source_evidence:
   - imports/onenote/extracted/meredie-one-on-01-03-2023.md
 ---
@@ -17,7 +17,7 @@ source_evidence:
 
 > Part of: [[Eloran]] | [[Veiling]] | Precedes: [[Campaigns/Dragon Independence]]
 
-The campaign that precedes Dragon Independence. Players arrive as mercenaries protecting a refugee caravan and end up working for a local crime boss. Ends with Aemon Bělodub (Kate) recruiting them into imperial service.
+The campaign that precedes Dragon Independence. Players arrive as mercenaries protecting a refugee caravan and end up working for a local crime boss. Ends with imperial advance under **Captain Aemon Whiteoak (Aemon Bělodub)**; **Kate** (Jeod Isthar's apprentice) recruits them into imperial service.
 
 ## Setting
 
@@ -89,4 +89,4 @@ Cave encounter: 1× Ghoul (resistances) + 3× zombie. When the ghoul is killed i
 
 ## Resolution
 
-Skrček stages a night raid on the Liberators' position (using Ilis to set fire to the inn/tavern). A large battle breaks out. Regardless of outcome, the next morning **Aemon Bělodub (Kate)** arrives with an imperial advance guard and recruits the players into the service of the Republic. This is the handoff to Dragon Independence.
+Skrček stages a night raid on the Liberators' position (using Ilis to set fire to the inn/tavern). A large battle breaks out. Regardless of outcome, the next morning an imperial advance guard arrives under **Captain Aemon Whiteoak (Aemon Bělodub)**. **Kate** recruits the players into imperial service — handoff toward [[Campaigns/Dragon Independence]].

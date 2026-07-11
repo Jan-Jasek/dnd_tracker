@@ -19,7 +19,7 @@ The main colonial city of the Dragon Archipelago and the seat of the Free Corsai
 
 ## Political Status
 
-Capital of the Triple Coalition of Free Corsair Republics. Broke away from Empire/Triskal control during the Third Meredian War. Aemon Bělodub is the key political figure pushing for a legitimate democratic republic.
+Capital of the Triple Coalition of Free Corsair Republics. Broke away from Empire/Triskal control during the Third Meredian War. [[People/Carleon Snowhite|Carleon Sněhobílý]] is the key political figure visible in Ansir — preaching against war and great powers before taking a harder line in Act II.
 
 External threats:
 

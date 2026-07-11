@@ -90,7 +90,7 @@ Meredie, a former Empire holding, declared independence and took the name the Me
 
 ## Campaign Prologue — Hlubina (~1 year before campaign)
 
-Players arrive in Hlubina, a marshland village near Ellesmere (destroyed), as mercenaries with a refugee caravan. They end up working for Skrček (local crime boss) and eventually get recruited into imperial service by **Aemon Bělodub (Kate)**. See [[Campaigns/Hlubina]].
+Players arrive in Hlubina, a marshland village near Ellesmere (destroyed), as mercenaries with a refugee caravan. They end up working for Skrček (local crime boss) and eventually get recruited into imperial service by **Kate**, with **Captain Aemon Whiteoak (Aemon Bělodub)** commanding the imperial advance. See [[Campaigns/Hlubina]], [[People/Aemon Whiteoak]].
 
 ---
 

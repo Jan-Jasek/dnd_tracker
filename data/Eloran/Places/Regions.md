@@ -52,19 +52,15 @@ Dwarf mountain kingdom. Extremely caste-locked. Exiled dwarves and their descend
 
 ## Dragon Archipelago
 
-See [[Dragon Islands]] for the archipelago hub. The Corsair Republic controls trade lanes on the **Azure Sea** (Azurové moře).
+See [[Dračí ostrovy]] for the archipelago hub. The Corsair Republic controls trade lanes on the **Azure Sea** (Azurové moře).
 
 - [[Ansir]] — coalition capital
 - [[Saltmarsh]] — port town; Xendra, Von Telten hostage plot
 - [[Mokrá Lhota]] — weapon-smuggling waypoint toward the front
 
-### Dřevolhota
+### Temnoles
 
-Village where early Act I events occurred. Prcek and Třesavec arrived here with Arryn's men.
-
-### Darkwood
-
-Forest/region where Tauber tribes retreat. Dark powers described as returning from here. Connected to Aditya and the cursed dark-eyed bloodlines.
+Forest where Tauber tribes retreat. Dark powers described as returning from here. Connected to Aditya and the cursed dark-eyed bloodlines. See [[Temnoles]].
 
 ### Dirden's Farm (Dirdenův statek)
 

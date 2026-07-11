@@ -12,7 +12,7 @@ source_evidence:
 
 # Saltmarsh (Saltmarsh)
 
-> Part of: [[Eloran]] | [[Places/Dragon Islands]] | [[Campaigns/Dragon Independence]]
+> Part of: [[Eloran]] | [[Places/Dračí ostrovy]] | [[Campaigns/Dragon Independence]]
 
 Port town on the Dragon Archipelago — also called Saltwater in some sources. One of the first harbors to declare independence and join the Free Republic coalition.
 

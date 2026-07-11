@@ -49,7 +49,7 @@ He had nine inner disciples, each gifted with one of the ten powers; he kept the
 
 When Orion attempted the larger ritual to seal Eloran from the Paths permanently, his disciples betrayed him. Orion sacrificed his own Veil to force a partial completion of the 10th seal alone. The result was an imperfect sealing — enough to cut Eloran off from the Paths, not enough to do whatever Orion's full plan required. The Veil began draining slowly with no way to replenish.
 
-The disciples survived, founded the [[Organisations/Church of Orion|Church of Orion]] as a cover-up, and **launched a crusade against the rival powers of the era** — earlier Veil lineages, druids, and other figures of power who had been near Orion. The _Krvavá válka druidů_ in legend, and the crypt of an old Maegi enemy reportedly held in Darkwood, are echoes of this crusade. Over centuries all but Ilrusk died. The fragments scattered by Jeod Isthar's destruction of the Ellesmere seal carry **Erathon's essence laced with traces of Orion's sacrificed Veil** — not the disciples.
+The disciples survived, founded the [[Organisations/Church of Orion|Church of Orion]] as a cover-up, and **launched a crusade against the rival powers of the era** — earlier Veil lineages, druids, and other figures of power who had been near Orion. The _Krvavá válka druidů_ in legend, and the crypt of an old Maegi enemy reportedly held in Temnoles, are echoes of this crusade. Over centuries all but Ilrusk died. The fragments scattered by Jeod Isthar's destruction of the Ellesmere seal carry **Erathon's essence laced with traces of Orion's sacrificed Veil** — not the disciples.
 
 See [[People/Orion]] for the full account.
 

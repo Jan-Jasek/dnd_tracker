@@ -12,6 +12,12 @@ universe: veiling
 
 These are unresolved decisions that need DM input before the relevant content becomes hard canon.
 
+## People — identity
+
+- **Kate** — Jeod Isthar's shadow-magic apprentice; recruits the party at Hlubina handoff. Needs a `People/` file?
+- **Aemon Whiteoak (Aemon Bělodub)** — imperial captain at Hlubina only; Czech name is translation, not a separate Dragon Islands politician.
+- **Finnegan / Finnigan** — dryad antagonist in Dřevolhota concept; same as Finnigan from Whiteoak's logging quests near Hlubina?
+
 ## Campaign Structure
 
 - Is the Hlubina prologue played as Session 0 railroaded experience, or fully defined as backstory?
@@ -37,7 +43,7 @@ These are unresolved decisions that need DM input before the relevant content be
 - What is Erathon's goal in reopening the Fey gate, and what does he gain from it?
 - How much agency does Erathon have while fragmented — is he directing the corruption, or spreading passively?
 - Does Snowhite's fragment make him a vessel/conduit for Erathon, or is he merely corrupted?
-- What exactly is Darkwood — a region, a curse, an entity?
+- What exactly is Temnoles — a region, a curse, an entity?
 - What is the nature of the Fey gate?
 - What does Snowhite's shadow-lord fragment actually grant/cost him?
 
@@ -67,7 +73,7 @@ These are unresolved decisions that need DM input before the relevant content be
 ## Other Parties of Power (Pre-Orion / Contemporary)
 
 - **The Druids** — the _Krvavá válka druidů_ (Bloody War of the Druids) is in legend. May be a ripple effect of the Maegi crusade against rival powers after Orion's death.
-- **Darkwood** (Dragon Islands) — hold a crypt of an old Maegi enemy. Identity, location specifics, and current threat status open.
+- **[[Places/Temnoles|Temnoles]]** (Dračí ostrovy) — hold a crypt of an old Maegi enemy. Identity, location specifics, and current threat status open.
 - **Earlier Veil lineages** — blood mages and others created by Orion's earlier framings. How many remain today, and where?
 
 ## Church of Orion
@@ -112,7 +118,7 @@ These are unresolved decisions that need DM input before the relevant content be
 - Who replaces Hilua as Vilmar's agent?
 - What are the Vilmaran necromancers (mentioned in Gibeška desert rumors) actually doing?
 
-## Dragon Islands — Indigenous
+## Dračí ostrovy — Indigenous
 
 - What is the "son of the spiritual leader" who took the sacred relics and what power does he have?
 - What are the specific sacred relics the indigenous people want recovered?

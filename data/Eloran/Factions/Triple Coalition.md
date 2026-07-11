@@ -28,7 +28,7 @@ The Republic uses a military-civic structure with commanders (Hemmond, then Kapl
 
 ## Key Figures
 
-- **Aemon Bělodub** — the leading political voice. Wants a strong, respected free democratic republic, fast. Concerned with legitimacy in the eyes of surrounding nations, the PCs, and the common population.
+- **[[People/Carleon Snowhite|Carleon Sněhobílý]]** — dominant political and military voice after the coalition forms; wants the republic free of Triskal and the Empire. Concerned with legitimacy, but increasingly paranoid as Act II progresses.
 - **Harry** — council member; possessed/corrupted; Act I antagonist
 - **Hemmond** — commander; killed during Act I
 - **Kaplan** — captain; takes command after Hemmond

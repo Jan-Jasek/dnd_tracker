@@ -54,7 +54,7 @@ Key island hub: **[[Places/Ansir]]**.
 
 ### Indigenous Peoples
 
-- **Tauber tribes** — half wood-elf, half Vistani in feel. Light-eyed (higher social status) and dark-eyed variants. Speak their own Draconic dialect, minimal Common. Avoid colonizers; retreat toward [[Darkwood]].
+- **Tauber tribes** — half wood-elf, half Vistani in feel. Light-eyed (higher social status) and dark-eyed variants. Speak their own Draconic dialect, minimal Common. Avoid colonizers; retreat toward [[Places/Temnoles|Temnoles]].
 - **Dragonborn** — inhabit inhospitable uncolonized coastline; frequent targets of southern slavers.
 - **Sanguine / Lizardfolk** — "Fishers"; withdrawn to southern swamps and waterways.
 

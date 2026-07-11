@@ -46,7 +46,7 @@ Hilua is killed at some point before Act III. Her second Sending Stone is with X
 
 | Day                | Event                                                                                                                                                                                                                                                                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Night before Day 1 | Players in Ansir during events in Dřevolhota. Survivor of a coup dies 3 days prior.                                                                                                                                                                                                                                                                                                     |
+| Night before Day 1 | Players in Ansir during off-screen events near a logging village (concept: Dřevolhota — see `ideas/eloran/drevolhota.md`). Survivor of a coup dies 3 days prior.                                                                                                                                                                                                                        |
 | Night of Day 1     | Prcek and Třesavec arrive with Arryn's men. At The Local (Lokál), players encounter them and realize someone is moving weapons. Prcek and Třesavec + soldiers stage a party, lure guards to the brothel, kill Třesavec, break into the fortress, steal weapons (wrapped in oiled leather), lower them to the river, barge upriver, load onto a wagon, depart for Mokrá Lhota overnight. |
 | Night after Day 1  | Kuliš dies. Weapons are stolen. Drson's men depart.                                                                                                                                                                                                                                                                                                                                     |
 | Day 2 morning      | Stoupač (Commander) leaves for the front to chase a sorceress.                                                                                                                                                                                                                                                                                                                          |
@@ -125,7 +125,7 @@ First Officer Vigo or Agitus — tall, sinewy 40-year-old. Captain is an older s
 
 **Grimír Špinavec (Dirty Grimír)** — owes 7,100–17,100 gold Imperial marks to the bank Brauner & Hess (debt bought from the Grundermwald State Library, originally his grandfather's). Escalating due to interest and fees.
 
-**Aemon Bělodub** — wants to create a strong, respected free democratic republic. One of the key political figures of the Free Republic.
+Republic politics on the islands center on **[[People/Carleon Snowhite|Carleon Sněhobílý]]**, **Stoupač**, and **Hedvábný** — not Aemon Whiteoak (imperial captain from the Hlubina arc).
 
 ### Indigenous Relic Quest
 
@@ -137,7 +137,7 @@ The indigenous peoples want their desecrated lands cleansed — a son of their s
 
 **Erathon** wants to reopen the gate to the Fey world, using Snowhite as a medium, before his powers are depleted.
 
-**Darkwood** — dark powers are returning or have returned. Connected to the cursed-blood Tauber factions.
+**[[Places/Temnoles|Temnoles]]** — dark powers are returning or have returned. Connected to the cursed-blood Tauber factions.
 
 Details still fragmentary — to be developed.
 
@@ -150,5 +150,5 @@ Details still fragmentary — to be developed.
 - What was the political situation in Ansir at the coup (who staged it, who survived)?
 - Who is Arryn and what do his men want?
 - What is the Tříštivý proud (Shattering Current) cult doing in Ansir?
-- What is the nature of Darkwood?
+- What is the nature of Temnoles?
 - Does Erathon have a full identity separate from Snowhite's arc?
