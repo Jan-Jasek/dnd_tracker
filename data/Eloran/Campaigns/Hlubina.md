@@ -8,7 +8,7 @@ locations:
   - place.hlubina
   - place.ellesmere-region
 related:
-  - person.aemon-whitecloak
+  - character.aemon-whitecloak
 source_evidence:
   - imports/onenote/extracted/meredie-one-on-01-03-2023.md
 ---

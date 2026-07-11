@@ -1,6 +1,6 @@
 ---
-id: person.jeod-isthar
-type: person
+id: character.jeod-isthar
+type: character
 status: canon
 universe: veiling
 plane: eloran

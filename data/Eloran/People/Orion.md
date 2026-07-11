@@ -1,6 +1,6 @@
 ---
-id: person.orion
-type: person
+id: character.orion
+type: character
 status: canon
 universe: veiling
 plane: eloran

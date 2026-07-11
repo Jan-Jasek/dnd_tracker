@@ -1,6 +1,6 @@
 ---
-id: person.example
-type: person
+id: character.example
+type: character
 status: draft
 universe: veiling
 plane: eloran
@@ -12,7 +12,7 @@ related: []
 tags: []
 ---
 
-# Person Name
+# Character Name
 
 ## Role In Play
 

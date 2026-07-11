@@ -12,7 +12,7 @@ The repository uses Markdown for readable content and frontmatter for structured
 - `session`
 - `scene`
 - `faction`
-- `person`
+- `character`
 - `location`
 - `item`
 - `event`
@@ -41,7 +41,7 @@ Prefer lowercase dotted IDs:
 world.veiled-sun
 campaign.city-of-ash
 faction.crimson-ledger
-person.captain-varek
+character.captain-varek
 location.eastgate
 event.ledger-spy-killed
 ```
@@ -56,6 +56,6 @@ See [Captain Varek](../characters/captain-varek.md).
 
 ```yaml
 related:
-  - person.captain-varek
+  - character.captain-varek
   - faction.ivory-watch
 ```

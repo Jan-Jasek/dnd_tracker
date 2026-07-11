@@ -1,6 +1,6 @@
 ---
-id: person.eirys
-type: person
+id: character.eirys
+type: character
 status: canon
 plane: eloran
 universe: veiling

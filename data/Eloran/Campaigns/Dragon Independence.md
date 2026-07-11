@@ -10,7 +10,7 @@ locations:
   - place.mokra-lhota
 related:
   - faction.triple-coalition
-  - person.carleon-snowwhite
+  - character.carleon-snowwhite
 source_evidence:
   - imports/onenote/extracted/dra-nezavislost-one-on-26-04-2026.md
   - imports/onenote/extracted/dra-nezavislost-one-on-01-03-2023.md

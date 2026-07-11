@@ -54,7 +54,7 @@ Timeline (also exists at Universe level and per-Plane level)
 - Use Markdown with YAML frontmatter for campaign content.
 - Every canon file must have `id`, `type`, `status`, and `universe` fields.
 - Plane-specific files must also have a `plane` field. Location files add `region`. People files add `faction` or `org` where applicable.
-- Prefer stable lowercase dotted IDs: `universe.veiling`, `plane.eloran`, `faction.triple-coalition`, `place.orestor`, `person.eirys`.
+- Prefer stable lowercase dotted IDs: `universe.veiling`, `plane.eloran`, `faction.triple-coalition`, `place.orestor`, `character.eirys`.
 - Preserve contradictions as notes instead of silently overwriting them.
 - Separate public belief, hidden truth, and contested interpretation when useful.
 - Favor playable consequences over encyclopedia prose.

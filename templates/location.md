@@ -8,7 +8,7 @@ region:
 campaigns: []
 parent_location:
 factions: []
-people: []
+characters: []
 ---
 
 # Location Name

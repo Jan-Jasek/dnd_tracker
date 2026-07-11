@@ -1,6 +1,6 @@
 ---
-id: person.carleon-snowwhite
-type: person
+id: character.carleon-snowwhite
+type: character
 status: canon
 plane: eloran
 universe: veiling
