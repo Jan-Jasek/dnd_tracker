@@ -9,6 +9,7 @@ locations:
   - place.ellesmere-region
 related:
   - character.aemon-whiteoak
+  - character.kate
 source_evidence:
   - imports/onenote/extracted/meredie-one-on-01-03-2023.md
 ---

@@ -21,7 +21,7 @@ The material plane of the [[Veiling]]. Largely sealed from the Veil since Orion'
 ## Start Here
 
 - [[World]] — world bible, magic level, pantheon, race summary
-- [[History/Timeline]] — Third Meredian War, Ellesmere, campaign chronology
+- [[History/Timeline]] — world ages, Third Meredian War, Ellesmere, campaign chronology
 - [[Notes/Open Questions]] — unresolved DM decisions
 
 ## Player Reference
@@ -53,6 +53,7 @@ The material plane of the [[Veiling]]. Largely sealed from the Veil since Orion'
 - [[People/Eirys]] — Silents guild leader; Orestor council treasurer
 - [[People/Carleon Snowhite]] — key Act II/III figure; shadow-lord fragment
 - [[People/Aemon Whiteoak]] — imperial captain; Hlubina prologue only
+- [[People/Kate]] — Jeod's apprentice; recruits the party at Hlubina
 
 ## Organisations
 

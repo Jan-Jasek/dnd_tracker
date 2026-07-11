@@ -69,7 +69,7 @@ He was right that the world was dying. He chose to act with full knowledge of th
 
 The destruction of the Ellesmere seal shattered the crystal. The soul fragments — Erathon's essence laced with Orion's Veil residue — scattered across the continent. This is the present-day catalyst for the campaigns. Jeod survived.
 
-See [[History/Timeline]] for the sequence of events.
+See [[History/Timeline]] for the named world ages and campaign-era sequence.
 
 ## Current State
 

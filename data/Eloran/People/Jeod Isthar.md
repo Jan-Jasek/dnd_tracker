@@ -14,7 +14,7 @@ location: place.ellesmere
 
 A Maegi, **up to ~500 years old** — possibly less. Old enough to have witnessed the Templars' rise to power and the Ellesmere culling first-hand, but **not** a founding-era Maegi. He never met Orion or the original disciples; what he knows of that era comes through Maegi lineage transmission, not personal memory.
 
-Responsible for breaking the Ellesmere seal — the act that shattered Erathon's crystal and set the present campaigns in motion.
+Responsible for breaking the Ellesmere seal — the act that shattered Erathon's crystal and set the present campaigns in motion. His apprentice **[[People/Kate|Kate]]** acts as his agent in the field.
 
 ---
 

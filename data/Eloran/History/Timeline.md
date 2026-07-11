@@ -12,17 +12,56 @@ source_evidence:
 
 # Timeline
 
-> Part of: [[Eloran]] | See also: [[Cosmology]] for pre-campaign cosmological history
+> Part of: [[Eloran]] | See also: [[Cosmology]] for universe-scale history
 
-_This is the Eloran plane timeline — wars, civilizations, campaign events. For universe-level cosmological history see [[Cosmology]]._
+This file is the **Eloran plane chronology** — ages, wars, and campaign events. Universe history (the Accord, the Sundering, pre-Sundering beings) lives in [[Cosmology]] and [[Veiling]].
 
-Events are relative. "Campaign start" = players arrive in Ansir as corsairs of the Free Republic.
+**Campaign start** = players arrive in Ansir as corsairs of the Free Republic.
+
+_Dates are rough anchors. Calibrate within these ranges._
 
 ---
 
-_Note on dates: rough anchors only — exact figures TBD. Calibrate within these ranges._
+## World Ages — Overview
 
-## ~5,000 Years Before Campaign — The Age of Darkness and Orion's Rise
+Two scales nest inside each other:
+
+| Scale            | File                       | What it tracks                             |
+| ---------------- | -------------------------- | ------------------------------------------ |
+| **Universe**     | [[Cosmology]], [[Veiling]] | The Veil, the Paths, all planes            |
+| **Eloran plane** | This file                  | Wars, nations, magic on the material world |
+
+### Universe Ages
+
+| Age                | Character                                                                        |
+| ------------------ | -------------------------------------------------------------------------------- |
+| **The Accord**     | Veil unified; Paths open; pre-Sundering beings connected, not yet hungry         |
+| **The Sundering**  | Cataclysm; Veil shatters; Paths break; Eloran and the Fey plane severed together |
+| _(post-Sundering)_ | Isolated pockets; beings grow hungry in their traps — see [[Cosmology]]          |
+
+### Eloran Ages
+
+| Age                                                  | Approx. span                   | Character                                                                                                             |
+| ---------------------------------------------------- | ------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
+| **Age of Darkness** (_Věk temnoty_)                  | Sundering → ~5,000 YBP         | Erathon feeds on Eloran; tainted Veil corrupts wielders; civilizations rise and collapse in cycles                    |
+| **Age of Orion** (_Orionův věk_)                     | ~5,000 → ~2,000 YBP            | Orion perfects the Art; binds Erathon; founds Orestor; disciples survive                                              |
+| **Age of the False Saint** (_Věk falešného svatého_) | ~2,000 YBP → ~3 YBP            | Imperfect seal drains the Veil; Church cover-up; crusade against rival lineages; Maegi lineages hunted over centuries |
+| ↳ **Templar Era** (within above)                     | Last ~500 years, peak ~150 YBP | Templars co-founded by Ilrusk; Church leadership turns on Maegi; Ellesmere culling                                    |
+| **Age of Fragments** (_Věk úlomků_)                  | ~3 YBP → present               | Jeod breaks the seal; Veil surges back; Erathon shards scatter; old powers and creatures awaken                       |
+
+### Present Era Beats (within Age of Fragments)
+
+| When   | Event                                                                                             |
+| ------ | ------------------------------------------------------------------------------------------------- |
+| ~3 YBP | Ellesmere destroyed; Third Meredian War effectively ends; Triple Coalition seizes the archipelago |
+| ~1 YBP | Hlubina prologue                                                                                  |
+| 0      | Dragon Independence — Ansir, Act I                                                                |
+
+---
+
+## Detailed History
+
+### ~5,000 Years Before Campaign — Age of Darkness → Orion's Rise
 
 The Veil on Eloran is tainted following the Sundering. Pre-Sundering beings (Erathon chief among them) feed on it. Veil users become corrupted and hungry for power. Civilizations are built and destroyed in cycles of war.
 
@@ -30,7 +69,7 @@ The Veil on Eloran is tainted following the Sundering. Pre-Sundering beings (Era
 
 **The Binding of Erathon.** Orion and his nine inner disciples perform the nine seals ritual. Erathon is bound into the crystal. The disciples survive.
 
-## ~2,000 Years Before Campaign — The Sealing Ritual and Orion's Death
+### ~2,000 Years Before Campaign — Sealing Ritual; Start of the False Saint Age
 
 Orion attempts the larger ritual: nine seals plus the 10th, to permanently seal Eloran from the Paths. Other parties of power are present alongside the disciples. The disciples betray him. Orion sacrifices his own Veil to force partial completion of the 10th seal. He vanishes into the depths beneath Ellesmere.
 
@@ -38,32 +77,36 @@ The disciples found the Church of Orion as cover-up. They launch a crusade again
 
 The Order of Maegi continues to grow through later generations of blood-ritual creation. Members visible in present-day records include Theodor Eon (evocation, diamond ring), Roderik Loon (abjuration, citrine ring), Sibyla Fayen, Garcilaso von Vega, Josias Simmler.
 
-## The Long Depletion (~2,000 years)
+### The Long Depletion (~2,000 years)
 
 With Eloran's Paths sealed and the Veil unable to replenish, magic slowly fades. Species wither. Civilizations that once practiced the Art lose access to it. The process takes thousands of years.
 
 The Church of Orion grows autonomous. The Templars (co-founded by Ilrusk, equipped with **Severite / Mlčoun**) eventually overtake the Church's leadership and turn anti-Veil enforcement on the Maegi lineages themselves.
 
-## ~100–150 Years Before Campaign — The Ellesmere Culling
+### ~100–150 Years Before Campaign — Ellesmere Culling (late Templar Era)
 
 The Templars take political control of Ellesmere and conduct a culling of Maegi practitioners in the city. Many Maegi are killed. Jeod Isthar — at this point already a Maegi, perhaps a few centuries old — witnesses this. The grievance is personal, not generational.
 
-## ~3 Years Before Campaign — The Ellesmere Explosion
+### ~3 Years Before Campaign — Ellesmere Explosion (Age of Fragments begins)
 
 [[People/Jeod Isthar|Jeod Isthar]] — a Maegi up to ~500 years old, who witnessed the Templar rise and the Ellesmere culling — destroys the seal at Ellesmere. His **primary purpose** was to break the seal and restore the flow of the Veil. The catastrophic blast was **collateral**: he knew it would happen, took no precautions to spare Ellesmere, and accepted that the Templars and the civilian population alike would die.
 
-The crystal shatters. Soul fragments — carrying Erathon's essence and Orion's sacrificed Veil residue — scatter across the continent. Ellesmere is leveled. Jeod survives. The Third Meredian War's aftermath leaves the region in chaos, and the fragments begin finding hosts.
+The crystal shatters. Soul fragments — carrying Erathon's essence and Orion's sacrificed Veil residue — scatter across the continent. Ellesmere is leveled. Jeod survives.
+
+**Veil resurgence:** Magic strengthens worldwide. Forgotten creatures awaken — orcs, dryads, gith bands, and others press borders that had been quiet for centuries. The Templars of the Just reform under Branon Vznešený; magic becomes registered and tolerated under supervision in some states, hunted in others.
+
+The Third Meredian War's aftermath leaves the region in chaos; fragments begin finding hosts.
 
 ---
 
-## Recent History (~10–30 years before campaign)
+### Recent History (~10–30 years before campaign)
 
 **Dragonborn emancipation in northern Eloran.**
 ~20 years ago, the northern states (likely Meredie's sphere) abolished Dragonborn slavery. This caused population growth, the formation of isolated Dragonborn settlements, and retaliatory slave raids from southern powers. The slave trade with the southern Empire continues.
 
 ---
 
-## The Third Meredian War (~3 years before campaign)
+### The Third Meredian War (~3 years before campaign)
 
 Meredie, a former Empire holding, declared independence and took the name the Meredian Kingdom. The sequence:
 
@@ -88,12 +131,12 @@ Meredie, a former Empire holding, declared independence and took the name the Me
 
 ---
 
-## Campaign Prologue — Hlubina (~1 year before campaign)
+### Campaign Prologue — Hlubina (~1 year before campaign)
 
-Players arrive in Hlubina, a marshland village near Ellesmere (destroyed), as mercenaries with a refugee caravan. They end up working for Skrček (local crime boss) and eventually get recruited into imperial service by **Kate**, with **Captain Aemon Whiteoak (Aemon Bělodub)** commanding the imperial advance. See [[Campaigns/Hlubina]], [[People/Aemon Whiteoak]].
+Players arrive in Hlubina, a marshland village near Ellesmere (destroyed), as mercenaries with a refugee caravan. They end up working for Skrček (local crime boss). Imperial advance under **Captain Aemon Whiteoak**; **[[People/Kate|Kate]]** (Jeod's apprentice) recruits them into imperial service. See [[Campaigns/Hlubina]], [[People/Aemon Whiteoak]], [[People/Kate]].
 
 ---
 
-## Campaign Start — Ansir
+### Campaign Start — Ansir
 
 Players are corsairs of the Free Republic in Ansir. Act I begins with weapon smuggling, the death of Commander Hemmond, and the Harry Mansion encounter. See [[Campaigns/Dragon Independence]].

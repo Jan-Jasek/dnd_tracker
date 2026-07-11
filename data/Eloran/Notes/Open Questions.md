@@ -14,7 +14,7 @@ These are unresolved decisions that need DM input before the relevant content be
 
 ## People — identity
 
-- **Kate** — Jeod Isthar's shadow-magic apprentice; recruits the party at Hlubina handoff. Needs a `People/` file?
+- **Kate** — full name, origin, and how much she knows about Jeod's Ellesmere plan? See [[People/Kate]].
 - **Aemon Whiteoak (Aemon Bělodub)** — imperial captain at Hlubina only; Czech name is translation, not a separate Dragon Islands politician.
 - **Finnegan / Finnigan** — dryad antagonist in Dřevolhota concept; same as Finnigan from Whiteoak's logging quests near Hlubina?
 
