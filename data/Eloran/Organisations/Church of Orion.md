@@ -14,6 +14,8 @@ The dominant religion of the Eloran continent. Worships Orion as Saint and Marty
 
 The Church is a lie built by guilty people, that grew beyond them, and is now hunting their descendants.
 
+The faithful call the centuries since Orion's sacrifice the **Age of Salvation** (_Věk spásy_) — the long peace won by the Saint's seal, however dark the world grows.
+
 ---
 
 ## Public Doctrine
