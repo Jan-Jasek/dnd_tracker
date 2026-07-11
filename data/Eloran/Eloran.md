@@ -35,9 +35,15 @@ The material plane of the [[Veiling]]. Largely sealed from the Veil since Orion'
 
 ## Places
 
-- [[Places/Ansir]] — Free Republic capital, Dragon Islands (with map)
-- [[Places/Orestor]] — Meredie successor city; Erathon fragment plot; guild politics
 - [[Places/Regions]] — all named regions across Eloran and the Archipelago
+- [[Places/Dragon Islands]] — archipelago hub; Triple Coalition territory
+- [[Places/Ansir]] — Free Republic capital (with map)
+- [[Places/Saltmarsh]] — port town; Von Telten hostage plot (with map)
+- [[Places/Mokrá Lhota]] — weapon-smuggling waypoint
+- [[Places/Orestor]] — Meredie successor city; Erathon fragment plot; guild politics
+- [[Places/Ellesmere Region]] — Meredian lowlands around ruined Ellesmere
+- [[Places/Ellesmere]] — destroyed City of Mages
+- [[Places/Hlubina]] — marsh prologue village
 
 ## People
 

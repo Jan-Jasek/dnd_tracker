@@ -1,9 +1,15 @@
 {
   "$schema": "https://github.com/dyoshikawa/rulesync/releases/latest/download/config-schema.json",
+  // Source of truth: .rulesync/ → generated agent configs below.
+  // agentsmd: AGENTS.md (open standard)
+  // claudecode: Claude Code (CLAUDE.md, .claude/)
+  // codexcli: OpenAI Codex CLI (.codex/)
+  // cursor: Cursor / Grok (.cursor/)
   "targets": {
-    "claudecode": ["rules", "skills"],
-    "codexcli": ["skills"],
     "agentsmd": ["rules"],
+    "claudecode": ["rules", "skills"],
+    "codexcli": ["rules", "skills"],
+    "cursor": ["rules", "skills"],
   },
   "baseDirs": ["."],
   "delete": true,

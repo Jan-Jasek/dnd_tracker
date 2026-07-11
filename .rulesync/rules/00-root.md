@@ -13,7 +13,11 @@ This repository is a source-of-truth workspace for a custom DND world, campaign 
 ## Source Of Truth
 
 - `.rulesync/` is the source of truth for agent-facing rules and skills.
-- `AGENTS.md`, `CLAUDE.md`, `.codex/`, and `.claude/` are generated from `.rulesync/`.
+- Generated from `.rulesync/` via `make ai_generate`:
+  - `AGENTS.md` — open Agents.md standard
+  - `CLAUDE.md`, `.claude/` — Claude Code
+  - `.codex/` — OpenAI Codex CLI
+  - `.cursor/` — Cursor / Grok
 - Campaign canon lives in repository Markdown under `data/<WorldName>/`.
 - `data/` is the Obsidian vault root and may contain multiple worlds.
 - Tooling, imports, generators, templates, and agent configuration stay outside `data/`.

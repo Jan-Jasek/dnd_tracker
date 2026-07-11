@@ -1,5 +1,5 @@
 ROOT_DIR := $(CURDIR)
-AI_GENERATED_PATHS := AGENTS.md CLAUDE.md .claude .codex
+AI_GENERATED_PATHS := AGENTS.md CLAUDE.md .claude .codex .cursor
 
 .PHONY: ai_generate ai_check format lint static
 

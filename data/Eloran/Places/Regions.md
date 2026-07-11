@@ -52,21 +52,11 @@ Dwarf mountain kingdom. Extremely caste-locked. Exiled dwarves and their descend
 
 ## Dragon Archipelago
 
-### Azurové moře — Azure Sea
+See [[Dragon Islands]] for the archipelago hub. The Corsair Republic controls trade lanes on the **Azure Sea** (Azurové moře).
 
-The sea surrounding the Dragon Islands. The Corsair Republic controls its trade lanes.
-
-### Ansir
-
-Main colonial city of the Dragon Islands. Seat of the Free Corsair Republic. See [[Ansir]].
-
-### Saltmarsh (Saltwater)
-
-Port town. Xendra operates here; was holding Captain Von Telten's family hostage. Custom map available: `imports/onenote/images/dra-nezavislost-one-on-26-04-2026-img005.jpg`.
-
-### Mokrá Lhota
-
-Village of significance in the weapon-smuggling plot. Weapons stolen from Ansir were moved here, then east toward the front.
+- [[Ansir]] — coalition capital
+- [[Saltmarsh]] — port town; Xendra, Von Telten hostage plot
+- [[Mokrá Lhota]] — weapon-smuggling waypoint toward the front
 
 ### Dřevolhota
 
@@ -86,7 +76,7 @@ Smuggler's hideout; built on ruins of an old necromantic stone temple. Dagobar-s
 
 | Name          | Notes                                                                                                                           |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| Ellesmere     | Former capital of Meredie, called "City of Mages"; destroyed in the Erathon explosion; survivors scattered across the continent |
+| [[Ellesmere]] | Former capital of Meredie, called "City of Mages"; destroyed in the Erathon explosion; survivors scattered across the continent |
 | Dol Andor     | Fell during the Meredian war; Von Edgeira took it quickly                                                                       |
 | Gutberg       | Meredian mountain fortress on the Red River; fell to the Empire                                                                 |
 | Gibeška poušť | Desert region; town Akbesi; rumors of Vilmaran necromancers                                                                     |

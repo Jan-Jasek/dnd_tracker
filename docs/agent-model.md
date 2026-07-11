@@ -17,5 +17,9 @@ Agents and skills should support the campaign workflow without becoming the sour
 ## Source Of Truth
 
 - Campaign lore lives in repository Markdown under `data/<WorldName>/`.
-- Agent behavior and workflow rules live in `rules/`, `agents/`, and `skills/`.
+- Agent behavior and workflow rules live in `.rulesync/` and generate via `make ai_generate`:
+  - `AGENTS.md` (open standard)
+  - `CLAUDE.md`, `.claude/` (Claude Code)
+  - `.codex/` (OpenAI Codex CLI)
+  - `.cursor/` (Cursor / Grok)
 - Generated content is a proposal until promoted.
