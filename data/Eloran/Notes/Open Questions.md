@@ -76,13 +76,13 @@ These are unresolved decisions that need DM input before the relevant content be
 - **[[Places/Temnoles|Temnoles]]** (Dračí ostrovy) — hold a crypt of an old Maegi enemy. Identity, location specifics, and current threat status open.
 - **Earlier Veil lineages** — blood mages and others created by Orion's earlier framings. How many remain today, and where?
 
-## Church of Orion
+## Apostolic Church & Order of the Just
 
-- How much does the current Church leadership know of the founding cover-up?
-- Are there factions within the Church that suspect or know the truth?
-- Does any Templar know Severite was forged from Veil knowledge by Ilrusk?
+- How much do current Just Ones know of the founding cover-up?
+- Are there Orionist factions that suspect the apostolic mage oligarchy — or blame all clergy equally?
+- Does any templar know Severite was forged from Veil knowledge by Ilrusk?
 - What happens when the Hammer of Orion realizes the fragments contain traces of their saint?
-- **Did the Church rename when the Templars took over?** Possibly the Church has a different name now from its founding name; possibly the original Maegi-led Church was something else and the present "Church of Orion" is the Templar-era rebranding.
+- How do Orionist priests and Just One garrisons share authority in mixed parishes after the coup?
 
 ## Maegi Nature and Creation
 

@@ -10,7 +10,7 @@ org: organisation.order-of-maegi
 
 # Orion
 
-> Part of: [[Eloran]] | [[Organisations/Order of Maegi]] | [[Organisations/Church of Orion]] | See also: [[Cosmology]]
+> Part of: [[Eloran]] | [[Organisations/Order of Maegi]] | [[Organisations/Apostolic Church of Orion]] | See also: [[Cosmology]]
 
 A mortal born during the Age of Darkness — when the tainted Veil was destroying civilizations and pre-Sundering beings like Erathon dominated the continent. Rose to become the most powerful Veil-wielder in recorded history. Founded Orestor. Bound Erathon. Disappeared beneath Ellesmere.
 
@@ -70,11 +70,11 @@ After Orion's death, the Maegi did not just construct a cover-up. They **launche
 
 ## Aftermath — The Cover-Up
 
-The nine disciples survived. They returned to a world that had begun to wither and faced two problems: explain what happened, and eliminate anyone who could contradict their story. Their answer was the **[[Organisations/Church of Orion|Church of Orion]]** — a religion built around the saint-and-martyr myth, designed to control the narrative — and a generational crusade against rival Veil-wielders to ensure no one looked too closely at the truth.
+The nine disciples survived. They returned to a world that had begun to wither and faced two problems: explain what happened, and eliminate anyone who could contradict their story. Their answer was the **[[Organisations/Apostolic Church of Orion|Apostolic Church of Orion]]** — Orionists worshipping the saint-and-martyr myth while mages governed in secret — and a generational crusade against rival Veil-wielders.
 
-The Church grew. Eventually it grew beyond them. Ilrusk — for reasons that remain his alone — co-founded the militant arm (the Templars / Just Ones) and gave them the tools to suppress the Veil: **Severite** in Common, **Mlčoun** in Meredic. The Templars eventually took over the Church and turned it on the Maegi lineages themselves.
+The church grew beyond its founders. Ilrusk co-founded the **[[Organisations/Order of the Just|Order of the Just]]** and gave them **Severite** / **Mlčoun**. ~150 YBP the Order overthrew mage control of the hierarchy — the **Age of Purity** — without suppressing Orionist faith. They turned on Maegi lineages, not parish devotion.
 
-By the time the Templars took the Church, eight of the nine disciples were dead. Maegi do not die of natural causes — they were **killed**. By whom is open: rival powers during the post-Orion crusade, factional conflict among the disciples themselves, the Templars during the takeover, or events that left no clear culprit. Their secret died with them.
+By the time of the coup, eight of the nine disciples were dead. Maegi do not die of natural causes — they were **killed**. By whom is open: rival powers during the post-Orion crusade, factional conflict among the disciples themselves, the Templars during the takeover, or events that left no clear culprit. Their secret died with them.
 
 Only **Ilrusk** survived, having anticipated the betrayal and prepared for it: he swapped his consciousness into one of his own disciples' bodies before the ritual. He has lived in stolen bodies ever since, and what remains of him is no longer the man he was. The experience scarred him. Centuries of guilt — or justification — have produced something that is alert, patient, and not entirely sane.
 
@@ -106,4 +106,4 @@ Because the disciples were _not_ consumed in the binding, the soul fragments sca
 - Why did Ilrusk co-found the Templars?
 - Is Ilrusko in Orestor confirmed-Ilrusk, or a different figure?
 - What do the Erathon-Orion fragments actually carry?
-- Did the Church of Orion rename when the Templars took over? Is "Church of Orion" the original name or a later rebranding?
+- What apostolic titles or relics survived the Just Ones' coup in civilian parishes?

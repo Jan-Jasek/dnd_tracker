@@ -41,13 +41,13 @@ Two scales nest inside each other:
 
 ### Eloran Ages
 
-| Age                                 | Approx. span                   | Character                                                                                                                          |
-| ----------------------------------- | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
-| **Age of Darkness** (_Věk temnoty_) | Sundering → ~5,000 YBP         | Erathon feeds on Eloran; tainted Veil corrupts wielders; civilizations rise and collapse in cycles                                 |
-| **Age of Orion** (_Orionův věk_)    | ~5,000 → ~2,000 YBP            | Orion perfects the Art; binds Erathon; founds Orestor; disciples survive                                                           |
-| **Age of Salvation** (_Věk spásy_)  | ~2,000 YBP → ~3 YBP            | Church era: Orion as Saint and Martyr; imperfect seal drains the Veil; crusade against rival lineages; Maegi hunted over centuries |
-| ↳ **Templar Era** (within above)    | Last ~500 years, peak ~150 YBP | Templars co-founded by Ilrusk; Church leadership turns on Maegi; Ellesmere culling                                                 |
-| **Age of Fragments** (_Věk úlomků_) | ~3 YBP → present               | Jeod breaks the seal; Veil surges back; Erathon shards scatter; old powers and creatures awaken                                    |
+| Age                                 | Approx. span           | Character                                                                                          |
+| ----------------------------------- | ---------------------- | -------------------------------------------------------------------------------------------------- |
+| **Age of Darkness** (_Věk temnoty_) | Sundering → ~5,000 YBP | Erathon feeds on Eloran; tainted Veil corrupts wielders; civilizations rise and collapse in cycles |
+| **Age of Orion** (_Orionův věk_)    | ~5,000 → ~2,000 YBP    | Orion perfects the Art; binds Erathon; founds Orestor; disciples survive                           |
+| **Age of Salvation** (_Věk spásy_)  | ~2,000 YBP → ~3 YBP    | Apostolic Church era; imperfect seal drains the Veil; crusade against rival lineages               |
+| ↳ **Age of Purity** (_Věk čistoty_) | Last ~150 YBP → ~3 YBP | Order of the Just rules; mage church overthrown; Orionist worship continues; Ellesmere culling     |
+| **Age of Fragments** (_Věk úlomků_) | ~3 YBP → present       | Jeod breaks the seal; Veil surges back; Erathon shards scatter; old powers and creatures awaken    |
 
 ### Present Era Beats (within Age of Fragments)
 
@@ -73,7 +73,7 @@ The Veil on Eloran is tainted following the Sundering. Pre-Sundering beings (Era
 
 Orion attempts the larger ritual: nine seals plus the 10th, to permanently seal Eloran from the Paths. Other parties of power are present alongside the disciples. The disciples betray him. Orion sacrifices his own Veil to force partial completion of the 10th seal. He vanishes into the depths beneath Ellesmere.
 
-The disciples found the Church of Orion as cover-up — the faith that names this era the **Age of Salvation** (_Věk spásy_). They launch a crusade against rival powers (the Bloody War of the Druids — _Krvavá válka druidů_ — is a likely ripple effect of this era). Over centuries, eight of the nine disciples are killed; Maegi don't die naturally, so each was killed by violence, factional conflict, or rival action. Only Ilrusk survives, in a stolen body.
+The disciples found the **Apostolic Church of Orion** (_Apoštolská Orionova církev_) as cover-up — the faith that names this era the **Age of Salvation** (_Věk spásy_). Worshippers are **Orionists** (_Orionisté_). They launch a crusade against rival powers (the Bloody War of the Druids — _Krvavá válka druidů_ — is a likely ripple effect of this era). Over centuries, eight of the nine disciples are killed; Maegi don't die naturally, so each was killed by violence, factional conflict, or rival action. Only Ilrusk survives, in a stolen body.
 
 The Order of Maegi continues to grow through later generations of blood-ritual creation. Members visible in present-day records include Theodor Eon (evocation, diamond ring), Roderik Loon (abjuration, citrine ring), Sibyla Fayen, Garcilaso von Vega, Josias Simmler.
 
@@ -81,11 +81,15 @@ The Order of Maegi continues to grow through later generations of blood-ritual c
 
 With Eloran's Paths sealed and the Veil unable to replenish, magic slowly fades. Species wither. Civilizations that once practiced the Art lose access to it. The process takes thousands of years.
 
-The Church of Orion grows autonomous. The Templars (co-founded by Ilrusk, equipped with **Severite / Mlčoun**) eventually overtake the Church's leadership and turn anti-Veil enforcement on the Maegi lineages themselves.
+The Apostolic Church grows autonomous — mage-governed in secret. The **Order of the Just** (_Řád Spravedlivých_), co-founded by Ilrusk and equipped with **Severite / Mlčoun**, eventually overthrows mage control of the church hierarchy (~150 YBP). They do not suppress Orionist devotion; they purge the mage-tainted institution and hunt Maegi lineages.
 
-### ~100–150 Years Before Campaign — Ellesmere Culling (late Templar Era)
+### ~150 Years Before Campaign — Start of the Age of Purity
 
-The Templars take political control of Ellesmere and conduct a culling of Maegi practitioners in the city. Many Maegi are killed. Jeod Isthar — at this point already a Maegi, perhaps a few centuries old — witnesses this. The grievance is personal, not generational.
+The Just Ones' coup installs a continental military dictatorship in place of apostolic mage rule. The faithful call the new era the **Age of Purity** (_Věk čistoty_).
+
+### ~100–150 Years Before Campaign — Ellesmere Culling
+
+The Order of the Just takes political control of Ellesmere and conducts a culling of Maegi practitioners in the city. Many Maegi are killed. Jeod Isthar — at this point already a Maegi, perhaps a few centuries old — witnesses this. The grievance is personal, not generational.
 
 ### ~3 Years Before Campaign — Ellesmere Explosion (Age of Fragments begins)
 

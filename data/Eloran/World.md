@@ -63,7 +63,7 @@ Key island hub: **[[Places/Ansir]]**.
 The world is effectively non-magical from a player perspective at campaign start:
 
 - Players have met circus performers doing unexplained things; heard rumors of forest witches
-- **Tyr's Order (the Just Ones)** hunts and destroys magical practitioners — fire and sword, no trial
+- The **[[Organisations/Order of the Just|Order of the Just]]** (_Řád Spravedlivých_) hunts and destroys magical practitioners — fire and sword, no trial
 - **Teleportation** beyond short range (Misty Step, Dimension Door) does not function in this world
 - **Resurrection spells** do not exist — death is permanent
 - No other planes the players would know of or can reach
@@ -74,13 +74,14 @@ Hidden truth: magic is not truly gone — it is suppressed and feared. The Erath
 
 ## Religion
 
-The dominant religion of the continent is the **[[Organisations/Church of Orion|Church of Orion]]** — Orion as Saint and Martyr who saved the world from Erathon's corruption. The Forgotten Realms pantheon exists in the background as lesser celestial powers (Tyr, Latander, etc.), but the Saint's cult is supreme on Eloran. Gods are more symbolic here — they do not intervene the way they do in FR.
+Continental faith centers on **Orion** as Saint and Martyr — worshippers are **Orionists** (_Orionisté_). The Forgotten Realms pantheon exists in the background as lesser celestial powers (Tyr, Latander, etc.), but the Saint's cult is supreme on Eloran.
 
-The Church teaches that the Veil (magic) is a corrupting force that destroys those who wield it; suppression of Veil-wielders is a sacred duty. Necromancy and demon-summoning are universally condemned; practitioners are killed on sight. The militant arm — **the Templars** (also called _the Just Ones_) — hunts Veil-wielders with fire, sword, and **Severite** (Imperial term) / **Mlčoun** (Meredic term) — a Veil-suppressing material.
+Two institutions, one history — see [[Organisations/Church of Orion]]:
 
-Symbol of the Templars: a golden plate gauntlet on a white field. Senior templars have stars above the gauntlet marking rank. Members of the **Hammer of Orion** (elite militant faction) have the gauntlet crossed with a warhammer.
+- **[[Organisations/Apostolic Church of Orion|Apostolic Church of Orion]]** (_Apoštolská Orionova církev_) — founded at the betrayal; secretly mage-governed for most of the Age of Salvation
+- **[[Organisations/Order of the Just|Order of the Just]]** (_Řád Spravedlivých_) — templar coup ~150 YBP; rules the last century as the **Age of Purity** (_Věk čistoty_). Opposed the mage church, not Orionist devotion.
 
-The Church is a lie built by Orion's surviving disciples to cover up their betrayal of him. See [[Organisations/Church of Orion]] for the full account.
+The Order teaches that the Veil is corrupting; suppression of Veil-wielders is sacred duty. Necromancy and demon-summoning are killed on sight. Tools: **Severite** / **Mlčoun** — gauntlet on white field; Hammer of Orion adds crossed warhammer.
 
 ## Races
 

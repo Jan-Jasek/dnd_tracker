@@ -35,7 +35,7 @@ Orion's final and most complete framework of Veil control: **the Art**, structur
 
 The nine survived the binding of Erathon (which only consumed Orion's full effort but not the disciples themselves). They did **not** survive the sealing ritual that followed: they betrayed Orion mid-working and tried to kill him. Orion sacrificed his own Veil to force a partial completion of the 10th seal and vanished into the depths beneath Ellesmere.
 
-In the aftermath the disciples founded the [[Organisations/Church of Orion|Church of Orion]] as a cover-up — recasting Orion as Saint and Martyr, and themselves as his bereaved followers. Over the following centuries, eight of the nine died of natural causes, accidents, and attrition. Their secret died with them.
+In the aftermath the disciples founded the [[Organisations/Apostolic Church of Orion|Apostolic Church of Orion]] as a cover-up — recasting Orion as Saint and Martyr, and themselves as his bereaved apostles governing from the shadows. Over the following centuries, eight of the nine died of natural causes, accidents, and attrition. Their secret died with them.
 
 Only **Ilrusk** survived, by anticipating the betrayal and swapping his consciousness into one of his own disciples' bodies. He has lived in stolen bodies ever since. He may be the present-day **Ilrusko** operating in [[Places/Orestor]]. See [[People/Orion]] for the full account.
 

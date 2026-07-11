@@ -49,7 +49,7 @@ He had nine inner disciples, each gifted with one of the ten powers; he kept the
 
 When Orion attempted the larger ritual to seal Eloran from the Paths permanently, his disciples betrayed him. Orion sacrificed his own Veil to force a partial completion of the 10th seal alone. The result was an imperfect sealing — enough to cut Eloran off from the Paths, not enough to do whatever Orion's full plan required. The Veil began draining slowly with no way to replenish.
 
-The disciples survived, founded the [[Organisations/Church of Orion|Church of Orion]] as a cover-up, and **launched a crusade against the rival powers of the era** — earlier Veil lineages, druids, and other figures of power who had been near Orion. The _Krvavá válka druidů_ in legend, and the crypt of an old Maegi enemy reportedly held in Temnoles, are echoes of this crusade. Over centuries all but Ilrusk died. The fragments scattered by Jeod Isthar's destruction of the Ellesmere seal carry **Erathon's essence laced with traces of Orion's sacrificed Veil** — not the disciples.
+The disciples survived, founded the [[Organisations/Apostolic Church of Orion|Apostolic Church of Orion]] as a cover-up, and **launched a crusade against the rival powers of the era** — earlier Veil lineages, druids, and other figures of power who had been near Orion. The _Krvavá válka druidů_ in legend, and the crypt of an old Maegi enemy reportedly held in Temnoles, are echoes of this crusade. Over centuries all but Ilrusk died. The fragments scattered by Jeod Isthar's destruction of the Ellesmere seal carry **Erathon's essence laced with traces of Orion's sacrificed Veil** — not the disciples.
 
 See [[People/Orion]] for the full account.
 
@@ -57,9 +57,9 @@ See [[People/Orion]] for the full account.
 
 Orion's sealing was incomplete. The Veil on Eloran has been slowly draining since — consumed with no way to replenish through the blocked Paths. Over thousands of years, this caused species to wither, civilizations to fade, and the Art to weaken. Orion likely had a different solution in mind — the 10th seal — but never completed it.
 
-## The Templar Era and the Ellesmere Culling
+## The Age of Purity and the Ellesmere Culling
 
-Over centuries the [[Organisations/Church of Orion|Church of Orion]] grew autonomous. The Templars (co-founded by Ilrusk, equipped with Severite / Mlčoun) overtook its leadership and turned anti-Veil enforcement on the Maegi lineages themselves. ~100–150 years before campaign start, the Templars took political control of Ellesmere and culled the Maegi practitioners there.
+Over centuries the [[Organisations/Apostolic Church of Orion|Apostolic Church]] grew autonomous — mage-governed behind the Orionist myth. ~150 years before campaign start the [[Organisations/Order of the Just|Order of the Just]] (_Řád Spravedlivých_) overthrew that hierarchy (the **Age of Purity**, _Věk čistoty_). They hunted Maegi lineages, not Orionist worship. ~100–150 years before campaign start the Order took political control of Ellesmere and culled Maegi practitioners there.
 
 ## Jeod Isthar and the Ellesmere Explosion
 
