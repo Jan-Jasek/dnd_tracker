@@ -24,7 +24,7 @@ The Hollow looks like Eloran but drained: no warmth, no Veil, just the shape of 
 
 - Not fully under Erathon's control — it is a scar, not a domain
 - Erathon can use it as a conduit between the planes
-- **Carleon Snowhite** received a soul fragment described as containing "a shadow lord" — this shadow lord may be a being native to or trapped in The Hollow
+- **[[Eloran/People/Birger Aderen|Birger Aderen]]** received a soul fragment described as containing "a shadow lord" — this shadow lord may be a being native to or trapped in The Hollow
 
 ## Common Knowledge on Eloran
 

@@ -14,11 +14,11 @@ source_evidence:
 
 > Part of: [[Eloran]] | [[Places/Ellesmere Region]] | See also: [[Cosmology]], [[History/Timeline]]
 
-Former capital of Meredie — the **City of Mages** (Město mágů). Destroyed ~3 years before campaign start when [[People/Jeod Isthar|Jeod Isthar]] shattered the seal binding Erathon's crystal.
+Former capital of the **Meredian Kingdom** since the First War (pre-PS ~55) — the **City of Mages** (Město mágů). Destroyed at **PS 0** — **the Shattering** (_Roztříštění_ / _Rozštěpení_) — when [[People/Jeod Isthar|Jeod Isthar]] shattered the seal binding Erathon's crystal.
 
 ## Public History
 
-The Third Meredian War ended here. Imperial siege under Marshal Von Edgeira was about to begin when a thunderous blast tore the city apart — epicenter at the **Marble Fortress** (Mramorová pevnost), headquarters of the Templars of the Just (Spravedliví). Tens of thousands died; the Meredian royal dynasty effectively ended.
+The Third Meredian War ended here. Imperial siege under Marshal Von Edgeira was about to begin when a thunderous blast tore the city apart — epicenter at the **Marble Fortress** (Mramorová pevnost), headquarters of the Templars of the Just (Spravedliví). Tens of thousands died; the Meredian royal line (house name TBD) effectively ended.
 
 ## Hidden Truth
 
@@ -26,7 +26,7 @@ Jeod destroyed the seal deliberately to restore the Veil. The blast was collater
 
 ## Survivors & Aftermath
 
-- Maegi prisoners held ~150 years beneath the city escaped or died in the collapse; many insane
+- Maegi prisoners held since the pre-PS ~155 culling escaped or died in the collapse; many insane
 - Refugees spread south — including families that reached Hlubina and Dagobar's farm
 - Templar **Sir Hans** hunts escaped mages as a high-level quest hook
 

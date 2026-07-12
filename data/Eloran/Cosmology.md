@@ -39,6 +39,8 @@ One of many pre-Sundering beings. After the Sundering, Erathon found himself tra
 
 Attempting to merge Eloran with the Fey plane — and consume both — he created a byproduct: [[../The Hollow|The Hollow]], a dead reflection of Eloran pressed into the gap between the two worlds. The merger failed. The Hollow remains.
 
+Before the Sundering, Eloran knew the **Age of Harmony** (_Věk harmonie_) — peak civilizations under a freely flowing Veil; dates unknown.
+
 His tainted Veil corrupted those on Eloran who could access it. Veil users became hungry for power. Wars followed. Civilizations collapsed. This is the **Age of Darkness**.
 
 ## Orion and the Binding
@@ -59,11 +61,11 @@ Orion's sealing was incomplete. The Veil on Eloran has been slowly draining sinc
 
 ## The Just Age and the Ellesmere Culling
 
-Over centuries the [[Organisations/Apostolic Church of Orion|Apostolic Church]] grew autonomous — mage-governed behind the Orionist myth. ~150 years before campaign start the [[Organisations/Order of the Just|Order of the Just]] (_Řád Spravedlivých_) overthrew that hierarchy (the **Just Age**, _Věk spravedlnosti_). They hunted Maegi lineages, not Orionist worship. ~100–150 years before campaign start the Order took political control of Ellesmere and culled Maegi practitioners there.
+Over centuries the [[Organisations/Apostolic Church of Orion|Apostolic Church]] grew autonomous — mage-governed behind the Orionist myth. pre-PS ~155 the [[Organisations/Order of the Just|Order of the Just]] (_Řád Spravedlivých_) took political control of Ellesmere, culled Maegi practitioners there, and overthrew apostolic mage governance — beginning the **Just Age** (_Věk spravedlnosti_). They hunted Maegi lineages, not Orionist worship.
 
-## Jeod Isthar and the Ellesmere Explosion
+## Jeod Isthar and the Shattering
 
-[[People/Jeod Isthar|Jeod Isthar]] — a Maegi up to ~500 years old who witnessed the Templar rise and the Ellesmere culling, _not_ a founding-era Maegi — destroyed the seal at Ellesmere ~3 years before campaign start. His **primary goal**: restore the Veil before Eloran finished dying. The catastrophic blast was **collateral**: he knew it would level the city, did nothing to prevent it, and accepted both Templar and civilian deaths as the cost.
+[[People/Jeod Isthar|Jeod Isthar]] — a Maegi up to ~500 years old who witnessed the Templar rise and the Ellesmere culling, _not_ a founding-era Maegi — destroyed the seal at Ellesmere at **PS 0** (**the Shattering**; _Roztříštění_ / _Rozštěpení_). His **primary goal**: restore the Veil before Eloran finished dying. The catastrophic blast was **collateral**: he knew it would level the city, did nothing to prevent it, and accepted both Templar and civilian deaths as the cost.
 
 He was right that the world was dying. He chose to act with full knowledge of the price and indifference to most of it.
 

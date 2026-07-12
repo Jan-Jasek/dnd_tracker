@@ -28,7 +28,15 @@ player_doc: true
 
 ## The World at a Glance
 
-The world splits between **Eloran** (the main continent, four colonial powers) and the **Dragon Archipelago** around the **Azure Sea** — a subtropical island chain those powers have been colonizing for decades. The campaign is set in the Archipelago.
+The playable material plane has **two major landmasses** plus the **Dragon Archipelago** in the **Azure Sea**:
+
+| Landmass                                   | Powers                                                          | Campaign role                   |
+| ------------------------------------------ | --------------------------------------------------------------- | ------------------------------- |
+| **Eloran continent**                       | Empire, Meredie, Triskal, Valdie, Grundarmheld                  | Hlubina, Orestor, Meredian Wars |
+| **Southern continent** (_jižní kontinent_) | Empire vs **Vilmar** across the sea; **Gibešská poušť**, Akbesi | Border lore, necromancer rumors |
+| **Dragon Isles**                           | **Triple Coalition** (since PS 0)                               | Dragon Independence             |
+
+Colonial activity on the archipelago is a phenomenon of the last few decades. Main campaign: **Dragon Isles**.
 
 Magic exists but is rare, feared, and actively suppressed by Tyr's Order (the Just Ones). The average person has heard stories of witches and strange circus performers but has never personally witnessed anything undeniable. Necromancy and demon-summoning are the most condemned acts imaginable.
 
@@ -36,13 +44,13 @@ Magic exists but is rare, feared, and actively suppressed by Tyr's Order (the Ju
 
 Five major territorial blocks, each with their own language alongside Common:
 
-| Region                                | Inspiration    | Language | Notes                                                                                                 |
-| ------------------------------------- | -------------- | -------- | ----------------------------------------------------------------------------------------------------- |
-| **Valdie**                            | Britain        | Veildic  | Fell to Triskal in the last war                                                                       |
-| **Triskal**                           | Netherlands    | Triskal  | Expansionist; allied with the Empire against Meredie                                                  |
-| **Meredie**                           | Czech/Prussia  | Meredic  | Former Empire holding; fought for independence; capital (name TBD) destroyed in the Erathon explosion |
-| **Spojené císařství** (United Empire) | Rome/Byzantium | Common   | Dominant power; home language of Common                                                               |
-| **Vilmar**                            | Sultanate      | Vilmaran | Southern power; interests in the Dragon Islands                                                       |
+| Region                                  | Faction file               | Language |
+| --------------------------------------- | -------------------------- | -------- |
+| **United Empire** (_Spojené císařství_) | [[Factions/United Empire]] | Common   |
+| **Meredie**                             | [[Factions/Meredie]]       | Meredic  |
+| **Triskal**                             | [[Factions/Triskal]]       | Triskal  |
+| **Valdie**                              | [[Factions/Valdie]]        | Veildic  |
+| **Vilmar**                              | [[Factions/Vilmar]]        | Vilmaran |
 
 Common is the trade and administrative language across all of Eloran and the colonies.
 
@@ -79,7 +87,7 @@ Continental faith centers on **Orion** as Saint and Martyr — worshippers are *
 Two institutions, one history — see [[Organisations/Church of Orion]]:
 
 - **[[Organisations/Apostolic Church of Orion|Apostolic Church of Orion]]** (_Apoštolská církev Orionova_) — founded at the betrayal; secretly mage-governed for most of the Age of Salvation
-- **[[Organisations/Order of the Just|Order of the Just]]** (_Řád Spravedlivých_) — templar coup ~150 YBP; rules the last century as the **Just Age** (_Věk spravedlnosti_). Opposed the mage church, not Orionist devotion.
+- **[[Organisations/Order of the Just|Order of the Just]]** (_Řád Spravedlivých_) — Ellesmere culling pre-PS ~155 marks the **Just Age** (_Věk spravedlnosti_, pre-PS ~155 → PS 0), a separate era from Salvation. Opposed the mage church, not Orionist devotion.
 
 The Order teaches that the Veil is corrupting; suppression of Veil-wielders is sacred duty. Necromancy and demon-summoning are killed on sight. Tools: **Severite** / **Mlčoun** — gauntlet on white field; Hammer of Orion adds crossed warhammer.
 
@@ -110,11 +118,13 @@ Things everyone knows as myth:
 
 ## Current Situation
 
-The Third Meredian War (roughly 3 years before campaign start) shook the continent:
+The **Meredian Wars** shook the continent across three conflicts (pre-PS ~55, ~45, and **PS 0**). Meredie won independence in the First War (Behemot I); survived a Second War reconquest attempt that strengthened the kingdom; then lost **Ellesmere** in the Third War — destroyed in the Erathon explosion, not by siege.
 
-- Meredie fought the Empire for independence; the capital (name TBD) was destroyed in the Erathon explosion
+Present aftermath:
+
+- Meredian royal dynasty ended at Ellesmere; the kingdom has no unified crown
 - Valdie fell to Triskal
-- Orestor (successor city in Meredie's territory) is now a fractured city-state with competing criminal and political factions
+- Orestor (Meredian crown port) is a **city-republic compact** at PS 1 — loyalists, monarchists, republicans, and guild mediators; not a popular democracy
 - The Triple Coalition broke away during the chaos and controls the Dragon Islands
 
 See [[History/Timeline]] for the full sequence.

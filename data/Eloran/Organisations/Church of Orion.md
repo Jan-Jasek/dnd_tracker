@@ -12,10 +12,10 @@ plane: eloran
 
 "Church of Orion" is an **umbrella term** in play and in old notes. Canon splits it into two successive powers:
 
-| Institution                                 | Czech                      | Era                                     | Role                                                            |
-| ------------------------------------------- | -------------------------- | --------------------------------------- | --------------------------------------------------------------- |
-| [[Organisations/Apostolic Church of Orion]] | Apoštolská církev Orionova | ~2,000 → ~150 YBP (within _Věk spásy_)  | Founding faith; Orion as martyr/god; secretly mage-governed     |
-| [[Organisations/Order of the Just]]         | Řád Spravedlivých          | ~150 YBP → ~3 YBP (_Věk spravedlnosti_) | Templar coup; anti-Maegi dictatorship; Orionist worship allowed |
+| Institution                                 | Czech                      | Era                                      | Role                                                                 |
+| ------------------------------------------- | -------------------------- | ---------------------------------------- | -------------------------------------------------------------------- |
+| [[Organisations/Apostolic Church of Orion]] | Apoštolská církev Orionova | pre-PS ~2,000 → ~155 (_Věk spásy_)       | Founding faith; Orion as martyr/god; secretly mage-governed          |
+| [[Organisations/Order of the Just]]         | Řád Spravedlivých          | pre-PS ~155 → PS 0 (_Věk spravedlnosti_) | Ellesmere culling; anti-Maegi dictatorship; Orionist worship allowed |
 
 ## Worshippers
 
@@ -23,7 +23,7 @@ plane: eloran
 
 ## World Ages (faith perspective)
 
-- **Age of Salvation** (_Věk spásy_) — since Orion's sacrifice (~2,000 YBP → present in doctrine; effectively ended institutionally ~3 YBP)
-- **Just Age** (_Věk spravedlnosti_) — last ~150 years under the Just Ones, nested inside Salvation
+- **Age of Salvation** (_Věk spásy_) — pre-PS ~2,000 → ~155; apostolic mage rule. Doctrine may still speak of salvation continuing, but the era ends with the Ellesmere culling.
+- **Just Age** (_Věk spravedlnosti_) — pre-PS ~155 → PS 0; separate era under the Just Ones, not a sub-period of Salvation
 
 See [[History/Timeline]] for full chronology.

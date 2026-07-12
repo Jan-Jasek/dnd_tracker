@@ -29,5 +29,5 @@ Po Skrčkově nočním útoku dorazí císařský předvoj. **Kate** (učednice 
 
 ## Není totéž co
 
-- **[[People/Carleon Snowhite|Carleon Sněhobílý]]** — vůdce na Dračích ostrovech, fragment, politika koalice
+- **[[People/Birger Aderen|Birger Aderen]]** — vůdce na Dračích ostrovech, fragment, politika koalice
 - **Kate** — stínová mágka, rekrutér Jeoda; jiná postava

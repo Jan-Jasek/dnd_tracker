@@ -19,7 +19,7 @@ The true leader of the Mlčenliví (Silents) thieves' guild in Orestor, and simu
 
 ## Public Identity
 
-Treasurer of Orestor's closed council. Wealthy merchant. After the fall of Meredie's noble class, she rose to fill the power vacuum with money and connections.
+Treasurer of Orestor's closed council. Wealthy merchant. After the Shattering and the port's **tripartite coup compact**, she brokered survival between loyalists, monarchists, and republicans — money, guild ties, and the **Mlčenliví** as leverage. Public story: merchant who rose after noble collapse; private truth: she was already running the guild before the crisis.
 
 ## Hidden Identity
 

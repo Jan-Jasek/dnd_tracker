@@ -68,7 +68,7 @@ Road encounter: appears as a harmless old woman. Actually a member of the Order.
 
 ## Sir Hans
 
-Former templar of the Just. Has taken it upon himself to hunt the mages who escaped Ellesmere before it was destroyed. Those mages were imprisoned for ~150 years and are mostly insane. Sir Hans travels with a company of templars. High-level quest hook.
+Former templar of the Just. Has taken it upon himself to hunt the mages who escaped Ellesmere before it was destroyed. Those mages were imprisoned since the pre-PS ~155 culling and are mostly insane. Sir Hans travels with a company of templars. High-level quest hook.
 
 ## Open Questions
 

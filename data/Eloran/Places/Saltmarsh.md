@@ -16,7 +16,9 @@ source_evidence:
 
 Port town on the Dragon Archipelago — also called Saltwater in some sources. One of the first harbors to declare independence and join the Free Republic coalition.
 
-**Map:** `imports/onenote/images/dra-nezavislost-one-on-26-04-2026-img005.jpg`
+**Town map:** `imports/onenote/images/dra-nezavislost-one-on-26-04-2026-img005.jpg`
+
+**On Dragon Isles map:** port label **Saltmarsh** on `imports/onenote/images/dragon-islands-archipelago.png` (regional archipelago map — not this town map)
 
 ## Role in Act I–II
 

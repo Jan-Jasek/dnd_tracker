@@ -10,7 +10,7 @@ locations:
   - place.mokra-lhota
 related:
   - faction.triple-coalition
-  - character.carleon-snowwhite
+  - character.birger-aderen
 source_evidence:
   - imports/onenote/extracted/dra-nezavislost-one-on-26-04-2026.md
   - imports/onenote/extracted/dra-nezavislost-one-on-01-03-2023.md
@@ -18,7 +18,9 @@ source_evidence:
 
 # Dragon Independence
 
-> Part of: [[Eloran]] | [[Veiling]] | See also: [[Places/Ansir]], [[Factions/Triple Coalition]], [[People/Carleon Snowhite]]
+> Part of: [[Eloran]] | [[Veiling]] | See also: [[Places/Ansir]], [[Factions/Triple Coalition]], [[People/Birger Aderen]], [[History/Timeline]]
+
+**PS 1** — one year after the Shattering. Same campaign year as **Hlubina**; sequence between the two adventures is not fixed.
 
 Working English title: Dragon Independence. Set in the Dragon Archipelago around Ansir, the capital of the Free Corsair Republic.
 
@@ -113,7 +115,7 @@ Players travel to the Dragon Islands proper on an imperial ship (Šupina or Levi
 
 First Officer Vigo or Agitus — tall, sinewy 40-year-old. Captain is an older stout imperial in ornate clothes.
 
-**Carleon Sněhobílý (Snowhite)** — receives a fragment containing a shadow lord's soul. Determined to free himself from both Triskal and the United Empire's power. A fragment of ancient power offers a path — but requires acquiring a relic from the indigenous peoples, who want something in return first.
+**[[People/Birger Aderen|Birger Aderen]]** — Valdie fugitive noble (bastard royal branch). Receives a fragment containing a shadow lord's soul. Determined to free the republic from both Triskal and the United Empire. Ancient indigenous relic may offer a path — if desecrated lands are cleansed first. (_Import misname Carleon Sněhobílý retracted._)
 
 **Banyu** — spiritual/tribal leader. Sent Mego to spy on the dark-eyed who joined Aditya.
 
@@ -125,7 +127,7 @@ First Officer Vigo or Agitus — tall, sinewy 40-year-old. Captain is an older s
 
 **Grimír Špinavec (Dirty Grimír)** — owes 7,100–17,100 gold Imperial marks to the bank Brauner & Hess (debt bought from the Grundermwald State Library, originally his grandfather's). Escalating due to interest and fees.
 
-Republic politics on the islands center on **[[People/Carleon Snowhite|Carleon Sněhobílý]]**, **Stoupač**, and **Hedvábný** — not Aemon Whiteoak (imperial captain from the Hlubina arc).
+Republic politics on the islands center on **[[People/Birger Aderen|Birger Aderen]]**, **Stoupač**, and **Hedvábný** — not Aemon Whiteoak (imperial captain from the Hlubina arc). Birger's nephew **Torsten** was first corsair consul before dying at **Covel**.
 
 ### Indigenous Relic Quest
 
@@ -135,7 +137,7 @@ The indigenous peoples want their desecrated lands cleansed — a son of their s
 
 ## Act III — The Gate and the Endgame
 
-**Erathon** wants to reopen the gate to the Fey world, using Snowhite as a medium, before his powers are depleted.
+**Erathon** wants to reopen the gate to the Fey world, using Birger Aderen as a medium, before his powers are depleted.
 
 **[[Places/Temnoles|Temnoles]]** — dark powers are returning or have returned. Connected to the cursed-blood Tauber factions.
 
@@ -151,4 +153,4 @@ Details still fragmentary — to be developed.
 - Who is Arryn and what do his men want?
 - What is the Tříštivý proud (Shattering Current) cult doing in Ansir?
 - What is the nature of Temnoles?
-- Does Erathon have a full identity separate from Snowhite's arc?
+- Does Erathon have a full identity separate from Birger Aderen's arc?

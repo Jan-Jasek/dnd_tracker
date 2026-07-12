@@ -15,11 +15,13 @@ source_evidence:
 
 The main colonial city of the Dragon Archipelago and the seat of the Free Corsair Republic (Triple Coalition). Also referred to as Saltwater in some sources.
 
-**Map:** `imports/onenote/images/dra-nezavislost-one-on-26-04-2026-img004.png`
+**City map:** `imports/onenote/images/dra-nezavislost-one-on-26-04-2026-img004.png`
+
+**Archipelago map:** shown as **Anstr** on `imports/onenote/images/dragon-islands-archipelago.png` (campaign name **Ansir**)
 
 ## Political Status
 
-Capital of the Triple Coalition of Free Corsair Republics. Broke away from Empire/Triskal control during the Third Meredian War. [[People/Carleon Snowhite|Carleon Sněhobílý]] is the key political figure visible in Ansir — preaching against war and great powers before taking a harder line in Act II.
+Capital of the Triple Coalition of Free Corsair Republics. Broke away from Empire/Triskal control during the Third Meredian War. [[People/Birger Aderen|Birger Aderen]] is the key political figure visible in Ansir — Valdie fugitive noble; preaching against war and great powers before taking a harder line in Act II.
 
 External threats:
 

@@ -33,7 +33,7 @@ They did **not** move against **Orionists** (_Orionisté_) as worshippers. Commo
 - The world's slow withering is the price of the Saint's seal
 - Registration and supervision of any surviving Veil talent where states negotiate with the Order (post-Ellesmere reforms vary by realm)
 
-The faithful name the last ~150 years the **Just Age** (_Věk spravedlnosti_) — the era when justice, not mage oligarchy, governs the church.
+The faithful name the **Just Age** (_Věk spravedlnosti_) — pre-PS ~155 → PS 0, a separate era from the Age of Salvation, when justice rather than mage oligarchy governs the church.
 
 ## Structure
 
@@ -62,9 +62,8 @@ The Order's signature tool — Veil-suppressing metal for shackles, blades, and 
 
 ## Key Events
 
-- ~150 YBP: coup against Apostolic mage governance; **Just Age** begins
-- ~100–150 YBP: political control of Ellesmere; **Maegi culling**
-- ~3 YBP: Ellesmere destroyed; Marble Fortress epicenter; Order decimated at city scale
+- pre-PS ~155: political control of Ellesmere; **Maegi culling**; coup against Apostolic mage governance; **Just Age** begins
+- PS 0: Ellesmere destroyed; Marble Fortress epicenter; Order decimated at city scale
 
 ## Open Questions
 

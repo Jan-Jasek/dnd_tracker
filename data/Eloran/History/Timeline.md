@@ -16,9 +16,25 @@ source_evidence:
 
 This file is the **Eloran plane chronology** — ages, wars, and campaign events. Universe history (the Accord, the Sundering, pre-Sundering beings) lives in [[Cosmology]] and [[Veiling]].
 
-**Campaign start** = players arrive in Ansir as corsairs of the Free Republic.
+**Campaign present** = **PS 1** — first year Post-Shattering. Both **Hlubina** and **Dragon Independence** (Ansir) play in this year; exact sequencing between them is not fixed yet.
 
-_Dates are rough anchors. Calibrate within these ranges._
+### Dating Convention — PS (Post-Shattering)
+
+**The Shattering** — the night Ellesmere fell, Erathon's prison crystal broke, and soul fragments scattered. Marks **PS 0** and opens the **Age of Fragments** (_Věk úlomků_).
+
+**Czech:** _**Roztříštění**_ (chronicles, scholars — stresses fragments) or _**Rozštěpení**_ (common speech, sermons — shorter, more immediate). Both are canon; _Katastrofa_ survives as raw grief-talk, not the epoch name.
+
+**Wiki / agent notation:** **PS** = _Post-Shattering_ / _po Roztříštění_ — years counted from the Shattering.
+
+| Notation        | Meaning                                                                           |
+| --------------- | --------------------------------------------------------------------------------- |
+| **PS 0**        | The Shattering — seal broken, city destroyed, Third Meredian War effectively ends |
+| **PS 1**        | Present campaign year (both adventures)                                           |
+| **pre-PS (~N)** | Roughly _N_ years before the Shattering                                           |
+
+Deep world ages still use approximate **pre-PS** spans (e.g. pre-PS ~5,000 for Orion's rise). Calibrate within ranges.
+
+**Other aliases** (same event, not alternate calendars): _Katastrofa_ (Meredian grief, pre-dates formal _Roztříštění_ usage), _the Convergence_ / _Konvergence_ (Maegi — Veil and Paths stirring). Imperial scare-preachers may say _cataclysm_, but that risks confusion with the **Sundering** at universe scale.
 
 ---
 
@@ -41,27 +57,33 @@ Two scales nest inside each other:
 
 ### Eloran Ages
 
-| Age                                  | Approx. span           | Character                                                                                          |
-| ------------------------------------ | ---------------------- | -------------------------------------------------------------------------------------------------- |
-| **Age of Darkness** (_Věk temnoty_)  | Sundering → ~5,000 YBP | Erathon feeds on Eloran; tainted Veil corrupts wielders; civilizations rise and collapse in cycles |
-| **Age of Orion** (_Orionův věk_)     | ~5,000 → ~2,000 YBP    | Orion perfects the Art; binds Erathon; founds Orestor; disciples survive                           |
-| **Age of Salvation** (_Věk spásy_)   | ~2,000 YBP → ~3 YBP    | Apostolic Church era; imperfect seal drains the Veil; crusade against rival lineages               |
-| ↳ **Just Age** (_Věk spravedlnosti_) | Last ~150 YBP → ~3 YBP | Order of the Just rules; mage church overthrown; Orionist worship continues; Ellesmere culling     |
-| **Age of Fragments** (_Věk úlomků_)  | ~3 YBP → present       | Jeod breaks the seal; Veil surges back; Erathon shards scatter; old powers and creatures awaken    |
+| Age                                 | Approx. span              | Character                                                                                          |
+| ----------------------------------- | ------------------------- | -------------------------------------------------------------------------------------------------- |
+| **Age of Harmony** (_Věk harmonie_) | Creation → Sundering      | Peak civilizations; Veil flows freely; dates unknown                                               |
+| **Age of Darkness** (_Věk temnoty_) | Sundering → pre-PS ~5,000 | Erathon feeds on Eloran; tainted Veil corrupts wielders; civilizations rise and collapse in cycles |
+| **Age of Orion** (_Orionův věk_)    | pre-PS ~5,000 → ~2,000    | Orion perfects the Art; binds Erathon; founds Orestor; disciples survive                           |
+| **Age of Salvation** (_Věk spásy_)  | pre-PS ~2,000 → ~155      | Apostolic Church era; imperfect seal drains the Veil; crusade against rival lineages               |
+| **Just Age** (_Věk spravedlnosti_)  | pre-PS ~155 → PS 0        | Order of the Just rules; Ellesmere culling; mage church overthrown; Orionist worship continues     |
+| **Age of Fragments** (_Věk úlomků_) | PS 0 → present            | Jeod breaks the seal; Veil surges back; Erathon shards scatter; old powers and creatures awaken    |
 
 ### Present Era Beats (within Age of Fragments)
 
-| When   | Event                                                                                             |
-| ------ | ------------------------------------------------------------------------------------------------- |
-| ~3 YBP | Ellesmere destroyed; Third Meredian War effectively ends; Triple Coalition seizes the archipelago |
-| ~1 YBP | Hlubina prologue                                                                                  |
-| 0      | Dragon Independence — Ansir, Act I                                                                |
+| When     | Event                                                                                                  |
+| -------- | ------------------------------------------------------------------------------------------------------ |
+| **PS 0** | Ellesmere destroyed; Third Meredian War ends; **Battle of Covel**; Triple Coalition holds core islands |
+| **PS 1** | **Hlubina** and **Dragon Independence** (Ansir) — both adventures; order TBD                           |
 
 ---
 
 ## Detailed History
 
-### ~5,000 Years Before Campaign — Age of Darkness → Orion's Rise
+### Age of Harmony — Creation to Sundering
+
+Eloran's first named era. Civilizations reach their peak while the Veil flows freely through the Paths. No reliable calendar survives; treat all dates as mythic order, not arithmetic.
+
+The **Accord** at universe scale and the **Age of Harmony** on Eloran describe the same pre-Sundering world from different scopes — see [[Cosmology]].
+
+### pre-PS ~5,000 — Age of Darkness → Orion's Rise
 
 The Veil on Eloran is tainted following the Sundering. Pre-Sundering beings (Erathon chief among them) feed on it. Veil users become corrupted and hungry for power. Civilizations are built and destroyed in cycles of war.
 
@@ -69,7 +91,7 @@ The Veil on Eloran is tainted following the Sundering. Pre-Sundering beings (Era
 
 **The Binding of Erathon.** Orion and his nine inner disciples perform the nine seals ritual. Erathon is bound into the crystal. The disciples survive.
 
-### ~2,000 Years Before Campaign — Sealing Ritual; Start of the Age of Salvation
+### pre-PS ~2,000 — Sealing Ritual; Start of the Age of Salvation
 
 Orion attempts the larger ritual: nine seals plus the 10th, to permanently seal Eloran from the Paths. Other parties of power are present alongside the disciples. The disciples betray him. Orion sacrifices his own Veil to force partial completion of the 10th seal. He vanishes into the depths beneath Ellesmere.
 
@@ -81,17 +103,15 @@ The Order of Maegi continues to grow through later generations of blood-ritual c
 
 With Eloran's Paths sealed and the Veil unable to replenish, magic slowly fades. Species wither. Civilizations that once practiced the Art lose access to it. The process takes thousands of years.
 
-The Apostolic Church grows autonomous — mage-governed in secret. The **Order of the Just** (_Řád Spravedlivých_), co-founded by Ilrusk and equipped with **Severite / Mlčoun**, eventually overthrows mage control of the church hierarchy (~150 YBP). They do not suppress Orionist devotion; they purge the mage-tainted institution and hunt Maegi lineages.
+The Apostolic Church grows autonomous — mage-governed in secret. The **Order of the Just** (_Řád Spravedlivých_), co-founded by Ilrusk and equipped with **Severite / Mlčoun**, grows into the force that will overthrow mage control of the church hierarchy.
 
-### ~150 Years Before Campaign — Start of the Just Age
+### pre-PS ~155 — End of Salvation; Start of the Just Age
 
-The Just Ones' coup installs a continental military dictatorship in place of apostolic mage rule. The faithful call the new era the **Just Age** (_Věk spravedlnosti_).
+The Order of the Just takes political control of Ellesmere and conducts the **Ellesmere culling** — a massacre of Maegi practitioners in the city. Many Maegi are killed. Jeod Isthar — at this point already a Maegi, perhaps a few centuries old — witnesses this. The grievance is personal, not generational.
 
-### ~100–150 Years Before Campaign — Ellesmere Culling
+The culling marks the templar coup and ends the **Age of Salvation**. The **Just Age** (_Věk spravedlnosti_) begins — a separate era, not a sub-period of Salvation. Continental military dictatorship replaces apostolic mage rule. Orionist devotion is not suppressed; the mage-tainted institution is.
 
-The Order of the Just takes political control of Ellesmere and conducts a culling of Maegi practitioners in the city. Many Maegi are killed. Jeod Isthar — at this point already a Maegi, perhaps a few centuries old — witnesses this. The grievance is personal, not generational.
-
-### ~3 Years Before Campaign — Ellesmere Explosion (Age of Fragments begins)
+### PS 0 — The Shattering (Age of Fragments begins)
 
 [[People/Jeod Isthar|Jeod Isthar]] — a Maegi up to ~500 years old, who witnessed the Templar rise and the Ellesmere culling — destroys the seal at Ellesmere. His **primary purpose** was to break the seal and restore the flow of the Veil. The catastrophic blast was **collateral**: he knew it would happen, took no precautions to spare Ellesmere, and accepted that the Templars and the civilian population alike would die.
 
@@ -99,20 +119,34 @@ The crystal shatters. Soul fragments — carrying Erathon's essence and Orion's 
 
 **Veil resurgence:** Magic strengthens worldwide. Forgotten creatures awaken — orcs, dryads, gith bands, and others press borders that had been quiet for centuries. The Templars of the Just reform under Branon Vznešený; magic becomes registered and tolerated under supervision in some states, hunted in others.
 
-The Third Meredian War's aftermath leaves the region in chaos; fragments begin finding hosts.
+The Third Meredian War's closing battles unfold in the same catastrophe window — see below. Fragments begin finding hosts.
 
 ---
 
-### Recent History (~10–30 years before campaign)
+### Meredian Wars
+
+Three wars over Meredian independence from the **[[Factions/United Empire|United Empire]]** (_Spojené císařství_). The Empire is the through-line: liberation, failed reconquest, and the final coalition invasion (with **[[Factions/Triskal|Triskal]]** in the Third War). Causes, key battles, and which power figures drove each conflict remain **open** — see [[Notes/Open Questions#Meredian Wars]].
+
+| War        | When       | Outcome (canon)                                                                                                                                                  |
+| ---------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| **First**  | pre-PS ~55 | **Liberation.** Meredie breaks away as the **Meredian Kingdom**. **Behemot I the Liberator** (_Behemot 1. Osvoboditel_) wins independence; \*\*[[Places/Lapiberg | Lapiberg]]\*\*'s forges play a major role. Behemot grants Lapiberg free-city status. |
+| **Second** | pre-PS ~45 | Empire attempts reconquest. **Fails** — Meredie emerges stronger, not weaker.                                                                                    |
+| **Third**  | **PS 0**   | Empire (with Triskal) tries again. Culminates in Ellesmere's destruction and archipelago battles. See below.                                                     |
+
+The independent Meredian royal line (house name **TBD**; founded by **Behemot I the Liberator** — _Behemot_ is a personal epithet, not the dynasty) rules pre-PS ~55 → PS 0 (~52 years) until the Third War shatters the line at Ellesmere.
+
+---
+
+### Recent History (pre-PS ~10–30)
 
 **Dragonborn emancipation in northern Eloran.**
-~20 years ago, the northern states (likely Meredie's sphere) abolished Dragonborn slavery. This caused population growth, the formation of isolated Dragonborn settlements, and retaliatory slave raids from southern powers. The slave trade with the southern Empire continues.
+~20 years before PS 0, the northern states (likely Meredie's sphere) abolished Dragonborn slavery. This caused population growth, the formation of isolated Dragonborn settlements, and retaliatory slave raids from southern powers. The slave trade with the southern Empire continues.
 
 ---
 
-### The Third Meredian War (~3 years before campaign)
+### The Third Meredian War (culminates PS 0)
 
-Meredie, a former Empire holding, declared independence and took the name the Meredian Kingdom. The sequence:
+The third Imperial attempt to retake **Meredie** — already independent since the First War (pre-PS ~55). Triskal joins on the Empire's side. The sequence:
 
 1. Triskal (allied with the Empire) simultaneously attacks Valdie. Valdie falls quickly.
 2. The Empire invades Meredie. The mountain fortress **Gutberg on the Red River** falls to the Empire, shocking everyone.
@@ -123,24 +157,29 @@ Meredie, a former Empire holding, declared independence and took the name the Me
 7. Von Edgeira secures flanks and supply lines and prepares a proper siege.
 8. Before the siege begins: **Ellesmere is destroyed overnight in a massive explosion**. The epicenter is the Marble Fortress of the Templars of the Just Ones. The central district is a crater. Much of the city collapses.
 
-**The Ellesmere explosion** shatters Erathon's prison crystal and scatters soul fragments across the continent. Anyone who handles a fragment is psychically influenced — violence, corruption, obsession. This is the hidden root cause of the Ellesmere catastrophe.
+**The Ellesmere explosion** shatters Erathon's prison crystal and scatters soul fragments across the continent. Anyone who handles a fragment is psychically influenced — violence, corruption, obsession. This is the hidden root cause of the Shattering.
 
-**Aftermath:**
+**Archipelago closing (same PS 0 window):**
+
+9. Naval battle at **Bezútěšný vršek** — simultaneous with the Ellesmere blast; tidal surge interrupts the fight.
+10. Survivors regroup at **Covel**. Triskal and the Empire press a combined assault.
+11. **Battle of Covel** — Torsten (first corsair consul, **[[People/Birger Aderen|Birger Aderen]]**'s nephew) dies defending the northern republic. Triskal betrays its Imperial allies mid-battle (as at Orestor). Coalition retreats; free-republic borders shrink back toward the Ansir peninsula.
+
+**Aftermath (PS 0 → PS 1):**
 
 - The war effectively ends without a clean victory for either side.
 - Meredie's noble class is decimated. Political power shifts to merchant-criminal networks.
-- **Eirys** rises in Orestor as actual power behind the council (guild leader + treasury).
+- Imperial eastern column massacred at **[[Places/Orestor|Orestor]]**; purkrabí signs Triskal **protectorate** (Triskal clears Imperial influence — does not storm the port). **Monarchist** coup on news of the deal; purkrabí + family hostages; **loyalists**, **republicans**, and mediators force a **city-republic compact**. **[[People/Eirys|Eirys]]** rises as treasurer and hidden broker.
 - Triskal keeps Valdie. The Empire is weakened but intact.
-- The chaos creates an opening for the **Triple Coalition of Free Corsair Republics** to declare independence and seize the Dragon Islands.
+- Valdie island holdings rebel; **Birger Aderen** (with Hedvábný, Stoupač) had helped form the corsair republic under **Torsten** as first consul; after Covel, the republic splits into three federative republics (Birger, Stoupač, Hedvábný).
+- The **[[Factions/Triple Coalition|Triple Coalition of Free Corsair Republics]]** holds core Dragon Islands territory into **PS 1**.
 
 ---
 
-### Campaign Prologue — Hlubina (~1 year before campaign)
+### PS 1 — Campaign Year
 
-Players arrive in Hlubina, a marshland village near Ellesmere (destroyed), as mercenaries with a refugee caravan. They end up working for Skrček (local crime boss). Imperial advance under **Captain Aemon Whiteoak**; **[[People/Kate|Kate]]** (Jeod's apprentice) recruits them into imperial service. See [[Campaigns/Hlubina]], [[People/Aemon Whiteoak]], [[People/Kate]].
+Both published adventures sit here — one year after the catastrophe. Exact order between them is **not fixed**.
 
----
+**Hlubina** — Players arrive in Hlubina, a marshland village near ruined Ellesmere, as mercenaries with a refugee caravan. Post-war context: displaced people, scarce food, decimated imperial garrison after Orestor. **Captain Aemon Whiteoak**; **[[People/Kate|Kate]]** (Jeod's apprentice) recruits them. See [[Campaigns/Hlubina]].
 
-### Campaign Start — Ansir
-
-Players are corsairs of the Free Republic in Ansir. Act I begins with weapon smuggling, the death of Commander Hemmond, and the Harry Mansion encounter. See [[Campaigns/Dragon Independence]].
+**Dragon Independence (Ansir)** — Players are corsairs of the Free Republic in Ansir. Act I: weapon smuggling, death of Commander Hemmond, Harry Mansion. See [[Campaigns/Dragon Independence]].

@@ -18,8 +18,28 @@ These are unresolved decisions that need DM input before the relevant content be
 - **Aemon Whiteoak (Aemon Bělodub)** — imperial captain at Hlubina only; Czech name is translation, not a separate Dragon Islands politician.
 - **Finnegan / Finnigan** — dryad antagonist in Dřevolhota concept; same as Finnigan from Whiteoak's logging quests near Hlubina?
 
+## Meredian Wars
+
+- **First War (pre-PS ~55)** — what triggered liberation? Empire provocation, succession crisis, economic squeeze, church pressure? Who besides Behemot I and **[[Places/Lapiberg|Lapiberg]]** mattered?
+- **Second War (pre-PS ~45)** — why did reconquest fail, and _how_ did it strengthen Meredie (alliances, fortifications, reforms, propaganda)? Which Imperial marshals or Meredian factions defined it?
+- **Third War (PS 0)** — why did the Empire try again now? Who in Triskal, the Empire, and Meredie chose war? Link to Von Edgeira, Von Nedur, Branon Vznešený, Eirys, Birger Aderen, Triple Coalition breakaway?
+- **Birger Aderen** — who killed Tristram? full Valdie royal genealogy
+- **Torsten** — first consul; Battle of **Covel** (PS 0)
+- **Meredian royal house** — dynasty name (**Behemot I** = liberator epithet, not the house); kings between First War and Ellesmere; last ruler's name
+- **Lapiberg** — does neutrality date from First War gratitude, Second War fear, or post-Shattering caution? Outcome of **Tyrovo kladivo** siege?
+
+## Orestor — PS 0 coup and PS 1 republic
+
+- **Purkrabí** (_Lord Warden of the Crown Port_) — personal name; cadet-branch relation to royal house
+- **Purkrabí's family** — names, ages, exact hostage location (Nebeská čtvrť?)
+- **Monarchist** leaders — who staged the coup when the protectorate deal was known?
+- **Loyalist** military commander — who speaks for the protectorate deal in PS 1?
+- **Republican** figurehead — who fronted the council / election rhetoric?
+- First **Konšelé** election or appointment — timing in PS 0 vs PS 1
+
 ## Campaign Structure
 
+- **PS 1 ordering** — Hlubina and Dragon Independence both sit in the first Post-Shattering year; which runs first, overlap, or are parallel branches?
 - Is the Hlubina prologue played as Session 0 railroaded experience, or fully defined as backstory?
 - Does Orestor appear as a playable location between Hlubina and Ansir, or only in backstory?
 - What is the exact sequence: Hlubina → Orestor → Ansir, or Hlubina → Ansir directly?
@@ -42,10 +62,10 @@ These are unresolved decisions that need DM input before the relevant content be
 
 - What is Erathon's goal in reopening the Fey gate, and what does he gain from it?
 - How much agency does Erathon have while fragmented — is he directing the corruption, or spreading passively?
-- Does Snowhite's fragment make him a vessel/conduit for Erathon, or is he merely corrupted?
+- Does Birger Aderen's fragment make him a vessel/conduit for Erathon, or is he merely corrupted?
 - What exactly is Temnoles — a region, a curse, an entity?
 - What is the nature of the Fey gate?
-- What does Snowhite's shadow-lord fragment actually grant/cost him?
+- What does Birger Aderen's shadow-lord fragment actually grant/cost him?
 
 ## Cosmology — Veiling
 
@@ -104,7 +124,7 @@ These are unresolved decisions that need DM input before the relevant content be
 ## Fragments
 
 - The fragments carry Erathon's essence + Orion's Veil residue (not the disciples)
-- The "shadow lord" in Snowhite's fragment — is it Erathon-aspect, Orion-residue, or something formed by their interaction?
+- The "shadow lord" in Birger Aderen's fragment — is it Erathon-aspect, Orion-residue, or something formed by their interaction?
 
 ## World History
 
@@ -112,11 +132,17 @@ These are unresolved decisions that need DM input before the relevant content be
 - What happened to Sir Hans (the templar hunting escaped Ellesmere mages)?
 - Is the Order of Maegi still active, and where are the surviving members?
 
+## Geography
+
+- Proper name for the **southern continent** (_jižní kontinent_)
+- **Nelbar** — role, location, relation to Carleon
+
 ## Vilmar
 
 - How much does Vilmar actively pursue taking the Dragon Islands after Hilua's death?
 - Who replaces Hilua as Vilmar's agent?
-- What are the Vilmaran necromancers (mentioned in Gibeška desert rumors) actually doing?
+- **Gibešská poušť / Akbesi** — Sayid Azolar, blood mages, Prophet Saybar: folklore or real?
+- Imperial–Vilmar naval balance on the southern continent
 
 ## Dračí ostrovy — Indigenous
 

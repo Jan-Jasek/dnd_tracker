@@ -16,9 +16,11 @@ source_evidence:
 
 # Hlubina — The Prologue Arc
 
-> Part of: [[Eloran]] | [[Veiling]] | Precedes: [[Campaigns/Dragon Independence]]
+> Part of: [[Eloran]] | [[Veiling]] | See also: [[Campaigns/Dragon Independence]], [[History/Timeline]]
 
-The campaign that precedes Dragon Independence. Players arrive as mercenaries protecting a refugee caravan and end up working for a local crime boss. Ends with imperial advance under **Captain Aemon Whiteoak (Aemon Bělodub)**; **Kate** (Jeod Isthar's apprentice) recruits them into imperial service.
+**PS 1** — one year after the Shattering. Same campaign year as **Dragon Independence**; sequence between the two adventures is not fixed.
+
+Players arrive as mercenaries protecting a refugee caravan and end up working for a local crime boss. Ends with imperial advance under **Captain Aemon Whiteoak (Aemon Bělodub)**; **Kate** (Jeod Isthar's apprentice) recruits them into imperial service.
 
 ## Setting
 

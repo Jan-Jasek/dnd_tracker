@@ -36,7 +36,7 @@ A Shadow can petition to replace their Spár (kill them quietly and competently)
 - **Žabák Hector** — district chief (Frog, Hector); shadows operate in his area
 - **Vrhač Sinebar** — another Spár
 - **Lišák Tadeus** — another Spár (the Fox, Tadeus)
-- **Carleon Sněhobílý** — his name appears with Tichošlápek's group in Orestor (pre-Dragon Islands)
+- **[[People/Birger Aderen|Birger Aderen]]** — import once misnamed Sněhobílý/Carleon; any Orestor link TBD
 
 ## Operational Methods
 

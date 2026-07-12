@@ -1,0 +1,53 @@
+---
+id: character.birger-aderen
+type: character
+status: canon
+plane: eloran
+universe: veiling
+faction: valdie
+locations:
+  - place.ansir
+  - place.dragon-islands
+source_evidence:
+  - imports/onenote/extracted/dra-nezavislost-one-on-26-04-2026.md
+---
+
+# Birger Aderen
+
+> Part of: [[Eloran]] | [[Factions/Valdie]] | [[Places/Ansir]] | [[Campaigns/Dragon Independence]]
+
+**Correct name:** Birger Aderen. Old imports mislabeled him **Carleon Sněhobílý** / **Snowhite** — not canon. **[[Places/Carleon|Carleon]]** is an Imperial city, not this character.
+
+**Epithets (not legal name):** _Sněhobílý_ (white-haired Valdie), _Staroch_ — used in coalition speech and import notes.
+
+## Family
+
+Bastard branch of the **[[Factions/Valdie|Valdie]]** royal house:
+
+| Relation | Name         | Status                                                                            |
+| -------- | ------------ | --------------------------------------------------------------------------------- |
+| Brother  | **Tristram** | **Killed** (circumstances TBD)                                                    |
+| Nephew   | **Torsten**  | **First consul** of the corsair coalition; **died at the Battle of Covel** (PS 0) |
+
+## Origin
+
+- **[[Factions/Valdie|Valdie]]** (_Valdie_) noble — **bastard branch** of the royal house
+- **Fugitive** (_uprchlý šlechtic_) after Valdie fell to Triskal in the Third Meredian War
+
+## Role
+
+Dominant political and military voice in the **[[Factions/Triple Coalition|Triple Coalition]]** after it forms — visible in **[[Places/Ansir|Ansir]]**, preaching against war and great powers before a harder line in Act II.
+
+Central figure in Act II/III of **Dragon Independence**:
+
+- Receives a fragment containing a **shadow lord's** soul
+- Determined to free the republic from **Triskal** and the **[[Factions/United Empire|Empire]]**
+- Seeks an ancient indigenous relic — access conditional on cleansing desecrated lands
+- Growing paranoia; import arc includes rivalry with **Stoupač** and **Hedvábný**
+
+## Open Questions
+
+- Why Tristram was killed and by whom
+- Torsten's full tenure as first consul before Covel
+- Whether Birger uses a public alias among corsairs
+- Shadow lord fragment — Erathon-aspect, Orion residue, or other

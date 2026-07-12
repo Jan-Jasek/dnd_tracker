@@ -14,35 +14,20 @@ player_doc: true
 
 > Part of: [[Eloran]]
 
-## Eloran Continent
+## Eloran Continent — States & Powers
 
-### Spojené císařství — United Empire
+Full faction files live under `Factions/` (only the Triple Coalition existed there before; continental powers are now split out):
 
-Rome/Byzantine inspiration. Home of Common, the dominant language. Expansionist. Fought Meredie to keep it as a territory. Allied with Triskal. Still active power; slavers in the south still deal in Dragonborn.
+| Power                                   | File                          | Language       |
+| --------------------------------------- | ----------------------------- | -------------- |
+| **United Empire** (_Spojené císařství_) | [[Factions/United Empire]]    | Common         |
+| **Meredie**                             | [[Factions/Meredie]]          | Meredic        |
+| **Triskal**                             | [[Factions/Triskal]]          | Triskal        |
+| **Valdie**                              | [[Factions/Valdie]]           | Veildic        |
+| **Vilmar**                              | [[Factions/Vilmar]]           | Vilmaran       |
+| **Triple Coalition** (archipelago)      | [[Factions/Triple Coalition]] | Common + local |
 
-Symbol: Red eagle on yellow field.
-
-### Triskal
-
-Dutch inspiration. Language: Triskal. Allied with the Empire in the Meredian war; conquered Valdie. Has interests in the Dragon Islands. One of the pressures that could absorb the Free Republic.
-
-Symbol: Red-white field with black wolf.
-
-### Meredie
-
-Czech/Prussian inspiration. Language: Meredic. Former Empire holding that fought for independence. Won the war militarily but lost the capital Ellesmere in the Erathon explosion. Political successor is the fractured city-state of Orestor. Eirys rose to power in the chaos.
-
-Symbol: White apple tree on green field.
-
-### Valdie
-
-British inspiration. Language: Veildic. Fell to Triskal during the last war. Location of Nialmar (mentioned in notes).
-
-### Vilmar
-
-Sultanate. Language: Vilmaran. Southern power. Hilua — a Vilmaran agent — was working to weaken the Free Republic and disrupt its truce with Triskal so Vilmar could take Ansir. Active antagonist power in the Dragon Islands arc.
-
-References: Vilmarský sultanát, Nebeský Vilmarion (Heavenly Vilmarion), necromancers from Vilmar reportedly have power over life and death (rumored in Gibeška desert).
+The **Meredian Wars** are Empire-driven attempts to hold or retake Meredie — see [[Factions/United Empire]] and [[History/Timeline#Meredian Wars]].
 
 ### Grundarmheld
 
@@ -52,10 +37,11 @@ Dwarf mountain kingdom. Extremely caste-locked. Exiled dwarves and their descend
 
 ## Dragon Archipelago
 
-See [[Dračí ostrovy]] for the archipelago hub. The Corsair Republic controls trade lanes on the **Azure Sea** (Azurové moře).
+See [[Dračí ostrovy]] for the archipelago hub. Regional map: `imports/onenote/images/dragon-islands-archipelago.png`. The Corsair Republic controls trade lanes on the **Azure Sea** (Azurové moře).
 
 - [[Ansir]] — coalition capital
-- [[Saltmarsh]] — port town; Xendra, Von Telten hostage plot
+- [[Saltmarsh]] — founding republic; Xendra, Von Telten hostage plot
+- [[Oros]] — founding republic
 - [[Mokrá Lhota]] — weapon-smuggling waypoint toward the front
 
 ### Temnoles
@@ -68,14 +54,24 @@ Smuggler's hideout; built on ruins of an old necromantic stone temple. Dagobar-s
 
 ---
 
+## Southern Continent
+
+See [[Regions/Southern Continent]] — Empire and Vilmar border **across the sea**; not part of the Eloran mainland.
+
+- [[Places/Gibešská poušť]] — desert; Imperial–Vilmar maritime frontier
+- [[Places/Akbesi]] — market town; necromancer rumors
+
+## Imperial Cities (Eloran continent)
+
+- [[Places/Carleon]] — císařské město
+- [[Places/Nelbar]] — císařské město
+
 ## Other Named Locations (from Lore / Orestor notes)
 
-| Name          | Notes                                                                                                                           |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| [[Ellesmere]] | Former capital of Meredie, called "City of Mages"; destroyed in the Erathon explosion; survivors scattered across the continent |
-| Dol Andor     | Fell during the Meredian war; Von Edgeira took it quickly                                                                       |
-| Gutberg       | Meredian mountain fortress on the Red River; fell to the Empire                                                                 |
-| Gibeška poušť | Desert region; town Akbesi; rumors of Vilmaran necromancers                                                                     |
-| Carleon       | Empire location (Carleon Snowhite's origin)                                                                                     |
-| Červánkov     | Mentioned in Meredie notes                                                                                                      |
-| Lapiberg      | Mentioned in Meredie notes                                                                                                      |
+| Name                | Notes                                                                                     |
+| ------------------- | ----------------------------------------------------------------------------------------- |
+| [[Ellesmere]]       | Former capital of Meredie; imperial jewel; destroyed in the Erathon explosion             |
+| Dol Andor           | Fell during the Meredian war; Von Edgeira took it quickly                                 |
+| Gutberg             | Meredian mountain fortress on the Red River; fell to the Empire                           |
+| Červánkov           | Mentioned in Meredie notes                                                                |
+| [[Places/Lapiberg]] | Dwarven free city; old name _Zarvilar_ retracted; forges aided First War; neutral at PS 1 |

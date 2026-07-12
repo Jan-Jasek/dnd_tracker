@@ -14,3 +14,5 @@ location: place.saltmarsh
 **Canon status:** Canon — custom Saltmarsh map adapted for the campaign.
 
 Saltmarsh is the port town where Xendra operates and where Captain Von Telten's family is held hostage. Use for Act I resolution and any Saltmarsh-set scenes.
+
+**Not** the Dragon Isles archipelago map — that is [[map-dragon-islands-brief]] (`dragon-islands-archipelago.png`), where Saltmarsh appears as one port label among many.

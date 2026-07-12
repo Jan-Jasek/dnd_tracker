@@ -31,11 +31,11 @@ Most common folk who pray to the Saint are Orionists in practice, whether or not
 
 A cover-up from day one. The disciples betrayed Orion during the sealing ritual and needed a religion that made their version of events the only acceptable one.
 
-For most of the **Age of Salvation** (_Věk spásy_), this church was the continental faith — secretly steered by Veil-wielders who knew the truth. It launched the crusade against rival lineages (see _Krvavá válka druidů_ in legend).
+For the **Age of Salvation** (_Věk spásy_, pre-PS ~2,000 → ~155), this church was the continental faith — secretly steered by Veil-wielders who knew the truth. It launched the crusade against rival lineages (see _Krvavá válka druidů_ in legend).
 
 ## Fall
 
-The [[Organisations/Order of the Just|Order of the Just]] (_Řád Spravedlivých_) overthrew mage control of the church hierarchy ~150 years before campaign start. The Apostolic Church as a governing power ended; what remained was faith without the mage oligarchy — and the Just Ones' military regime on top.
+The [[Organisations/Order of the Just|Order of the Just]] (_Řád Spravedlivých_) overthrew mage control of the church hierarchy pre-PS ~155, marked by the Ellesmere culling. The Apostolic Church as a governing power ended; what remained was faith without the mage oligarchy — and the Just Ones' military regime on top.
 
 Orionist belief persisted. The institution did not.
 

@@ -18,17 +18,21 @@ player_doc: true
 
 > Part of: [[Eloran]]
 
-The political entity that controls the Dragon Archipelago. Broke away from the major powers during the chaos of the Third Meredian War.
+The political entity that controls the **Dragon Isles** (_Dračí ostrovy_). Broke away from Empire/Triskal during the chaos of the Third Meredian War.
 
 ## Structure
 
-Three free corsair republics in coalition. Capital: [[Places/Ansir]].
+Three **founding ports** — free corsair republics in coalition:
+
+- [[Places/Ansir]] — capital
+- [[Places/Saltmarsh]] — founding port
+- [[Places/Oros]] — founding port
 
 The Republic uses a military-civic structure with commanders (Hemmond, then Kaplan), a council (Harry was a council member), and corsair captains.
 
 ## Key Figures
 
-- **[[People/Carleon Snowhite|Carleon Sněhobílý]]** — dominant political and military voice after the coalition forms; wants the republic free of Triskal and the Empire. Concerned with legitimacy, but increasingly paranoid as Act II progresses.
+- **[[People/Birger Aderen|Birger Aderen]]** — Valdie fugitive noble; dominant voice after the coalition forms; nephew **Torsten** was **first consul** (killed at **Covel**). Wants the republic free of Triskal and the Empire; increasingly paranoid in Act II.
 - **Harry** — council member; possessed/corrupted; Act I antagonist
 - **Hemmond** — commander; killed during Act I
 - **Kaplan** — captain; takes command after Hemmond
