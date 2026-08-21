@@ -2,7 +2,6 @@
 name: world
 description: Use when developing a custom DND world, campaign setting, region, city, cosmology, history, pantheon, culture, lore bible, or worldbuilding canon from brainstorming, imported notes, player actions, or campaign needs.
 ---
-
 # World
 
 Use this skill to develop custom DND world canon while preserving uncertainty, playability, and future campaign usefulness.
@@ -73,6 +72,11 @@ Avoid:
 - Settled answers for mysteries the DM has not chosen
 - Lore that cannot affect play
 - Collapsing contradictory imported notes into one answer without review
+- Editorial transition language that records discarded drafts (`no longer`, `rather than` the previous fact, `**Resolved:** X not Y`)
+
+## Present-State Writing
+
+Canon describes the current world. When the DM changes a fact, rewrite the sentence as the new present truth. Do not argue with the previous draft. In-world history (a schism, a coup, a death) is story and stays; "we used to classify this as a branch" is decision history and does not. Move resolved Open Questions out of that file and into the relevant canon page.
 
 ## Canon Handling
 

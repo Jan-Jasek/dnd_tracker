@@ -71,6 +71,19 @@ Timeline (also exists at Universe level and per-Plane level)
 - Separate public belief, hidden truth, and contested interpretation when useful.
 - Favor playable consequences over encyclopedia prose.
 
+## Present-State Writing
+
+Canon files describe the **current state of the world**. They are not a changelog of DM or agent decisions.
+
+When a fact is updated:
+
+- Rewrite the passage as the new present truth.
+- Do not keep traces of the discarded draft: `no longer`, `rather than X`, `used to be`, `this replaces`, `previously`, `not TBD anymore`, `**Resolved:** Y rather than X`.
+- In-world historical change (wars, schisms, coups, deaths) belongs in Timeline and origin sections — that is story. Editorial memory of "we used to say X" does not.
+- If a superseded draft must be kept, move it to `ideas/` or mark `status: contradicted`. Do not leave a palimpsest in canon prose.
+
+`Notes/Open Questions` lists **unresolved** items only. Once decided, delete the question and write the answer as present fact in the relevant file.
+
 ## Obsidian Graph Linking Conventions
 
 These rules ensure the Obsidian graph is navigable and centers on the right nodes:

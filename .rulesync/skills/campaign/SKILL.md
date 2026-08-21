@@ -13,7 +13,7 @@ Use this skill to turn world canon into playable campaign structure and to keep 
 2. **Ask before generating.** Check what the DM already knows but hasn't written: current in-world date, last session state, open threads, NPC positions. 2–3 questions max before producing output.
 3. Check existing world canon before inventing any new campaign facts.
 4. Separate campaign-facing truth from hidden world truth.
-5. Convert player actions into timeline events, changed NPC positions, faction pressure, rumors, and future hooks.
+5. Convert player actions into timeline events, changed NPC positions, faction pressure, rumors, and future hooks. Write the **current** campaign situation; do not keep a history of superseded prep or DM decision traces (`no longer`, `rather than` the previous plan).
 6. Keep session prep practical: scenes, stakes, likely NPCs, clues, encounters, choices, and consequences.
 7. Use templates in `templates/` when creating new campaign files.
 8. Leave generated prep as `draft` or `candidate` until the DM promotes it.
