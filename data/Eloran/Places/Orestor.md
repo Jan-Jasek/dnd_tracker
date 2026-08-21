@@ -35,9 +35,13 @@ Sequence agreed for canon:
 7. Purkrabí and family taken **hostage**, not executed — highest surviving royal kin in the region after Ellesmere
 8. **Republican** faction (guilds, harbor interests, democratic rhetoric) **exploits** the monarchist coup — pushes councils and elections as propaganda, not as a spontaneous popular revolution
 9. **Loyalist** faction (veterans, garrison, officers) holds the **largest military force** — backs the purkrabí's protectorate deal as the only order left
-10. None of the three can hold the whole city alone; war refugees and existing powers (**[[Organisations/Mlcenlivy|Mlčenliví]]**, **Bořiči**, **Zvěstovatelé**, **Spravedliví**) broker a **compromise** so the port does not burn
+10. None of the three can hold the whole city alone; war refugees and existing powers (**[[Organisations/Mlcenlivy|Mlčenliví]]**, **Bořiči**, **Zvěstovatelé**, **[[Organisations/Orion's Wrath|Orionův hněv]]**) broker a **compromise** so the port does not burn
 
 **PS 1:** Cold truce in the **Ellesmere lowlands** (north Triskal / south Empire / centre contested). Orestor is a **de facto independent city-state** on paper; protektorát and crown both claim it, neither controls it fully.
+
+## Campaign Window
+
+The **Orestor campaign** plays in late winter / early spring, approximately **PS 2 M02–M03**. The city-republic compact above is the campaign's starting situation. See [[Campaigns/Orestor]].
 
 ## The Three Power Blocs (PS 1)
 
@@ -82,12 +86,10 @@ Brokers who forced the compact when all three blocs would otherwise destroy the 
 
 ## Other Factions (Erathon fragment era)
 
-See also [[Organisations/Mlcenlivy]].
-
-- **Orionovi Zvěstovatelé** — magic-positive; Orion's legacy; hunt fragments
-- **Orionův hněv** — paladins sensing fragments in catacombs (**Jaskell**, **Jimmy**; Arci-Templar **Lucian Tillibor**)
+- **[[Organisations/Orion's Wrath|Orionův hněv]]** — the port's templars; hunt fragments in the catacombs
+- **Orionovi Zvěstovatelé** — magic-positive; Orion's legacy; rival claim on fragments
 - **Bořiči** — council power via Euron
-- **Spravedliví** — Meredian survivors' branch; want fragments
+- **Mlčenliví** — see [[Organisations/Mlcenlivy]]
 
 ## The Erathon Fragment Plot
 

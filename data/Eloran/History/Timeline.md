@@ -16,7 +16,7 @@ source_evidence:
 
 This file is the **Eloran plane chronology** — ages, wars, and campaign events. Universe history (the Accord, the Sundering, pre-Sundering beings) lives in [[Cosmology]] and [[Veiling]].
 
-**Campaign present** = **PS 1** — first year Post-Shattering. Both **Hlubina** and **Dragon Independence** (Ansir) play in this year; exact sequencing between them is not fixed yet.
+**Campaign-era anchors** span **PS 0–PS 2**. Campaigns sit in approximate seasonal/month windows; relative timing is canon, not exact calendar dates.
 
 ### Dating Convention — PS (Post-Shattering)
 
@@ -26,11 +26,15 @@ This file is the **Eloran plane chronology** — ages, wars, and campaign events
 
 **Wiki / agent notation:** **PS** = _Post-Shattering_ / _po Roztříštění_ — years counted from the Shattering.
 
-| Notation        | Meaning                                                                           |
-| --------------- | --------------------------------------------------------------------------------- |
-| **PS 0**        | The Shattering — seal broken, city destroyed, Third Meredian War effectively ends |
-| **PS 1**        | Present campaign year (both adventures)                                           |
-| **pre-PS (~N)** | Roughly _N_ years before the Shattering                                           |
+**Month notation:** `M01`–`M12` are approximate calendar-month positions within a PS year. They are seasonal anchors, not exact dates and not a count of months since the Shattering.
+
+| Notation         | Meaning                                                                       |
+| ---------------- | ----------------------------------------------------------------------------- |
+| **PS 0**         | Year of the Shattering — seal broken, city destroyed, Third Meredian War ends |
+| **PS 1**         | First full year after the Shattering; Hlubina and Ansir campaign windows      |
+| **PS 2**         | Second year after the Shattering; Orestor campaign window                     |
+| **PS N M01–M12** | Approximate months within a Post-Shattering year                              |
+| **pre-PS (~N)**  | Roughly _N_ years before the Shattering                                       |
 
 Deep world ages still use approximate **pre-PS** spans (e.g. pre-PS ~5,000 for Orion's rise). Calibrate within ranges.
 
@@ -68,10 +72,13 @@ Two scales nest inside each other:
 
 ### Present Era Beats (within Age of Fragments)
 
-| When     | Event                                                                                                  |
-| -------- | ------------------------------------------------------------------------------------------------------ |
-| **PS 0** | Ellesmere destroyed; Third Meredian War ends; **Battle of Covel**; Triple Coalition holds core islands |
-| **PS 1** | **Hlubina** and **Dragon Independence** (Ansir) — both adventures; order TBD                           |
+| When             | Event                                                                                                  |
+| ---------------- | ------------------------------------------------------------------------------------------------------ |
+| **PS 0 M08–M09** | Ellesmere destroyed; Third Meredian War ends; **Battle of Covel**; Triple Coalition holds core islands |
+| **PS 0 M11–M12** | **Lapiberg campaign** — winter campaign immediately after the Shattering                               |
+| **PS 1 M05–M06** | **Hlubina campaign** — late spring, near ruined Ellesmere                                              |
+| **PS 1 M07–M12** | **Dragon Independence campaign** — summer through winter, around Ansir                                 |
+| **PS 2 M02–M03** | **Orestor campaign** — late winter / early spring                                                      |
 
 ---
 
@@ -165,21 +172,32 @@ The third Imperial attempt to retake **Meredie** — already independent since t
 10. Survivors regroup at **Covel**. Triskal and the Empire press a combined assault.
 11. **Battle of Covel** — Torsten (first corsair consul, **[[People/Birger Aderen|Birger Aderen]]**'s nephew) dies defending the northern republic. Triskal betrays its Imperial allies mid-battle (as at Orestor). Coalition retreats; free-republic borders shrink back toward the Ansir peninsula.
 
-**Aftermath (PS 0 → PS 1):**
+**Immediate aftermath (PS 0):**
 
-- The war effectively ends without a clean victory for either side.
-- Meredie's noble class is decimated. Political power shifts to merchant-criminal networks.
-- Imperial eastern column massacred at **[[Places/Orestor|Orestor]]**; purkrabí signs Triskal **protectorate** (Triskal clears Imperial influence — does not storm the port). **Monarchist** coup on news of the deal; purkrabí + family hostages; **loyalists**, **republicans**, and mediators force a **city-republic compact**. **[[People/Eirys|Eirys]]** rises as treasurer and hidden broker.
-- Triskal keeps Valdie. The Empire is weakened but intact.
-- Valdie island holdings rebel; **Birger Aderen** (with Hedvábný, Stoupač) had helped form the corsair republic under **Torsten** as first consul; after Covel, the republic splits into three federative republics (Birger, Stoupač, Hedvábný).
-- The **[[Factions/Triple Coalition|Triple Coalition of Free Corsair Republics]]** holds core Dragon Islands territory into **PS 1**.
+- The war ends without a clean victory for either side. **Meredie's** noble class is decimated, the royal line is effectively ended, and political power begins shifting toward merchant, criminal, and military networks.
+- At **[[Places/Orestor|Orestor]]**, Triskal massacres the Imperial eastern column, then negotiates a **protectorate** with the purkrabí. When the deal becomes known, monarchists seize the purkrabí and his family. Loyalists, republicans, refugees, and mediators force a city-republic compact rather than allowing the port to fall into another full-scale battle.
+- In the **Dragon Archipelago**, the battle at **Bezútěšný vršek** (_Bleak Hill_) is interrupted by a tidal surge at roughly the same time as the Ellesmere blast. Survivors regroup at **Covel**. Triskal turns on its Imperial allies, **Torsten** dies, and the corsair forces retreat toward the Ansir peninsula.
+- The Veil surges back into Eloran. Forgotten creatures and hostile powers begin reappearing, and the first Erathon fragments begin finding hosts. Refugee streams move south and east from the ruined Ellesmere region.
+
+**Following weeks to months (late PS 0):**
+
+- Triskal retains **Valdie** on the continent and regains most of the Dragon Islands, while the Empire remains weakened but intact. The betrayal at Orestor and Covel fractures the former alliance.
+- Former Valdie island holdings consolidate into the **[[Factions/Triple Coalition|Triple Coalition of Free Corsair Republics]]**. After Torsten's death, the coalition settles into three federative republics associated with **Birger Aderen**, **Hedvábný**, and **Stoupač**. Its surviving core holds into PS 1.
+- Triskal's military-religious order reforms under **Branon Vznešený**. The Empire blames the **Order of the Just** and outlaws it; Triskal continues using the Just Ones as state enforcers. **Tyrovo kladivo** (_Tyr's Hammer_) moves against neutral **[[Places/Lapiberg|Lapiberg]]**, while orc incursions pressure the western lowlands.
+- The former Meredian heartland remains politically fractured. Refugee movement, the disappearance of central authority, Templar hunts for surviving Maegi, and local military strongmen create the conditions seen in **[[Places/Hlubina|Hlubina]]** and the Ellesmere lowlands.
 
 ---
 
-### PS 1 — Campaign Year
+### PS 1 — First Post-Shattering Year
 
-Both published adventures sit here — one year after the catastrophe. Exact order between them is **not fixed**.
+**PS 1 M05–M06 — Hlubina** — Late spring. Players arrive in Hlubina, a marshland village near ruined Ellesmere, as mercenaries with a refugee caravan. Post-war context: displaced people, scarce food, decimated imperial garrison after Orestor. **Captain Aemon Whiteoak**; **[[People/Kate|Kate]]** (Jeod's apprentice) recruits them. See [[Campaigns/Hlubina]].
 
-**Hlubina** — Players arrive in Hlubina, a marshland village near ruined Ellesmere, as mercenaries with a refugee caravan. Post-war context: displaced people, scarce food, decimated imperial garrison after Orestor. **Captain Aemon Whiteoak**; **[[People/Kate|Kate]]** (Jeod's apprentice) recruits them. See [[Campaigns/Hlubina]].
+**PS 1 M07–M12 — Dragon Independence (Ansir)** — Summer through winter. Players are corsairs of the Free Republic in Ansir. Act I: weapon smuggling, death of Commander Hemmond, Harry Mansion. See [[Campaigns/Dragon Independence]].
 
-**Dragon Independence (Ansir)** — Players are corsairs of the Free Republic in Ansir. Act I: weapon smuggling, death of Commander Hemmond, Harry Mansion. See [[Campaigns/Dragon Independence]].
+### PS 2 — Second Post-Shattering Year
+
+**PS 2 M02–M03 — Orestor campaign** — Late winter / early spring. Starting situation: the city-republic compact of PS 0–PS 1. See [[Campaigns/Orestor]].
+
+### Beyond PS 2
+
+Undated long-term pressures: spread of Erathon fragments, surviving Maegi and the Order of the Just, political rebuilding of Meredie and the Dragon Islands, Erathon's attempt to reopen the Fey gate.

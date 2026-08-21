@@ -2,6 +2,7 @@
 id: campaign.hlubina
 type: campaign
 status: canon
+play_status: completed
 plane: eloran
 universe: veiling
 locations:
@@ -12,13 +13,14 @@ related:
   - character.kate
 source_evidence:
   - imports/onenote/extracted/meredie-one-on-01-03-2023.md
+campaign_window: "PS 1 M05–M06 (approx.)"
 ---
 
 # Hlubina — The Prologue Arc
 
 > Part of: [[Eloran]] | [[Veiling]] | See also: [[Campaigns/Dragon Independence]], [[History/Timeline]]
 
-**PS 1** — one year after the Shattering. Same campaign year as **Dragon Independence**; sequence between the two adventures is not fixed.
+**PS 1 M05–M06 — played campaign.** Late spring of the first full year after the Shattering, in the marshlands near ruined Ellesmere.
 
 Players arrive as mercenaries protecting a refugee caravan and end up working for a local crime boss. Ends with imperial advance under **Captain Aemon Whiteoak (Aemon Bělodub)**; **Kate** (Jeod Isthar's apprentice) recruits them into imperial service.
 
@@ -92,4 +94,4 @@ Cave encounter: 1× Ghoul (resistances) + 3× zombie. When the ghoul is killed i
 
 ## Resolution
 
-Skrček stages a night raid on the Liberators' position (using Ilis to set fire to the inn/tavern). A large battle breaks out. Regardless of outcome, the next morning an imperial advance guard arrives under **Captain Aemon Whiteoak (Aemon Bělodub)**. **Kate** recruits the players into imperial service — handoff toward [[Campaigns/Dragon Independence]].
+Skrček stages a night raid on the Liberators' position (using Ilis to set fire to the inn/tavern). A large battle breaks out. Regardless of outcome, the next morning an imperial advance guard arrives under **Captain Aemon Whiteoak (Aemon Bělodub)**. **Kate** recruits the players into imperial service.

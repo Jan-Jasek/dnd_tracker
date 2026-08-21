@@ -2,6 +2,7 @@
 id: campaign.dragon-independence
 type: campaign
 status: canon
+play_status: completed
 plane: eloran
 universe: veiling
 locations:
@@ -14,13 +15,14 @@ related:
 source_evidence:
   - imports/onenote/extracted/dra-nezavislost-one-on-26-04-2026.md
   - imports/onenote/extracted/dra-nezavislost-one-on-01-03-2023.md
+campaign_window: "PS 1 M07–M12 (approx.)"
 ---
 
 # Dragon Independence
 
 > Part of: [[Eloran]] | [[Veiling]] | See also: [[Places/Ansir]], [[Factions/Triple Coalition]], [[People/Birger Aderen]], [[History/Timeline]]
 
-**PS 1** — one year after the Shattering. Same campaign year as **Hlubina**; sequence between the two adventures is not fixed.
+**PS 1 M07–M12 — played campaign.** Summer through winter of the first full year after the Shattering. Set in the Dragon Archipelago around Ansir, capital of the Free Corsair Republic.
 
 Working English title: Dragon Independence. Set in the Dragon Archipelago around Ansir, the capital of the Free Corsair Republic.
 

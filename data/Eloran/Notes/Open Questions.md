@@ -28,6 +28,12 @@ These are unresolved decisions that need DM input before the relevant content be
 - **Meredian royal house** — dynasty name (**Behemot I** = liberator epithet, not the house); kings between First War and Ellesmere; last ruler's name
 - **Lapiberg** — does neutrality date from First War gratitude, Second War fear, or post-Shattering caution? Outcome of **Tyrovo kladivo** siege?
 
+## Orion's Wrath
+
+- Final name beyond _Orionův hněv_
+- Does continental Řád Spravedlivých or Branon's Tyův řád treat them as deserters or excommunicates?
+- Hard limits on recruited Veil-talent (Jimmy and others)
+
 ## Orestor — PS 0 coup and PS 1 republic
 
 - **Purkrabí** (_Lord Warden of the Crown Port_) — personal name; cadet-branch relation to royal house
@@ -39,10 +45,9 @@ These are unresolved decisions that need DM input before the relevant content be
 
 ## Campaign Structure
 
-- **PS 1 ordering** — Hlubina and Dragon Independence both sit in the first Post-Shattering year; which runs first, overlap, or are parallel branches?
 - Is the Hlubina prologue played as Session 0 railroaded experience, or fully defined as backstory?
-- Does Orestor appear as a playable location between Hlubina and Ansir, or only in backstory?
-- What is the exact sequence: Hlubina → Orestor → Ansir, or Hlubina → Ansir directly?
+- How should the outcomes of Hlubina and Dragon Independence be cross-referenced in the shared PS 1 timeline and faction state?
+- How much of Orestor's PS 2 situation is a consequence of the PS 1 campaigns?
 
 ## Dragon Independence — Political
 
@@ -98,6 +103,7 @@ These are unresolved decisions that need DM input before the relevant content be
 
 ## Apostolic Church & Order of the Just
 
+- **WIP:** `ideas/eloran/order-of-the-just-wip.md` — tři vrstvy pravdy (doktrína vs. instituce vs. zakladatelská lež), Veilbreaker, hlubinné vězení ~150 let, Tillibor / Orionův hněv
 - How much do current Just Ones know of the founding cover-up?
 - Are there Orionist factions that suspect the apostolic mage oligarchy — or blame all clergy equally?
 - Does any templar know Severite was forged from Veil knowledge by Ilrusk?

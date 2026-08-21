@@ -21,7 +21,7 @@ The material plane of the [[Veiling]]. Largely sealed from the Veil since Orion'
 ## Start Here
 
 - [[World]] — world bible, magic level, pantheon, race summary
-- [[History/Timeline]] — world ages, PS dating (Post-Shattering; Shattering = PS 0), campaign year PS 1
+- [[History/Timeline]] — world ages, PS dating (Post-Shattering; Shattering = PS 0), campaign windows PS 0–PS 2
 - [[Notes/Open Questions]] — unresolved DM decisions
 
 ## Player Reference
@@ -30,8 +30,9 @@ The material plane of the [[Veiling]]. Largely sealed from the Veil since Orion'
 
 ## Campaigns
 
-- [[Campaigns/Hlubina]] — prologue arc (marshland village, Skrček, refugee caravan)
-- [[Campaigns/Dragon Independence]] — main campaign (Ansir, Free Republic, Acts I–III)
+- [[Campaigns/Hlubina]] — PS 1 M05–M06; marshland prologue
+- [[Campaigns/Dragon Independence]] — PS 1 M07–M12; Ansir, Free Republic
+- [[Campaigns/Orestor]] — PS 2 M02–M03; city-republic, fragment hunt
 
 ## Places
 
@@ -65,6 +66,7 @@ The material plane of the [[Veiling]]. Largely sealed from the Veil since Orion'
 - [[Organisations/Church of Orion]] — faith index (Orionists, two eras)
 - [[Organisations/Apostolic Church of Orion]] — founding mage-governed church
 - [[Organisations/Order of the Just]] — templar regime; Just Age
+- [[Organisations/Orion's Wrath]] — Orestor schism from the Just Ones; fragment hunters
 - [[Organisations/Order of Maegi]] — mage order; founded by Orion; descendants now hunted
 - [[Organisations/Mlcenlivy]] — the Silents; Orestor's thieves' guild
 

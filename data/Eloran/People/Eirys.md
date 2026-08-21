@@ -13,7 +13,7 @@ source_evidence:
 
 # Eirys
 
-> Part of: [[Eloran]] | [[Places/Orestor]] | [[Organisations/Mlcenlivy|Mlčenliví]]
+> Part of: [[Eloran]] | [[Places/Orestor]] | [[Organisations/Mlcenlivy|Mlčenliví]] | [[Campaigns/Orestor]]
 
 The true leader of the Mlčenliví (Silents) thieves' guild in Orestor, and simultaneously the Treasurer of the city's closed council. Her public face is that of a successful merchant; her actual power base is criminal.
 

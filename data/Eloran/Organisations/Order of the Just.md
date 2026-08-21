@@ -6,6 +6,7 @@ universe: veiling
 plane: eloran
 related:
   - organisation.apostolic-church-of-orion
+  - organisation.orions-wrath
   - character.orion
 source_evidence:
   - imports/onenote/extracted/lore-one-on-01-03-2023.md
@@ -45,11 +46,14 @@ Golden plate gauntlet on a white field. Senior templars bear stars above the gau
 
 Elite militant faction. Symbol: gauntlet crossed with warhammer. Hunts the most dangerous Veil-wielders, Erathon fragments, and Ellesmere survivors.
 
-### Branches
+### Branches & Garrisons
 
-- **Orion's Wrath** (_Orionův hněv_) — [[Places/Orestor]]; templars **Jaskell**, **Jimmy**; Arci-Templar **Lucian Tillibor**
 - **Marble Fortress** (_Mramorová pevnost_) — Ellesmere headquarters until the explosion
-- Meredic and Imperial garrisons across the continent; paladin orders in shattered borderlands (e.g. Hlubina remnants)
+- Meredic and Imperial garrisons across the continent; paladin remnants in shattered borderlands (e.g. Hlubina)
+
+### Orion's Wrath (Orestor)
+
+Meredian templars who survived the Shattering formed **[[Organisations/Orion's Wrath|Orion's Wrath]]** (_Orionův hněv_) in **[[Places/Orestor|Orestor]]**. In the founding they killed brothers who would not abandon Marble Fortress procedure. The continental Order has no garrison in the port. See that file for doctrine.
 
 ## Severite / Mlčoun
 
