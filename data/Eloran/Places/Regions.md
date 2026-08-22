@@ -16,7 +16,7 @@ player_doc: true
 
 ## Eloran Continent — States & Powers
 
-Full faction files live under `Factions/` (only the Triple Coalition existed there before; continental powers are now split out):
+Full faction files live under `Factions/`:
 
 | Power                                   | File                          | Language       |
 | --------------------------------------- | ----------------------------- | -------------- |

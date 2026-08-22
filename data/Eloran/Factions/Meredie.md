@@ -43,7 +43,7 @@ The **[[Organisations/Order of the Just|Order of the Just]]** culls Ellesmere an
 
 ## The three named wars
 
-Later Imperial attempts to seize the fortress-kingdom, not the original liberation.
+Imperial campaigns against independent templar-Meredie. Bořivoj's unification is pre-PS ~300.
 
 | War        | When       | Outcome                                                                 |
 | ---------- | ---------- | ----------------------------------------------------------------------- |

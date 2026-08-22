@@ -16,9 +16,7 @@ source_evidence:
 
 > Part of: [[Eloran]] | [[Factions/Valdie]] | [[Places/Ansir]] | [[Campaigns/Dragon Independence]]
 
-**Correct name:** Birger Aderen. Old imports mislabeled him **Carleon Sněhobílý** / **Snowhite** — not canon. **[[Places/Carleon|Carleon]]** is an Imperial city, not this character.
-
-**Epithets (not legal name):** _Sněhobílý_ (white-haired Valdie), _Staroch_ — used in coalition speech and import notes.
+Valdie bastard. Coalition speech calls him **_Sněhobílý_** (white-haired) and **_Staroch_**. **[[Places/Carleon|Carleon]]** is an Imperial city on the Eloran continent — not his home.
 
 ## Family
 

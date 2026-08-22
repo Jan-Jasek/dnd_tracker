@@ -18,7 +18,7 @@ Imperial city (_císařské město_) in the **[[Factions/United Empire|United Em
 ## Canon Links
 
 - Southern Imperial cultures personify **Selune** as goddess of pilgrims — a belief associated with imperial southern traditions (see Garcilaso von Vega's skeptical account in import lore)
-- Not the origin of **[[People/Birger Aderen|Birger Aderen]]** — old import misname _Carleon Sněhobílý_ is retracted
+- **[[People/Birger Aderen|Birger Aderen]]** is a Valdie noble in Ansir. He is not from this city.
 
 ## Open Questions
 

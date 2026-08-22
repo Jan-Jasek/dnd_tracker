@@ -142,7 +142,7 @@ The Third Meredian War's closing battles unfold in the same catastrophe window �
 
 ### Meredian Wars
 
-The **named** wars are three Imperial campaigns against independent **templar-Meredie** — not the original unification. Bořivoj's liberation is pre-PS ~300. The Empire is the Maegi pole; the Order has no authority there. Taking Ellesmere would mean destroying the templars. Geography makes seizure a grind. A century of that effort, then the Shattering, leaves the Empire spent.
+The **named** wars are three Imperial campaigns against independent **templar-Meredie**. Bořivoj unified the kingdom pre-PS ~300. The Empire is the Maegi pole; the Order has no authority there. Taking Ellesmere would mean destroying the templars. Geography makes seizure a grind. Decades of that effort, then the Shattering, leave the Empire spent.
 
 | War        | When       | Outcome                                                                                                      |
 | ---------- | ---------- | ------------------------------------------------------------------------------------------------------------ |

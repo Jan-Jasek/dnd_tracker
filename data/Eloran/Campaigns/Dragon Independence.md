@@ -117,7 +117,7 @@ Players travel to the Dragon Islands proper on an imperial ship (Šupina or Levi
 
 First Officer Vigo or Agitus — tall, sinewy 40-year-old. Captain is an older stout imperial in ornate clothes.
 
-**[[People/Birger Aderen|Birger Aderen]]** — Valdie fugitive noble (bastard royal branch). Receives a fragment containing a shadow lord's soul. Determined to free the republic from both Triskal and the United Empire. Ancient indigenous relic may offer a path — if desecrated lands are cleansed first. (_Import misname Carleon Sněhobílý retracted._)
+**[[People/Birger Aderen|Birger Aderen]]** — Valdie fugitive noble (bastard royal branch). Receives a fragment containing a shadow lord's soul. Determined to free the republic from both Triskal and the United Empire. Ancient indigenous relic may offer a path — if desecrated lands are cleansed first.
 
 **Banyu** — spiritual/tribal leader. Sent Mego to spy on the dark-eyed who joined Aditya.
 

@@ -48,7 +48,7 @@ The material plane of the [[Veiling]]. Largely sealed from the Veil since Orion'
 - [[Places/Mokrá Lhota]] — weapon-smuggling waypoint
 - [[Places/Orestor]] — west-delta crown port; city-republic; Eirys; Ilrusk
 - [[Places/Gutberg]] — south gate of Meredie; old-age metal span; fell PS 0
-- [[Places/Lapiberg]] — dwarven free city; old name _Zarvilar_ retracted
+- [[Places/Lapiberg]] — dwarven free city; Grundarmheld ground city in Meredie
 - [[Places/Ellesmere Region]] — Meredian lowlands around ruined Ellesmere
 - [[Places/Ellesmere]] — destroyed City of Mages
 - [[Places/Hlubina]] — marsh prologue village
@@ -75,8 +75,8 @@ The material plane of the [[Veiling]]. Largely sealed from the Veil since Orion'
 ## Factions — States & Powers
 
 - [[Factions/United Empire]] — continental hegemon; Meredian Wars antagonist
-- [[Factions/Meredie]] — liberated kingdom; shattered at Ellesmere
-- [[Factions/Triskal]] — northern ally of the Empire; Dragon Islands claimant
+- [[Factions/Meredie]] — fortress-kingdom; main line dead at Ellesmere
+- [[Factions/Triskal]] — coastal federation; Third War ally, then betrayal at Orestor
 - [[Factions/Valdie]] — fell in the Third War; island holdings seeded the Coalition
 - [[Factions/Grundarmheld]] — dwarf mountain kingdom beyond the Shadow Pass
 - [[Factions/Vilmar]] — southern sultanate; Ansir antagonist in Dragon Independence

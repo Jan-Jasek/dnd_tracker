@@ -184,6 +184,7 @@ Canon on the person file: ~500 years old or less; witnessed the Templar rise and
 
 ## Cleanup
 
+- Do not use as person or place names: **Zarvilar** (that settlement is **Lapiberg**); **Carleon Sněhobílý** as a character (**Birger Aderen**; _Sněhobílý_ is an epithet). **Carleon** is an Imperial city.
 - Which names in the extractions are placeholders vs. final? (Names are subject to change per player doc)
 - The 2023 and 2026 extractions show overlapping NPC names (Hemmond, Harry stats appear in both) — the 2026 version is canonical where they differ
 - Images 006–021 in the 2026 extraction are likely stat blocks — confirm and label any that are custom NPCs

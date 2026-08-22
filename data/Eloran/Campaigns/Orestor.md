@@ -19,7 +19,7 @@ campaign_window: "PS 2 M02–M03 (approx.)"
 
 # Orestor
 
-> Part of: [[Eloran]] | [[Veiling]] | See also: [[Places/Orestor]], [[People/Eirys]], [[Organisations/Mlcenlivy]], [[Organisations/Orion's Wrath]], [[History/Timeline]]
+> Part of: [[Eloran]] | [[Veiling]] | See also: [[Places/Orestor]], [[People/Eirys]], [[People/Ilrusk]], [[Organisations/Mlcenlivy]], [[Organisations/Orion's Wrath]], [[History/Timeline]]
 
 **PS 2 M02–M03.** Late winter / early spring of the second year after the Shattering. City campaign in **[[Places/Orestor|Orestor]]**, the ancient Red River port.
 
@@ -28,8 +28,6 @@ World facts live on the place, org, and people files. This file is the play stru
 ## Premise
 
 Orestor is a **tripartite city-republic**: loyalists, monarchists, and republicans locked in a survival compact after the PS 0 siege and coup. **[[People/Eirys|Eirys]]** holds the treasury and the Silents. Hidden: she is **[[People/Ilrusk|Rewyn Ilrusk]]'s proxy** in the city.
-
-Candidate opening adventure (amethyst / Milbern): `ideas/eloran/orestor-fragment-plot.md`.
 
 ## Starting Situation
 
