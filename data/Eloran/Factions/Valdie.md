@@ -13,13 +13,15 @@ source_evidence:
 
 > Part of: [[Eloran]] | See also: [[Factions/Triskal]], [[Factions/Meredie]]
 
-British inspiration. Language: **Veildic** (_Valedický_). Northern neighbor of Meredie.
+Language: **Veildic** (_Valedický_). The historical north. Geopolitical analogue: a state no one really conquers — depth, winter, distance. **[[Factions/Meredie|Meredie]]** was contested from this side for centuries before Bořivoj.
+
+The Meredie border is mountainy and more open than the south (Krkonoše-like). An **inner vassal** sits west of Meredie and north-abuts Valdie (name TBD). One of **[[Factions/Grundarmheld|Grundarmheld]]'s** ground cities sits in Valdie (name TBD); another in that vassal.
 
 **Symbol:** (TBD — yellow sun on dark blue field appears in related notes for allied houses)
 
 ## Third Meredian War
 
-Fell to **[[Factions/Triskal|Triskal]]** (with northern **Ioth** raider allies) in the opening phase of the Third War — weeks, not months.
+Fell to **[[Factions/Triskal|Triskal]]** (with northern **Ioth** raider allies) in the opening phase of the Third War — weeks, not months. The first time a southern neighbour overruns the accessible kingdom. What remains of the deep north is open.
 
 ## Dragon Archipelago
 

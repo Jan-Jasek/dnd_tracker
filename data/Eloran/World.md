@@ -12,8 +12,8 @@ themes:
   - old-powers-returning
 campaigns:
   - campaign.dragon-independence
-
   - campaign.hlubina
+  - campaign.orestor
 source_evidence:
   - imports/onenote/extracted/dra-nezavislost-one-on-26-04-2026.md
   - imports/onenote/extracted/lore-one-on-01-03-2023.md
@@ -118,11 +118,11 @@ Things everyone knows as myth:
 
 ## Current Situation
 
-The **Meredian Wars** shook the continent across three conflicts (pre-PS ~55, ~45, and **PS 0**). Meredie won independence in the First War (Behemot I); survived a Second War reconquest attempt that strengthened the kingdom; then lost **Ellesmere** in the Third War — destroyed in the Erathon explosion, not by siege.
+**Bořivoj I** unified **Meredie** about three centuries before the Shattering. The three **Meredian Wars** (pre-PS ~55, ~45, and **PS 0**) are later Imperial attempts to take that fortress-kingdom. In the Third, Gutberg falls; then **Ellesmere** is destroyed in the Erathon explosion, not by a completed siege.
 
 Present aftermath:
 
-- Meredian royal dynasty ended at Ellesmere; the kingdom has no unified crown
+- Meredian **main line** ended at Ellesmere; cadet branches compete; the kingdom has no unified crown
 - Valdie fell to Triskal
 - Orestor (Meredian crown port) is a **city-republic compact** at PS 1 — loyalists, monarchists, republicans, and guild mediators; not a popular democracy
 - The Triple Coalition broke away during the chaos and controls the Dragon Islands

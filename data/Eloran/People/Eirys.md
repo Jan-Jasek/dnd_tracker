@@ -6,6 +6,10 @@ plane: eloran
 universe: veiling
 locations:
   - place.orestor
+related:
+  - character.ilrusk
+  - organisation.mlcenlivy
+  - campaign.orestor
 source_evidence:
   - imports/onenote/extracted/orestor-one-on-01-03-2023.md
   - imports/onenote/extracted/lore-one-on-01-03-2023.md
@@ -15,17 +19,19 @@ source_evidence:
 
 > Part of: [[Eloran]] | [[Places/Orestor]] | [[Organisations/Mlcenlivy|Mlčenliví]] | [[Campaigns/Orestor]]
 
-The true leader of the Mlčenliví (Silents) thieves' guild in Orestor, and simultaneously the Treasurer of the city's closed council. Her public face is that of a successful merchant; her actual power base is criminal.
+Treasurer of Orestor's closed council and true head of the **Mlčenliví**. Public face: successful merchant. Hidden: she is **[[People/Ilrusk|Rewyn Ilrusk]]'s proxy** — the hand that imposes his will on the port.
 
 ## Public Identity
 
-Treasurer of Orestor's closed council. Wealthy merchant. After the Shattering and the port's **tripartite coup compact**, she brokered survival between loyalists, monarchists, and republicans — money, guild ties, and the **Mlčenliví** as leverage. Public story: merchant who rose after noble collapse; private truth: she was already running the guild before the crisis.
+Treasurer of the Konšelé. Wealthy merchant. After the Shattering she brokered the **tripartite coup compact** — money, guild ties, and Silent knives. The story people tell: a merchant who rose when the nobles fell.
 
 ## Hidden Identity
 
-Actual head of the guild of Mlčenliví — the city's network of silent assassins and thieves. The nominal guild leader ("Vorlen" / "Vortimar Leus Nortelor") is a front. Eirys runs the organization.
+**[[People/Ilrusk|Ilrusk]]** holds the city through her. She already ran the Silents before the crisis; the compact made that power official. Vorlen / Vortimar Leus Nortelor is the myth the thieves salute. She is the head.
 
-She recruited remnants of scattered armies after the Meredian crisis and used them to gain control over surrounding villages and trade routes.
+She recruited remnants of scattered armies after the Meredian collapse and used them to grip villages and roads around the port.
+
+How fully she understands *what* Ilrusk is — last of the nine, stolen body — is open. That she acts for him in Orestor is not.
 
 ## Role in Orestor Council
 
@@ -36,18 +42,11 @@ She recruited remnants of scattered armies after the Meredian crisis and used th
 
 ## Connections
 
-- **Ilrusko** — tracks unusual items (Erathon fragments) for her
-- **Fenris Tichošlápek** — section chief of the Mlčenliví in the Harbor District
-- **Roondar Tarkelby** (gnomish jeweler) — alerted Eirys when an Erathon fragment appeared in Orestor
+- **[[People/Ilrusk|Rewyn Ilrusk]]** — principal. She is his proxy in the city.
+- **Fenris Tichošlápek** — Spár of the Harbor District
 - Possible connection to **Order of Maegi** (her name appears in their recovered member lists)
 
 ## Adventure Hooks
 
 - Hires the party while concealing her guild ties
 - Her reach likely extends to Dragon Islands contacts
-- She may know more about Erathon fragments than anyone else in Orestor
-- Any Erathon fragment that surfaces will reach her ears within days
-
-## Note on Prior Extraction
-
-The earlier (corrupt) extraction described her as a "charismatic merchant who rose after noble executions." That is the public story. The private truth is that she was already running the guild before the crisis and used the chaos to formalize political power.

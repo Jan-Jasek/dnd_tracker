@@ -14,17 +14,21 @@ source_evidence:
 
 > Part of: [[Eloran]] | [[Places/Regions|Eloran Continent — Meredie]] | [[Places/Ellesmere Region]]
 
-Ancient city reputedly founded by Orion himself (Prastaré město — the Ancient City). Largest port on the **Red River** (_Rudá řeka_). At **PS 1** a fractured **city-republic** — not a ideological democracy, but a survival compact between three failed power grabs.
+Ancient city reputedly founded by Orion himself (Prastaré město — the Ancient City). A **delta city** on the **west** mouth of the **Red River** (_Rudá řeka_) — Venice-like, harbors reaching the open sea. **Triskal** holds the **east** of the same delta (city name TBD). One of the continent's greatest ports. At **PS 1** a fractured **city-republic** — not an ideological democracy, but a survival compact between three failed power grabs.
+
+See [[Places/Regions#The Red River]] for the river from **Hor stínů** to this mouth.
+
+**pre-PS ~500+:** Orestor, the Triskal east-delta city, and the Imperial island-fort at the end of the marches were a **river-trade coalition**. The city still remembers.
 
 ## Before the Third War
 
-- **Meredian**, not Imperial — the kingdom's **crown port** while **[[Places/Ellesmere|Ellesmere]]** was capital
+- **Meredian**, not Imperial — the kingdom's **crown port** while **[[Places/Ellesmere|Ellesmere]]** was capital; river-mouth of Meredie's trade
 - Older than the crown: Orion's city; Meredic administration layered on top via a **Lord Warden of the Crown Port** (_purkrabí korunního přístavu_) — commonly called **Lord of Orestor**
-- The warden was cadet-branch kin to the ruling house (royal house name **TBD**; **Behemot I the Liberator** was a personal title of the founder-king, not the dynasty name)
+- The warden is **cadet-branch kin** of the house Bořivoj founded (name **TBD**). After the Shattering he is one of the **contenders** for a dead main line — hostage of monarchists, still a claimant
 
 ## PS 0 — War, Siege, and Coup
 
-Sequence agreed for canon:
+Sequence:
 
 1. **Third Meredian War** — lowlands fought over; **[[Places/Ellesmere|Ellesmere]]** destroyed in **the Shattering**
 2. Imperial **eastern column** besieges Orestor (cut the Red River, take the port after the capital fell)
@@ -57,7 +61,7 @@ The resulting **city-republic** is a **tripartite ceasefire**, not a sovereign p
 
 Brokers who forced the compact when all three blocs would otherwise destroy the harbor:
 
-- **[[People/Eirys|Eirys]]** — treasurer; **[[Organisations/Mlcenlivy|Mlčenliví]]**; money, informants, leverage on violence
+- **[[People/Eirys|Eirys]]** — treasurer; **[[Organisations/Mlcenlivy|Mlčenliví]]**; money, informants, leverage on violence. Hidden: [[People/Ilrusk|Ilrusk]]'s proxy in the city.
 - **Euron Abb'Shiran** — **Bořiči** / merchant guild; republican at the table, needs trade peace
 - **Orionovi Zvěstovatelé** — ideological cover (_Orion founded a free city, not a throne_)
 - **Harbor guilds** — can close the quays and starve every faction
@@ -77,25 +81,19 @@ Brokers who forced the compact when all three blocs would otherwise destroy the 
 | **Konšelé** (closed council)    | Real executive — compromise of the three blocs + mediators |
 | **Veřejná rada** (open council) | Guild and district seats; republican **facade**            |
 
-| Position       | Person             | Faction     |
-| -------------- | ------------------ | ----------- | -------------------------- |
-| Treasurer      | \*\*[[People/Eirys | Eirys]]\*\* | Mlčenliví via Zvěstovatelé |
-| Merchant Guild | Euron Abb'Shiran   | Bořiči      |
+| Position       | Person                    | Faction                        |
+| -------------- | ------------------------- | ------------------------------ |
+| Treasurer      | [[People/Eirys\|Eirys]]   | Mlčenliví via Zvěstovatelé     |
+| Merchant Guild | Euron Abb'Shiran          | Bořiči                         |
 
 **Purkrabí** (name **TBD**) — hostage of monarchists; loyalists still treat his protectorate signature as binding; republicans use his captivity as proof that crowns fail.
 
-## Other Factions (Erathon fragment era)
+## Other Factions
 
-- **[[Organisations/Orion's Wrath|Orionův hněv]]** — the port's templars; hunt fragments in the catacombs
-- **Orionovi Zvěstovatelé** — magic-positive; Orion's legacy; rival claim on fragments
+- **[[Organisations/Orion's Wrath|Orionův hněv]]** — the port's templars; Tillibor
+- **Orionovi Zvěstovatelé** — magic-positive; Orion's legacy as a free city
 - **Bořiči** — council power via Euron
-- **Mlčenliví** — see [[Organisations/Mlcenlivy]]
-
-## The Erathon Fragment Plot
-
-Orion imprisoned Erathon in crystal; **the Shattering** scattered fragments. Contact corrupts handlers.
-
-**In Orestor:** amethyst fragment via refugee child → **Stefan Iskelny** (regent who murdered lord **Harry Broad** at a lowland fortress — separate from the port coup) → knight **Milbern** → jeweler **Roondar Tarkelby** → Eirys. Milbern hides in harbor catacombs. **Šprýmař** knows the tunnels; will sell intel to the Silents for a rival's death.
+- **Mlčenliví** — see [[Organisations/Mlcenlivy]]; Eirys
 
 ## Catacombs
 
@@ -103,4 +101,4 @@ Silents move via rooftops and canal rings (steel cables, black rope below the wa
 
 ## Open Questions
 
-See [[Notes/Open Questions#Orestor]] — purkrabí name, royal house name, monarchist leaders, hostage whereabouts, first council election timing.
+See [[Notes/Open Questions#Orestor]] — purkrabí name, royal house name, monarchist leaders, hostage whereabouts, first council election timing. Triskal's east-delta city: [[Notes/Open Questions#Meredie geography]].

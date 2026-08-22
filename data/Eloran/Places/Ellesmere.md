@@ -14,11 +14,11 @@ source_evidence:
 
 > Part of: [[Eloran]] | [[Places/Ellesmere Region]] | See also: [[Cosmology]], [[History/Timeline]]
 
-Former capital of the **Meredian Kingdom** since the First War (pre-PS ~55) — the **City of Mages** (Město mágů). Destroyed at **PS 0** — **the Shattering** (_Roztříštění_ / _Rozštěpení_) — when [[People/Jeod Isthar|Jeod Isthar]] shattered the seal binding Erathon's crystal.
+Former capital of the **Meredian Kingdom** since **Bořivoj I** unified the country (pre-PS ~300) — the **City of Mages** (Město mágů), older than that crown. Destroyed at **PS 0** — **the Shattering** (_Roztříštění_ / _Rozštěpení_) — when [[People/Jeod Isthar|Jeod Isthar]] shattered the seal binding Erathon's crystal.
 
 ## Public History
 
-The Third Meredian War ended here. Imperial siege under Marshal Von Edgeira was about to begin when a thunderous blast tore the city apart — epicenter at the **Marble Fortress** (Mramorová pevnost), headquarters of the Templars of the Just (Spravedliví). Tens of thousands died; the Meredian royal line (house name TBD) effectively ended.
+The Third Meredian War ended here. Imperial siege under Marshal Von Edgeira was about to begin when a thunderous blast tore the city apart — epicenter at the **Marble Fortress** (Mramorová pevnost), headquarters of the Templars of the Just (Spravedliví). Tens of thousands died; the **main line** of the Meredian house (name TBD) ended. Cadet branches remain — including the purkrabí of [[Places/Orestor|Orestor]].
 
 ## Hidden Truth
 

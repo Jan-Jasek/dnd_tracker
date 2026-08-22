@@ -13,7 +13,13 @@ source_evidence:
 
 > Part of: [[Eloran]] | See also: [[Factions/United Empire]], [[Factions/Triple Coalition]]
 
-Dutch inspiration. Language: **Triskal**. Northern expansionist power; **[[Factions/United Empire|Empire]]** ally in the **Third Meredian War**.
+Dutch / Holy Roman texture. Language: **Triskal**. A federation of small wealthy coastal and merchant states that **grouped as Triskal** when the **[[Factions/United Empire|United Empire]]** rose in the south. Before that the map here was ever-changing.
+
+Northern expansionist once federated. Ally of convenience with the Empire in the **Third Meredian War** — then betrayal at Orestor and Covel.
+
+The **Red River** is Triskal's west line: triple-border islands with Empire and Meredie, then the Triskal–Meredie stretch, then the **east bank of the delta** facing **[[Places/Orestor|Orestor]]**. That east-delta city is unnamed.
+
+**pre-PS ~500+:** that city, Orestor, and the Imperial island-fort at the end of the marches were a **river-trade coalition**. The memory is still live. The island-fort is what stops Triskal hitting the Empire from the north.
 
 **Symbol:** red-white field with black wolf.
 

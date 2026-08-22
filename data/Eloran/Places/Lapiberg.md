@@ -14,14 +14,12 @@ source_evidence:
 
 > Part of: [[Eloran]] | [[Factions/Meredie]] | [[Places/Regions|Eloran Continent]]
 
-Dwarven mountain city in western Meredian territory. **Old import name _Zarvilar_ is retracted** — same settlement, current canon name **Lapiberg**.
+Dwarven **ground city** in western Meredie — one of three surface holdings of **[[Factions/Grundarmheld|Grundarmheld]]** that sit in a circle around the mountain kingdom (the others: unnamed cities in Valdie and in the west Valdie vassal). Formally Meredic; the halls lie beyond the **Shadow Pass** (_průsmyk Stínů_).
 
 ## History
 
-- ~200 years old at campaign present — trpaslíci se semkli v horské komunitě
-- **First Meredian War** (pre-PS ~55): **Lapibergské doly a hutě** played a major role in Meredie's liberation from the Empire
-- **Behemot I the Liberator** granted Lapiberg **free-city status** — formally still part of the Meredian Kingdom, but self-governing
-- Strong friendship with Meredie until **the Shattering** (PS 0) destroyed Ellesmere and the royal line
+- **Bořivoj I** (pre-PS ~300) grants Lapiberg **free-city status** at unification — still part of the Meredian Kingdom, self-governing. **Lapibergské doly a hutě** arm that unification
+- Strong friendship with Meredie until **the Shattering** (PS 0) destroyed Ellesmere and the main royal line
 
 ## Campaign Window
 
@@ -39,6 +37,6 @@ The **Lapiberg campaign** took place in winter, approximately **PS 0 M11–M12**
 
 ## Open Questions
 
-- Lapiberg vs **Grundarmheld** — relationship between this free city and the caste-locked dwarf kingdom
+- How far Grundarmheld caste law runs here
 - Outcome of Tyrovo kladivo siege at PS 1
 - Whether Skagnok / post-duel lore is promoted in full

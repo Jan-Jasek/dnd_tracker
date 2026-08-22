@@ -14,7 +14,7 @@ location: place.ellesmere
 
 A Maegi, **up to ~500 years old** — possibly less. Old enough to have witnessed the Templars' rise to power and the Ellesmere culling first-hand, but **not** a founding-era Maegi. He never met Orion or the original disciples; what he knows of that era comes through Maegi lineage transmission, not personal memory.
 
-Responsible for breaking the Ellesmere seal — the act that shattered Erathon's crystal and set the present campaigns in motion. His apprentice **[[People/Kate|Kate]]** acts as his agent in the field.
+Responsible for breaking the Ellesmere seal — the act that shattered Erathon's crystal and set the present campaigns in motion. He did not go in alone. **[[People/Kate|Kate]]** was there. Mortals smuggled them into Ellesmere and into the Marble Fortress. One of those mortals was **marked by death** — becoming a lich in slow motion, still mortal at PS 0. The rest of that party is unwritten.
 
 ---
 
@@ -61,7 +61,8 @@ Jeod is alive in the present day. He carries full knowledge of what he did and w
 
 - Exactly how old is Jeod, and who created him as a Maegi?
 - Where is Jeod now, and what is he doing?
-- Does he know about Ilrusk / Ilrusko? Does Ilrusk know about him?
+- Who were the mortal smugglers at Ellesmere, and what is the name of the one marked by death?
+- Does he know [[People/Ilrusk]] is in Orestor? Does Ilrusk know Jeod's name?
 - Did he know the seal would scatter Erathon (and Orion-residue) fragments, or only that it would release the Veil?
 - Does he have allies — other surviving Maegi or sympathizers?
 - Is he still pursuing further seal-breaking, or has he stopped at one?

@@ -13,40 +13,47 @@ source_evidence:
 
 > Part of: [[Eloran]] | See also: [[History/Timeline#Meredian Wars]], [[Regions/Southern Continent]]
 
-Rome/Byzantine inspiration. Home of **Common** — the dominant trade and administrative language across Eloran, the colonies, and imperial holdings on both landmasses. Expansionist hegemon.
+Rome/Byzantine inspiration. Home of **Common** — the dominant trade and administrative language across Eloran, the colonies, and imperial holdings on both landmasses. Expansionist hegemon. The **Maegi pole** of the continent: historically mage-friendly; the **[[Organisations/Order of the Just|Order of the Just]]** has no authority here.
 
 **Symbol:** red eagle on yellow field.
 
+The Empire forms in the south after **Bořivoj I** unifies **[[Factions/Meredie|Meredie]]** (pre-PS ~300). A strong northern neighbour that can hold its own border is what lets southern contenders stop fighting the river and start fighting each other — then one of them wins.
+
 ## Geography — Two Landmasses
 
-| Landmass                     | Empire presence                                                                                                                                    |
-| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------- | ------------ |
-| **Eloran continent**         | Core heartland; **Meredie** was a holding until pre-PS ~55; **Hor stínů** (_Shadow Mountains_) southwest — Gith incursions on imperial borderlands |
-| **Southern continent**       | Maritime frontier with \*\*[[Factions/Vilmar                                                                                                       | Vilmar]]**; **[[Places/Gibešská poušť                                         | Gibešská poušť]]**, **[[Places/Akbesi | Akbesi]]\*\* |
-| **Dragon Isles** (Azure Sea) | Colonial archipelago — lost direct control to \*\*[[Factions/Triple Coalition                                                                      | Triple Coalition]]** at PS 0; banking (**Brauner & Hess\*\* in Ansir) remains |
+| Landmass                     | Empire presence |
+| ---------------------------- | --------------- |
+| **Eloran continent**         | Core heartland south of Meredie. **Hor stínů** (_Shadow Mountains_) west and southwest — river source, slowly descending, Gith on the slopes. The Red River lands **south of [[Places/Gutberg\|Gutberg]]** (name TBD) are Imperial. Marches along the river are the Empire–Meredie border; the island stretch is the triple border with Triskal. |
+| **Southern continent**       | Maritime frontier with [[Factions/Vilmar\|Vilmar]]; [[Places/Gibešská poušť]], [[Places/Akbesi]] |
+| **Dragon Isles** (Azure Sea) | Colonial archipelago — lost direct control to the [[Factions/Triple Coalition]] at PS 0; banking (Brauner & Hess in Ansir) remains |
 
 ## Named Imperial Cities (canon)
 
 - **[[Places/Carleon|Carleon]]** — císařské město on Eloran continent
 - **[[Places/Nelbar|Nelbar]]** — císařské město on Eloran continent
-- **Ellesmere** — former imperial jewel; Meredian capital pre-PS ~55 → PS 0; destroyed at PS 0
+- **Ellesmere** — Meredian capital; City of Mages; never an Imperial seat in the Just Age; destroyed at PS 0
 
 ## Meredian Wars
 
-All three **Meredian Wars** are **Empire–Meredie** conflicts on the Eloran continent:
+The named wars are Imperial attempts to take independent **templar-Meredie**. Geography makes it a century-scale grind. The Empire is nearly broken by that effort plus the Shattering.
 
-| War    | When       | Empire role                                        |
-| ------ | ---------- | -------------------------------------------------- | ------------- |
-| First  | pre-PS ~55 | Meredie liberates itself from Imperial rule        |
-| Second | pre-PS ~45 | Failed Imperial reconquest                         |
-| Third  | PS 0       | Major invasion; allied with \*\*[[Factions/Triskal | Triskal]]\*\* |
+The Order cannot rule in the Empire; the Empire cannot occupy Ellesmere without destroying the templars. That is the quarrel.
 
-Meredie was an Imperial holding before the First War. The Empire remains weakened but intact after the Third War.
+| War    | When       | Empire role                                              |
+| ------ | ---------- | -------------------------------------------------------- |
+| First  | pre-PS ~55 | Campaign against independent Meredie; fails              |
+| Second | pre-PS ~45 | Failed reconquest                                        |
+| Third  | PS 0       | Major invasion with [[Factions/Triskal\|Triskal]]; Gutberg falls; then the Shattering |
+
+The Empire remains standing after PS 0. It is spent.
+
+At the **end of the marches**, where the river calms into islands (triple border), the Empire holds an **island-fort** (name TBD) — built on several islands and the banks, hard to siege. It is what stops Triskal coming down on the Empire from the north. That fort, **[[Places/Orestor|Orestor]]**, and the Triskal east-delta city were a **river-trade coalition** pre-PS ~500+. All three remember.
 
 ## Religion & Law
 
-- **Orionist** faith supreme; **Order of the Just** is **banned** in the Empire (unlike Triskal)
-- After Ellesmere (PS 0): Empire blames the Just Ones; the Order is outlawed
+- **Orionist** faith supreme; historically the Maegi-friendly reading of Orion
+- The **Order of the Just** has no authority in Imperial lands (unlike Triskal, which uses them as state enforcers)
+- After Ellesmere (PS 0): Empire blames the Just Ones in public; the Order is outlawed by statute as well as custom
 - Southern imperial cultures: **Selune** as pilgrim-goddess (folk astronomy; skeptics like Garcilaso von Vega dispute Orion legend)
 
 ## Present Role
@@ -60,5 +67,6 @@ Meredie was an Imperial holding before the First War. The Empire remains weakene
 ## Open Questions
 
 - Imperial capital, current emperor, court structure
+- Name of the Red River country south of Gutberg
 - Who chose the Third War; treaty status with Triskal post–Ellesmere
 - Full provincial map on both continents

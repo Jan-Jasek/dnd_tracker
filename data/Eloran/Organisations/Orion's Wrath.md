@@ -58,7 +58,7 @@ The faction that became **Orion's Wrath** broke from continental command. Templa
 
 - **Orionovi Zvěstovatelé** — both claim Orion's legacy; Zvěstovatelé want to **use** magic's return; Hněv wants to **contain** Erathon
 - **Spravedliví** (abroad) — heretics or traitors to each side
-- **Erathon fragment plot** — hunt **Milbern** and the amethyst; compete with Mlčenliví and Bořiči
+- **[[People/Eirys|Eirys]] / [[People/Ilrusk|Ilrusk]]** — the compact's hidden axis; collision with Tillibor when those two facts meet
 
 ## Open Questions
 

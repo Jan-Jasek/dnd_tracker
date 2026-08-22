@@ -18,9 +18,11 @@ Jeod Isthar's apprentice — currently his only named student in canon. Shadow-m
 
 ## Present Role
 
-Kate travels in Jeod's name, recruiting Veil-capable people while he pursues the larger restoration of the Veil. She scales with the party and may appear around Hlubina and other imperial staging areas.
+Kate was at Ellesmere at **PS 0** — with Jeod when he broke the seal. Mortals smuggled them into the city and the Marble Fortress. She knows the blast was the cost of the working.
 
-At the **Hlubina** handoff she recruits the players into imperial service. **Captain Aemon Whiteoak** commands the advance guard; Kate handles recruitment — they are not the same person.
+She travels in Jeod's name, recruiting Veil-capable people while he pursues the larger restoration of the Veil. She scales with the party and may appear around Hlubina and other imperial staging areas.
+
+At **Hlubina** she recruits the players into imperial service. **Captain Aemon Whiteoak** commands the advance guard; Kate handles recruitment. They are not the same person.
 
 ## Appearance & Cost
 
@@ -37,5 +39,5 @@ Raised from childhood for intelligence and shadow affinity. Acts as his agent on
 ## Open Questions
 
 - Full name and origin before Jeod took her?
-- Does she know what breaking the Ellesmere seal would cost?
+- How much of the working did she understand before the blast — and what did it do to her (the white in her hair, Abdelon)?
 - Long-term arc: ally, tragic sacrifice, or Jeod's weapon?

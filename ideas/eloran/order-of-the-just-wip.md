@@ -118,7 +118,7 @@ Propojení s **Azolarem** (rival Ilruska?) a **Temnoles** — starý nepřítel 
 - Sir Hans a družina lovících „uprchlé mágy“ — ve skutečnosti útěk z hlubin nebo lov probuzených vězňů
 - Jimmy a darované plameny — náhodný rekrut, nebo budoucí „nástroj“ v tilliborovském smyslu?
 - Branon vs. Tillibor — reforma tlačí tajemství zpět do sklepa; Tillibor je logický důsledek
-- Ilrusko v Orestoru — ví Tillibor, že loví tvůrce Mlčounu?
+- Ilrusk v Orestoru — ví Tillibor, že loví tvůrce Mlčounu?
 
 ## Open Questions
 
@@ -126,7 +126,7 @@ Propojení s **Azolarem** (rival Ilruska?) a **Temnoles** — starý nepřítel 
 - Ilruskův původní záměr (A / B / C)
 - Kolik vězňů přežilo Roztříštění?
 - Jak moc Branon (Tyův řád) ví o hlubinách?
-- Je **Ilrusko** = Ilrusk; a co Tillibor?
+- Co Tillibor ví o Ilruskovi v přístavu?
 - Finální název místo _Orionův hněv_
 - Propojení s **Azolarem** a kryptem v Temnoles
 

@@ -112,6 +112,16 @@ With Eloran's Paths sealed and the Veil unable to replenish, magic slowly fades.
 
 The Apostolic Church grows autonomous — mage-governed in secret. The **Order of the Just** (_Řád Spravedlivých_), co-founded by Ilrusk and equipped with **Severite / Mlčoun**, grows into the force that will overthrow mage control of the church hierarchy.
 
+### pre-PS ~500+ — River cities
+
+Three cities on the Red River form a **trade coalition** and hold the water for a long time: **[[Places/Orestor|Orestor]]** (west delta), the Triskal east-delta port (name TBD), and the island-fort at the end of the marches (now Imperial; name TBD). All three still remember it. This is older than Bořivoj's kingdom and older than the United Empire.
+
+### pre-PS ~300 — Bořivoj unifies Meredie
+
+For centuries **[[Factions/Meredie|Meredie]]** is the prize of the continent — split, vassalized, fought over by **[[Factions/Valdie|Valdie]]** from the north and the river states south of **Gutberg** (now Imperial; name TBD). **Bořivoj I the Liberator** (_Bořivoj 1. Osvoboditel_) unifies it into a nation that can hold its mountains and rivers. **[[Places/Ellesmere|Ellesmere]]** is the capital. **[[Places/Lapiberg|Lapiberg]]** becomes a free city.
+
+That northern peace is breathing room for the south. Contenders there stop feeding a Meredian war and start founding the **[[Factions/United Empire|United Empire]]**. The coastal merchant patchwork that will become **[[Factions/Triskal|Triskal]]** federates when that Empire rises.
+
 ### pre-PS ~155 — End of Salvation; Start of the Just Age
 
 The Order of the Just takes political control of Ellesmere and conducts the **Ellesmere culling** — a massacre of Maegi practitioners in the city. Many Maegi are killed. Jeod Isthar — at this point already a Maegi, perhaps a few centuries old — witnesses this. The grievance is personal, not generational.
@@ -132,15 +142,17 @@ The Third Meredian War's closing battles unfold in the same catastrophe window �
 
 ### Meredian Wars
 
-Three wars over Meredian independence from the **[[Factions/United Empire|United Empire]]** (_Spojené císařství_). The Empire is the through-line: liberation, failed reconquest, and the final coalition invasion (with **[[Factions/Triskal|Triskal]]** in the Third War). Causes, key battles, and which power figures drove each conflict remain **open** — see [[Notes/Open Questions#Meredian Wars]].
+The **named** wars are three Imperial campaigns against independent **templar-Meredie** — not the original unification. Bořivoj's liberation is pre-PS ~300. The Empire is the Maegi pole; the Order has no authority there. Taking Ellesmere would mean destroying the templars. Geography makes seizure a grind. A century of that effort, then the Shattering, leaves the Empire spent.
 
-| War        | When       | Outcome (canon)                                                                                                                                                  |
-| ---------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| **First**  | pre-PS ~55 | **Liberation.** Meredie breaks away as the **Meredian Kingdom**. **Behemot I the Liberator** (_Behemot 1. Osvoboditel_) wins independence; \*\*[[Places/Lapiberg | Lapiberg]]\*\*'s forges play a major role. Behemot grants Lapiberg free-city status. |
-| **Second** | pre-PS ~45 | Empire attempts reconquest. **Fails** — Meredie emerges stronger, not weaker.                                                                                    |
-| **Third**  | **PS 0**   | Empire (with Triskal) tries again. Culminates in Ellesmere's destruction and archipelago battles. See below.                                                     |
+| War        | When       | Outcome                                                                                                      |
+| ---------- | ---------- | ------------------------------------------------------------------------------------------------------------ |
+| **First**  | pre-PS ~55 | Imperial campaign on the fortress-kingdom. Fails.                                                            |
+| **Second** | pre-PS ~45 | Reconquest fails. Meredie comes out harder.                                                                  |
+| **Third**  | **PS 0**   | Empire with **[[Factions/Triskal\|Triskal]]**. Gutberg falls. Then Ellesmere is destroyed. See below.        |
 
-The independent Meredian royal line (house name **TBD**; founded by **Behemot I the Liberator** — _Behemot_ is a personal epithet, not the dynasty) rules pre-PS ~55 → PS 0 (~52 years) until the Third War shatters the line at Ellesmere.
+The house (name **TBD**) runs from **Bořivoj I** to the Shattering. The **main line** dies at Ellesmere. Cadet branches remain; the purkrabí of **[[Places/Orestor|Orestor]]** is a contender.
+
+See [[Notes/Open Questions#Meredian Wars]].
 
 ---
 
@@ -153,14 +165,14 @@ The independent Meredian royal line (house name **TBD**; founded by **Behemot I 
 
 ### The Third Meredian War (culminates PS 0)
 
-The third Imperial attempt to retake **Meredie** — already independent since the First War (pre-PS ~55). Triskal joins on the Empire's side. The sequence:
+The third Imperial attempt to take **Meredie** — independent since Bořivoj (pre-PS ~300), templar heartland since the culling. Triskal joins as an ally of convenience. The sequence:
 
 1. Triskal (allied with the Empire) simultaneously attacks Valdie. Valdie falls quickly.
-2. The Empire invades Meredie. The mountain fortress **Gutberg on the Red River** falls to the Empire, shocking everyone.
+2. The Empire invades Meredie. The mountain fortress **[[Places/Gutberg|Gutberg]]** — the south gate, the one army path — falls. Shocking. The old-age metal bridge is not destroyed.
 3. Meredie mobilizes fast, maneuvers the Empire into splitting forces.
 4. One Empire column under Marshal **Von Edgeira** takes **Dol Andor** after a short siege, leaving a minimal garrison.
 5. The other column under General **Jenryr Von Nedur** — acting against orders — engages Meredie directly and is decisively defeated. Von Nedur dies.
-6. Meredian forces, overconfident after the victory, attack Von Edgeira's regrouped army and are repelled. They retreat to **Ellesmere** (capital; "City of Mages"; former jewel of the Empire).
+6. Meredian forces, overconfident after the victory, attack Von Edgeira's regrouped army and are repelled. They retreat to **Ellesmere** (capital; City of Mages; templar seat).
 7. Von Edgeira secures flanks and supply lines and prepares a proper siege.
 8. Before the siege begins: **Ellesmere is destroyed overnight in a massive explosion**. The epicenter is the Marble Fortress of the Templars of the Just Ones. The central district is a crater. Much of the city collapses.
 

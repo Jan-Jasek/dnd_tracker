@@ -11,31 +11,57 @@ source_evidence:
 
 # Meredie (Meredian Kingdom)
 
-> Part of: [[Eloran]] | See also: [[Factions/United Empire]], [[History/Timeline#Meredian Wars]]
+> Part of: [[Eloran]] | See also: [[Factions/United Empire]], [[Factions/Triskal]], [[Factions/Valdie]], [[History/Timeline#Meredian Wars]]
 
-Czech/Prussian inspiration. Language: **Meredic**. Former **[[Factions/United Empire|United Empire]]** holding — now a shattered kingdom without a unified crown.
+Czech/Prussian inspiration. Language: **Meredic**. Fortress-kingdom of mountains and rivers. High nationalism. Shattered at PS 0: no unified crown.
 
 **Symbol:** white apple tree on green field.
 
-## Meredian Wars
+House **name TBD**. One line since **Bořivoj I the Liberator** (_Bořivoj 1. Osvoboditel_, pre-PS ~300). Main line ended at the Shattering. Cadet branches compete. The **purkrabí of [[Places/Orestor|Orestor]]** is one of those contenders.
 
-| War        | When       | Outcome                                                                                                                     |
-| ---------- | ---------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| **First**  | pre-PS ~55 | Liberation; **Behemot I the Liberator** (_Behemot 1. Osvoboditel_ — personal title, not house name); \*\*[[Places/Ellesmere | Ellesmere]]\*\* becomes capital |
-| **Second** | pre-PS ~45 | Survives failed Imperial reconquest; kingdom strengthened                                                                   |
-| **Third**  | PS 0       | Capital destroyed; royal line ended                                                                                         |
+## Geography
 
-Independent crown ruled ~52 years (pre-PS ~55 → PS 0). Royal **house name TBD**.
+See [[Places/Regions#The Red River]] for the full course.
 
-## Present Situation
+Walled by mountains and the **Red River** (_Rudá řeka_). **[[Places/Gutberg|Gutberg]]** is the south gate — one army path, one old-age metal bridge. North: mountainy, more open, **[[Factions/Valdie|Valdie]]**. West: an inner Valdie vassal (name TBD); **Shadow Pass** to **Hor stínů** and **[[Factions/Grundarmheld|Grundarmheld]]**. **[[Places/Lapiberg|Lapiberg]]** is the Meredic dwarf ground city of that circle. East: the river, then **[[Factions/Triskal|Triskal]]**. **[[Places/Orestor|Orestor]]** sits on the **west** of the delta. **[[Places/Ellesmere|Ellesmere]]** sat in the lowland heart (**Ellesmerská kotlin**). Hard to take. Always contested.
 
-- **Ellesmere** destroyed — not by siege but by Jeod Isthar breaking the seal
-- Noble class decimated; power shifts to merchant-criminal networks
-- **[[Places/Orestor|Orestor]]** — crown port; PS 0 coup and **city-republic compact** (loyalists / monarchists / republicans); **[[People/Eirys|Eirys]]** brokers from the treasury
-- Lowlands around ruined Ellesmere: **[[Places/Ellesmere Region]]**, **[[Places/Hlubina|Hlubina]]**
-- **[[Places/Lapiberg|Lapiberg]]** — dwarven free city (old name _Zarvilar_); allied in First War; neutral after the Shattering
+## Before Bořivoj
+
+For centuries Meredie was split, vassalized, and fought over — **[[Factions/Valdie|Valdie]]** from the north, and the river states south of Gutberg (now Imperial; **name TBD**) from the south. The heart of the continent. Everyone wanted it. No one held it whole.
+
+## Unification (pre-PS ~300)
+
+**Bořivoj I** unifies the country into a single nation that can defend its borders. He grants **[[Places/Lapiberg|Lapiberg]]** free-city status. Ellesmere is the capital — City of Mages, Apostolic seat, later templar seat.
+
+That northern peace is what gives the south room to become the **[[Factions/United Empire|United Empire]]**.
+
+## Templar place-state (pre-PS ~155 → PS 0)
+
+The **[[Organisations/Order of the Just|Order of the Just]]** culls Ellesmere and makes Meredie its heartland. Nationalism plus fortress geography plus a Maegi capital to purge. The Empire is the Maegi pole; the Order has no authority there. An Imperial occupation of Ellesmere would mean the destruction of the templars — so Just-Age Meredie stays independent.
+
+**[[People/Jeod Isthar|Jeod Isthar]]** witnesses the culling.
+
+## The three named wars
+
+Later Imperial attempts to seize the fortress-kingdom, not the original liberation.
+
+| War        | When       | Outcome                                                                 |
+| ---------- | ---------- | ----------------------------------------------------------------------- |
+| **First**  | pre-PS ~55 | Imperial campaign fails to take Meredie                                 |
+| **Second** | pre-PS ~45 | Failed reconquest; Meredie comes out harder                             |
+| **Third**  | **PS 0**   | Gutberg falls. Then the Shattering. Crown dead. Empire spent.           |
+
+## Present
+
+- **Ellesmere** destroyed — Jeod breaking the seal, not a completed siege
+- Noble class decimated; merchant, criminal, and military networks hold what is left
+- **[[Places/Orestor|Orestor]]** — crown port; city-republic compact; purkrabí a hostage and a dynastic claimant
+- Lowlands: **[[Places/Ellesmere Region]]**, **[[Places/Hlubina|Hlubina]]**
+- **[[Places/Lapiberg|Lapiberg]]** — dwarven free city; neutral
 
 ## Open Questions
 
-- Behemot succession between First and Third Wars
-- Who speaks for Meredie now — Orestor only, or scattered claimants?
+- House name
+- Kings between Bořivoj I and the last ruler; last ruler's name
+- Great houses besides the royal line and the Orestor cadet
+- Who speaks for Meredie now — Orestor only, or which cadet branch

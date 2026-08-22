@@ -80,7 +80,7 @@ Only **Ilrusk** survived, having anticipated the betrayal and prepared for it: h
 
 Other Maegi created in later generations — by the original disciples and their successors — also survive in the present day. They are not Orion's contemporaries. They know the founding era only through Maegi teaching. [[People/Jeod Isthar]] is one such Maegi (~500 years old or less, witnessed the Templar rise but not Orion's time).
 
-A figure named **Ilrusko** appears in present-day Orestor, tracking Erathon fragments for [[People/Eirys|Eirys]]. Strong candidate connection: this is Ilrusk, still alive after thousands of years, in a body not his own.
+**[[People/Ilrusk|Rewyn Ilrusk]]** lives in present-day [[Places/Orestor|Orestor]]. Last of the nine, in a body not his own. **[[People/Eirys|Eirys]]** is his proxy in the city.
 
 ---
 
@@ -100,10 +100,9 @@ Because the disciples were _not_ consumed in the binding, the soul fragments sca
 - **Who actually killed Orion?** What other parties of power were present?
 - What rival lineages and figures did the Maegi crusade against, and how many survived?
 - Who is **Azolar**?
-- What remains of Orion in the depths beneath Ellesmere — body, consciousness, Veil-residue, or nothing?
+- What remains of Orion in the depths beneath Ellesmere — killed, consumed by the sacrifice, sealed with Erathon, or Veil-residue only? [[Places/Ellesmere Depths]] currently says consumed; this file leaves the moment open.
 - What is the tenth power?
 - Are the nine powers and the nine seals the same thing, or related but distinct?
 - Why did Ilrusk co-found the Templars?
-- Is Ilrusko in Orestor confirmed-Ilrusk, or a different figure?
 - What do the Erathon-Orion fragments actually carry?
 - What apostolic titles or relics survived the Just Ones' coup in civilian parishes?
