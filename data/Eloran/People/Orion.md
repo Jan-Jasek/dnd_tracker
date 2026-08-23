@@ -12,9 +12,9 @@ org: organisation.order-of-maegi
 
 > Part of: [[Eloran]] | [[Organisations/Order of Maegi]] | [[Organisations/Apostolic Church of Orion]] | See also: [[Cosmology]]
 
-A mortal born during the Age of Darkness — when the tainted Veil was destroying civilizations and pre-Sundering beings like Erathon dominated the continent. Rose to become the most powerful Veil-wielder in recorded history. Founded Orestor. Bound Erathon. Disappeared beneath Ellesmere.
+A mortal born during the Age of Darkness — when the tainted Veil was destroying civilizations and pre-Sundering beings like Erathon dominated the continent. Rose to become the most powerful Veil-wielder in recorded history. Founded Orestor. Bound Erathon. Merged with him in the Ellesmere rift — not the ending he meant.
 
-What he was at the end — savior, monster, or both — is the central mystery of the Veiling.
+Whether he was savior or monster in intent is still the argument. His body is not walking.
 
 ---
 
@@ -24,15 +24,15 @@ The Church of Orion teaches that Orion was the Saint and Martyr who saved the wo
 
 ## Hidden Truth
 
-The Church's account is a cover-up authored by the very people who betrayed him. The historical Orion was a mortal who developed the Art through decades of dangerous experimentation, mastered all ten of its powers, and was killed — or destroyed — by his own disciples during a ritual whose true purpose nobody now alive can confirm.
+The Church's account is a cover-up authored by people who betrayed him. The historical Orion was a mortal who developed the Art, mastered all ten powers, and was pulled into the rift with Erathon when he forced the 10th seal. **Merge**, not martyrdom. He did not want that.
 
-Whether the disciples were heroes who stopped a man trying to consume the world, or cowards who damned it to preserve their own power, is **deliberately unknowable**. Both readings fit every piece of surviving evidence. Even Ilrusk, the last disciple alive, may have convinced himself of whichever version lets him sleep.
+Whether the disciples were heroes who stopped a man trying to consume the world, or cowards who damned it to keep the Art, is still argued. Ilrusk may have convinced himself of whichever version lets him sleep.
 
 ---
 
 ## The Art — Orion's Framework
 
-Before Orion, others had tried to wield the tainted Veil and produced unstable, divergent results — practitioners with real power but uncontrolled forms. These earlier lineages persist (blood mages and others); they are not lesser, just structurally incomplete.
+Before Orion, others had tried to wield the tainted Veil and produced unstable, divergent results — practitioners with real power but uncontrolled forms. These earlier lineages persist (blood mages and others); they are not lesser, just structurally incomplete. In **[[Places/Orestor|Orestor]]** an ancient being he made while shaping the Veil — **[[People/Selith]]** — walks at night looking like him and marks **Heralds**. They believe Orion has returned to **save us** and **cleanse sinners**.
 
 Orion's final and most complete framework was the Art: the Veil structured as **ten distinct powers**. He mastered all ten. He gifted nine to his inner disciples — one each. He kept the tenth.
 
@@ -40,23 +40,23 @@ The tenth power was tied to the **10th seal** — the final ritual that would ha
 
 ---
 
+## Why Ellesmere
+
+He chose the site because it had a **strong access to the Paths**. That is the scene of the crime. The working opened (or found) a **floating rift** there. It consumed anyone who touched it. It could not be moved. A fortress was built around it — later the Marble Fortress. Even later Maegi were not told what sat in the middle. The nine kept it.
+
 ## The Binding of Erathon
 
-To imprison Erathon in the crystal, Orion and his nine disciples performed the nine seals — rituals, not fixed locations, that can in principle be performed anywhere. All nine together were the mechanism of binding. The disciples _survived_ this. Erathon was bound; the Maegi went on.
+Orion and his nine inner disciples performed the nine seals at that rift. Erathon was bound into it. The nine's **own students were not present**.
 
 ## The Sealing Ritual and the Betrayal
 
-Orion's longer plan was to use the seals a second time — combined with the 10th — to permanently seal Eloran from the Paths. The disciples agreed.
+Orion's longer plan was to use the seals a second time — combined with the 10th — to permanently seal Eloran from the Paths. The disciples agreed, then betrayed him mid-working and tried to kill him.
 
-When the ritual began, they betrayed him. They broke the working and tried to kill him. Why is the central question:
+Unable to complete the working as designed, Orion **sacrificed his own Veil** to force through the 10th seal alone. The result was imperfect: Eloran cut off, the Veil draining, the world beginning to die.
 
-- Did they realize Orion's true intent was to **consume the world** for his own power, and stop him?
-- Did they realize the sealing would **strip them of the Art**, and choose self-preservation?
-- Did they panic at what they were witnessing in the ritual itself, regardless of intent?
+**What happened to him:** he died into the seal. He **merged with Erathon** inside the rift — not what he wanted, not what he expected. Some of the nine may have been pulled in with them; those essences were destroyed by the two of them.
 
-Unable to complete the working as designed, Orion **sacrificed his own Veil** to force through the 10th seal alone. The ritual succeeded only partially. Eloran was sealed, but imperfectly — enough for the Veil to begin slowly draining over millennia, enough for the world to start dying.
-
-What happened to Orion in that moment is unknown. He may have been killed in the betrayal, consumed by his own sacrifice, or sealed alongside what he was sealing. He vanished into the depths beneath Ellesmere. No one has seen him since.
+**The rest of the nine:** some died in the blast of that working. Survivors were **marked** — diseased, infected by Erathon's influence — and withered or went insane over time. **[[People/Ilrusk|Rewyn Ilrusk]]** was the only one who understood what the marking meant. He sacrificed one of his own students and took that body to live.
 
 ---
 
@@ -74,35 +74,30 @@ The nine disciples survived. They returned to a world that had begun to wither a
 
 The church grew beyond its founders. Ilrusk co-founded the **[[Organisations/Order of the Just|Order of the Just]]** and gave them **Severite** / **Mlčoun**. pre-PS ~155 the Order overthrew mage control of the hierarchy at Ellesmere — the **Just Age** (_Věk spravedlnosti_) — without suppressing Orionist faith. They turned on Maegi lineages, not parish devotion.
 
-By the time of the coup, eight of the nine disciples were dead. Maegi do not die of natural causes — they were **killed**. By whom is open: rival powers during the post-Orion crusade, factional conflict among the disciples themselves, the Templars during the takeover, or events that left no clear culprit. Their secret died with them.
-
-Only **Ilrusk** survived, having anticipated the betrayal and prepared for it: he swapped his consciousness into one of his own disciples' bodies before the ritual. He has lived in stolen bodies ever since, and what remains of him is no longer the man he was. The experience scarred him. Centuries of guilt — or justification — have produced something that is alert, patient, and not entirely sane.
+Which of the nine died in the sealing blast, which withered marked, and which were erased in the merge is **open**. All who walked away were marked. Ilrusk lives in stolen flesh in [[Places/Orestor|Orestor]]. The experience scarred him. He is alert, patient, and not entirely sane.
 
 Other Maegi created in later generations — by the original disciples and their successors — also survive in the present day. They are not Orion's contemporaries. They know the founding era only through Maegi teaching. [[People/Jeod Isthar]] is one such Maegi (~500 years old or less, witnessed the Templar rise but not Orion's time).
 
-**[[People/Ilrusk|Rewyn Ilrusk]]** lives in present-day [[Places/Orestor|Orestor]]. Last of the nine, in a body not his own. **[[People/Eirys|Eirys]]** is his proxy in the city.
+**[[People/Ilrusk|Rewyn Ilrusk]]** lives in present-day [[Places/Orestor|Orestor]]. Last of the nine, in a body not his own. Works as a doctor in a local hospice. **[[People/Konrad|Konrad]]** is his proxy in the city — docks, council vote, Silents (as **Vorlen**).
 
 ---
 
 ## The Fragments
 
-Because the disciples were _not_ consumed in the binding, the soul fragments scattered by Jeod Isthar's destruction of the Ellesmere seal carry **Erathon's essence laced with traces of Orion's sacrificed Veil** — not the disciples. What this means in practice:
+The **seal** held the rift in place. When [[People/Jeod Isthar|Jeod]] broke that seal, the rift collapsed. The seal itself **broke off** and **crystallized** — solid pieces of **Orion's and Erathon's soul and essence** together.
 
-- Each fragment is mostly Erathon, but tinged with whatever survives of Orion
-- A "shadow lord" appearing in a fragment (e.g. **[[People/Birger Aderen|Birger Aderen]]**'s) may be Erathon-aspect, or Orion-residue, or something formed by the interaction of the two
-- Ilrusk has reasons to be hunting them that go beyond Eirys's interests
+A "shadow lord" in a fragment (e.g. **[[People/Birger Aderen|Birger Aderen]]**'s) is that mix, not a disciple. Ilrusk hunts them for reasons that are not Konrad's.
 
 ---
 
 ## Open Questions
 
 - What was Orion's true intent during the sealing ritual?
-- **Who actually killed Orion?** What other parties of power were present?
+- What other parties of power were present besides the nine?
 - What rival lineages and figures did the Maegi crusade against, and how many survived?
 - Who is **Azolar**?
-- What remains of Orion in the depths beneath Ellesmere — killed, consumed by the sacrifice, sealed with Erathon, or Veil-residue only? [[Places/Ellesmere Depths]] currently says consumed; this file leaves the moment open.
+- Which of the nine died in the sealing blast, which survived marked, which were destroyed in the merge?
 - What is the tenth power?
 - Are the nine powers and the nine seals the same thing, or related but distinct?
 - Why did Ilrusk co-found the Templars?
-- What do the Erathon-Orion fragments actually carry?
 - What apostolic titles or relics survived the Just Ones' coup in civilian parishes?

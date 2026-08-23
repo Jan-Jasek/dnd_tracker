@@ -15,19 +15,18 @@ source_evidence:
 
 > Part of: [[Places/Ellesmere]] | [[Eloran]] | See also: [[People/Orion]], [[Cosmology]]
 
-The buried binding site beneath ruined Ellesmere — where Orion completed the ritual that imprisoned Erathon in crystal and where he was consumed when his disciples betrayed him.
+The scene of the crime. Orion chose this ground because the **Paths** were strong here.
 
-## What Happened Here
+## What sits here
 
-Orion used nine disciple seals plus his own tenth power to bind Erathon. When he attempted the larger working to seal Eloran from the Paths permanently, the nine betrayed him. Orion sacrificed his own Veil to force a partial completion alone.
+A **floating rift**. It consumed anyone who touched it. It could not be moved. The Marble Fortress was built around it as a cage. Even later Maegi were not told. The nine kept the secret.
 
-**Outcome:** Erathon bound imperfectly. Orion consumed. The crystal held for millennia until Jeod shattered it.
+[[People/Orion|Orion]] bound **Erathon** into that rift, then was pulled in with him when he forced the 10th seal. They merged. That is what the seal held in place.
 
-## Present State
+## PS 0
 
-The surface city is a crater and rubble field. What remains below — chambers, seal remnants, trapped Veil echoes — is largely unmapped in canon. Maegi lore and Church cover-up both point here as the axis of the world's hidden history.
+[[People/Jeod Isthar|Jeod]] broke the seal. The rift collapsed. The seal crystallized into fragments — Orion and Erathon, solid — and the fortress and city died in the blast.
 
-## Playable Consequences
+## Present
 
-- Fragments and residual seal magic still shape events on the surface
-- Any expedition here risks Templar attention, Maegi interest, and raw Erathon contamination
+Surface: crater. Below: unmapped. Residual Path-access, seal-echo, contamination.

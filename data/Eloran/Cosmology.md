@@ -47,11 +47,13 @@ His tainted Veil corrupted those on Eloran who could access it. Veil users becam
 
 Orion — a mortal born in the Age of Darkness — developed a complete framework for controlling the tainted Veil: **the Art**, structured as ten powers. He made earlier, cruder attempts first, which produced other Veil lineages (blood mages and others). The [[Organisations/Order of Maegi]] was his final and most complete work.
 
-He had nine inner disciples, each gifted with one of the ten powers; he kept the tenth. The nine seals were used to bind Erathon into the crystal — successfully, without consuming the disciples.
+He had nine inner disciples, each gifted with one of the ten powers; he kept the tenth. He chose Ellesmere because the Paths were strong there. The working bound Erathon into a **floating rift** that consumed anyone who touched it. The rift could not be moved. A fortress was built around it. The nine's own students were not there.
 
-When Orion attempted the larger ritual to seal Eloran from the Paths permanently, his disciples betrayed him. Orion sacrificed his own Veil to force a partial completion of the 10th seal alone. The result was an imperfect sealing — enough to cut Eloran off from the Paths, not enough to do whatever Orion's full plan required. The Veil began draining slowly with no way to replenish.
+When Orion attempted the larger ritual to seal Eloran from the Paths, his disciples betrayed him. He forced a partial 10th seal by spending his own Veil. He **merged with Erathon** in the rift — not the ending he meant. Some of the nine died in that blast. Survivors were marked by Erathon's influence and withered or went mad. Some may have been pulled into the merge and destroyed. **[[People/Ilrusk|Ilrusk]]** understood the marking, sacrificed a student, and took that body.
 
-The disciples survived, founded the [[Organisations/Apostolic Church of Orion|Apostolic Church of Orion]] as a cover-up, and **launched a crusade against the rival powers of the era** — earlier Veil lineages, druids, and other figures of power who had been near Orion. The _Krvavá válka druidů_ in legend, and the crypt of an old Maegi enemy reportedly held in Temnoles, are echoes of this crusade. Over centuries all but Ilrusk died. The fragments scattered by Jeod Isthar's destruction of the Ellesmere seal carry **Erathon's essence laced with traces of Orion's sacrificed Veil** — not the disciples.
+The Church of Orion is the cover-up. Later Maegi were never told the rift existed.
+
+The **seal** held the rift in place. When [[People/Jeod Isthar|Jeod]] broke it, the rift collapsed. The seal **crystallized** into solid fragments of **Orion's and Erathon's soul and essence**.
 
 See [[People/Orion]] for the full account.
 
@@ -65,11 +67,7 @@ Over centuries the [[Organisations/Apostolic Church of Orion|Apostolic Church]] 
 
 ## Jeod Isthar and the Shattering
 
-[[People/Jeod Isthar|Jeod Isthar]] — a Maegi up to ~500 years old who witnessed the Templar rise and the Ellesmere culling, _not_ a founding-era Maegi — destroyed the seal at Ellesmere at **PS 0** (**the Shattering**; _Roztříštění_ / _Rozštěpení_). His **primary goal**: restore the Veil before Eloran finished dying. The catastrophic blast was **collateral**: he knew it would level the city, did nothing to prevent it, and accepted both Templar and civilian deaths as the cost.
-
-He was right that the world was dying. He chose to act with full knowledge of the price and indifference to most of it.
-
-The destruction of the Ellesmere seal shattered the crystal. The soul fragments — Erathon's essence laced with Orion's Veil residue — scattered across the continent. This is the present-day catalyst for the campaigns. Jeod survived.
+[[People/Jeod Isthar|Jeod Isthar]] — a Maegi up to ~500 years old who witnessed the Templar rise and the Ellesmere culling, _not_ a founding-era Maegi — broke the Ellesmere seal at **PS 0** (**the Shattering**; _Roztříštění_ / _Rozštěpení_). Goal: restore the Veil. He knew the blast would take the Marble Fortress. He did not know the rift would collapse. He did not expect the scale. He did not care. Fragments of the broken seal — Orion and Erathon, solid — scattered. Jeod survived.
 
 See [[History/Timeline]] for the named world ages and campaign-era sequence.
 
@@ -78,7 +76,7 @@ See [[History/Timeline]] for the named world ages and campaign-era sequence.
 | Layer                   | State                                             |
 | ----------------------- | ------------------------------------------------- |
 | Veiling (universe)      | Fragmented; most Paths broken or corrupted        |
-| Eloran (material plane) | Sealed; Veil-dark; fragments of Erathon loose     |
+| Eloran (material plane) | Seal broken; Veil returning; Orion–Erathon fragments loose |
 | Fey plane               | Veil-saturated; dominated by Erathon's hunger     |
 | The Hollow              | Dead space; no Veil; Erathon uses it as a conduit |
 | Pre-Sundering beings    | Many exist; locations and states unknown          |
@@ -88,5 +86,5 @@ See [[History/Timeline]] for the named world ages and campaign-era sequence.
 - What caused the Sundering?
 - How many pre-Sundering beings exist across the Veiling?
 - Are any benevolent, or does isolation inevitably corrupt?
-- Does Orion still exist in some form?
+- How much of Orion is distinguishable from Erathon inside the merge / the fragments?
 - What are the pre-Sundering beings in the Fey plane besides Erathon?

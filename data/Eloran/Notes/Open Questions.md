@@ -27,7 +27,7 @@ River course: [[Places/Regions#The Red River]]. Do not invent these in canon fil
 - **Royal house** of **Bořivoj I** — Czech; banner is a white apple tree on green
 - **Last king** — personal name (main line dies at the Shattering)
 - **Great houses:** south gate / Gutberg; north mountains (Valdie border); kotlin / Ellesmere nobility
-- **Purkrabí of Orestor** — cadet of the royal house; personal name
+- **Purkrabí Jan** — female-line contender. Mother's royal father (the almost-king); the **lord she married** (Jan's father, a marshal). Those two names. Which war killed the marshal.
 
 ### Map
 
@@ -54,19 +54,30 @@ River course: [[Places/Regions#The Red River]]. Do not invent these in canon fil
 
 ## Orion's Wrath
 
-- Final name beyond _Orionův hněv_
 - Does continental Řád Spravedlivých or Branon's Tyův řád treat them as deserters or excommunicates?
 - Hard limits on recruited Veil-talent (Jimmy and others)
 
-## Orestor — PS 0 coup and PS 1 republic
+## Orestor
 
-- **Purkrabí** (_Lord Warden of the Crown Port_) — personal name; cadet-branch relation to royal house
-- **Purkrabí's family** — names, ages, exact hostage location (Nebeská čtvrť?)
-- **Monarchist** leaders — who staged the coup when the protectorate deal was known?
-- **Loyalist** military commander — who speaks for the protectorate deal in PS 1?
-- **Republican** figurehead — who fronted the council / election rhetoric?
-- First **Konšelé** election or appointment — timing in PS 0 vs PS 1
-- How fully does **Eirys** understand what **Ilrusk** is?
+- **Opening job** — everyday legal work gone wrong; which of Bořiči / Hněv / Mlčenliví it hits. Candidate: that job helps the **amethyst** into the city. `ideas/eloran/orestor-opening-job.md`
+- Name of the **[[Organisations/Legal Consultate|legal consultate]]**
+- **[[Organisations/Bořiči]]** — leader; wants; methods
+- Herald **cult mechanics** — Selith picks a target, Heralds bring the person, Selith works the magic, Heralds stage the body. Rank, cells, how marking works
+- **[[People/Selith]]** — how it looks in its own shape; what it wants now. Candidate: banished into the Veil/Paths at the Ellesmere seal; Jeod's breaking let it out
+- What ritual death 9 completes; whether there are **nine fragments**
+- Who deaths 2–9 are
+- After death 1: one Konšel **replacement**, or a **general election**
+- Who speaks for the **Kajícníci** after Jeroným's death
+- **[[People/Konrad|Konrad]]** — what he is. Candidate: Ilrusk made him, Silent high-rank unnatural, a new Orion. Old Silent lore: high rankers magical/unnatural
+- **Purkrabí Jan** — marshal he is named for; mother's royal father; which war killed the marshal
+- **Purkrabí's family** — names, ages, hostage location
+- House names for Alynn, Oto, Lothar, Konrad, Benedikt, Jeroným
+- The two other **Meredian throne contenders** besides Jan — names, where they sit
+- Hospice name
+- Triskal east-delta city name
+- Which stolen body **[[People/Ilrusk|Ilrusk]]** wears in Orestor
+- Whether Tillibor knows the hospice doctor forged Mlčoun
+- Whether Jeod knows Ilrusk is in the port
 
 ## Campaign Structure
 
@@ -108,22 +119,22 @@ River course: [[Places/Regions#The Red River]]. Do not invent these in canon fil
 
 ## Orion and the Maegi
 
-- What was Orion's true intent during the sealing ritual — savior, would-be world-consumer, or something else? (deliberately unknowable)
-- **Who actually killed Orion?** The disciples broke the ritual and tried to kill him — but were they alone? Orion would not have trusted only his closest disciples; he would have had earlier creations and allies present too. The political picture is broader than just the nine.
-- **What other parties of power were present at the time?** The disciples were not alone in the world. Orion's earlier framings of the Veil produced rival lineages (blood mages, others). Druids existed (the Bloody War of the Druids — Krvavá válka druidů — is in legend; possibly a ripple effect of post-Orion Maegi crusade). Other unnamed factions almost certainly.
-- **The post-Orion crusade.** Whoever killed him, the Maegi used his death to launch a crusade against rival powers — eliminating many of them. Identity of the targets and survivors is open.
-- What remains of Orion in the depths beneath Ellesmere — killed, consumed, sealed with Erathon, or residue only? Person file open; [[Places/Ellesmere Depths]] says consumed.
+Orion **merged with Erathon** in the rift. Intent of the working is still argued. Students of the nine were not in the chamber.
+
+- What was Orion's true intent — savior, would-be world-consumer, or something else?
+- **What other parties of power were present** besides the nine?
+- **The post-Orion crusade** — targets and survivors.
+- **Which of the nine** died in the sealing blast, which survived **marked** (withered / insane), which were destroyed in the merge? Lore extract names: Maedir, Terranova, Nyx, Fayen, Eon, Kane, Loon, Isthar, Ilrusk.
 - What is the tenth power of the Art?
 - Are the nine powers and the nine seals the same thing, or related but distinct?
-- Who were the nine disciples besides **[[People/Ilrusk|Rewyn Ilrusk]]**? Lore extract names: Maedir, Terranova, Nyx, Fayen, Eon, Kane, Loon, Isthar. Present-day Maegi (Theodor Eon, Roderik Loon, Sibyla Fayen, Jeod Isthar) reuse those names — lineage, not the original nine.
-- Why did Ilrusk co-found the Templars? Miscalculation, deliberate weapon against rival lineages, or genuine repentance? (all three valid)
-- **Who is Azolar?** A figure Ilrusk hates intensely — likely a survivor of the post-Orion crusade, or a rival of the Maegi from that era. Identity, faction, current status all open.
+- Why did Ilrusk co-found the Templars?
+- **Who is Azolar?**
 
 ## Other Parties of Power (Pre-Orion / Contemporary)
 
 - **The Druids** — the _Krvavá válka druidů_ (Bloody War of the Druids) is in legend. May be a ripple effect of the Maegi crusade against rival powers after Orion's death.
 - **[[Places/Temnoles|Temnoles]]** (Dračí ostrovy) — hold a crypt of an old Maegi enemy. Identity, location specifics, and current threat status open.
-- **Earlier Veil lineages** — blood mages and others created by Orion's earlier framings. How many remain today, and where?
+- **Earlier Veil lineages** — blood mages and others created by Orion's earlier framings. How many remain today, and where? Is **[[People/Selith]]** one of them?
 
 ## Apostolic Church & Order of the Just
 
@@ -139,27 +150,28 @@ River course: [[Places/Regions#The Red River]]. Do not invent these in canon fil
 - **How are Maegi created?** Canon: the creation ritual centers on blood — living creatures concentrate the Veil, and the ritual channels that concentration through blood. Specific mechanics, costs, and constraints are open.
 - How do the earlier "blood mage" lineages relate to Maegi creation? Same root technique, less refined?
 - Can a Maegi be unmade — and if so, how?
-- Maegi don't die of natural causes. **How did the eight disciples die?** Killed by rivals during the post-Orion crusade? Factional conflict among themselves? Templars during the takeover? Something else?
+- Maegi don't die of natural causes. Marked survivors withered or went mad — how many still exist as something other than Ilrusk?
 
 ## Jeod Isthar
 
 Canon on the person file: ~500 years old or less; witnessed the Templar rise and the Ellesmere culling; **not** a founding-era Maegi; never met Orion.
 
-- Where is Jeod at PS 2, and what is he doing?
+- Where is Jeod in person at PS 2? The Orestor amethyst hire runs through **[[Organisations/Brauer & Hess]]** without him in the street.
 - Who were the mortal smugglers who got Jeod and Kate into the Marble Fortress, and what is the name of the one **marked by death** (lich-in-progress, still mortal at PS 0)?
 - Who created him as a Maegi?
-- Did he know the seal-break would scatter Erathon fragments, or only that it would restore the Veil?
 - Does he know Ilrusk is in Orestor? Does Ilrusk know Jeod's name?
 - Is he still pursuing further seal-breaking?
 
 ## Fragments
 
-- The fragments carry Erathon's essence + Orion's Veil residue (not the disciples)
-- The "shadow lord" in Birger Aderen's fragment — is it Erathon-aspect, Orion-residue, or something formed by their interaction?
+Canon: the **seal** that held the rift broke off and **crystallized** — Orion and Erathon, soul and essence, solid. Not disciple-stuff. A "shadow lord" in a fragment is that mix.
+
+- How many fragments exist, and where?
+- **Orestor:** who wants the one that arrived on a corrupted messenger? (names incoming)
 
 ## World History
 
-- How many Erathon soul fragments exist, and where are the others?
+- How many fragments exist, and where?
 - What happened to Sir Hans (the templar hunting escaped Ellesmere mages)?
 - Is the Order of Maegi still active, and where are the surviving members?
 

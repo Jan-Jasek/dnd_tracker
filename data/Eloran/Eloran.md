@@ -46,7 +46,7 @@ The material plane of the [[Veiling]]. Largely sealed from the Veil since Orion'
 - [[Places/Saltmarsh]] — founding republic; Von Telten hostage plot (with map)
 - [[Places/Oros]] — founding republic of the Triple Coalition
 - [[Places/Mokrá Lhota]] — weapon-smuggling waypoint
-- [[Places/Orestor]] — west-delta crown port; city-republic; Eirys; Ilrusk
+- [[Places/Orestor]] — west-delta crown port; city-republic; Konrad, Benedikt; Ilrusk
 - [[Places/Gutberg]] — south gate of Meredie; old-age metal span; fell PS 0
 - [[Places/Lapiberg]] — dwarven free city; Grundarmheld ground city in Meredie
 - [[Places/Ellesmere Region]] — Meredian lowlands around ruined Ellesmere
@@ -55,10 +55,16 @@ The material plane of the [[Veiling]]. Largely sealed from the Veil since Orion'
 
 ## People
 
-- [[People/Orion]] — founder of Orestor and the Order of Maegi; vanished beneath Ellesmere
+- [[People/Orion]] — founder of Orestor and the Order of Maegi; merged with Erathon in the Ellesmere rift
 - [[People/Jeod Isthar]] — Maegi; destroyed the Ellesmere seal; present-day catalyst
-- [[People/Ilrusk]] — last of the nine disciples; lives in Orestor
-- [[People/Eirys]] — Silents guild leader; council treasurer; Ilrusk's proxy in the city
+- [[People/Ilrusk]] — last of the nine disciples; hospice doctor in Orestor; principal of the Silents
+- [[People/Alynn]] — Konšel; Merchants' Guild; republican face in Orestor
+- [[People/Oto]] — Konšel; monarchist high lord in Orestor
+- [[People/Lothar]] — Konšel; city-guard commander; loyalist face in Orestor
+- [[People/Konrad]] — Konšel; master of the docks; Vorlen; Ilrusk's proxy
+- [[People/Benedikt]] — Konšel; Just temple in Orestor
+- [[People/Jeroným]] — apostolic archbishop; Orestor Konšel
+- [[People/Selith]] — ancient being Orion made to create more Veil-users; walks as Orion at night
 - [[People/Birger Aderen]] — Valdie fugitive noble; Triple Coalition leader; shadow-lord fragment
 - [[People/Aemon Whiteoak]] — imperial captain; Hlubina prologue only
 - [[People/Kate]] — Jeod's apprentice; recruits the party at Hlubina
@@ -66,11 +72,15 @@ The material plane of the [[Veiling]]. Largely sealed from the Veil since Orion'
 ## Organisations
 
 - [[Organisations/Church of Orion]] — faith index (Orionists, two eras)
-- [[Organisations/Apostolic Church of Orion]] — founding mage-governed church
+- [[Organisations/Apostolic Church of Orion]] — founding clergy; Jeroným on the Orestor Konšelé
 - [[Organisations/Order of the Just]] — templar regime; Just Age
-- [[Organisations/Orion's Wrath]] — Orestor schism from the Just Ones; fragment hunters
+- [[Organisations/Orion's Wrath]] — Orionův hněv; Orestor fanatic schism from the Just Ones; fragment hunters
 - [[Organisations/Order of Maegi]] — mage order; founded by Orion; descendants now hunted
-- [[Organisations/Mlcenlivy]] — the Silents; Orestor's thieves' guild
+- [[Organisations/Mlcenlivy]] — the Silents; Orestor's thieves' guild; Ilrusk's
+- [[Organisations/Bořiči]] — Orestor street wreckers; spark-gifted common folk
+- [[Organisations/Orionovi Zvěstovatelé]] — Heralds of Orion; believe the Saint returned to save and cleanse
+- [[Organisations/Brauer & Hess]] — Imperial bank; new branch in Orestor; Jeod's cut-out
+- [[Organisations/Legal Consultate]] — small advocate firm in Orestor; the party
 
 ## Factions — States & Powers
 

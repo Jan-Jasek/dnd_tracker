@@ -33,11 +33,11 @@ The earlier "blood mage" lineages from Orion's pre-Maegi attempts may be related
 
 Orion's final and most complete framework of Veil control: **the Art**, structured as ten distinct powers. His nine inner disciples — each gifted with exactly one of the ten powers — established their own disciples in turn, effectively founding the Order to outlast them.
 
-The nine survived the binding of Erathon (which only consumed Orion's full effort but not the disciples themselves). They did **not** survive the sealing ritual that followed: they betrayed Orion mid-working and tried to kill him. Orion sacrificed his own Veil to force a partial completion of the 10th seal and vanished into the depths beneath Ellesmere.
+The nine bound Erathon into the Ellesmere **rift**. Their own students were not in the chamber. They betrayed Orion at the 10th seal. He merged with Erathon. Some of the nine died in that blast; survivors were marked and withered or went mad; some may have been destroyed in the merge.
 
-In the aftermath the disciples founded the [[Organisations/Apostolic Church of Orion|Apostolic Church of Orion]] as a cover-up — recasting Orion as Saint and Martyr, and themselves as his bereaved apostles governing from the shadows. Over the following centuries, eight of the nine were killed — Maegi do not die of natural causes. Their secret died with them.
+**[[People/Ilrusk|Ilrusk]]** understood the marking. He sacrificed a student and took the body. He lives in [[Places/Orestor]] at PS 2.
 
-Only **[[People/Ilrusk|Ilrusk]]** survived, by anticipating the betrayal and swapping his consciousness into one of his own disciples' bodies. He has lived in stolen bodies ever since. He lives in [[Places/Orestor]] at PS 2. See [[People/Orion]] for the full account.
+The Church of Orion is the cover-up. Later Maegi were never told the rift existed. See [[People/Orion]].
 
 The ring system (diamond, citrine, etc.) reflects the original nine-power division, though present members no longer know the full structure or that the tenth power exists.
 
@@ -55,7 +55,7 @@ The Art's advantage: it is a _controlled_ relationship with the Veil. Practition
 | ------------------ | ---------- | ------- | ------------------------------------------------- |
 | Theodor Eon        | Evocation  | Diamond | Active?                                           |
 | Roderik Loon       | Abjuration | Citrine | Active?                                           |
-| Eirys              | Unknown    | —       | Possibly connected                                |
+
 | Sibyla Fayen       | Unknown    | —       | Can be encountered on roads; appears as old woman |
 | Garcilaso von Vega | Unknown    | —       |                                                   |
 | Josias Simmler     | Unknown    | —       |                                                   |
@@ -75,5 +75,4 @@ Former templar of the Just. Has taken it upon himself to hunt the mages who esca
 - Is the Order still operating as an organization, or are the members scattered survivors?
 - What is the Order's actual charter — academic, political, protective?
 - Do the rings grant power, signal membership, or both?
-- Is Eirys's connection to the Order the source of her intelligence network?
 - Are the surviving members being hunted by Sir Hans, or just the Ellesmere escapees?

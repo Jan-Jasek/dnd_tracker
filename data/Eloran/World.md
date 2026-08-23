@@ -78,7 +78,7 @@ The world is effectively non-magical from a player perspective at campaign start
 - **Identify** is an arcane check requiring proficiency, not a spell; Detect Magic remains a spell
 - Leomond's Tiny Hut does not exist here
 
-Hidden truth: magic is not truly gone — it is suppressed and feared. The Erathon soul-fragment crisis, the fey gate Erathon is seeking, and the cursed bloodlines of the Taubers all suggest older forces are waking.
+Hidden truth: magic is suppressed and feared. The Erathon soul-fragment crisis, the fey gate Erathon is seeking, and the cursed bloodlines of the Taubers all suggest older forces are waking. After the Shattering some **common folk spark** — untrained Veil-gift. In [[Places/Orestor|Orestor]] that street includes the **[[Organisations/Bořiči]]**.
 
 ## Religion
 
@@ -110,7 +110,7 @@ See [[Notes/Races and Rules]] for full player-facing detail.
 Things everyone knows as myth:
 
 - **Orion** — master of magic; founded his order and the city of Orestor
-- **Erathon** — great demon imprisoned in crystal by Orion; his soul was shattered by the Ellesmere explosion and fragments scattered across the continent
+- **Erathon** — great demon imprisoned by Orion; the Ellesmere explosion scattered fragments across the continent
 - **Krvavá válka druidů** — the Bloody War of the Druids
 - **Ilimoxi** — the dragon god
 - **Vrognir** — King of Giants
@@ -124,7 +124,7 @@ Present aftermath:
 
 - Meredian **main line** ended at Ellesmere; cadet branches compete; the kingdom has no unified crown
 - Valdie fell to Triskal
-- Orestor (Meredian crown port) is a **city-republic compact** at PS 1 — loyalists, monarchists, republicans, and guild mediators; not a popular democracy
+- Orestor (Meredian crown port) is a **city-republic compact** at PS 1 — six Konšelé as equals, purkrabí locked up; loyalists, monarchists, and republicans; not a popular democracy
 - The Triple Coalition broke away during the chaos and controls the Dragon Islands
 
 See [[History/Timeline]] for the full sequence.

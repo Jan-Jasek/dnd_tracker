@@ -11,15 +11,13 @@ source_evidence:
 
 # Apostolic Church of Orion (Apoštolská církev Orionova)
 
-> Part of: [[Eloran]] | See also: [[People/Orion]], [[Organisations/Order of Maegi]], [[Organisations/Order of the Just]], [[Organisations/Church of Orion]]
+> Part of: [[Eloran]] | See also: [[People/Orion]], [[People/Jeroným]], [[People/Selith]], [[Places/Orestor]], [[Organisations/Order of Maegi]], [[Organisations/Order of the Just]], [[Organisations/Church of Orion]]
 
 The **founding church** — built by Orion's nine disciples immediately after the betrayal. Public face: Orion as martyr and divine savior. Hidden governance: the disciples themselves, and later Maegi successors, pulling strings from behind the saint's myth.
 
 ## Followers — Orionists (Orionisté)
 
-**Orionists** worship Orion as Saint, Martyr, and effectively god. They are not the enemy of the later [[Organisations/Order of the Just|Order of the Just]] — the Just Ones moved against the **mage-tainted institution**, not against devotion to Orion itself.
-
-Most common folk who pray to the Saint are Orionists in practice, whether or not they know the church's political history.
+**Orionists** worship Orion as Saint, Martyr, and god. Most common folk who pray to the Saint are Orionists in practice.
 
 ## Public Doctrine
 
@@ -35,12 +33,10 @@ For the **Age of Salvation** (_Věk spásy_, pre-PS ~2,000 → ~155), this churc
 
 ## Fall
 
-The [[Organisations/Order of the Just|Order of the Just]] (_Řád Spravedlivých_) overthrew mage control of the church hierarchy pre-PS ~155, marked by the Ellesmere culling. The Apostolic Church as a governing power ended; what remained was faith without the mage oligarchy — and the Just Ones' military regime on top.
+The [[Organisations/Order of the Just|Order of the Just]] (_Řád Spravedlivých_) overthrew the **mage oligarchy** pre-PS ~155 (Ellesmere culling). The Apostolics remained **clergy**. Just swords, apostolic vestments. Same Saint.
 
-Orionist belief persisted. The institution did not.
+## Orestor (PS 2)
 
-## Open Questions
+**[[People/Jeroným|Arcibiskup Jeroným]]** sits as sixth **Konšel**.
 
-- What rites, relics, or titles survived the coup in civilian parishes?
-- Do any Maegi still claim apostolic authority in secret?
-- How much of the founding cover-up is documented vs. oral Maegi lore?
+After death 1 (see [[Campaigns/Orestor]]) the flock becomes **Kajícníci**: Orion returned to **punish us**; we **repent**. A penance militia of common folk. The Heralds say Orion returned to **save us** and **cleanse sinners**.

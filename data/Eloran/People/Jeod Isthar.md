@@ -14,7 +14,7 @@ location: place.ellesmere
 
 A Maegi, **up to ~500 years old** — possibly less. Old enough to have witnessed the Templars' rise to power and the Ellesmere culling first-hand, but **not** a founding-era Maegi. He never met Orion or the original disciples; what he knows of that era comes through Maegi lineage transmission, not personal memory.
 
-Responsible for breaking the Ellesmere seal — the act that shattered Erathon's crystal and set the present campaigns in motion. He did not go in alone. **[[People/Kate|Kate]]** was there. Mortals smuggled them into Ellesmere and into the Marble Fortress. One of those mortals was **marked by death** — becoming a lich in slow motion, still mortal at PS 0. The rest of that party is unwritten.
+Responsible for breaking the Ellesmere seal. He did not go in alone. **[[People/Kate|Kate]]** was there. Mortals smuggled them into the Marble Fortress. One of those mortals was **marked by death** — becoming a lich in slow motion, still mortal at PS 0. The rest of that party is unwritten.
 
 ---
 
@@ -28,12 +28,12 @@ He is _old_, but not _ancient_. He is not Ilrusk's contemporary. He is the kind 
 
 Jeod's primary goal was to **restore the Veil**. The Veil's slow draining since Orion's partial seal has been visibly killing Eloran in his lifetime; he chose to act when others would not.
 
-The Ellesmere explosion was **collateral**. He knew the seal's destruction would produce a catastrophic blast. He took **no precautions** to spare the city — no warning, no evacuation, no targeting elsewhere. He accepted that:
+He knew the working would **blow the Marble Fortress**. He did not know the rift would collapse. He did not expect the **magnitude**. He did not care. No warning, no evacuation.
 
-- The Templars concentrated at Ellesmere (the Marble Fortress of the Just Ones, agents of the Maegi culling he witnessed) would die
-- The civilian population of Ellesmere — tens of thousands — would die alongside them
+- Templars in the fortress would die. He accepted that.
+- The city dying with them was larger than he planned. He still did not stop.
 
-He did not aim at any of these. He did not protect them either. The Maegi he lost in the culling, and the centuries of suppression he watched the Templars conduct, gave him reasons enough.
+He did not know fragments of Orion and Erathon would walk out of it.
 
 ## What He Knows
 
@@ -45,14 +45,14 @@ He has never met Ilrusk knowingly. Whether their paths have crossed under other 
 
 ## Current Status — Alive
 
-Jeod is alive in the present day. He carries full knowledge of what he did and why. Where he is, whether he has allies, and whether he is still pursuing further restoration of the Veil are open questions.
+Jeod is alive in the present day. He carries full knowledge of what he did and why. He owns **[[Organisations/Brauer & Hess]]** in secret — an established Imperial bank in Orestor. The consultate already works for the bank. On the **amethyst** job day he charges them through that house.
 
 ## Adventure Hooks
 
 - A living first-hand witness to the Templar consolidation and the Ellesmere culling
 - He likely knows where at least one or two other Orion seals are located
 - His relationship with **Ilrusk** is undefined — they have probably never met directly. Ilrusk is from a different generation entirely. They may have learned of each other only recently, if at all
-- He may be tracking Erathon fragments himself, with goals different from Ilrusk's
+- He owns **[[Organisations/Brauer & Hess]]** in secret and will charge the Orestor consultate when the amethyst job drops
 - A confrontation with Jeod cannot be flattened into hero or villain — he is a man who decided the world was worth more than a city
 
 ---
@@ -60,10 +60,9 @@ Jeod is alive in the present day. He carries full knowledge of what he did and w
 ## Open Questions
 
 - Exactly how old is Jeod, and who created him as a Maegi?
-- Where is Jeod now, and what is he doing?
+- Where is Jeod in person? The Orestor hire runs without him in the street.
 - Who were the mortal smugglers at Ellesmere, and what is the name of the one marked by death?
 - Does he know [[People/Ilrusk]] is in Orestor? Does Ilrusk know Jeod's name?
-- Did he know the seal would scatter Erathon (and Orion-residue) fragments, or only that it would release the Veil?
 - Does he have allies — other surviving Maegi or sympathizers?
 - Is he still pursuing further seal-breaking, or has he stopped at one?
 - Where does his knowledge of the seal's location come from?

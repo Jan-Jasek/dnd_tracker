@@ -16,27 +16,29 @@ source_evidence:
 
 Orestor's thieves' and assassins' guild. Probably as old as the city itself. Specializes in silence: about their work, about themselves. Members who are captured must commit suicide; failure means they are marked for execution by the guild.
 
+Hidden principal: **[[People/Ilrusk|Rewyn Ilrusk]]**. The Silents know **Vorlen**. Vorlen is **[[People/Konrad|Konrad]]** — alias and myth.
+
 ## Structure (top to bottom)
 
 | Tier            | Name                                                            | Notes                                                                     |
 | --------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| Actual leader   | **Eirys**                                                       | Hidden; public face is council treasurer                                  |
-| Figurehead      | **Vortimar Leus Nortelor** ("one of the eternal") or **Vorlen** | Legendary/symbolic figure                                                 |
-| Elite killers   | **Nedotknutelní (the Untouchables)**                            | Personally answer to the figurehead; supervise Spárs; cannot become Spárs |
+| Principal       | **[[People/Ilrusk\|Ilrusk]]**                                    | Hidden. The hospice doctor. The guild is his.                             |
+| Leader          | **Vorlen**                                                      | Alias of **[[People/Konrad\|Konrad]]**. The myth: eternal master. The truth: a man. |
+| Public civic    | **[[People/Konrad\|Konrad]]**                                    | Master of the docks; Konšel; no bloc                                      |
+| Elite killers   | **Nedotknutelní (the Untouchables)**                            | Answer to Vorlen; supervise Spárs                                         |
 | District chiefs | **Spárové (the Claws)**                                         | One per district; oversee Shadows                                         |
 | Operatives      | **Stíny (the Shadows)**                                         | Small theft/murder units                                                  |
 
-A Shadow can petition to replace their Spár (kill them quietly and competently); a Spár cannot go back to being a Shadow. There is only upward movement or death.
+A Shadow can petition to replace their Spár (kill them quietly and competently). Movement in the guild is upward or death. Nedotknutelní stay Nedotknutelní.
 
 ## Named Members
 
-- **Eirys** — actual leader (hidden)
+- **[[People/Konrad|Konrad]]** — Vorlen; Ilrusk's proxy; master of the docks
 - **Fenris Tichošlápek** — Spár of the Harbor District
 - **Foukač Reaghan** — district chief (Reagan); ex-Triskal noble, fled after Lord Coll's purges
 - **Žabák Hector** — district chief (Frog, Hector); shadows operate in his area
 - **Vrhač Sinebar** — another Spár
 - **Lišák Tadeus** — another Spár (the Fox, Tadeus)
-
 
 ## Operational Methods
 

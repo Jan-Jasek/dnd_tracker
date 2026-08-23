@@ -8,6 +8,7 @@ related:
   - organisation.apostolic-church-of-orion
   - organisation.orions-wrath
   - character.orion
+  - character.benedikt
 source_evidence:
   - imports/onenote/extracted/lore-one-on-01-03-2023.md
   - imports/onenote/extracted/meredie-one-on-01-03-2023.md
@@ -17,15 +18,15 @@ source_evidence:
 
 > Part of: [[Eloran]] | See also: [[Organisations/Apostolic Church of Orion]], [[Organisations/Church of Orion]], [[People/Orion]]
 
-The **Templar order** that overthrew mage control of the [[Organisations/Apostolic Church of Orion|Apostolic Church of Orion]] and installed a continental military dictatorship in all but name.
+The **Templar order** that exists to **eliminate magic**. Also called **the Just Ones** (_Spravedliví_). Co-founded by Ilrusk among the nine disciples — though the coup came long after founding.
 
-Also called **the Just Ones** (_Spravedliví_) in Common/Meredic usage. Co-founded by Ilrusk among the nine disciples — though the coup came long after founding.
+They overthrew the **mage oligarchy** inside the [[Organisations/Apostolic Church of Orion|Apostolic Church of Orion]] pre-PS ~155. They did not replace the clergy. They took the church over **unofficially** and left the Apostolics in the vestments. Complementary: Just swords, apostolic words. Same Saint.
+
+Since the Shattering the Marble Fortress is gone. In Orestor the Just swords are **[[Organisations/Orion's Wrath|Orionův hněv]]**. The Just clergy is **[[People/Benedikt|Páter Benedikt]]**. The Apostolic clergy is **[[People/Jeroným|Arcibiskup Jeroným]]**.
 
 ## What They Opposed
 
-The **mage-tainted church** — the Apostolic hierarchy secretly governed by Maegi who had betrayed Orion and hidden behind his myth.
-
-They did **not** move against **Orionists** (_Orionisté_) as worshippers. Common devotion to the Saint remained licit. The purge targeted institutional magic, Maegi lineages, and the apostolic mage oligarchy — not prayer at Orion's shrines.
+The **mage-tainted hierarchy** — Maegi pulling the Saint's church. Maegi lineages, institutional magic, the oligarchy behind the apostolic myth. Parish devotion stayed licit.
 
 ## Doctrine Under the Just Ones
 
@@ -73,4 +74,4 @@ The Order's signature tool — Veil-suppressing metal for shackles, blades, and 
 
 - Who holds nominal leadership after Ellesmere — Branon Vznešený's reform in Triskal, scattered arch-templars, or no center?
 - Does any Just One know Severite's origin?
-- How do Orionist priests and Just One commanders share authority in mixed parishes today?
+- How Benedikt, Hněv, and the Apostolic seat share a city after the Shattering

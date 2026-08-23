@@ -20,7 +20,7 @@ This file is the **Eloran plane chronology** — ages, wars, and campaign events
 
 ### Dating Convention — PS (Post-Shattering)
 
-**The Shattering** — the night Ellesmere fell, Erathon's prison crystal broke, and soul fragments scattered. Marks **PS 0** and opens the **Age of Fragments** (_Věk úlomků_).
+**The Shattering** — the night Ellesmere fell, the rift's holding seal broke, and fragments of Orion and Erathon scattered. Marks **PS 0** and opens the **Age of Fragments** (_Věk úlomků_).
 
 **Czech:** _**Roztříštění**_ (chronicles, scholars — stresses fragments) or _**Rozštěpení**_ (common speech, sermons — shorter, more immediate). Both are canon; _Katastrofa_ survives as raw grief-talk, not the epoch name.
 
@@ -96,13 +96,13 @@ The Veil on Eloran is tainted following the Sundering. Pre-Sundering beings (Era
 
 **Orion rises.** A mortal born in this era. Develops the Art through multiple attempts — earlier frameworks produce other Veil lineages (blood mages and others) before he achieves the complete ten-power structure. Founds Orestor (Prastaré město — the Ancient City). See [[People/Orion]].
 
-**The Binding of Erathon.** Orion and his nine inner disciples perform the nine seals ritual. Erathon is bound into the crystal. The disciples survive.
+**The Binding of Erathon.** Orion chooses Ellesmere for Path-access. He and the nine bind Erathon into a **floating rift**. Their students are not in the chamber. A fortress is raised around the rift.
 
 ### pre-PS ~2,000 — Sealing Ritual; Start of the Age of Salvation
 
-Orion attempts the larger ritual: nine seals plus the 10th, to permanently seal Eloran from the Paths. Other parties of power are present alongside the disciples. The disciples betray him. Orion sacrifices his own Veil to force partial completion of the 10th seal. He vanishes into the depths beneath Ellesmere.
+Orion attempts the 10th seal. The nine betray him. He forces a partial completion. He **merges with Erathon** in the rift. Some of the nine die in the blast; survivors are marked; Ilrusk takes a student's body and lives.
 
-The disciples found the **Apostolic Church of Orion** (_Apoštolská církev Orionova_) as cover-up — the faith that names this era the **Age of Salvation** (_Věk spásy_). Worshippers are **Orionists** (_Orionisté_). They launch a crusade against rival powers (the Bloody War of the Druids — _Krvavá válka druidů_ — is a likely ripple effect of this era). Over centuries, eight of the nine disciples are killed; Maegi don't die naturally, so each was killed by violence, factional conflict, or rival action. Only Ilrusk survives, in a stolen body.
+The surviving marked disciples found the **Apostolic Church of Orion** (_Apoštolská církev Orionova_) as cover-up — the faith that names this era the **Age of Salvation** (_Věk spásy_). Worshippers are **Orionists** (_Orionisté_). They launch a crusade against rival powers (the Bloody War of the Druids — _Krvavá válka druidů_ — is a likely ripple effect of this era). Later Maegi are never told the rift exists.
 
 The Order of Maegi continues to grow through later generations of blood-ritual creation. Members visible in present-day records include Theodor Eon (evocation, diamond ring), Roderik Loon (abjuration, citrine ring), Sibyla Fayen, Garcilaso von Vega, Josias Simmler.
 
@@ -130,9 +130,7 @@ The culling marks the templar coup and ends the **Age of Salvation**. The **Just
 
 ### PS 0 — The Shattering (Age of Fragments begins)
 
-[[People/Jeod Isthar|Jeod Isthar]] — a Maegi up to ~500 years old, who witnessed the Templar rise and the Ellesmere culling — destroys the seal at Ellesmere. His **primary purpose** was to break the seal and restore the flow of the Veil. The catastrophic blast was **collateral**: he knew it would happen, took no precautions to spare Ellesmere, and accepted that the Templars and the civilian population alike would die.
-
-The crystal shatters. Soul fragments — carrying Erathon's essence and Orion's sacrificed Veil residue — scatter across the continent. Ellesmere is leveled. Jeod survives.
+[[People/Jeod Isthar|Jeod Isthar]] breaks the seal that holds the rift. He means to restore the Veil. He knows the Marble Fortress will blow. He does not know the rift will collapse. He does not expect the scale. He does not care. The seal crystallizes into fragments of Orion and Erathon. Ellesmere is leveled. Jeod survives.
 
 **Veil resurgence:** Magic strengthens worldwide. Forgotten creatures awaken — orcs, dryads, gith bands, and others press borders that had been quiet for centuries. The Templars of the Just reform under Branon Vznešený; magic becomes registered and tolerated under supervision in some states, hunted in others.
 
@@ -150,7 +148,7 @@ The **named** wars are three Imperial campaigns against independent **templar-Me
 | **Second** | pre-PS ~45 | Reconquest fails. Meredie comes out harder.                                                                  |
 | **Third**  | **PS 0**   | Empire with **[[Factions/Triskal\|Triskal]]**. Gutberg falls. Then Ellesmere is destroyed. See below.        |
 
-The house (name **TBD**) runs from **Bořivoj I** to the Shattering. The **main line** dies at Ellesmere. Cadet branches remain; the purkrabí of **[[Places/Orestor|Orestor]]** is a contender.
+The house (name **TBD**) runs from **Bořivoj I** to the Shattering. All **male direct descendants** are dead. The purkrabí of **[[Places/Orestor|Orestor]]** is **Jan** — female-line blood, a marshal's name, a contender.
 
 See [[Notes/Open Questions#Meredian Wars]].
 
@@ -176,7 +174,7 @@ The third Imperial attempt to take **Meredie** — independent since Bořivoj (p
 7. Von Edgeira secures flanks and supply lines and prepares a proper siege.
 8. Before the siege begins: **Ellesmere is destroyed overnight in a massive explosion**. The epicenter is the Marble Fortress of the Templars of the Just Ones. The central district is a crater. Much of the city collapses.
 
-**The Ellesmere explosion** shatters Erathon's prison crystal and scatters soul fragments across the continent. Anyone who handles a fragment is psychically influenced — violence, corruption, obsession. This is the hidden root cause of the Shattering.
+**The Ellesmere explosion** is Jeod breaking the seal. The rift collapses. Fragments of Orion and Erathon scatter. Anyone who handles a fragment is psychically influenced — violence, corruption, obsession. This is the hidden root of the Shattering.
 
 **Archipelago closing (same PS 0 window):**
 

@@ -17,7 +17,9 @@ Czech/Prussian inspiration. Language: **Meredic**. Fortress-kingdom of mountains
 
 **Symbol:** white apple tree on green field.
 
-House **name TBD**. One line since **Bořivoj I the Liberator** (_Bořivoj 1. Osvoboditel_, pre-PS ~300). Main line ended at the Shattering. Cadet branches compete. The **purkrabí of [[Places/Orestor|Orestor]]** is one of those contenders.
+House **name TBD**. One line since **Bořivoj I the Liberator** (_Bořivoj 1. Osvoboditel_, pre-PS ~300). All **male direct descendants** died at the Shattering (and before). Cadet and female-line branches remain.
+
+The **purkrabí of [[Places/Orestor|Orestor]]** is **Jan** — great-grandson, through his mother, of a man who would have been king. She was married off to a marshal (name TBD). Jan carries that lord's name, not the house. He is a **contender**: monarchists in Orestor, led by **[[People/Oto|Lord Oto]]**, mean to crown him king of Meredie. **Two other contenders** hold elsewhere in Meredie (names and seats open).
 
 ## Geography
 
@@ -55,7 +57,7 @@ Imperial campaigns against independent templar-Meredie. Bořivoj's unification i
 
 - **Ellesmere** destroyed — Jeod breaking the seal, not a completed siege
 - Noble class decimated; merchant, criminal, and military networks hold what is left
-- **[[Places/Orestor|Orestor]]** — crown port; city-republic compact; purkrabí a hostage and a dynastic claimant
+- **[[Places/Orestor|Orestor]]** — crown port; city-republic compact; purkrabí a hostage and one of three dynastic claimants
 - Lowlands: **[[Places/Ellesmere Region]]**, **[[Places/Hlubina|Hlubina]]**
 - **[[Places/Lapiberg|Lapiberg]]** — dwarven free city; neutral
 
@@ -63,5 +65,6 @@ Imperial campaigns against independent templar-Meredie. Bořivoj's unification i
 
 - House name
 - Kings between Bořivoj I and the last ruler; last ruler's name
-- Great houses besides the royal line and the Orestor cadet
+- Great houses besides the royal line
 - Who speaks for Meredie now — Orestor only, or which cadet branch
+- The two other throne contenders besides **Jan** — names, seats, how much force they have
