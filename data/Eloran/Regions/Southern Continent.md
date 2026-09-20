@@ -19,7 +19,7 @@ Second major landmass of the material plane **Eloran** setting — distinct from
 
 The **[[Factions/United Empire|United Empire]]** and **[[Factions/Vilmar|Vilmar]]** (_Vilmarský sultanát_) border each other **across the sea** on this continent — not on the main Eloran landmass.
 
-- **[[Places/Gibešská poušť|Gibešská poušť]]** (_Gibeská poušť_) — desert region; Imperial holdings face Vilmar across maritime routes
+- **[[Places/Gibešská poušť|Gibešská poušť]]** — desert region; Imperial holdings face Vilmar across maritime routes
 - Imperial officers such as **Captain Henry Von Telten** served on the **southern Imperial border with the Sultanate** before Dragon Islands events
 
 ## Dragon Isles (separate)

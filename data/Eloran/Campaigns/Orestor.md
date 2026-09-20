@@ -26,7 +26,7 @@ related:
 source_evidence:
   - imports/onenote/extracted/orestor-one-on-01-03-2023.md
   - data/Eloran/Places/Orestor.md
-campaign_window: "PS 2 M02; opening job, then ~9 days from death 1"
+campaign_window: "PS 2 M02; opening job, then escalation of undecided duration"
 ---
 
 # Orestor
@@ -41,13 +41,23 @@ World facts live on the place, org, and people files. This file is the play stru
 
 Orestor is a **tripartite city-republic**. Six **Konšelé** sit, including **[[People/Jeroným|Arcibiskup Jeroným]]** (Apostolic) and **[[People/Benedikt|Páter Benedikt]]** (Just clergy). The party is a small **[[Organisations/Legal Consultate|legal consultate]]**.
 
-## Play sequence
+## Opening and independent jobs
 
-1. **Opening job** — everyday advocate work gone wrong. Puts the firm among **[[Organisations/Bořiči]]**, **[[Organisations/Orion's Wrath|Hněv]]**, **[[Organisations/Mlcenlivy|Mlčenliví]]**, or several. Details: `ideas/eloran/orestor-opening-job.md`. Candidate: that job helps the **amethyst** into the city.
-2. **Amethyst job day** — the stone is in play; **[[Organisations/Brauer & Hess]]** hires the firm (Jeod). The same day: **death 1**, **[[People/Jeroným|Jeroným]]** on the town square (confession, blood, abomination; Hněv cuts the body down). This death is played as a scene. Hunters from that day: the consultate, **Mlčenliví**, **Heralds**, **Hněv**.
-3. **Each following day** — the cult works as a unit: Selith picks a target, Heralds bring the person, Selith works the magic, Heralds stage the body. One more found, ritually murdered; some become abominations. People go missing at night. Nine days, nine deaths. Deaths 2–9 are discoveries. Cult details: [[Notes/Open Questions#Orestor]].
+1. **Opening job (draft)** — **[[Organisations/Brauer & Hess]]** offers to consolidate the firm's scattered wartime debts and commissions work on a seized Imperial ship's commercial cargo. Closed-council decrees on Imperial commerce and emergency powers conflict with open-council protections of harbor jurisdiction, trade, and travelers. City guard, harbor customs, and guild claims introduce **[[People/Lothar|Lothar]]**, **[[People/Konrad|Konrad]]**, and **[[People/Alynn|Alynn]]** through their interests at the quay. **Milbern is a proposed held passenger, repeatedly refused permission to leave; he could carry the amethyst on his person.** His background and the Iskelny storyline are open for fresh discussion in `ideas/eloran/orestor-fragment-plot.md`. The bank's cargo contract is unrelated to the stone; Jeod learns of its arrival later. Proposed Bořiči theft and optional Hněv intervention depend on play. Debt history, four instruments, and preparation checklist: `ideas/eloran/orestor-opening-job.md`.
+2. **Amethyst recovery (draft)** — an incident reveals the stone's presence and starts competing hunts by **Isthar's bank**, **Ilrusk's Mlčenliví**, and **Selight's followers**. The incident and each faction's information route remain open. **[[Organisations/Brauer & Hess]]** hires the firm solely to recover the amethyst in a Severite / Mlčoun-lined box; delivery earns cancellation of the consolidated debt. The bank has no knowledge linking the stone to the ritual attacks. Offer: [the recovery commission](../../../ideas/eloran/orestor-amethyst-commission.md). Custody, information, and faction responses: [the timeline](../../../ideas/eloran/orestor-sacred-timeline.md).
+3. **Herald attacks and a separate investigation (draft)** — Selight ([[People/Selith]]) and **[[Organisations/Orionovi Zvěstovatelé|the Heralds]]** conduct rites to establish their presence and punish perceived oath-breakers. The rites begin and continue independently of the amethyst's arrival or possession. **[[People/Jeroným|Jeroným]]** is the proposed square victim: public confession, blood marks, transformation into an abomination, and Hněv's intervention. **Tillibor may separately commission an investigation into who caused his transformation and death**, framing it as an attack on the church. His motive for hiring the firm, terms, and evidence remain open. **[[People/Benedikt|Benedikt]]** is the priest of the old Just temple; this hook assigns him no death. Preparation: [Herald rites and the investigation](../../../ideas/eloran/orestor-herald-rituals.md).
 
-After the square the Apostolic flock becomes **Kajícníci** (Orion came to **punish us**; repent). Heralds say he came to **save us** and **cleanse sinners**. Seat 6 is empty. The five remaining Konšelé face replacement of one seat, or a general election.
+The numbered entries identify threads, not a required order of completion. The bank's discovery and the square incident have separate triggers. Recovery of the stone does not stop the rites, and solving the attacks does not determine the stone's custody.
+
+**Working campaign pressure:** several jobs compete for the firm's time. The opening is intended to create friction with the Just / Hněv through a concrete dispute still to be developed. Tillibor then demands results before another killing. The bank supplies a description of the opening passenger seen with the crystal, recognizable as Milbern in the working draft; the carrier or a useful lead may soon leave Orestor. Debts and damaged relationships make refusal or delay costly, while negotiation and refusal remain possible.
+
+**Selight's intended plan:** nine deaths echoing Orion's nine betrayers, with a planned sequence and schedule. The victims, correspondences, intervals, and result of completion remain open. Player intervention changes what he can achieve. The amethyst hunt can intersect with his plan later according to actual custody; possession is not required to begin or continue the rites.
+
+**Candidate political commission:** influence an open-council vote filling a closed-council seat, potentially Jeroným's if he dies. Patron, candidate, requested intervention, electoral rules, and vote date remain open. This supplies another deadline alongside the killing investigation and recovery job. Track all deadlines and their warning signs in [the timeline](../../../ideas/eloran/orestor-sacred-timeline.md).
+
+Selight's ambition to gather Orion's fragments and share his essence with followers remains distinct from the rites. The means and consequences of using a recovered fragment are open. [Motives and nature](../../../ideas/eloran/orestor-selith-motives.md).
+
+If Jeroným dies, his council seat becomes vacant. The Apostolic flock's proposed response is the **Kajícníci** (Orion came to **punish us**; repent); Heralds say he came to **save us** and **cleanse sinners**. A replacement for one seat or a general election remains open. Prepare responses to the actual outcome of play.
 
 ## Starting Situation
 
@@ -65,19 +75,19 @@ After the Shattering, refugees moved from the crater. The lowlands sit in a cold
 
 History hangs on these people. Unnamed offices are holes, not invitations to invent.
 
-| Person | Office / role | Wants this season |
-| ------ | ------------- | ----------------- |
-| **Purkrabí Jan** | Lord Warden; female-line blood; would lead the Konšelé | Survive captivity. Stay a throne-piece. Signature still binds the loyalists. |
-| **[[People/Alynn\|Lady Alynn]]** | Konšel; head of the Merchants' Guild; lives in the guild | Delta coalition of city-republics; free trade |
-| **[[People/Oto\|Lord Oto]]** | Konšel; monarchist high lord; own army in the city | Crown Jan king of Meredie |
-| **[[People/Lothar\|Sir Lothar]]** | Konšel; knight; commander of the city guard | Keep the purkrabí's city standing |
-| **[[People/Konrad\|Konrad]]** | Konšel; master of the docks; **Vorlen**; Ilrusk's proxy | Keep the quays. Keep the compact. |
-| **[[People/Benedikt\|Páter Benedikt]]** | Konšel; Just temple | Wait out the schism; someone to take the Order. He loses ground daily. |
-| **[[People/Jeroným\|Arcibiskup Jeroným]]** | Konšel; Apostolic Church | Keep the Apostolic seat. |
-| **[[People/Ilrusk\|Rewyn Ilrusk]]** | Last of the nine; hospice doctor; principal of the Silents | The port quiet and his. |
-| **Lucian Tillibor** | Arci-Templar, Orionův hněv | Fragments, abominations. The rest of the Just templars in the port. |
-| **Jaskell**, **Jimmy** | Hněv templars | Patrol; sense corruption |
-| **Fenris Tichošlápek** | Harbor Spár | Control of the harbor underworld; Konrad's knives on the docks |
+| Person                                     | Office / role                                              | Wants this season                                                            |
+| ------------------------------------------ | ---------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **Purkrabí Jan**                           | Lord Warden; female-line blood; would lead the Konšelé     | Survive captivity. Stay a throne-piece. Signature still binds the loyalists. |
+| **[[People/Alynn\|Lady Alynn]]**           | Konšel; head of the Merchants' Guild; lives in the guild   | Delta coalition of city-republics; free trade                                |
+| **[[People/Oto\|Lord Oto]]**               | Konšel; monarchist high lord; own army in the city         | Crown Jan king of Meredie                                                    |
+| **[[People/Lothar\|Sir Lothar]]**          | Konšel; knight; commander of the city guard                | Keep the purkrabí's city standing                                            |
+| **[[People/Konrad\|Konrad]]**              | Konšel; master of the docks; **Vorlen**; Ilrusk's proxy    | Keep the quays. Keep the compact.                                            |
+| **[[People/Benedikt\|Páter Benedikt]]**    | Konšel; Just temple                                        | Wait out the schism; someone to take the Order. He loses ground daily.       |
+| **[[People/Jeroným\|Arcibiskup Jeroným]]** | Konšel; Apostolic Church                                   | Keep the Apostolic seat.                                                     |
+| **[[People/Ilrusk\|Rewyn Ilrusk]]**        | Last of the nine; hospice doctor; principal of the Silents | The port quiet and his.                                                      |
+| **Lucian Tillibor**                        | Arci-Templar, Orionův hněv                                 | Fragments, abominations. The rest of the Just templars in the port.          |
+| **Jaskell**, **Jimmy**                     | Hněv templars                                              | Patrol; sense corruption                                                     |
+| **Fenris Tichošlápek**                     | Harbor Spár                                                | Control of the harbor underworld; Konrad's knives on the docks               |
 
 Unnamed offices and open play choices: [[Notes/Open Questions#Orestor]].
 
@@ -85,25 +95,25 @@ Unnamed offices and open play choices: [[Notes/Open Questions#Orestor]].
 
 These press on Orestor without being in the streets at campaign start:
 
-- **[[People/Jeod Isthar\|Jeod Isthar]]** — broke the Ellesmere seal at PS 0; alive. Owns **[[Organisations/Brauer & Hess]]** in secret. On the amethyst job day he charges the consultate through the bank.
+- **[[People/Jeod Isthar\|Jeod Isthar]]** — broke the Ellesmere seal at PS 0; alive. Owns **[[Organisations/Brauer & Hess]]** in secret. When he learns of the amethyst, he commissions its recovery through the bank.
 - **[[People/Kate\|Kate]]** — was at the Shattering; last seen recruiting at Hlubina in PS 1
 - **Branon Vznešený** / **Tyův řád** — continental Just Ones, based in Triskal
 - **Sir Hans** — templar hunting mages who escaped Ellesmere
 
 ## Active Factions
 
-| Faction                                            | Wants in the city                                                    | Face in play                                      |
-| -------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------- |
-| **Republicans / Merchants' Guild**                 | Delta league of city-republics; free trade                           | **[[People/Alynn\|Lady Alynn]]**                  |
-| **Monarchists**                                    | Jan as king of Meredie                                               | **[[People/Oto\|Lord Oto]]**                      |
-| **Loyalists**                                      | The purkrabí's city; the protectorate signature                      | **[[People/Lothar\|Sir Lothar]]**                 |
-| **[[Organisations/Mlcenlivy\|Mlčenliví]]** *(power)*       | Quiet control of the port                                            | **Vorlen** = **[[People/Konrad\|Konrad]]**; Fenris |
-| **[[Organisations/Orion's Wrath\|Orionův hněv]]** *(power)* | Fragments, abominations; the Just templars in the port               | Tillibor; **Jaskell** and **Jimmy**                 |
-| **[[Organisations/Orionovi Zvěstovatelé]]** *(power)*      | Orion returned to **save** us; **cleanse sinners**; night-marking    | Cult face unnamed                                   |
-| **[[Organisations/Apostolic Church of Orion]]**            | Vestments on the Konšelé                                             | **[[People/Jeroným\|Jeroným]]**                     |
-| **[[Organisations/Bořiči]]** *(street)*                    | Common folk; spark-gift                                              | Leader unnamed                                      |
-| **[[Organisations/Legal Consultate\|Legal consultate]]**   | Everyday advocate work for established clients, including the bank   | The party                                           |
-| **[[Organisations/Brauer & Hess]]**                        | Established Imperial bank; Jeod's in secret                          | The sign over the door                              |
+| Faction                                                     | Wants in the city                                                  | Face in play                                       |
+| ----------------------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------- |
+| **Republicans / Merchants' Guild**                          | Delta league of city-republics; free trade                         | **[[People/Alynn\|Lady Alynn]]**                   |
+| **Monarchists**                                             | Jan as king of Meredie                                             | **[[People/Oto\|Lord Oto]]**                       |
+| **Loyalists**                                               | The purkrabí's city; the protectorate signature                    | **[[People/Lothar\|Sir Lothar]]**                  |
+| **[[Organisations/Mlcenlivy\|Mlčenliví]]** _(power)_        | Quiet control of the port                                          | **Vorlen** = **[[People/Konrad\|Konrad]]**; Fenris |
+| **[[Organisations/Orion's Wrath\|Orionův hněv]]** _(power)_ | Fragments, abominations; the Just templars in the port             | Tillibor; **Jaskell** and **Jimmy**                |
+| **[[Organisations/Orionovi Zvěstovatelé]]** _(power)_       | Orion returned to **save** us; **cleanse sinners**; night-marking  | Cult face unnamed                                  |
+| **[[Organisations/Apostolic Church of Orion]]**             | Vestments on the Konšelé                                           | **[[People/Jeroným\|Jeroným]]**                    |
+| **[[Organisations/Bořiči]]** _(street)_                     | Common folk; spark-gift                                            | Leader unnamed                                     |
+| **[[Organisations/Legal Consultate\|Legal consultate]]**    | Everyday advocate work for established clients, including the bank | The party                                          |
+| **[[Organisations/Brauer & Hess]]**                         | Established Imperial bank; Jeod's in secret                        | The sign over the door                             |
 
 ## Named People (play)
 

@@ -13,15 +13,24 @@ source_evidence:
   - data/Eloran/Campaigns/Orestor.md
 ---
 
-# Orestor — amethyst / Milbern plot (WIP)
+# Orestor — Milbern / Iskelny: parked idea and todo
 
-> **Not canon.** Candidate opening adventure for [[Campaigns/Orestor]]. City politics, districts, and factions live on the place and org files. Promote only after the city context is designed.
+> Part of: [[Campaigns/Orestor]]
+> **Parked imported idea, not canon or active prep.** Discuss Milbern and the stone's history from scratch. The imported material below is preserved for reference and supplies no assumed facts to the opening or timeline.
 
-## Spark
+## Current proposal and discussion tasks
 
-An **amethyst fragment** of Erathon enters the port in the hands of knight **Milbern**. Four city powers want it: Mlčenliví, Orionův hněv, Orionovi Zvěstovatelé, Bořiči.
+The [ship opening](orestor-opening-job.md) proposes **Milbern as a held passenger**, repeatedly arguing to be allowed off the vessel. He could carry the amethyst on his person, separate from the commercial cargo. The bank's cargo contract is unrelated; Jeod learns of the stone's arrival later. Custody and discovery belong in [the sacred timeline](orestor-sacred-timeline.md).
 
-## Sequence (from the Orestor notes)
+- [ ] Who is Milbern, and why is he traveling to Orestor?
+- [ ] How did he acquire the amethyst, and what does he know about it?
+- [ ] Why is he so eager to leave the hold, and where would he go?
+- [ ] Does he have any patron, affiliation, or companions?
+- [ ] Does Iskelny have any role? Reconsider his identity and connection from scratch if useful.
+- [ ] What report later informs Jeod that the stone entered town?
+- [ ] After these decisions, update the opening and custody ledger. Reuse imported elements only by an explicit new choice.
+
+## Archived sequence from the imported Orestor notes
 
 1. A refugee child finds the amethyst near **Stará tvrz**; the shard drives a massacre; guards deliver it to regent **Stefan Iskelny** (murderer of lord **Harry Broad** at a lowland fortress — not the port coup).
 2. Stefan sends knight **Milbern** and a half-dozen men-at-arms to Orestor to have the stone valued and to fence other loot.
@@ -32,20 +41,13 @@ An **amethyst fragment** of Erathon enters the port in the hands of knight **Mil
 
 **Import variants** (not collapsed): who first hears from Roondar (Eirys vs Euron); order of ambushes on the street.
 
-## Named for this plot only
+## Names in the parked plot
 
 - **Stefan Iskelny**, **Harry Broad**, **Stará tvrz**
 - **Milbern** and his men-at-arms
 - **Roondar Tarkelby** as the jeweler who sees the stone (the Tarkelby family as Orionova čtvrť jewelers can exist in city canon without this beat)
 - **Šprýmař**
 
-## Open (if promoted)
+## Use of this material
 
-- Who hires the party
-- What Eirys / Ilrusk do with the amethyst
-- Where Stará tvrz sits relative to the port
-
-## Promotion Notes
-
-- Needs a designed city context first (blocs named, Ilrusk–Eirys proxy, districts playable)
-- World-level fact that fragments exist after the Shattering is already canon; this file is the *Orestor hunt*, not cosmology
+The knightly status, Iskelny commission, six men-at-arms, other loot, child at Stará tvrz, appraisal, ambushes, and cellar/smuggler route are all parked. Names and conflicting versions in the import do not establish the current campaign's cast, custody, or faction knowledge. The discussion tasks above govern fresh development.

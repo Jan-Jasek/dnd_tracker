@@ -59,16 +59,24 @@ River course: [[Places/Regions#The Red River]]. Do not invent these in canon fil
 
 ## Orestor
 
-- **Opening job** — everyday legal work gone wrong; which of Bořiči / Hněv / Mlčenliví it hits. Candidate: that job helps the **amethyst** into the city. `ideas/eloran/orestor-opening-job.md`
+- **Council powers and ship dispute** — finalize the proposed open-council legislative / closed-council executive division; Imperial-commerce penalty, harbor customs jurisdiction, emergency substitution, and free-trade / passenger protections. Set emergency evidence, declaring and reviewing authorities, sponsors, effective dates, vessel/cargo, and deadline. Hněv and Bořiči actions remain proposed escalations. `ideas/eloran/orestor-opening-job.md`.
+- **Debt consolidation** — balance, interest, repayment schedule, commission split, collateral, and treatment of missing creditors / disputed claims. Set the bank's financial interest in the ship's cargo.
+- **Manufactured ship emergency** — which faction within the closed council sponsors it; alleged Imperial soldiers, staged provocation, or misrepresented real incident; what Lothar knows; evidence players can examine; what lasting control the sponsors seek. `ideas/eloran/orestor-opening-job.md`.
+- **Bank's amethyst commission** — develop the sighting of the opening passenger with the crystal, his recognizable description, and the report reaching the bank. Choose the broader discovery incident and information routes to Ilrusk and Selight. Set the possible departure and warnings, debt-discharge terms, reporting expectations, and Severite / Mlčoun box limits. [Recovery commission](../../../ideas/eloran/orestor-amethyst-commission.md).
+- **Milbern / Iskelny — discuss from scratch** — Milbern is a proposed held passenger who could carry the amethyst personally. Background, acquisition, knowledge, motive, companions, and destination are open. Iskelny, the appraisal, and the imported escape plot are parked ideas: `ideas/eloran/orestor-fragment-plot.md`.
+- **Sacred timeline** — track custody, faction knowledge, and independent triggers for the hunt and Herald rites. Set the opening duration, Milbern's possible movements, and each hunter's attempted actions. Any Hněv entry into the hunt needs its own information source. [Timeline](../../../ideas/eloran/orestor-sacred-timeline.md).
+- **[[People/Konrad|Konrad]]** — what he is. Candidate: Ilrusk made him, Silent high-rank unnatural, a new Orion. Old Silent lore: high rankers magical/unnatural
 - Name of the **[[Organisations/Legal Consultate|legal consultate]]**
 - **[[Organisations/Bořiči]]** — leader; wants; methods
-- Herald **cult mechanics** — Selith picks a target, Heralds bring the person, Selith works the magic, Heralds stage the body. Rank, cells, how marking works
-- **[[People/Selith]]** — how it looks in its own shape; what it wants now. Candidate: banished into the Veil/Paths at the Ellesmere seal; Jeod's breaking let it out
-- What ritual death 9 completes; whether there are **nine fragments**
-- Who deaths 2–9 are
-- After death 1: one Konšel **replacement**, or a **general election**
-- Who speaks for the **Kajícníci** after Jeroným's death
-- **[[People/Konrad|Konrad]]** — what he is. Candidate: Ilrusk made him, Silent high-rank unnatural, a new Orion. Old Silent lore: high rankers magical/unnatural
+- Herald **cult mechanics** — why the independent rites begin now; their means, costs, effects, and public message. Any role for blood or sacrificed followers remains open. Rank, cells, marking, target access, and evidence need development.
+- **Selight / [[People/Selith]] — nature and history:** reason for waiting in Ellesmere, Orion's intentions, sources of partial memories; progressive imbuement and control of followers, resistance and limits; actual absorption outcome and final name. The draft establishes initial knowledge: Ilrusk knows Orion's record of a discarded creation, not the being personally, and does not know it escaped; Selight does not know the present Ilrusk. Decide the clues that allow recognition. `ideas/eloran/orestor-selith-motives.md`.
+- **Ilrusk and Orionův starý dům — proposal:** costs of Ilrusk's life-energy experiments, declining power, the house behind stone doors at the top of Nebeská čtvrť, exclusive access, and the surviving records. Knowledge of the records does not establish personal acquaintance with the creations.
+- **Fragment use** — how Selight might absorb or distribute mixed Orion / Erathon essence after obtaining a fragment; whether purification is possible and what followers would receive. The independent Herald rites do not depend on this mechanism. Earlier [separation proposal](../../../ideas/eloran/orestor-amethyst-ritual.md) is parked. Fragment count remains a separate question.
+- **Nine intended victims — gradual development** — how the deaths echo Orion's nine betrayers, each alleged broken oath, Selight's judgment versus actual circumstances, clues, and opportunities to intervene. Develop Jeroným's proposed square incident first; set Selight's intended order, schedule, purpose, and response to interruption. Tillibor remains a possible later target after discussing templar origins and abilities. [Herald rites](../../../ideas/eloran/orestor-herald-rituals.md).
+- **Tillibor's investigation commission and opening friction** — what demand in the ship dispute puts the advocates at odds with the Just / Hněv; why he then hires them, his actual leverage, and the consequences of delay or refusal. He wants the culprit found before another killing. Set his relationship to the Apostolic Church, scope, reward, access, and knowledge. [Separate investigation](../../../ideas/eloran/orestor-herald-rituals.md).
+- **Council-vote commission (candidate)** — who asks the firm to influence an open-council vote filling a closed-council seat, which seat and candidate, the requested intervention, electoral rules, and deadline. Potentially follows Jeroným's death; choose one-seat replacement or general election before preparing the vote. Align its timing with the other jobs in [the timeline](../../../ideas/eloran/orestor-sacred-timeline.md).
+- If Jeroným dies: one Konšel **replacement**, or a **general election**
+- Who speaks for the **Kajícníci**, if they form after Jeroným's death
 - **Purkrabí Jan** — marshal he is named for; mother's royal father; which war killed the marshal
 - **Purkrabí's family** — names, ages, hostage location
 - House names for Alynn, Oto, Lothar, Konrad, Benedikt, Jeroným
@@ -138,7 +146,7 @@ Orion **merged with Erathon** in the rift. Intent of the working is still argued
 
 ## Apostolic Church & Order of the Just
 
-- **WIP:** `ideas/eloran/order-of-the-just-wip.md` — tři vrstvy pravdy (doktrína vs. instituce vs. zakladatelská lež), Veilbreaker, hlubinné vězení ~150 let, Tillibor / Orionův hněv
+- **WIP:** `ideas/eloran/order-of-the-just-wip.md` — three layers of truth (doctrine, institutional secrets, founding lie), Veilbreaker, underground imprisonment for ~150 years, Tillibor / Orionův hněv
 - How much do current Just Ones know of the founding cover-up?
 - Are there Orionist factions that suspect the apostolic mage oligarchy — or blame all clergy equally?
 - Does any templar know Severite was forged from Veil knowledge by Ilrusk?

@@ -29,4 +29,4 @@ Keep the Apostolic seat.
 
 ## Campaign
 
-On the day the party is given the amethyst job: confession on the town square, blood marks, abomination. Tens die. **[[Organisations/Orion's Wrath|Orionův hněv]]** cut the body down. Ritual death 1 of 9. Played as a scene. See [[Campaigns/Orestor]].
+The [[Campaigns/Orestor|campaign draft]] proposes an attack on him in the town square: confession, blood marks, transformation into an abomination, and intervention by **[[Organisations/Orion's Wrath|Orionův hněv]]**. The scene's cause, timing, evidence, and opportunities for player intervention remain in [the Herald-rites preparation](../../../ideas/eloran/orestor-herald-rituals.md). If he dies, Tillibor may commission a separate investigation into who caused it. His fate has not occurred in play.

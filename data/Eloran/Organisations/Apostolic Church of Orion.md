@@ -39,4 +39,4 @@ The [[Organisations/Order of the Just|Order of the Just]] (_Řád Spravedlivých
 
 **[[People/Jeroným|Arcibiskup Jeroným]]** sits as sixth **Konšel**.
 
-After death 1 (see [[Campaigns/Orestor]]) the flock becomes **Kajícníci**: Orion returned to **punish us**; we **repent**. A penance militia of common folk. The Heralds say Orion returned to **save us** and **cleanse sinners**.
+If Jeroným dies in the proposed [[Campaigns/Orestor|campaign incident]], the planned response of the flock is the **Kajícníci**: Orion returned to **punish us**; we **repent**. A penance militia of common folk. The Heralds say Orion returned to **save us** and **cleanse sinners**.

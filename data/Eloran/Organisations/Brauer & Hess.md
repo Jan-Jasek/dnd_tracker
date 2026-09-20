@@ -20,4 +20,4 @@ Imperial bank, **established** in Orestor. Letters of credit, cargo, money at th
 
 ## Hidden Truth
 
-**[[People/Jeod Isthar|Jeod Isthar]]** owns the bank. The names on the door are a sign. On the amethyst job day he charges the consultate through this house.
+**[[People/Jeod Isthar|Jeod Isthar]]** owns the bank. The names on the door are a sign. In the [[Campaigns/Orestor|campaign draft]], he commissions recovery of the amethyst through this house once he learns of it. The bank has no knowledge connecting the stone to the ritual attacks.

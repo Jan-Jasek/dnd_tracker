@@ -28,11 +28,11 @@ By night it walks looking like Orion. It visits people, convinces them, marks th
 
 How it looks in its own shape, and what it wants now: [[Notes/Open Questions#Orestor]].
 
-| Who | Belief |
-| --- | --- |
+| Who                                                  | Belief                                                           |
+| ---------------------------------------------------- | ---------------------------------------------------------------- |
 | **[[Organisations/Orionovi Zvěstovatelé\|Heralds]]** | Orion has returned to **save us**. Sinners must be **cleansed**. |
-| **Kajícníci** (after death 1) | Orion has returned to **punish us**. We must **repent**. |
+| **Kajícníci** (proposed response to Jeroným's death) | Orion has returned to **punish us**. We must **repent**.         |
 
 ## Campaign
 
-Death 1 of 9: **[[People/Jeroným|Arcibiskup Jeroným]]** on the square, amethyst-job day. Then the cult works as a unit: Selith names a target, Heralds bring the person, Selith works the magic, Heralds stage the body. See [[Campaigns/Orestor]].
+The [[Campaigns/Orestor|campaign draft]] gives the Heralds an independent campaign of rites against perceived oath-breakers, with **[[People/Jeroným|Jeroným]]** as the proposed square victim. Means, targets, and timing are developed in [the Herald-rites preparation](../../../ideas/eloran/orestor-herald-rituals.md). The rites operate without requiring the amethyst's arrival or possession. Selith's pursuit of the fragment is a separate thread; [motives and nature](../../../ideas/eloran/orestor-selith-motives.md) remain draft.
