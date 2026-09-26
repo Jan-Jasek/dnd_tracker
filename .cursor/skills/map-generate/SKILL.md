@@ -2,7 +2,6 @@
 name: map-generate
 description: Use when generating a visual map image from a completed map brief — city, district, region, or continent — using Gemini image generation. Run after /map-design has produced a brief.
 ---
-
 # Map Generate
 
 Use this skill to turn a finished map brief into a visual asset and attach it back to the canon file.

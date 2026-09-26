@@ -36,23 +36,23 @@ Spine of the Eloran continent. Source in the **Shadow Mountains** (_Hor stínů_
 
 Tributaries join along the way. None of them are named yet; none are the spine.
 
-| Stretch | Terrain | What it does |
-| ------- | ------- | ------------ |
-| **Source — Hor stínů** | High mountains, west and southwest | River is born. Imperial Gith trouble on these slopes. Separated from the Valdie vassal by the **Shadow Pass** (_průsmyk Stínů_). |
-| **Canyons → [[Places/Gutberg\|Gutberg]]** | Fierce, canyon, no army roads | **South gate of Meredie.** One path: the fortress and its old-age **single-arc metal bridge**, fused into the stone. The bridge has never been destroyed. Gutberg fell PS 0; the span did not. |
-| **Mountain marches** | Long, wet, still high | **Empire–Meredie border.** The river spills out of the canyons into this stretch. |
-| **Island water** | Wider, calmer, several islands | **Triple border:** Empire, Meredie, Triskal. Imperial **island-fort** (name TBD) — Riverrun-like, islands and banks, hard to siege. It is what stops Triskal hitting the Empire from the north. |
-| **Northeast reach** | Still the river as a line | **Triskal–Meredie border.** Empire has dropped off. |
-| **Delta** | Wide, sea, islands, harbors | **[[Places/Orestor\|Orestor]]** on the **west** (Meredic). Triskal on the **east** (city name TBD). |
+| Stretch                                   | Terrain                            | What it does                                                                                                                                                                                    |
+| ----------------------------------------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Source — Hor stínů**                    | High mountains, west and southwest | River is born. Imperial Gith trouble on these slopes. Separated from the Valdie vassal by the **Shadow Pass** (_průsmyk Stínů_).                                                                |
+| **Canyons → [[Places/Gutberg\|Gutberg]]** | Fierce, canyon, no army roads      | **South gate of Meredie.** One path: the fortress and its old-age **single-arc metal bridge**, fused into the stone. The bridge has never been destroyed. Gutberg fell PS 0; the span did not.  |
+| **Mountain marches**                      | Long, wet, still high              | **Empire–Meredie border.** The river spills out of the canyons into this stretch.                                                                                                               |
+| **Island water**                          | Wider, calmer, several islands     | **Triple border:** Empire, Meredie, Triskal. Imperial **island-fort** (name TBD) — Riverrun-like, islands and banks, hard to siege. It is what stops Triskal hitting the Empire from the north. |
+| **Northeast reach**                       | Still the river as a line          | **Triskal–Meredie border.** Empire has dropped off.                                                                                                                                             |
+| **Delta**                                 | Wide, sea, islands, harbors        | **[[Places/Orestor\|Orestor]]** on the **west** (Meredic). Triskal on the **east** (city name TBD).                                                                                             |
 
 ## Meredie's other borders
 
-| Side | Terrain | Neighbour |
-| ---- | ------- | --------- |
-| **North** | More open, still mountainy (Krkonoše-like) | **[[Factions/Valdie\|Valdie]]** |
-| **West** | Inner country (name TBD); **Shadow Pass** to Hor stínů | Vassal of Valdie; borders Valdie to its north. Beyond the pass: **[[Factions/Grundarmheld\|Grundarmheld]]**. |
-| **South** | Gutberg, then the marches | **[[Factions/United Empire\|United Empire]]** — the old river states south of Gutberg (name TBD) are Imperial |
-| **East / river** | Red River as the line, then the delta | **[[Factions/Triskal\|Triskal]]** |
+| Side             | Terrain                                                | Neighbour                                                                                                     |
+| ---------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
+| **North**        | More open, still mountainy (Krkonoše-like)             | **[[Factions/Valdie\|Valdie]]**                                                                               |
+| **West**         | Inner country (name TBD); **Shadow Pass** to Hor stínů | Vassal of Valdie; borders Valdie to its north. Beyond the pass: **[[Factions/Grundarmheld\|Grundarmheld]]**.  |
+| **South**        | Gutberg, then the marches                              | **[[Factions/United Empire\|United Empire]]** — the old river states south of Gutberg (name TBD) are Imperial |
+| **East / river** | Red River as the line, then the delta                  | **[[Factions/Triskal\|Triskal]]**                                                                             |
 
 **[[Places/Ellesmere\|Ellesmere]]** sat in the **Ellesmerská kotlin**, the lowland heart. Not yet pinned to a river-mile.
 
@@ -95,14 +95,14 @@ See [[Regions/Southern Continent]] — Empire and Vilmar border **across the sea
 
 ## Other Named Locations (from Lore / Orestor notes)
 
-| Name                | Notes                                                                                     |
-| ------------------- | ----------------------------------------------------------------------------------------- |
-| [[Ellesmere]]              | Former capital of Meredie; City of Mages; kotlin not yet pinned to a river-mile           |
-| Dol Andor                  | Fell during the Third Meredian War; Von Edgeira took it quickly                           |
-| [[Places/Gutberg]]         | South gate of Meredie; metal span; fell PS 0                                              |
-| _(south of Gutberg)_       | Red River lands now Imperial; former patchwork of states; **name TBD**                    |
-| _(west of Meredie)_        | Inner state; Valdie vassal; **name TBD**; Shadow Pass to Hor stínů                        |
-| _(Triskal east-delta)_     | Triskal port facing Orestor; **name TBD**; old river-coalition city                       |
-| _(Imperial island-fort)_   | End of the marches; islands and banks; **name TBD**; old river-coalition city             |
-| Červánkov                  | Mentioned in Meredie notes                                                                |
-| [[Places/Lapiberg]]        | Dwarven free city; forges armed Bořivoj's unification; neutral at PS 1                    |
+| Name                     | Notes                                                                           |
+| ------------------------ | ------------------------------------------------------------------------------- |
+| [[Ellesmere]]            | Former capital of Meredie; City of Mages; kotlin not yet pinned to a river-mile |
+| Dol Andor                | Fell during the Third Meredian War; Von Edgeira took it quickly                 |
+| [[Places/Gutberg]]       | South gate of Meredie; metal span; fell PS 0                                    |
+| _(south of Gutberg)_     | Red River lands now Imperial; former patchwork of states; **name TBD**          |
+| _(west of Meredie)_      | Inner state; Valdie vassal; **name TBD**; Shadow Pass to Hor stínů              |
+| _(Triskal east-delta)_   | Triskal port facing Orestor; **name TBD**; old river-coalition city             |
+| _(Imperial island-fort)_ | End of the marches; islands and banks; **name TBD**; old river-coalition city   |
+| Červánkov                | Mentioned in Meredie notes                                                      |
+| [[Places/Lapiberg]]      | Dwarven free city; forges armed Bořivoj's unification; neutral at PS 1          |

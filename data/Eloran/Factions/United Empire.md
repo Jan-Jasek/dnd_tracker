@@ -21,11 +21,11 @@ The Empire forms in the south after **Bořivoj I** unifies **[[Factions/Meredie|
 
 ## Geography — Two Landmasses
 
-| Landmass                     | Empire presence |
-| ---------------------------- | --------------- |
+| Landmass                     | Empire presence                                                                                                                                                                                                                                                                                                                                  |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Eloran continent**         | Core heartland south of Meredie. **Hor stínů** (_Shadow Mountains_) west and southwest — river source, slowly descending, Gith on the slopes. The Red River lands **south of [[Places/Gutberg\|Gutberg]]** (name TBD) are Imperial. Marches along the river are the Empire–Meredie border; the island stretch is the triple border with Triskal. |
-| **Southern continent**       | Maritime frontier with [[Factions/Vilmar\|Vilmar]]; [[Places/Gibešská poušť]], [[Places/Akbesi]] |
-| **Dragon Isles** (Azure Sea) | Colonial archipelago — lost direct control to the [[Factions/Triple Coalition]] at PS 0; banking (Brauner & Hess in Ansir) remains |
+| **Southern continent**       | Maritime frontier with [[Factions/Vilmar\|Vilmar]]; [[Places/Gibešská poušť]], [[Places/Akbesi]]                                                                                                                                                                                                                                                 |
+| **Dragon Isles** (Azure Sea) | Colonial archipelago — lost direct control to the [[Factions/Triple Coalition]] at PS 0; banking (Brauner & Hess in Ansir) remains                                                                                                                                                                                                               |
 
 ## Named Imperial Cities (canon)
 
@@ -39,10 +39,10 @@ The named wars are Imperial attempts to take independent **templar-Meredie**. Ge
 
 The Order cannot rule in the Empire; the Empire cannot occupy Ellesmere without destroying the templars. That is the quarrel.
 
-| War    | When       | Empire role                                              |
-| ------ | ---------- | -------------------------------------------------------- |
-| First  | pre-PS ~55 | Campaign against independent Meredie; fails              |
-| Second | pre-PS ~45 | Failed reconquest                                        |
+| War    | When       | Empire role                                                                           |
+| ------ | ---------- | ------------------------------------------------------------------------------------- |
+| First  | pre-PS ~55 | Campaign against independent Meredie; fails                                           |
+| Second | pre-PS ~45 | Failed reconquest                                                                     |
 | Third  | PS 0       | Major invasion with [[Factions/Triskal\|Triskal]]; Gutberg falls; then the Shattering |
 
 The Empire remains standing after PS 0. It is spent.

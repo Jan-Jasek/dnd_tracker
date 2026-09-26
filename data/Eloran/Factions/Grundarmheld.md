@@ -18,11 +18,11 @@ Sits **beyond the Shadow Pass** (_průsmyk Stínů_) from the Valdie vassal and 
 
 Surface holdings in a circle around that mountain core, not the underground halls:
 
-| City | In |
-| ---- | -- |
+| City                              | In                                        |
+| --------------------------------- | ----------------------------------------- |
 | **[[Places/Lapiberg\|Lapiberg]]** | Meredie (free city under Bořivoj's grant) |
-| _(unnamed)_ | Valdie |
-| _(unnamed)_ | the Valdie vassal west of Meredie |
+| _(unnamed)_                       | Valdie                                    |
+| _(unnamed)_                       | the Valdie vassal west of Meredie         |
 
 ## Open Questions
 

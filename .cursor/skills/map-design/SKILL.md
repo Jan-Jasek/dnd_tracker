@@ -2,7 +2,6 @@
 name: map-design
 description: Use when designing the content of a city, region, or continent map — districts, geography, faction control zones, landmarks, secrets, encounter areas, and canon gaps — from existing world lore or from scratch.
 ---
-
 # Map Design
 
 Use this skill to produce a structured map brief: the authoritative written description of a place that drives both play and future visual generation.

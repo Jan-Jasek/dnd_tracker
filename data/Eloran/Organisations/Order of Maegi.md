@@ -51,16 +51,16 @@ The Art's advantage: it is a _controlled_ relationship with the Veil. Practition
 
 ## Known or Candidate Members
 
-| Name               | School     | Ring    | Status                                            |
-| ------------------ | ---------- | ------- | ------------------------------------------------- |
-| Theodor Eon        | Evocation  | Diamond | Active?                                           |
-| Roderik Loon       | Abjuration | Citrine | Active?                                           |
+| Name         | School     | Ring    | Status  |
+| ------------ | ---------- | ------- | ------- |
+| Theodor Eon  | Evocation  | Diamond | Active? |
+| Roderik Loon | Abjuration | Citrine | Active? |
 
-| Sibyla Fayen       | Unknown    | —       | Can be encountered on roads; appears as old woman |
-| Garcilaso von Vega | Unknown    | —       |                                                   |
-| Josias Simmler     | Unknown    | —       |                                                   |
-| Niels Loon         | —          | —       | Deceased                                          |
-| Roderik Maedir     | —          | —       | Deceased                                          |
+| Sibyla Fayen | Unknown | — | Can be encountered on roads; appears as old woman |
+| Garcilaso von Vega | Unknown | — | |
+| Josias Simmler | Unknown | — | |
+| Niels Loon | — | — | Deceased |
+| Roderik Maedir | — | — | Deceased |
 
 ## Sibyla Fayen
 
