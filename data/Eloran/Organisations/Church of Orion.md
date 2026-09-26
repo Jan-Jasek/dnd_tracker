@@ -15,10 +15,10 @@ Three organisations in Orestor take Orion's name. The Just are the complementary
 | Institution                                 | Czech                          | English                   | Role                                                                                                                                  |
 | ------------------------------------------- | ------------------------------ | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Organisations/Apostolic Church of Orion]] | **Apoštolská církev Orionova** | Apostolic Church of Orion | Founding clergy. In Orestor: **[[People/Jeroným\|Arcibiskup Jeroným]]** on the Konšelé. Possible response to his death: **Kajícníci** |
-| [[Organisations/Orion's Wrath]]             | **Orionův hněv**               | Orion's Wrath             | Fanatic Just schism. Most templars in the port. Fragments, abominations                                                               |
+| [[Organisations/Orion's Wrath]]             | **Orionův hněv**               | Orion's Wrath             | Fanatic Just schism. Roughly half the port's templars; gaining ground. Fragments, abominations                                        |
 | [[Organisations/Orionovi Zvěstovatelé]]     | **Orionovi Zvěstovatelé**      | **Heralds of Orion**      | Marked at night by a figure that looks like Orion; save us, cleanse sinners                                                           |
 
-**[[Organisations/Order of the Just|Řád Spravedlivých]]** (_the Just Ones_): made to kill magic. In the Just Age they held the Apostolic Church unofficially; Apostolics remained clergy. Since the Shattering: Marble Fortress gone. In Orestor the Just clergy is **[[People/Benedikt|Páter Benedikt]]**; the Just swords are Hněv.
+**[[Organisations/Order of the Just|Řád Spravedlivých]]** (_the Just Ones_): made to kill magic. In the Just Age they held the Apostolic Church unofficially; Apostolics remained clergy. Since the Shattering: Marble Fortress gone. In Orestor the Just clergy is **[[People/Benedikt|Páter Benedikt]]**; local templars are divided roughly evenly between the Just and Hněv, with Hněv gaining ground.
 
 ## Worshippers
 

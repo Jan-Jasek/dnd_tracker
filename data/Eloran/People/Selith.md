@@ -20,7 +20,7 @@ related:
 
 > Part of: [[Eloran]] | [[Places/Orestor]] | [[Organisations/Orionovi Zvěstovatelé]] | [[Campaigns/Orestor]] | See also: [[People/Orion]], [[People/Jeroným]]
 
-Notes-name. The marked call it **Orion**.
+The marked call Selith **Orion**.
 
 An **ancient being** [[People/Orion|Orion]] made while shaping the Veil on Eloran — an attempt to create more Veil-users to help him secure the world.
 

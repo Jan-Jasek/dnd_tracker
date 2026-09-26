@@ -69,17 +69,19 @@ Over centuries the [[Organisations/Apostolic Church of Orion|Apostolic Church]] 
 
 [[People/Jeod Isthar|Jeod Isthar]] — a Maegi up to ~500 years old who witnessed the Templar rise and the Ellesmere culling, _not_ a founding-era Maegi — broke the Ellesmere seal at **PS 0** (**the Shattering**; _Roztříštění_ / _Rozštěpení_). Goal: restore the Veil. He knew the blast would take the Marble Fortress. He did not know the rift would collapse. He did not expect the scale. He did not care. Fragments of the broken seal — Orion and Erathon, solid — scattered. Jeod survived.
 
+The collapse sent the Veil surging back into Eloran. Magical creatures appear and previously ordinary people awaken to magical abilities. Survivors of [[Places/Ellesmere|Ellesmere]] suffer a wasting corruption; the full nature and progression of that condition remain open.
+
 See [[History/Timeline]] for the named world ages and campaign-era sequence.
 
 ## Current State
 
-| Layer                   | State                                             |
-| ----------------------- | ------------------------------------------------- |
-| Veiling (universe)      | Fragmented; most Paths broken or corrupted        |
+| Layer                   | State                                                      |
+| ----------------------- | ---------------------------------------------------------- |
+| Veiling (universe)      | Fragmented; most Paths broken or corrupted                 |
 | Eloran (material plane) | Seal broken; Veil returning; Orion–Erathon fragments loose |
-| Fey plane               | Veil-saturated; dominated by Erathon's hunger     |
-| The Hollow              | Dead space; no Veil; Erathon uses it as a conduit |
-| Pre-Sundering beings    | Many exist; locations and states unknown          |
+| Fey plane               | Veil-saturated; dominated by Erathon's hunger              |
+| The Hollow              | Dead space; no Veil; Erathon uses it as a conduit          |
+| Pre-Sundering beings    | Many exist; locations and states unknown                   |
 
 ## Open Questions
 

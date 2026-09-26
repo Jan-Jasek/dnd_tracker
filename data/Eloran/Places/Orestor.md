@@ -47,11 +47,11 @@ Late winter / early spring, **PS 2 M02**. See [[Campaigns/Orestor]].
 
 ## The Three Blocs
 
-| Bloc            | Goal                                                                                          | Strength                                           | Face                                          |
-| --------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------- | --------------------------------------------- |
-| **Loyalists**   | Honour the protectorate deal; keep the purkrabí's city standing                               | Low nobles, artisans, townfolk; the **city guard** | **[[People/Lothar\|Sir Lothar]]**             |
-| **Monarchists** | Crown **Jan** as king of Meredie                                                              | High lords in the port; **Lord Oto**'s armed household | **[[People/Oto\|Lord Oto]]**               |
-| **Republicans** | A **coalition of city-republics** on the delta — free ports, free trade                       | Merchants' guild; contracts; ships                 | **[[People/Alynn\|Lady Alynn]]**              |
+| Bloc            | Goal                                                                                 | Strength                                               | Face                              |
+| --------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------ | --------------------------------- |
+| **Loyalists**   | Honour the protectorate deal; keep the purkrabí's city standing                      | Low nobles, artisans, townfolk; the **city guard**     | **[[People/Lothar\|Sir Lothar]]** |
+| **Monarchists** | Crown **Jan** as king of Meredie                                                     | High lords in the port; **Lord Oto**'s armed household | **[[People/Oto\|Lord Oto]]**      |
+| **Republicans** | A **coalition of merchant-led city-republics** on the delta — free ports, free trade | Merchants' guild; contracts; ships                     | **[[People/Alynn\|Lady Alynn]]**  |
 
 **Konšelé** (closed council) sit as equals. The **purkrabí** would preside; **Jan** is a monarchist hostage. **Veřejná rada** (open council): guild and district seats; templars hold votes. After Ellesmere the city treats the blast as the **gods' revenge**.
 
@@ -68,36 +68,36 @@ Three **power factions** sit beside the blocs: **[[Organisations/Mlcenlivy|Mlče
 
 ## Government
 
-| Body                            | Role                                              |
-| ------------------------------- | ------------------------------------------------- |
+| Body                            | Role                                                                                      |
+| ------------------------------- | ----------------------------------------------------------------------------------------- |
 | **Purkrabí**                    | Presides over the closed council. **Jan** is hostage. Governing without him is difficult. |
-| **Konšelé** (closed council)    | Six equals. Seats have no portfolios              |
-| **Veřejná rada** (open council) | Guild and district seats; templars hold votes     |
+| **Konšelé** (closed council)    | Six equals. Seats have no portfolios                                                      |
+| **Veřejná rada** (open council) | Guild and district seats; templars hold votes                                             |
 
-| Seat | Person                                 | Speaks for                                              |
-| ---- | -------------------------------------- | ------------------------------------------------------- |
-| —    | **Purkrabí Jan** (hostage)             | The office                                              |
-| 1    | **[[People/Alynn\|Lady Alynn]]**       | Republicans; Merchants' Guild                           |
-| 2    | **[[People/Oto\|Lord Oto]]**           | Monarchists; high lords; armed household                |
-| 3    | **[[People/Lothar\|Sir Lothar]]**      | Loyalists; city guard                                   |
-| 4    | **[[People/Konrad\|Konrad]]**          | Master of the docks. Hidden: **Vorlen**; Ilrusk's proxy |
-| 5    | **[[People/Benedikt\|Páter Benedikt]]** | Just temple                                            |
-| 6    | **[[People/Jeroným\|Arcibiskup Jeroným]]** | Apostolic Church of Orion                           |
+| Seat | Person                                     | Speaks for                                              |
+| ---- | ------------------------------------------ | ------------------------------------------------------- |
+| —    | **Purkrabí Jan** (hostage)                 | The office                                              |
+| 1    | **[[People/Alynn\|Lady Alynn]]**           | Republicans; Merchants' Guild                           |
+| 2    | **[[People/Oto\|Lord Oto]]**               | Monarchists; high lords; armed household                |
+| 3    | **[[People/Lothar\|Sir Lothar]]**          | Loyalists; city guard                                   |
+| 4    | **[[People/Konrad\|Konrad]]**              | Master of the docks. Hidden: **Vorlen**; Ilrusk's proxy |
+| 5    | **[[People/Benedikt\|Páter Benedikt]]**    | Just temple                                             |
+| 6    | **[[People/Jeroným\|Arcibiskup Jeroným]]** | Apostolic Church of Orion                               |
 
 Loyalists treat Jan's protectorate signature as binding. Republicans treat his captivity as proof that officers fail. Monarchists hold him as a throne-piece: they mean to make him **king of Meredie**. Two other contenders hold elsewhere in Meredie.
 
 ## Power factions
 
-| Faction | Public | Want | Face |
-| ------- | ------ | ---- | ---- |
-| **[[Organisations/Mlcenlivy\|Mlčenliví]]** | Thieves' guild; **Vorlen** leads | Quiet control of the port | **[[People/Konrad\|Konrad]]**; Fenris |
-| **[[Organisations/Orion's Wrath\|Orionův hněv]]** | Fanatic Just schism; most Just templars in the port; tunnel patrols; votes in the Veřejná rada | Fragments, abominations | **Lucian Tillibor** |
-| **[[Organisations/Orionovi Zvěstovatelé]]** | Heralds of Orion; night-marked | Orion returned to **save** us; **cleanse sinners** | Cult face unnamed |
+| Faction                                           | Public                                                                                                          | Want                                               | Face                                  |
+| ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------- |
+| **[[Organisations/Mlcenlivy\|Mlčenliví]]**        | Thieves' guild; **Vorlen** leads                                                                                | Quiet control of the port                          | **[[People/Konrad\|Konrad]]**; Fenris |
+| **[[Organisations/Orion's Wrath\|Orionův hněv]]** | Fanatic Just schism; roughly half the local templars, gaining ground; tunnel patrols; votes in the Veřejná rada | Fragments, abominations                            | **Lucian Tillibor**                   |
+| **[[Organisations/Orionovi Zvěstovatelé]]**       | Heralds of Orion; night-marked                                                                                  | Orion returned to **save** us; **cleanse sinners** | Cult face unnamed                     |
 
 ## Also in the city
 
 - **[[Organisations/Apostolic Church of Orion]]** — **[[People/Jeroným|Jeroným]]** on the Konšelé
-- **[[Organisations/Bořiči]]** — common folk; some spark-gift after the Shattering
+- **[[Organisations/Bořiči]]** — revolutionary socialists among common folk; some spark-gift after the Shattering. Allied with the merchant republicans against common opponents, with an economic conflict neither camp yet fully recognizes
 - **[[Organisations/Legal Consultate]]** — small advocate firm; everyday work
 - **[[Organisations/Brauer & Hess]]** — Imperial bank, established in the port; Jeod's, in secret. The names Brauer and Hess are the sign over the door.
 - **[[People/Ilrusk|Rewyn Ilrusk]]** — hospice doctor; principal of the Silents

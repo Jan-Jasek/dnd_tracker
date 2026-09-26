@@ -13,7 +13,7 @@ source_evidence:
 
 > Part of: [[Eloran]] | See also: [[Factions/United Empire]], [[Factions/Triskal]], [[Factions/Valdie]], [[History/Timeline#Meredian Wars]]
 
-Czech/Prussian inspiration. Language: **Meredic**. Fortress-kingdom of mountains and rivers. High nationalism. Shattered at PS 0: no unified crown.
+Czech, Prussian, German, and Dutch cultural inspiration. **Meredic** is the kingdom's common language; regional speech and naming traditions vary across its cities and borderlands. Fortress-kingdom of mountains and rivers. High nationalism. Shattered at PS 0: no unified crown.
 
 **Symbol:** white apple tree on green field.
 
@@ -47,11 +47,11 @@ The **[[Organisations/Order of the Just|Order of the Just]]** culls Ellesmere an
 
 Imperial campaigns against independent templar-Meredie. Bořivoj's unification is pre-PS ~300.
 
-| War        | When       | Outcome                                                                 |
-| ---------- | ---------- | ----------------------------------------------------------------------- |
-| **First**  | pre-PS ~55 | Imperial campaign fails to take Meredie                                 |
-| **Second** | pre-PS ~45 | Failed reconquest; Meredie comes out harder                             |
-| **Third**  | **PS 0**   | Gutberg falls. Then the Shattering. Crown dead. Empire spent.           |
+| War        | When       | Outcome                                                       |
+| ---------- | ---------- | ------------------------------------------------------------- |
+| **First**  | pre-PS ~55 | Imperial campaign fails to take Meredie                       |
+| **Second** | pre-PS ~45 | Failed reconquest; Meredie comes out harder                   |
+| **Third**  | **PS 0**   | Gutberg falls. Then the Shattering. Crown dead. Empire spent. |
 
 ## Present
 

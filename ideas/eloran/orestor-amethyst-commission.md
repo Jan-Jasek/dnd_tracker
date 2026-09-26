@@ -15,7 +15,7 @@ promotion_target:
 
 ## The offer
 
-**[[Organisations/Brauer & Hess]]** commissions the consultate to find and recover the amethyst. **[[People/Jeod Isthar|Jeod]]** learns of its presence through an incident and information route still to be chosen. The ship commission concerns ordinary cargo; this assignment follows the bank's discovery of the stone, independently of any ritual attack.
+**[[Organisations/Brauer & Hess]]** commissions the consultate to find and recover the amethyst. **[[People/Jeod Isthar|Jeod]]** learns of its presence through an incident and information route still to be chosen. The ship commission concerns a separate, undeclared powder shipment; this assignment follows the bank's discovery of the stone, independently of any ritual attack.
 
 The bank does **not know of a connection between the amethyst and the rituals**. Its brief contains no murder investigation. Delivery in the supplied case earns cancellation of the firm's consolidated debt.
 
@@ -23,7 +23,7 @@ The bank does **not know of a connection between the amethyst and the rituals**.
 
 > “My employers have learned that an unusual amethyst has been brought into Orestor. They want you to locate it and bring it to us.”
 
-The representative describes **a passenger the party encountered during the ship job**, reported seen with the crystal. In the working opening this is **Milbern**. Write his recognizable features when developing that scene; the party should be able to connect the description to someone it met. The bank need not know his name.
+The representative describes **a passenger the party encountered during the ship job**, reported seen with the crystal. In the working opening this is **Bery**. Write his recognizable features when developing that scene; the party should be able to connect the description to someone it met. The bank need not know his name.
 
 The representative places a metal box on the desk and opens it. A lining of **Severite / Mlčoun** lies beneath dense foam fitted into both halves. Closing the lid presses the contents firmly in place.
 
@@ -54,11 +54,11 @@ Before play, decide what the closed case suppresses: influence on its carrier, s
 
 An incident exposes the stone's presence or significance and prompts competing efforts to obtain it. The incident itself, its location, witnesses, and information routes remain undecided. It need not be a ritual attack. Do not silently use the parked Milbern / Iskelny appraisal or ambush plot as its cause.
 
-| Hunter                      | Interest and response                                                                         | Preparation still needed                                                                                  |
-| --------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| **Bank / Isthar**           | Obtain the stone through the consultate.                                                      | What reaches Jeod, what he verifies, and the lead supplied with the offer.                                |
-| **Mlčenliví / Ilrusk**      | Seek the stone through Ilrusk's network.                                                      | His information source, orders, and the roles of Konrad and other agents.                                 |
-| **Selight and the Heralds** | Acquire a fragment for Selight's ambition to restore Orion through himself and his followers. | How they recognize the opportunity, locate it, and divide effort between pursuit and their ongoing rites. |
+| Hunter                     | Interest and response                                                                        | Preparation still needed                                                                                  |
+| -------------------------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| **Bank / Isthar**          | Obtain the stone through the consultate.                                                     | What reaches Jeod, what he verifies, and the lead supplied with the offer.                                |
+| **Mlčenliví / Ilrusk**     | Seek the stone through Ilrusk's network.                                                     | His information source, orders, and the roles of Konrad and other agents.                                 |
+| **Selith and the Heralds** | Acquire a fragment for Selith's ambition to restore Orion through himself and his followers. | How they recognize the opportunity, locate it, and divide effort between pursuit and their ongoing rites. |
 
 These factions need not learn simultaneously or know the same things. Hněv's participation in the hunt is an optional further development requiring its own evidence. Tillibor commissioning a murder investigation does not itself give him knowledge of the stone.
 

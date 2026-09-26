@@ -13,7 +13,7 @@ source_evidence:
 
 > Part of: [[Eloran]] | See also: [[Factions/United Empire]], [[Factions/Triple Coalition]]
 
-Dutch / Holy Roman texture. Language: **Triskal**. A federation of small wealthy coastal and merchant states that **grouped as Triskal** when the **[[Factions/United Empire|United Empire]]** rose in the south. Before that the map here was ever-changing.
+French, Italian, and Spanish cultural inspiration. **Triskal** is the federation's common language; its coastal states have distinct local speech and naming traditions. A federation of small wealthy coastal and merchant states that **grouped as Triskal** when the **[[Factions/United Empire|United Empire]]** rose in the south. Before that the map here was ever-changing.
 
 Northern expansionist once federated. Ally of convenience with the Empire in the **Third Meredian War** — then betrayal at Orestor and Covel.
 

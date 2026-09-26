@@ -16,19 +16,18 @@ source_evidence:
 # Orestor — Milbern / Iskelny: parked idea and todo
 
 > Part of: [[Campaigns/Orestor]]
-> **Parked imported idea, not canon or active prep.** Discuss Milbern and the stone's history from scratch. The imported material below is preserved for reference and supplies no assumed facts to the opening or timeline.
+> **Parked imported idea, not canon or active prep.** The active opening uses [Mára “Bery” Beran](orestor-ship-dossier.md) as the stone carrier. The imported Milbern / Iskelny material below is preserved for reference and supplies no assumed facts to the opening or timeline.
 
-## Current proposal and discussion tasks
+## Possible elements to revisit
 
-The [ship opening](orestor-opening-job.md) proposes **Milbern as a held passenger**, repeatedly arguing to be allowed off the vessel. He could carry the amethyst on his person, separate from the commercial cargo. The bank's cargo contract is unrelated; Jeod learns of the stone's arrival later. Custody and discovery belong in [the sacred timeline](orestor-sacred-timeline.md).
+The [ship opening](orestor-opening-job.md) places **Bery** among the held passengers with the amethyst on his person, separate from the bank's cargo. He acquired it only a few weeks before arrival and plans to stay with family in Orestor while looking for a buyer. Custody and discovery belong in [the sacred timeline](orestor-sacred-timeline.md).
 
-- [ ] Who is Milbern, and why is he traveling to Orestor?
-- [ ] How did he acquire the amethyst, and what does he know about it?
-- [ ] Why is he so eager to leave the hold, and where would he go?
-- [ ] Does he have any patron, affiliation, or companions?
+- [ ] Decide whether any part of Milbern's old history is useful independently of Bery.
+- [ ] Set who held the amethyst before Bery and how he acquired it weeks before arrival.
+- [ ] Set his family's address, first possible buyer, and response if detained longer.
 - [ ] Does Iskelny have any role? Reconsider his identity and connection from scratch if useful.
 - [ ] What report later informs Jeod that the stone entered town?
-- [ ] After these decisions, update the opening and custody ledger. Reuse imported elements only by an explicit new choice.
+- [ ] Reuse imported elements only by an explicit new choice, then update the opening and custody ledger.
 
 ## Archived sequence from the imported Orestor notes
 

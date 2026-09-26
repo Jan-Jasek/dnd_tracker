@@ -26,6 +26,8 @@ The Marble Fortress was a cage around a **floating rift** — Path-wound, immova
 
 ## Survivors & Aftermath
 
+The people who survived Ellesmere carry a **corruption plague**: a wasting condition that slowly kills them. Its symptoms, progression, treatment, transmissibility, and implications for particular named survivors remain to be developed. The DM's comparison is radiation poisoning; this does not establish that the condition is contagious.
+
 - Maegi prisoners held since the pre-PS ~155 culling escaped or died in the collapse; many insane
 - Refugees spread south — including families that reached Hlubina and Dagobar's farm
 - Templar **Sir Hans** hunts escaped mages as a high-level quest hook

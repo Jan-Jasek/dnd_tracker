@@ -132,7 +132,11 @@ The culling marks the templar coup and ends the **Age of Salvation**. The **Just
 
 [[People/Jeod Isthar|Jeod Isthar]] breaks the seal that holds the rift. He means to restore the Veil. He knows the Marble Fortress will blow. He does not know the rift will collapse. He does not expect the scale. He does not care. The seal crystallizes into fragments of Orion and Erathon. Ellesmere is leveled. Jeod survives.
 
+The catastrophe shifts the land and seabed. A great earthquake sends a tsunami against exposed eastern shores of the continent and across the Dragon Archipelago to its far eastern islands. Many coastal ships are destroyed. Vessels sheltered farther upriver or in protected waters have better chances of surviving; the actual damage depends on local geography. Trade and shipping remain disrupted long afterward.
+
 **Veil resurgence:** Magic strengthens worldwide. Forgotten creatures awaken — orcs, dryads, gith bands, and others press borders that had been quiet for centuries. The Templars of the Just reform under Branon Vznešený; magic becomes registered and tolerated under supervision in some states, hunted in others.
+
+**Aftermath in Orestor:** survivors of [[Places/Ellesmere|Ellesmere]] suffer wasting corruption. Many [[Organisations/Order of the Just|templars]] fear divine punishment for their abuses as magic awakens among ordinary people. [[People/Benedikt|Benedikt]] seeks adaptation; Lucian Tillibor leads [[Organisations/Orion's Wrath|Hněv]] toward escalating persecution. By PS 2 the local templars are divided roughly evenly, with Hněv gaining ground.
 
 The Third Meredian War's closing battles unfold in the same catastrophe window — see below. Fragments begin finding hosts.
 
@@ -142,11 +146,11 @@ The Third Meredian War's closing battles unfold in the same catastrophe window �
 
 The **named** wars are three Imperial campaigns against independent **templar-Meredie**. Bořivoj unified the kingdom pre-PS ~300. The Empire is the Maegi pole; the Order has no authority there. Taking Ellesmere would mean destroying the templars. Geography makes seizure a grind. Decades of that effort, then the Shattering, leave the Empire spent.
 
-| War        | When       | Outcome                                                                                                      |
-| ---------- | ---------- | ------------------------------------------------------------------------------------------------------------ |
-| **First**  | pre-PS ~55 | Imperial campaign on the fortress-kingdom. Fails.                                                            |
-| **Second** | pre-PS ~45 | Reconquest fails. Meredie comes out harder.                                                                  |
-| **Third**  | **PS 0**   | Empire with **[[Factions/Triskal\|Triskal]]**. Gutberg falls. Then Ellesmere is destroyed. See below.        |
+| War        | When       | Outcome                                                                                               |
+| ---------- | ---------- | ----------------------------------------------------------------------------------------------------- |
+| **First**  | pre-PS ~55 | Imperial campaign on the fortress-kingdom. Fails.                                                     |
+| **Second** | pre-PS ~45 | Reconquest fails. Meredie comes out harder.                                                           |
+| **Third**  | **PS 0**   | Empire with **[[Factions/Triskal\|Triskal]]**. Gutberg falls. Then Ellesmere is destroyed. See below. |
 
 The house (name **TBD**) runs from **Bořivoj I** to the Shattering. All **male direct descendants** are dead. The purkrabí of **[[Places/Orestor|Orestor]]** is **Jan** — female-line blood, a marshal's name, a contender.
 
@@ -178,7 +182,7 @@ The third Imperial attempt to take **Meredie** — independent since Bořivoj (p
 
 **Archipelago closing (same PS 0 window):**
 
-9. Naval battle at **Bezútěšný vršek** — simultaneous with the Ellesmere blast; tidal surge interrupts the fight.
+9. Naval battle at **Bezútěšný vršek** — simultaneous with the Ellesmere blast; the tsunami interrupts the fight.
 10. Survivors regroup at **Covel**. Triskal and the Empire press a combined assault.
 11. **Battle of Covel** — Torsten (first corsair consul, **[[People/Birger Aderen|Birger Aderen]]**'s nephew) dies defending the northern republic. Triskal betrays its Imperial allies mid-battle (as at Orestor). Coalition retreats; free-republic borders shrink back toward the Ansir peninsula.
 
@@ -186,7 +190,7 @@ The third Imperial attempt to take **Meredie** — independent since Bořivoj (p
 
 - The war ends without a clean victory for either side. **Meredie's** noble class is decimated, the royal line is effectively ended, and political power begins shifting toward merchant, criminal, and military networks.
 - At **[[Places/Orestor|Orestor]]**, Triskal massacres the Imperial eastern column, then negotiates a **protectorate** with the purkrabí. When the deal becomes known, monarchists seize the purkrabí and his family. Loyalists, republicans, refugees, and mediators force a city-republic compact rather than allowing the port to fall into another full-scale battle.
-- In the **Dragon Archipelago**, the battle at **Bezútěšný vršek** (_Bleak Hill_) is interrupted by a tidal surge at roughly the same time as the Ellesmere blast. Survivors regroup at **Covel**. Triskal turns on its Imperial allies, **Torsten** dies, and the corsair forces retreat toward the Ansir peninsula.
+- In the **Dragon Archipelago**, the battle at **Bezútěšný vršek** (_Bleak Hill_) is interrupted by the Shattering's tsunami. Survivors regroup at **Covel**. Triskal turns on its Imperial allies, **Torsten** dies, and the corsair forces retreat toward the Ansir peninsula.
 - The Veil surges back into Eloran. Forgotten creatures and hostile powers begin reappearing, and the first Erathon fragments begin finding hosts. Refugee streams move south and east from the ruined Ellesmere region.
 
 **Following weeks to months (late PS 0):**
