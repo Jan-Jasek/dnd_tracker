@@ -33,7 +33,7 @@ The man who assigns berths, closes the quays, and decides whose cargo lands. The
 
 ## Hidden Identity
 
-He runs the **[[Organisations/Mlcenlivy|Mlčenliví]]** as **Vorlen**. Ilrusk sits in the hospice.
+He runs the **[[Organisations/Mlcenlivy|Mlčenliví]]** as **Vorlen**. Ilrusk keeps the city library.
 
 What Konrad is, in the flesh: [[Notes/Open Questions#Orestor]].
 

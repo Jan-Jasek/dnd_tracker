@@ -61,7 +61,8 @@ Three **power factions** sit beside the blocs: **[[Organisations/Mlcenlivy|Mlče
 
 - **Orionova čtvrť** — jewelers, mages, Order of Maegi connections; Tarkelby gnome family
 - **Přístavní čtvrť** — smugglers, catacombs; Fenris Tichošlápek
-- A **hospital / hospice** — [[People/Ilrusk|Ilrusk]] works here as a doctor
+- **Orion's Library** — [[People/Ilrusk|Ilrusk]] works here as librarian; its collection is being developed in [the library brief](../../../ideas/eloran/orestor-orion-library.md)
+- A **town hospital** — Ilrusk volunteers with its physicians
 - **Nebeská čtvrť** — nobles; guild representatives; hostage household
 - **Nové město**
 - Sub-areas: Tři řeky, Soutěska, Bořiči, Pašeráci
@@ -100,7 +101,7 @@ Loyalists treat Jan's protectorate signature as binding. Republicans treat his c
 - **[[Organisations/Bořiči]]** — revolutionary socialists among common folk; some spark-gift after the Shattering. Allied with the merchant republicans against common opponents, with an economic conflict neither camp yet fully recognizes
 - **[[Organisations/Legal Consultate]]** — small advocate firm; everyday work
 - **[[Organisations/Brauer & Hess]]** — Imperial bank, established in the port; Jeod's, in secret. The names Brauer and Hess are the sign over the door.
-- **[[People/Ilrusk|Rewyn Ilrusk]]** — hospice doctor; principal of the Silents
+- **[[People/Ilrusk|Rewyn Ilrusk]]** — librarian; town-hospital volunteer; principal of the Silents
 
 ## Catacombs
 

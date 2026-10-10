@@ -78,7 +78,7 @@ Which of the nine died in the sealing blast, which withered marked, and which we
 
 Other Maegi created in later generations — by the original disciples and their successors — also survive in the present day. They are not Orion's contemporaries. They know the founding era only through Maegi teaching. [[People/Jeod Isthar]] is one such Maegi (~500 years old or less, witnessed the Templar rise but not Orion's time).
 
-**[[People/Ilrusk|Rewyn Ilrusk]]** lives in present-day [[Places/Orestor|Orestor]]. Last of the nine, in a body not his own. Works as a doctor in a local hospice. **[[People/Konrad|Konrad]]** is his proxy in the city — docks, council vote, Silents (as **Vorlen**).
+**[[People/Ilrusk|Rewyn Ilrusk]]** lives in present-day [[Places/Orestor|Orestor]]. Last of the nine, in a body not his own. Works as a librarian and occasionally helps at a local hospice. **[[People/Konrad|Konrad]]** is his proxy in the city — docks, council vote, Silents (as **Vorlen**).
 
 ---
 

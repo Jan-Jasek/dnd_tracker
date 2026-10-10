@@ -22,7 +22,7 @@ Hidden principal: **[[People/Ilrusk|Rewyn Ilrusk]]**. The Silents know **Vorlen*
 
 | Tier            | Name                                 | Notes                                                                               |
 | --------------- | ------------------------------------ | ----------------------------------------------------------------------------------- |
-| Principal       | **[[People/Ilrusk\|Ilrusk]]**        | Hidden. The hospice doctor. The guild is his.                                       |
+| Principal       | **[[People/Ilrusk\|Ilrusk]]**        | Hidden. The librarian. The guild is his.                                            |
 | Leader          | **Vorlen**                           | Alias of **[[People/Konrad\|Konrad]]**. The myth: eternal master. The truth: a man. |
 | Public civic    | **[[People/Konrad\|Konrad]]**        | Master of the docks; Konšel; no bloc                                                |
 | Elite killers   | **Nedotknutelní (the Untouchables)** | Answer to Vorlen; supervise Spárs                                                   |

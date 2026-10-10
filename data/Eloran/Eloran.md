@@ -57,7 +57,8 @@ The material plane of the [[Veiling]]. Largely sealed from the Veil since Orion'
 
 - [[People/Orion]] — founder of Orestor and the Order of Maegi; merged with Erathon in the Ellesmere rift
 - [[People/Jeod Isthar]] — Maegi; destroyed the Ellesmere seal; present-day catalyst
-- [[People/Ilrusk]] — last of the nine disciples; hospice doctor in Orestor; principal of the Silents
+- [[People/Ilrusk]] — last of the nine disciples; librarian in Orestor; town-hospital volunteer; principal of the Silents
+- [[People/The Judge]] — Orestor magistrate and revolutionary leader; disciple of Ilrusk, the Weaver
 - [[People/Alynn]] — Konšel; Merchants' Guild; republican face in Orestor
 - [[People/Oto]] — Konšel; monarchist high lord in Orestor
 - [[People/Lothar]] — Konšel; city-guard commander; loyalist face in Orestor

@@ -27,7 +27,7 @@ This gives him discretion to bargain with the advocates. If the templars instead
 
 ## Favor — alternatives to discuss
 
-- **Recover "stolen" relics from Hněv.** Choose the objects, usefulness, competing ownership claims, current custodian, and what Benedikt expects the advocates to do.
+- **Recover contested Just grounds or artifacts from Hněv — opening direction.** Choose the property, custodian, ownership claims, task, deadline, and consequences for Tillibor with the DM. Patrol withdrawal and civic vote require separate terms. See [the Day 1 leads](orestor-opening-side-quests.md).
 - **Undermine Hněv's standing with the closed council.** Choose the support or privilege at stake. Finding real misconduct, exposing an existing secret, and fabricating an accusation are different jobs; Benedikt's willingness to use each remains undecided.
 
 Tillibor is the established leader and available political target. Hněv has votes in the open council and influence to contest in the closed council, but no dedicated Konšel seat. Jaskell and Jimmy are named fighters, without established political offices. **Brother František** is a new candidate for Hněv's city representative: likable, politically capable, and obedient to Tillibor. His candidacy and character remain proposals.

@@ -11,15 +11,15 @@ promotion_target:
 # Orestor — Herald rites and the separate investigation
 
 > Part of: [[Campaigns/Orestor]]
-> **Working direction; details remain draft.** Related: [Selith's motives](orestor-selith-motives.md), [the amethyst commission](orestor-amethyst-commission.md), and [the timeline](orestor-sacred-timeline.md).
+> **Working direction; details remain draft.** Related: [Selith's motives](orestor-selith-motives.md), [the fragment commission](orestor-fragment-commission.md), and [the timeline](orestor-sacred-timeline.md).
 
 ## Purpose and independence
 
 **Orionovi Zvěstovatelé** means **Heralds of Orion**. Selith and the Heralds conduct rites to establish their presence and punish people they judge to have broken oaths, vows, or entrusted duties. Selith interprets these betrayals through the disciples' betrayal of Orion. The precise religious message and supernatural purpose remain for discussion.
 
-The rites can begin and continue without the amethyst being in Orestor or in Selith's possession. They have their own motive, means, targets, and timing. Acquiring a fragment is a separate ambition. Its arrival does not start the rites, and recovering or containing it does not end them.
+The rites can begin and continue without the fragment being in Orestor or in Selith's possession. They have their own motive, means, targets, and timing. Acquiring a fragment is a separate ambition. Its arrival does not start the rites, and recovering or containing it does not end them.
 
-Blood or sacrifice may still be involved, consistent with the setting's advanced magic. The energy source, costs, effects, and role of followers remain open. The earlier [essence separation and distribution design](orestor-amethyst-ritual.md) is parked; it does not supply the mechanism for these attacks. Selith's existing ability to imbue followers is relevant background, not a settled explanation for every effect.
+Blood or sacrifice may still be involved, consistent with the setting's advanced magic. The energy source, costs, effects, and role of followers remain open. The earlier [essence separation and distribution design](orestor-fragment-ritual-archived.md) is parked; it does not supply the mechanism for these attacks. Selith's existing ability to imbue followers is relevant background, not a settled explanation for every effect.
 
 ## Jeroným and Benedikt
 
@@ -28,7 +28,7 @@ Blood or sacrifice may still be involved, consistent with the setting's advanced
 
 **Proposed square incident:** Jeroným confesses publicly, blood marks appear, and he becomes an abomination. Hněv intervenes and cuts him down. The inherited scene includes heavy civilian casualties; staging, warning signs, intervention opportunities, and actual casualties need preparation. This is a planned threat, not a completed event or a guaranteed outcome regardless of play.
 
-His accusation, what caused the transformation, and what evidence survives remain open. No amethyst access is required. Jeroným is the proposed first victim in Selith's intended nine deaths; the scene is not tied to the bank commission's day.
+His accusation, what caused the transformation, and what evidence survives remain open. No fragment access is required. Jeroným is the proposed first victim in Selith's intended nine deaths; the scene is not tied to the bank commission's day.
 
 If Jeroným dies, his council seat becomes vacant. The Apostolic flock's proposed response is the **Kajícníci**, interpreting Orion's return as punishment and calling for repentance. Their formation and the political response depend on the actual outcome. A one-seat replacement versus a general election remains an open consequence.
 
@@ -38,7 +38,7 @@ If Jeroným dies, his council seat becomes vacant. The Apostolic flock's propose
 
 The public account already identifies Hněv as the force that killed the transformed body. The investigation therefore asks **who caused Jeroným's transformation and death, how, and why**. It cannot rest on simply discovering whose blade struck him down.
 
-This is a separate job, with its own payment or favors, access to witnesses, and expectations. The bank's debt discharge belongs solely to recovery of the amethyst. Neither patron supplies a presumed link between cases. Tillibor's role as client does not settle his honesty, motives, or involvement; those remain unwritten.
+This is a separate job, with its own payment or favors, access to witnesses, and expectations. The bank's debt discharge belongs solely to recovery of the fragment. Neither patron supplies a presumed link between cases. Tillibor's role as client does not settle his honesty, motives, or involvement; those remain unwritten.
 
 Prepare the approach once the attack and its evidence are defined. The party can accept, decline, postpone, or investigate without a commission. The order of this offer and the bank's recovery offer depends on their respective triggers.
 
@@ -60,14 +60,14 @@ For each eventual target, record:
 
 Use repeated evidence that lets players recognize the oath-breaking theme and investigate a threatened living person. Exact symbols and clue routes need designing with individual cases. Record Selith's plan alongside actual outcomes: a rescue, exposed agent, or interrupted rite changes what he can accomplish. Whether he can postpone, substitute a target, or complete the working with a missing death needs a rule; do not automatically replace a saved victim.
 
-The amethyst hunt may intersect with this plan later, depending on who actually holds the stone. Decide Selith's response to that custody and his available means when developing fragment interaction. The nine rites must remain possible without it.
+The fragment hunt may intersect with this plan later, depending on who actually holds the stone. Decide Selith's response to that custody and his available means when developing fragment interaction. The nine rites must remain possible without it.
 
 **Tillibor** remains a possible later target. His character and templar origins and abilities need discussion first; no ninth position is assigned. See the older [Spravedliví proposals](order-of-the-just-wip.md) as discussion material only.
 
 ## Preparation tasks
 
 - [ ] Decide what establishes the Heralds' presence and why they act at this time, independently of the stone.
-- [ ] Define the rites' means, limits, costs, and effects without requiring amethyst access.
+- [ ] Define the rites' means, limits, costs, and effects without requiring fragment access.
 - [ ] Develop Jeroným's alleged oath-breaking, the square incident, and discoverable evidence.
 - [ ] Decide Tillibor's reason for commissioning outsiders, the scope, reward, and access he offers.
 - [ ] Define his leverage from the opening dispute and what makes delay or refusal costly.

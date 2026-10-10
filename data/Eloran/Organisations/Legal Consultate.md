@@ -26,7 +26,7 @@ Everyday advocate work. **[[Organisations/Brauer & Hess]]** is an established cl
 
 ## Hidden Truth
 
-**[[People/Jeod Isthar]]** owns the bank. On the **amethyst** job day he charges the firm through that house.
+**[[People/Jeod Isthar]]** owns the bank. On the **fragment** job day he charges the firm through that house.
 
 ## Wants
 

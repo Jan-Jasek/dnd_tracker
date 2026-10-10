@@ -1,19 +1,19 @@
 ---
-id: idea.orestor-amethyst-ritual
+id: idea.orestor-fragment-ritual-archived
 type: idea
 status: retired
 universe: veiling
 plane: eloran
 ---
 
-# Orestor — the amethyst, separation, and shared ascension
+# Orestor — the violet fragment, separation, and shared ascension
 
 > Part of: [[Campaigns/Orestor]]
-> **Parked proposal, not active campaign preparation.** This document preserves the earlier idea of using the amethyst to separate and distribute essence through sacrificial rites. The current [Herald rites](orestor-herald-rituals.md) operate independently of the stone. Timing, bank suspicions, first-victim assumptions, and tasks below belong to this archived design and must not be used as current campaign facts. Any future fragment interaction needs fresh discussion. Current references: [Selith's motives](orestor-selith-motives.md), [the recovery commission](orestor-amethyst-commission.md), and [the timeline](orestor-sacred-timeline.md).
+> **Parked proposal, not active campaign preparation.** This document preserves the earlier idea of using the violet fragment to separate and distribute essence through sacrificial rites. The current [Herald rites](orestor-herald-rituals.md) operate independently of the stone. Timing, bank suspicions, first-victim assumptions, and tasks below belong to this archived design and must not be used as current campaign facts. Any future fragment interaction needs fresh discussion. Current references: [Selith's motives](orestor-selith-motives.md), [the recovery commission](orestor-fragment-commission.md), and [the timeline](orestor-sacred-timeline.md).
 
 ## Established foundations
 
-- According to [[Cosmology]], the seal collapsed at the Shattering / Roztříštění and crystallized into fragments containing **Orion's and Erathon's essence**. The amethyst is not an ordinary gem with a spell placed inside it.
+- According to [[Cosmology]], the seal collapsed at the Shattering / Roztříštění and crystallized into fragments containing **Orion's and Erathon's essence**. The violet fragment is not an ordinary gem with a spell placed inside it.
 - Selith is proposed as a Veil being capable of absorbing its power under particular conditions. He intends to gather Orion through the fragments and continue his work.
 - He recognizes corruption in the essence. His idea of purification need not match the actual effect.
 - Mlčoun suppresses the Veil in canon. The box's precise effect on a fragment, detection, and an ongoing rite remains undecided.
@@ -21,7 +21,7 @@ plane: eloran
 
 ## Proposed physical nature
 
-The amethyst holds both essences in a tightly bound arrangement left by the original seal. **Influence leaking into its surroundings and complete absorption are different processes:** it can affect a carrier without being safely opened and consumed.
+The violet fragment holds both essences in a tightly bound arrangement left by the original seal. **Influence leaking into its surroundings and complete absorption are different processes:** it can affect a carrier without being safely opened and consumed.
 
 At close contact, Selith may recognize something familiar from Orion's work alongside an alien pressure. This grants neither a complete conversation with Orion nor omniscient memories. Range and manifestations need choosing. Direct absorption can threaten Selith's coherence and will.
 
@@ -33,7 +33,7 @@ This requires distinguishing the **source**, the **cost**, and the **recipients*
 
 | Role                    | Proposed function                                                                                  | Open questions                                                                              |
 | ----------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| **Amethyst**            | Source of the mixed essence being released and divided.                                            | Access, amount transferred, depletion, and whether meaningful separation is possible.       |
+| **Violet fragment**     | Source of the mixed essence being released and divided.                                            | Access, amount transferred, depletion, and whether meaningful separation is possible.       |
 | **Sacrificial donor**   | Blood, life energy, or a follower's sacrifice powers a working that Selith cannot perform unaided. | Whether death is necessary; willingness, coercion, and what the donor believes will happen. |
 | **Condemned recipient** | Receives the portion Selith identifies as Erathon's essence.                                       | Method of access, onset, effect, duration, and whether intervention is possible.            |
 | **Blessed recipients**  | Selith and surviving followers receive what he regards as Orion's essence.                         | Capacity, actual gifts, residual corruption, and changes to identity or obedience.          |
@@ -42,7 +42,7 @@ These are different roles. A proposed rite can sacrifice one follower and afflic
 
 ### The follower's sacrifice — candidate method
 
-The offered life supplies the force for separating and directing a portion of the mixed essence. Selith's existing imbuement of that follower may help him conduct the working; this is a possible explanation to develop, not a rule already established. The follower's essence pays for or enables the transfer; the unwanted Erathon essence originates in the amethyst.
+The offered life supplies the force for separating and directing a portion of the mixed essence. Selith's existing imbuement of that follower may help him conduct the working; this is a possible explanation to develop, not a rule already established. The follower's essence pays for or enables the transfer; the unwanted Erathon essence originates in the violet fragment.
 
 Whether this requires death, blood loss, permanent depletion, or another sacrifice remains open. If death is required, decide why lesser costs are insufficient. Voluntary sacrifice is possible; cult control means apparent willingness need not establish independent choice.
 
@@ -64,11 +64,11 @@ The shared essence might deepen followers' connection to Selith. Whether it stre
 
 ## Custody and the opening — unresolved constraint
 
-The opening currently places the amethyst on Bery's person, separately from the bank's cargo, with its later movements open. **Actual transfer of Erathon's essence from this stone requires access to it.** The bank's suspicions and the stone's presence somewhere in the city do not provide that access.
+The opening currently places the violet fragment on Bery's person, separately from the bank's cargo, with its later movements open. **Actual transfer of Erathon's essence from this stone requires access to it.** The bank's suspicions and the stone's presence somewhere in the city do not provide that access.
 
 Two compatible routes are available, neither chosen:
 
-- **Preparation before acquisition:** early rites prepare donors, targets, or the cult's network. Actual extraction begins after Selith gains the stone. Jeroným's first public incident must then have another established mechanism, such as Selith's own imbuement; it cannot silently count as an amethyst transfer.
+- **Preparation before acquisition:** early rites prepare donors, targets, or the cult's network. Actual extraction begins after Selith gains the stone. Jeroným's first public incident must then have another established mechanism, such as Selith's own imbuement; it cannot silently count as an violet fragment transfer.
 - **Access before the first transfer:** explicitly resolve how Selith gains custody or temporary access before that incident. The bank's later recovery job follows the resulting location. Do not assume Bery hands it over or that a theft succeeds.
 
 Remote extraction is not established. Adding it would require explicit limits and would change the significance of the bank's containment box.
@@ -79,11 +79,11 @@ Remote extraction is not established. Adding it would require explicit limits an
 
 **Preparation:** Selith prepares vessels, potentially altered bodies or objects bound to extracted life energy. Their form, preparation, and cost are open. Canon establishes living beings as concentrations of Veil; this technique is a new proposal.
 
-**Interaction:** with the amethyst present, he tries to accept or distribute Orion's essence while routing corruption into those vessels. Preparation can precede acquisition; actual extraction cannot.
+**Interaction:** with the violet fragment present, he tries to accept or distribute Orion's essence while routing corruption into those vessels. Preparation can precede acquisition; actual extraction cannot.
 
 **Observable effects:** used vessels contain a real threat. Bodily vessels could explain some abominations. Unused prepared vessels need a distinct, discoverable sign of preparation.
 
-**Player intervention:** securing, disrupting, or rescuing prepared vessels obstructs the transfer. Taking the amethyst prevents further extraction. Destroying a filled vessel might release its contents; that consequence needs discoverable warning.
+**Player intervention:** securing, disrupting, or rescuing prepared vessels obstructs the transfer. Taking the violet fragment prevents further extraction. Destroying a filled vessel might release its contents; that consequence needs discoverable warning.
 
 **Implication:** purification has a cost and leaves dangerous remnants. A perfect, repeatable method would have consequences for all fragments; its actual precision remains open.
 
@@ -109,7 +109,7 @@ The obstacle is incompatibility between Orion's essence and Selith's current arr
 
 The role of life energy, other people, or death would need a concrete explanation. The symbolism of betrayal alone cannot establish a magical requirement.
 
-With the amethyst present, a prepared Selith attempts to receive the recognizable Orion imprint. Selectivity and simultaneous transfer of Erathon remain open. A familiar gesture or memory does not establish purity.
+With the violet fragment present, a prepared Selith attempts to receive the recognizable Orion imprint. Selectivity and simultaneous transfer of Erathon remain open. A familiar gesture or memory does not establish purity.
 
 Each completed preparation would produce a concrete change in Selith's abilities or manifestations. Players could discover and disrupt particular prerequisites. His earlier use of Orion's appearance would not prove prior absorption. This alternative strongly expresses his desired transformation but needs observable changes rather than an unexplained claim of greater attunement.
 
@@ -128,7 +128,7 @@ Recovery can therefore stop new transfers while leaving existing afflicted peopl
 ## Next decisions
 
 - [ ] Agree the intended division between shared elevation, the donor's cost, and the condemned recipient's affliction.
-- [ ] Choose when Selith first gains physical access to the amethyst and reconcile the first public incident with that timing.
+- [ ] Choose when Selith first gains physical access to the violet fragment and reconcile the first public incident with that timing.
 - [ ] Set whether sacrifice requires death and what Selith tells the donor.
 - [ ] Determine how well separation actually works and what each recipient receives.
 - [ ] Define the irreversible point, warning signs, variable outcomes, and meaningful intervention before or after transfer.

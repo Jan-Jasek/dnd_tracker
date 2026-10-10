@@ -35,4 +35,4 @@ How it looks in its own shape, and what it wants now: [[Notes/Open Questions#Ore
 
 ## Campaign
 
-The [[Campaigns/Orestor|campaign draft]] gives the Heralds an independent campaign of rites against perceived oath-breakers, with **[[People/Jeroným|Jeroným]]** as the proposed square victim. Means, targets, and timing are developed in [the Herald-rites preparation](../../../ideas/eloran/orestor-herald-rituals.md). The rites operate without requiring the amethyst's arrival or possession. Selith's pursuit of the fragment is a separate thread; [motives and nature](../../../ideas/eloran/orestor-selith-motives.md) remain draft.
+The [[Campaigns/Orestor|campaign draft]] gives the Heralds an independent campaign of rites against perceived oath-breakers, with **[[People/Jeroným|Jeroným]]** as the proposed square victim. Means, targets, and timing are developed in [the Herald-rites preparation](../../../ideas/eloran/orestor-herald-rituals.md). The rites operate without requiring the fragment's arrival or possession. Selith's pursuit of the fragment is a separate thread; [motives and nature](../../../ideas/eloran/orestor-selith-motives.md) remain draft.

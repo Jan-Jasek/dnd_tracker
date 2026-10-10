@@ -13,7 +13,7 @@ promotion_target:
 
 > Part of: [[Campaigns/Orestor]]
 > **Discussion draft; not promoted to canon.** The motives and nature of [[People/Selith]] remain under development.
-> Related preparation: [the bank commission](orestor-amethyst-commission.md), [the timeline](orestor-sacred-timeline.md), [the independent Herald rites](orestor-herald-rituals.md).
+> Related preparation: [the bank commission](orestor-fragment-commission.md), [the timeline](orestor-sacred-timeline.md), [the independent Herald rites](orestor-herald-rituals.md).
 
 ## Motivation
 
@@ -27,7 +27,7 @@ In his mind, devotion, reunion with his creator, growing power, and vindication 
 
 Possible expression: “They were given his power and betrayed him. I will gather what they left of him, and finish his work.”
 
-Learning of the amethyst in Orestor gives him an opportunity within that larger ambition. His campaign of salvation and punishment has its own motive and can operate without the stone. The original betrayers are beyond Selith's reach. Ilrusk survives in Orestor and is currently stronger, but Selith does not know he is there.
+Learning of the fragment in Orestor gives him an opportunity within that larger ambition. His campaign of salvation and punishment has its own motive and can operate without the stone. The original betrayers are beyond Selith's reach. Ilrusk survives in Orestor and is currently stronger, but Selith does not know he is there.
 
 ## Waiting and awakening
 
@@ -37,7 +37,11 @@ Awakening resembles recovery from a long coma. Selith has partial awareness of e
 
 Selith may have understood waiting as an act of fidelity. He wakes into a world where Orion is absent, the disciples are celebrated, and institutions speak in his name. What he remembers as a promise of return need not explain Orion's actual reason for leaving him.
 
-Awakening in Ellesmere and learning of the amethyst's arrival in Orestor are separate events. Orestor draws him as Orion's city. His journey, discovery of the changed world, and cultivation of the Zvěstovatelé during PS 0–PS 2 remain to be developed.
+Awakening in Ellesmere and learning of the fragment's arrival in Orestor are separate events. Orestor draws him as Orion's city. His journey, discovery of the changed world, and cultivation of the Zvěstovatelé during PS 0–PS 2 remain to be developed.
+
+## Before the ship arrives — early followers to develop
+
+Existing [[People/Selith]] and [[Organisations/Orionovi Zvěstovatelé]] notes place Selith in Orestor, visiting and marking people before the opening. His followers call him **Orion**. Establish the first host or conduit and a small named cast: public lives, motives, progressive corruption, quirks, abilities, limits, recruitment, and Day 1 whereabouts. At least one should be reachable through ordinary city life. This starting cast and visible activity remain open within the Day 1 working scope and can be developed through later amendments. The full ritual sequence and later arc remain follow-ups, and the activity is independent of Bery's fragment. See [the discussion queue](orestor-preparation-questions.md).
 
 ## Selith and Orion's churches
 
@@ -69,7 +73,7 @@ If a rite involves sacrificing a follower, that choice creates a further tension
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | Belief of the Zvěstovatelé | Orion has returned to save the faithful and cleanse sinners.                                                                |
 | Selith's conviction        | Absorbing Orion's essence resurrects him through Selith and continues his work. Sharing it elevates the faithful.           |
-| Immediate aim              | Establish his promised salvation and punish perceived oath-breakers; pursue the amethyst when he learns of it.              |
+| Immediate aim              | Establish his promised salvation and punish perceived oath-breakers; pursue the fragment when he learns of it.              |
 | Actual outcome             | Open: changes to identity, will, and power; what remains of Selith, Orion, and Erathon; what the recipients really receive. |
 
 Whether Selith already considers resurrection underway, and when he would call it complete, remain open. His certainty establishes neither Orion's approval nor the actual separability of the essences.
@@ -88,9 +92,9 @@ Reliable evidence can change Ilrusk's approach. His ignorance should not persist
 
 ## Ritual and victims — scope of further discussion
 
-The [Herald rites](orestor-herald-rituals.md) assert the cult's presence and punish perceived betrayals. They begin and continue independently of the amethyst's location or Selith's possession of it. Their magic, costs, and timing remain open. Blood or a follower's sacrifice is a possibility, not an established requirement.
+The [Herald rites](orestor-herald-rituals.md) assert the cult's presence and punish perceived betrayals. They begin and continue independently of the fragment's location or Selith's possession of it. Their magic, costs, and timing remain open. Blood or a follower's sacrifice is a possibility, not an established requirement.
 
-Selith's desire to share Orion's essence with the faithful remains a separate ambition. How he might use a recovered fragment, and whether separation is possible, need fresh discussion. The [separation and distribution mechanism](orestor-amethyst-ritual.md) is parked and does not explain the independent rites.
+Selith's desire to share Orion's essence with the faithful remains a separate ambition. How he might use a recovered fragment, and whether separation is possible, need fresh discussion. The [separation and distribution mechanism](orestor-fragment-ritual-archived.md) is parked and does not explain the independent rites.
 
 Selith may select people who, in his judgment, betrayed a person, faith, oath, or duty. Individual cases will be discussed gradually. Candidates are not established crimes or a fixed roster. His accusations must remain distinct from the actual circumstances.
 
@@ -106,5 +110,5 @@ The working plan is **nine intended deaths echoing Orion's nine betrayers**, wit
 - [ ] Conditions for imbuement or possession, resistance, range, and consequences of host death.
 - [ ] Separately from the rites: how a recovered fragment could serve his ambition, whether separation and distribution are possible, and what followers would receive.
 - [ ] The independent rites' means and purpose; any role for blood or a sacrificed follower, and Selith's justification for that loss.
-- [ ] How Selith learns of the amethyst and pursues it; separately, what enables Ilrusk to recognize the ancient creation behind the cult.
+- [ ] How Selith learns of the fragment and pursues it; separately, what enables Ilrusk to recognize the ancient creation behind the cult.
 - [ ] Later: individual victims, clues, and timing; Tillibor after developing the templars.

@@ -5,12 +5,17 @@ status: canon
 plane: eloran
 universe: veiling
 org: organisation.order-of-maegi
+aliases:
+  - Antonín
+  - The Weaver
 location: place.orestor
 campaigns:
   - campaign.orestor
 related:
   - character.orion
   - character.konrad
+  - character.the-judge
+  - organisation.borici
   - organisation.order-of-the-just
   - organisation.mlcenlivy
 source_evidence:
@@ -23,15 +28,15 @@ source_evidence:
 
 > Part of: [[Eloran]] | [[Places/Orestor]] | [[Organisations/Order of Maegi]] | [[Campaigns/Orestor]] | See also: [[People/Orion]]
 
-Last of Orion's nine inner disciples. Given name **Rewyn**. Public epithet in legend: **Rudý Ilrusk**. Lives in **[[Places/Orestor|Orestor]]** at PS 2.
+Last of Orion's nine inner disciples. Given name **Rewyn**. Lives in **[[Places/Orestor|Orestor]]** at PS 2.
 
 ## Public Face (Orestor)
 
-Since the Third War began he has worked in a local **hospital / hospice as a doctor**. That is where people in the city — including the party — can meet him. Looks old, unthreatening. Ruby ring. Conjurer, transmuter, alchemist. He has spent centuries making the body he wears nearly indestructible and resistant to magic.
+He is publicly a **librarian in Orestor**, where residents and scholars can meet him among records of Orion and the city. He volunteers in the town hospital, especially with illnesses the ordinary physicians cannot explain. In public he uses the name **Antonín**. Residents do not recognize him as the historical Rewyn Ilrusk. Looks old, unthreatening. Ruby ring. Conjurer, transmuter, alchemist. He has spent centuries making the body he wears nearly indestructible and resistant to magic. The library's collection and the means by which he kept its older works intact are under development in [the library brief](../../../ideas/eloran/orestor-orion-library.md).
 
 He has told other Maegi that **Orestor stays out of their wars**, and that he will not suffer their unannounced presence in the port.
 
-Most of the city has no idea what sits behind the hospice door.
+Most residents do not recognize him as the historical Rewyn Ilrusk.
 
 ## Hidden Truth
 
@@ -40,6 +45,14 @@ He understood what the sealing would do to the nine — mark, infection, merge, 
 He co-founded the **[[Organisations/Order of the Just|Order of the Just]]** and gave them **Severite / Mlčoun**. Why he armed the order that hunts Maegi is contested.
 
 **Azolar** is the name he hates.
+
+## The Weaver
+
+As **the Weaver**, Ilrusk secretly cultivates **[[Organisations/Bořiči]]** as another means to retain control of Orestor. He diversifies his influence across civic institutions, the underground, and the revolutionary movement.
+
+**[[People/The Judge|The Judge]]**, an Orestor magistrate and revolutionary leader, is his Veil disciple and secret political intermediary. The Judge believes their shared purpose is bringing about his revolution. Ilrusk uses the Great Change to introduce democracy and remove the Imperial bank's leverage while preserving his own influence over the city. Republican borrowing to fund separation creates a route for financial dependence on [[Organisations/Brauer & Hess]] and its Imperial interests.
+
+Ilrusk connects to Bořiči through the Judge alone. Lower-ranking members hear of the Weaver but may identify different prominent members with that title or confuse him with the Judge. The other leaders' knowledge and the Judge's understanding of Ilrusk's ancient identity remain open.
 
 ## Wants (this season)
 

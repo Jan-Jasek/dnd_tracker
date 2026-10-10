@@ -45,14 +45,14 @@ He has never met Ilrusk knowingly. Whether their paths have crossed under other 
 
 ## Current Status — Alive
 
-Jeod is alive in the present day. He carries full knowledge of what he did and why. He owns **[[Organisations/Brauer & Hess]]** in secret — an established Imperial bank in Orestor. The consultate already works for the bank. On the **amethyst** job day he charges them through that house.
+Jeod is alive in the present day. He carries full knowledge of what he did and why. He owns **[[Organisations/Brauer & Hess]]** in secret — an established Imperial bank in Orestor. The consultate already works for the bank. On the **fragment** job day he charges them through that house.
 
 ## Adventure Hooks
 
 - A living first-hand witness to the Templar consolidation and the Ellesmere culling
 - He likely knows where at least one or two other Orion seals are located
 - His relationship with **Ilrusk** is undefined — they have probably never met directly. Ilrusk is from a different generation entirely. They may have learned of each other only recently, if at all
-- He owns **[[Organisations/Brauer & Hess]]** in secret and will charge the Orestor consultate when the amethyst job drops
+- He owns **[[Organisations/Brauer & Hess]]** in secret and will charge the Orestor consultate when the fragment job drops
 - A confrontation with Jeod cannot be flattened into hero or villain — he is a man who decided the world was worth more than a city
 
 ---
