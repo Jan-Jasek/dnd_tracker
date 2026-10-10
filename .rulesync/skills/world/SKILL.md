@@ -43,7 +43,7 @@ Every new file must satisfy the graph linking rules before it is considered comp
 
 1. Read all relevant existing canon files before doing anything else. Start with the universe hub and the relevant plane hub.
 2. Identify the active scope and layer: universe, plane, region, city, faction ecosystem, location, culture, cosmology, history, or session-facing detail.
-3. **Ask focused questions first.** The DM holds unwritten lore. Surface it through 2–4 targeted questions before generating any content. One topic at a time.
+3. **Guide one decision at a time.** The DM holds unwritten lore. During collaborative brainstorming, use the guided discussion below before developing dependent details.
 4. Only after the DM has answered — or explicitly asked you to generate — produce candidate content.
 5. Separate material into canon, candidate ideas, unresolved questions, and contradictions.
 6. Prefer playable tensions, factions, locations, secrets, and consequences over encyclopedia prose.
@@ -54,6 +54,15 @@ Every new file must satisfy the graph linking rules before it is considered comp
 ## Pacing
 
 The DM has more unwritten lore in their head than in the repository. Generated content crowds out their ideas. Default to **extract, then record** — not invent, then confirm. If you find yourself writing paragraphs of world content without the DM having answered questions first, stop and ask instead.
+
+## Guided Creative Discussion
+
+- Choose one unresolved decision whose answer determines what to discuss next. Briefly explain its purpose and ask **one substantive question per turn**; do not bundle subquestions inside it.
+- Offer a short recommendation or two or three meaningful options when helpful. Wait for the DM's answer before developing facts that depend on it.
+- After an answer, record the agreed facts and ask the next question in the sequence. Distinguish accepted answers from tentative suggestions; do not repeatedly ask the DM to confirm an answer already given.
+- Keep dependent questions and optional ideas in a parked queue. Do not expand every answer into a new cast, location, or collection of branches. Show the broader queue when the DM requests a recap.
+- Follow dependencies, not a rigid questionnaire. For example, establish an event's timing and participants before designing the traces it leaves.
+- Honor explicit requests for a broad brainstorm, draft, or recap. Perform direct edits and already-authorized work without turning them into a questionnaire.
 
 ## Output Bias
 
