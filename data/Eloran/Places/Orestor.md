@@ -59,6 +59,8 @@ Three **power factions** sit beside the blocs: **[[Organisations/Mlcenlivy|Mlče
 
 ## Districts
 
+The [candidate city and river schematics](../Maps/Orestor%20Schematic.md) record the DM's Ores/Tor geography and flag its conflicts with the regional account above. Building placements remain proposals.
+
 - **Orionova čtvrť** — jewelers, mages, Order of Maegi connections; Tarkelby gnome family
 - **Přístavní čtvrť** — smugglers, catacombs; Fenris Tichošlápek
 - **Orion's Library** — [[People/Ilrusk|Ilrusk]] works here as librarian; its collection is being developed in [the library brief](../../../ideas/eloran/orestor-orion-library.md)

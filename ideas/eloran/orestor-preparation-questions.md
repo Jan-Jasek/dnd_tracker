@@ -78,6 +78,8 @@ For each named character, record name, title, nickname, alias, public role, fact
 
 ## Questions to answer next
 
+**Current focus:** develop Orestor's geography and sights using the [ordered layout questions](../../data/Eloran/Maps/Orestor%20Schematic.md#layout-discussion-order), then return to this Day 1 queue. Items below remain open; the running checkpoint does not imply Day 1 is complete.
+
 **Day 1 working scope:** questions 1–12 guide the first playable revision. Save the current preparation in a running commit and amend it as decisions are made; unresolved questions do not block these checkpoints. Preserve the numbered queue and keep tentative ideas explicit. Questions 13–18 are later follow-ups. Full ritual and victim development is separate from the Heralds' starting cast and visible activity.
 
 1. **The Judge: identity, motivation, and hidden leadership.** Name the public magistrate and develop his common origins, reputation, judicial career, democratic convictions, Great Change, methods, and limits. Develop the Weaver rumors around the established Ilrusk–Judge relationship. What does the Judge know about his teacher, and how autonomous is he?

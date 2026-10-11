@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="970" viewBox="0 0 1400 970" role="img" aria-labelledby="title desc">
+<title id="title">Orestor river system — regional relationship diagram</title><desc id="desc">Schematic relationships of the independent Calm and Red rivers. Klikatic joins Calm upstream of Orestor. The Red divides into a northern sea arm and eastern bay arm. A legendary breach links the bay to the eastern ocean. Distances, coastlines and national boundaries are provisional.</desc>
+<defs><pattern id="marsh" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M6 20l-2-7m2 7l3-9m10 10l2-8" fill="none" stroke="#8eaa92" stroke-width="1.3"/></pattern><marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M0 0L8 4.5L0 9" fill="none" stroke="#3d7489" stroke-width="1.5"/></marker></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#263b45}.title{font-size:34px;font-weight:700}.sub{font-size:16px;fill:#526872}.zone{font-size:25px;font-weight:700;letter-spacing:1px}.small{font-size:15px}.note{font-size:14px;fill:#526872}.waterlabel{font-size:21px;fill:#376f85;font-style:italic}.legend{font-size:17px;font-weight:700}.num{font-size:15px;font-weight:700;text-anchor:middle}.road{stroke:#d7cbb5;stroke-width:12;fill:none;stroke-linecap:round}.canal{stroke:#8ebdca;stroke-width:23;fill:none;stroke-linecap:round}.proposal{stroke:#bd7a3c;stroke-dasharray:8 6;fill:none;stroke-width:2}</style>
+<rect width="1400" height="970" fill="#f7f4eb"/>
+<text x="50" y="56" class="title" >ORESTOR · RIVERS AND THE COAST</text>
+<text x="50" y="85" class="sub" >Topological sketch • sources and connections from the DM • coast and distances provisional</text>
+<rect x="35" y="109" width="1325" height="715" rx="18" fill="#eee9da" stroke="#dbd3bf"/>
+<path d="M650 110H1000V212Q991 248 1071 251L1175 251V323L1040 329Q957 347 942 283L887 273Q779 250 735 230Q660 241 641 198Z" fill="#b5d7df" stroke="#83b1bf" stroke-width="2"/>
+<path d="M1290 110H1359V823H1290V325H1175V252H1290Z" fill="#b5d7df" stroke="#83b1bf" stroke-width="2"/>
+<text x="713" y="169" class="waterlabel" >Blackwater Sea?</text>
+<text x="1007" y="290" class="waterlabel" >Blackwater Bay?</text>
+<text x="1200" y="226" class="small" >Orion’s breach</text>
+<text x="1191" y="349" class="note" >Narrow connection</text>
+<text x="1321" y="536" class="waterlabel" transform="rotate(-90 1321 536)">Eastern ocean</text>
+<path d="M90 619L116 559L146 619Z" fill="#c4bba7" stroke="#8d8675" stroke-width="2"/>
+<path d="M135 651L161 574L191 651Z" fill="#c4bba7" stroke="#8d8675" stroke-width="2"/>
+<path d="M184 662L210 602L240 662Z" fill="#c4bba7" stroke="#8d8675" stroke-width="2"/>
+<path d="M109 713L135 650L165 713Z" fill="#c4bba7" stroke="#8d8675" stroke-width="2"/>
+<path d="M167 745L193 683L223 745Z" fill="#c4bba7" stroke="#8d8675" stroke-width="2"/>
+<path d="M242 217L268 178L298 217Z" fill="#c4bba7" stroke="#8d8675" stroke-width="2"/>
+<path d="M288 236L314 182L344 236Z" fill="#c4bba7" stroke="#8d8675" stroke-width="2"/>
+<path d="M337 249L363 208L393 249Z" fill="#c4bba7" stroke="#8d8675" stroke-width="2"/>
+<path d="M361 637L387 603L417 637Z" fill="#c4bba7" stroke="#8d8675" stroke-width="2"/>
+<path d="M407 666L433 634L463 666Z" fill="#c4bba7" stroke="#8d8675" stroke-width="2"/>
+<text x="78" y="802" class="zone" >THE SPINE</text>
+<text x="62" y="825" class="note" >Largest western mountain range</text>
+<text x="170" y="164" class="small" >VALDIA / MEREDIA MOUNTAINS</text>
+<text x="181" y="135" class="note" >Toward Valdia / Skardvik</text>
+<path d="M195 730Q335 751 441 779Q573 807 692 759Q778 739 838 623Q894 553 899 470" stroke="#a84b46" stroke-width="14" fill="none" stroke-linecap="round"/>
+<path d="M899 470Q845 400 846 335L856 264" stroke="#a84b46" stroke-width="11" fill="none"/>
+<path d="M899 470Q982 522 1087 445Q1151 408 1127 324" stroke="#a84b46" stroke-width="11" fill="none"/>
+<text x="566" y="827" class="small" fill="#9d4944" font-weight="700">RED RIVER / RUDÁ ŘEKA</text>
+<text x="751" y="414" class="note" >Northern arm</text>
+<text x="1010" y="479" class="note" >Eastern arm</text>
+<path d="M312 248C323 345 452 402 553 423C624 436 668 398 710 377C757 349 770 304 765 238" stroke="#447d98" stroke-width="11" fill="none" stroke-linecap="round"/>
+<path d="M401 642C432 679 465 700 493 669C544 609 574 579 607 614C660 667 722 629 683 570C650 524 691 498 727 505C777 514 751 454 720 430C690 407 698 386 710 377" stroke="#638a74" stroke-width="8" fill="none" stroke-linecap="round"/>
+<text x="426" y="353" class="small" fill="#447d98" font-weight="700">KLIDNÁ / CALM</text>
+<text x="513" y="548" class="small" fill="#567863" font-weight="700">KLIKATIC</text>
+<circle cx="553" cy="423" r="7" fill="#263b45" stroke="#fffdf7" stroke-width="2"/>
+<text x="503" y="452" class="small" font-weight="700">Ellesmere</text>
+<circle cx="409" cy="777" r="7" fill="#263b45" stroke="#fffdf7" stroke-width="2"/>
+<text x="359" y="806" class="small" font-weight="700">Gutberg</text>
+<circle cx="765" cy="238" r="7" fill="#263b45" stroke="#fffdf7" stroke-width="2"/>
+<text x="715" y="267" class="small" font-weight="700">Orestor</text>
+<circle cx="710" cy="377" r="7" fill="#fffdf7" stroke="#447d98" stroke-width="3"/>
+<text x="736" y="374" class="small" >Confluence</text>
+<text x="739" y="395" class="note" >Tens of km upstream</text>
+<text x="334" y="508" class="zone" >MEREDIA</text>
+<text x="956" y="673" class="zone" >UNION</text>
+<text x="1067" y="183" class="zone" >TRISKAL</text>
+<text x="923" y="700" class="note" >Border positions approximate</text>
+<path d="M704 401L730 377" stroke="#3d7489" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<path d="M789 720L813 685" stroke="#3d7489" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<path d="M1089 423L1112 390" stroke="#3d7489" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<text x="50" y="871" class="legend" >READING THE DIAGRAM</text>
+<text x="50" y="903" class="small" >Klidná + Klikatic → Orestor → sea. The Red River reaches the same coastal system independently, through two arms.</text>
+<text x="50" y="930" class="note" >The eastern breach connects the bay to the ocean; the bay itself stays broad. Names and alleged Orion origin remain tentative.</text>
+</svg>
