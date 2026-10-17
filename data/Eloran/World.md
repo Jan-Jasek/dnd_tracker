@@ -38,7 +38,7 @@ The playable material plane has **two major landmasses** plus the **Dragon Archi
 
 Colonial activity on the archipelago is a phenomenon of the last few decades. Main campaign: **Dragon Isles**.
 
-Magic exists but is rare, feared, and actively suppressed by Tyr's Order (the Just Ones). The average person has heard stories of witches and strange circus performers but has never personally witnessed anything undeniable. Necromancy and demon-summoning are the most condemned acts imaginable.
+Magic exists but is rare, feared, and actively suppressed by the Order of the Just (the Just Ones). The average person has heard stories of witches and strange circus performers but has never personally witnessed anything undeniable. Necromancy and demon-summoning are the most condemned acts imaginable.
 
 ## Eloran — The Continent
 
@@ -82,7 +82,7 @@ Hidden truth: magic is suppressed and feared. The Erathon soul-fragment crisis, 
 
 ## Religion
 
-Continental faith centers on **Orion** as Saint and Martyr — worshippers are **Orionists** (_Orionisté_). The Forgotten Realms pantheon exists in the background as lesser celestial powers (Tyr, Latander, etc.), but the Saint's cult is supreme on Eloran.
+Continental faith centers on **Orion** as Saint and Martyr — worshippers are **Orionists** (_Orionisté_). The Forgotten Realms pantheon exists in the background as lesser celestial powers (Latander and others), but the Saint's cult is supreme on Eloran.
 
 Two institutions, one history — see [[Organisations/Church of Orion]]:
 

@@ -31,7 +31,7 @@ The material plane of the [[Veiling]]. Largely sealed from the Veil since Orion'
 ## Campaigns
 
 - [[Campaigns/Hlubina]] — PS 1 M05–M06; marshland prologue
-- [[Campaigns/Dragon Independence]] — PS 1 M07–M12; Ansir, Free Republic
+- [[Campaigns/Dragon Independence]] — Act I PS 1 M10–M12, Acts II–III after Orestor; Ansir, Free Republic
 - [[Campaigns/Orestor]] — PS 2 M02–M03; city-republic compact
 
 ## Places

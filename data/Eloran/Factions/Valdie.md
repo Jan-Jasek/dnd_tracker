@@ -13,7 +13,7 @@ source_evidence:
 
 > Part of: [[Eloran]] | See also: [[Factions/Triskal]], [[Factions/Meredie]]
 
-Language: **Veildic** (_Valedický_). The historical north. Geopolitical analogue: a state no one really conquers — depth, winter, distance. **[[Factions/Meredie|Meredie]]** was contested from this side for centuries before Bořivoj.
+Scandinavian cultural inspiration. Language: **Veildic** (_Valedický_). The historical north. Geopolitical analogue: a state no one really conquers — depth, winter, distance. **[[Factions/Meredie|Meredie]]** was contested from this side for centuries before Bořivoj.
 
 The Meredie border is mountainy and more open than the south (Krkonoše-like). An **inner vassal** sits west of Meredie and north-abuts Valdie (name TBD). One of **[[Factions/Grundarmheld|Grundarmheld]]'s** ground cities sits in Valdie (name TBD); another in that vassal.
 

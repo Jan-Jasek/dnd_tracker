@@ -15,14 +15,14 @@ related:
 source_evidence:
   - imports/onenote/extracted/dra-nezavislost-one-on-26-04-2026.md
   - imports/onenote/extracted/dra-nezavislost-one-on-01-03-2023.md
-campaign_window: "PS 1 M07–M12 (approx.)"
+campaign_window: "Act I PS 1 M10–M12; Acts II–III after PS 2 M03 (approx.)"
 ---
 
 # Dragon Independence
 
 > Part of: [[Eloran]] | [[Veiling]] | See also: [[Places/Ansir]], [[Factions/Triple Coalition]], [[People/Birger Aderen]], [[History/Timeline]]
 
-**PS 1 M07–M12 — played campaign.** Summer through winter of the first full year after the Shattering. Set in the Dragon Archipelago around Ansir, capital of the Free Corsair Republic.
+**PS 1 M10–M12 — Act I played.** Autumn into winter of the first full year after the Shattering; Acts II–III follow after Orestor. Set in the Dragon Archipelago around Ansir, capital of the Free Corsair Republic.
 
 Working English title: Dragon Independence. Set in the Dragon Archipelago around Ansir, the capital of the Free Corsair Republic.
 
@@ -32,7 +32,7 @@ The campaign is structured in three acts. The players start as corsairs of the R
 
 ## Master Plot
 
-**Hilua** (Vilmaran agent/sorceress) is working to destabilize the Republic and disrupt its truce with Triskal so that Vilmar can take over Ansir. Her tools:
+**Hilua** (Vilmaran agent of Prophet Saybar; ancient, in the body of a bloodless girl of about thirteen) is working to destabilize the Republic and disrupt its truce with Triskal so that Vilmar can take over Ansir. Her tools:
 
 - Captain **Henry Von Telten** (former Imperial admiral) is coerced into weapon smuggling by holding his family hostage in Saltmarsh (through **Xendra**).
 - The weapons pass through **Rotgar** (Rotgar is from the Empire; believed killed at the Battle of Corvel; actually operating as a smuggler) and through **Kuliš** in Ansir.
@@ -40,7 +40,7 @@ The campaign is structured in three acts. The players start as corsairs of the R
 - **Tauber dark-eyed** (specifically followers of **Aditya**) were receiving weapons and having cursed bloodlines awakened by Hilua to destabilize the islands from within.
 - **Mego** (a Tauber spy sent by Banyu to watch Aditya's faction) was captured near Dirden's farm.
 
-Hilua is killed at some point before Act III. Her second Sending Stone is with Xendra in Saltmarsh.
+Hilua is presumed dead after the ritual at Harry's mansion. **Xendra**, the Saltmarsh councilwoman inside the plot, is a Vilmaran agent; she holds Hilua's second Sending Stone and escaped.
 
 ---
 
@@ -53,7 +53,7 @@ Hilua is killed at some point before Act III. Her second Sending Stone is with X
 | Night before Day 1 | Players in Ansir during off-screen events near a logging village (concept: Dřevolhota — see `ideas/eloran/drevolhota.md`). Survivor of a coup dies 3 days prior.                                                                                                                                                                                                                        |
 | Night of Day 1     | Prcek and Třesavec arrive with Arryn's men. At The Local (Lokál), players encounter them and realize someone is moving weapons. Prcek and Třesavec + soldiers stage a party, lure guards to the brothel, kill Třesavec, break into the fortress, steal weapons (wrapped in oiled leather), lower them to the river, barge upriver, load onto a wagon, depart for Mokrá Lhota overnight. |
 | Night after Day 1  | Kuliš dies. Weapons are stolen. Drson's men depart.                                                                                                                                                                                                                                                                                                                                     |
-| Day 2 morning      | Stoupač (Commander) leaves for the front to chase a sorceress.                                                                                                                                                                                                                                                                                                                          |
+| Day 2 morning      | Stoupač (Umurad Irdigut, Commander) leaves for the front to chase a sorceress.                                                                                                                                                                                                                                                                                                          |
 | Evening of Day 3   | Hemmond dies. Captain Kaplan takes command.                                                                                                                                                                                                                                                                                                                                             |
 | Morning of Day 4   | Players have an arranged meeting with Nastěnka (Kuliš's girlfriend).                                                                                                                                                                                                                                                                                                                    |
 | Evening of Day 4   | Friedrich summons the players.                                                                                                                                                                                                                                                                                                                                                          |
@@ -82,9 +82,11 @@ Hilua is killed at some point before Act III. Her second Sending Stone is with X
 
 **Dalibor** — Hobbit thief. Rotgar's fast courier between Mokrá Lhota and Ansir. Small, unremarkable, very nimble; tries to extract profit from any situation.
 
-**Xendra** — Operating in Saltmarsh. Has Telten's family hostage. Does not know Hilua is dead. Has Hilua's second Sending Stone.
+**Xendra** — Saltmarsh councilwoman and Vilmaran agent. Held Telten's family hostage. Has Hilua's second Sending Stone. Escaped Saltmarsh.
 
-**Hilua** — Vilmaran agent/sorceress. Used Xendra → Gellan Coastal to offer smuggling routes. Wanted to weaken the Republic and disrupt the Triskal truce so Vilmar could take Ansir. Now dead.
+**Hilua** — Saybar's agent; an ancient blood mage in the body of a girl of about thirteen. Used Xendra in Saltmarsh to open smuggling routes. Wanted to weaken the Republic and disrupt the Triskal truce so Vilmar could take Ansir. Led the First Seal ritual at Harry's mansion. Presumed dead.
+
+**Stoupač** (_Umurad Irdigut_) — Iotian warrior, Ansir captain and general of the Republic's army. A feared mage hunter who wears the armor and equipment of an [[Organisations/Order of the Just|Order of the Just]] templar, which makes him nearly immune to magic.
 
 ### Harry Mansion Encounter
 
@@ -107,9 +109,19 @@ Old smuggling base. Built on ruins of a stone necromantic temple; undead avoid t
 
 Secret room: 3 bodies covered in blue slime. Small body of Prcek — groaning, begging for mercy. At close range they attack: 3rd-level Inflict Wounds each round + spell slot drain. 80 HP + resistance.
 
-Dirden will cooperate if players are convincing enough. He's just a smuggler in it for profit; allowed Rotgar to use his old hidden cove because it's sheltered by rocks and no one spotted the ships. He's troubled because several of Rotgar's men fought over a crystal (Erathon fragment?) taken from a trade caravan fleeing east from the front; those men were locked in a room containing all his food.
+Dirden will cooperate if players are convincing enough. He's just a smuggler in it for profit; allowed Rotgar to use his old hidden cove because it's sheltered by rocks and no one spotted the ships. He's troubled because two of Rotgar's men fought over a crystal taken from a trade caravan fleeing east from the front. Both sickened from handling it, and the sickness spread to the room where they lay. Dirden's people sealed the sick men in — the room that held all his food. The crystal itself never came to the farm.
+
+Perin and Charles searched the sealed room and caught a mild form of the plague. They never touched the crystal and do not share the smugglers' fate.
+
+### The Lone Rider
+
+On the road, after the crystal had left the smugglers' hands, the party met a lone rider carrying it toward Saltmarsh. He was immediately, unnaturally likable: anyone meeting him makes a Wisdom saving throw or is charmed. He is alive and himself, a survivor heading for safety in Saltmarsh, where he means to sell the crystal and buy a new life. The crystal is an Erathon/Orion seal fragment tied to the corruption of bodies and the raising of the dead.
 
 ---
+
+## Acts II–III — Old Preparation
+
+Acts II and III take place after the [[Campaigns/Orestor|Orestor]] campaign, a few months after Act I. They will be prepared from the outcomes of Alastor's return and Orestor. The notes below are early preparation, kept as reference material only.
 
 ## Act II — Dragon Islands: The Political Struggle
 
@@ -129,6 +141,8 @@ First Officer Vigo or Agitus — tall, sinewy 40-year-old. Captain is an older s
 
 **Grimír Špinavec (Dirty Grimír)** — owes 7,100–17,100 gold Imperial marks to the bank Brauner & Hess (debt bought from the Grundermwald State Library, originally his grandfather's). Escalating due to interest and fees.
 
+**[[People/Hanser|Jednonohý Hanser]]** — one-legged dwarf veteran of Bezútěšný vršek and Covel; close to the party. Interviewed in the _Slanobažinní týdeník_ (Saltmarsh Weekly) about the death of **Jimmy Štístko** at Covel.
+
 Republic politics on the islands center on **[[People/Birger Aderen|Birger Aderen]]**, **Stoupač**, and **Hedvábný** — not Aemon Whiteoak (imperial captain from the Hlubina arc). Birger's nephew **Torsten** was first corsair consul before dying at **Covel**.
 
 ### Indigenous Relic Quest
@@ -147,12 +161,18 @@ Details still fragmentary — to be developed.
 
 ---
 
+## Follow-up
+
+Alastor's solo return to Saltmarsh (PS 1 M12) is in preparation: [Alastor's return](../../../ideas/eloran/dragon-islands-alastor-solo.md).
+
+---
+
 ## Open Questions
 
 - What exactly is Harry? Possessed? Ancient creature? Ritual sacrificed?
 - Who is Hedváb (Silky) and what is their relationship to the Empire?
 - What was the political situation in Ansir at the coup (who staged it, who survived)?
 - Who is Arryn and what do his men want?
-- What is the Tříštivý proud (Shattering Current) cult doing in Ansir?
+- What is the **Očistná vlna** (Cleansing Wave) cult — born of the Shattering's tsunami — doing in Ansir?
 - What is the nature of Temnoles?
 - Does Erathon have a full identity separate from Birger Aderen's arc?

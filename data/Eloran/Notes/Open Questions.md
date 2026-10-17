@@ -16,7 +16,7 @@ These are unresolved decisions that need DM input before the relevant content be
 
 - **Kate** — full name, origin, and how much she knows about Jeod's Ellesmere plan? See [[People/Kate]].
 - **Aemon Whiteoak (Aemon Bělodub)** — imperial captain at Hlubina only; Czech name is translation, not a separate Dragon Islands politician.
-- **Finnegan / Finnigan** — not an Orestor figure. Candidate home: Dragon Isles. Same person as the dryad in the Dřevolhota concept and Whiteoak's logging Finnigan near Hlubina?
+- **Finnegan / Finnigan** — an archdruid on the Dragon Isles, one of the few great powers outside Orion's history. Same person as the dryad in the Dřevolhota concept and Whiteoak's logging Finnigan near Hlubina?
 
 ## Names still to give
 
@@ -51,7 +51,7 @@ River course: [[Places/Regions#The Red River]]. Do not invent these in canon fil
 - **Third War (PS 0)** — who in Triskal, the Empire, and Meredie chose war? Link to Von Edgeira, Von Nedur, Branon Vznešený.
 - **Birger Aderen** — who killed Tristram? full Valdie royal genealogy
 - **Torsten** — first consul; Battle of **Covel** (PS 0)
-- **Lapiberg** — neutrality after the Shattering. Outcome of **Tyrovo kladivo** siege?
+- **Lapiberg** — neutrality after the Shattering. Outcome of the Just host's siege?
 
 ## Orion's Wrath
 
@@ -132,7 +132,6 @@ These are later follow-ups outside the Day 1 working scope. Discussion order is 
 - What exactly is Harry? Possessed by something? Slowly transformed? A willing participant in the ritual?
 - What was the ritual in the family crypt attempting to do?
 - What is Orion's First Seal and who set it there?
-- What is Hiluino / the entity that regenerates in the mansion rubble?
 
 ## Act III / Endgame
 
@@ -216,9 +215,12 @@ Canon: the **seal** that held the rift broke off and **crystallized** — Orion 
 
 ## Vilmar
 
-- How much does Vilmar actively pursue taking the Dragon Islands after Hilua's death?
-- Who replaces Hilua as Vilmar's agent?
-- **Gibešská poušť / Akbesi** — Sayid Azolar, blood mages, Prophet Saybar: folklore or real?
+- How much does Vilmar actively pursue taking the Dragon Islands after Hilua's presumed death?
+- Where has Xendra fled, and who else in Saltmarsh worked for her? What became of Von Telten's family?
+- **Saltmarsh council** — to be rebuilt as a full roster. Gellan Primewater's place in it (possibly mayor) is undecided.
+- **Naming pass** — rename people across canon to match each state's cultural inspiration, replacing most English names: [[Factions/Meredie|Meredie]] Czech/Bohemian, Prussian, German, Dutch (Holy Roman Empire + Bohemia); [[Factions/Triskal|Triskal]] French, Italian, Spanish; [[Factions/United Empire|United Empire]] Roman/Byzantine; [[Factions/Vilmar|Vilmar]] Arabic/Persian-sounding (Saybar, Ab Nesir); [[Factions/Valdie|Valdie]] Scandinavian; the **Skeld Isles** British; Dragon Isles natives Eastern (Caribbean/Indonesian feel).
+- Is Hilua dead? Her body was seen regenerating in the mansion rubble.
+- **Gibešská poušť / Akbesi** — Sayid Azolar: folklore or real?
 - Imperial–Vilmar naval balance on the southern continent
 
 ## Dračí ostrovy — Indigenous

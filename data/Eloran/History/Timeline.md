@@ -72,13 +72,13 @@ Two scales nest inside each other:
 
 ### Present Era Beats (within Age of Fragments)
 
-| When             | Event                                                                                                  |
-| ---------------- | ------------------------------------------------------------------------------------------------------ |
-| **PS 0 M08–M09** | Ellesmere destroyed; Third Meredian War ends; **Battle of Covel**; Triple Coalition holds core islands |
-| **PS 0 M11–M12** | **Lapiberg campaign** — winter campaign immediately after the Shattering                               |
-| **PS 1 M05–M06** | **Hlubina campaign** — late spring, near ruined Ellesmere                                              |
-| **PS 1 M07–M12** | **Dragon Independence campaign** — summer through winter, around Ansir                                 |
-| **PS 2 M02–M03** | **Orestor campaign** — late winter / early spring                                                      |
+| When             | Event                                                                                                   |
+| ---------------- | ------------------------------------------------------------------------------------------------------- |
+| **PS 0 M08–M09** | Ellesmere destroyed; Third Meredian War ends; **Battle of Covel**; Triple Coalition holds core islands  |
+| **PS 0 M11–M12** | **Lapiberg campaign** — winter campaign immediately after the Shattering                                |
+| **PS 1 M05–M06** | **Hlubina campaign** — late spring, near ruined Ellesmere                                               |
+| **PS 1 M10–M12** | **Dragon Independence, Act I** — autumn into winter, around Ansir; Alastor's return to Saltmarsh at M12 |
+| **PS 2 M02–M03** | **Orestor campaign** — late winter / early spring                                                       |
 
 ---
 
@@ -197,7 +197,7 @@ The third Imperial attempt to take **Meredie** — independent since Bořivoj (p
 
 - Triskal retains **Valdie** on the continent and regains most of the Dragon Islands, while the Empire remains weakened but intact. The betrayal at Orestor and Covel fractures the former alliance.
 - Former Valdie island holdings consolidate into the **[[Factions/Triple Coalition|Triple Coalition of Free Corsair Republics]]**. After Torsten's death, the coalition settles into three federative republics associated with **Birger Aderen**, **Hedvábný**, and **Stoupač**. Its surviving core holds into PS 1.
-- Triskal's military-religious order reforms under **Branon Vznešený**. The Empire blames the **Order of the Just** and outlaws it; Triskal continues using the Just Ones as state enforcers. **Tyrovo kladivo** (_Tyr's Hammer_) moves against neutral **[[Places/Lapiberg|Lapiberg]]**, while orc incursions pressure the western lowlands.
+- Triskal's military-religious order reforms under **Branon Vznešený**. The Empire blames the **Order of the Just** and outlaws it; Triskal continues using the Just Ones as state enforcers. An elite Just host of ~500 paladins moves against neutral **[[Places/Lapiberg|Lapiberg]]**, while orc incursions pressure the western lowlands.
 - The former Meredian heartland remains politically fractured. Refugee movement, the disappearance of central authority, Templar hunts for surviving Maegi, and local military strongmen create the conditions seen in **[[Places/Hlubina|Hlubina]]** and the Ellesmere lowlands.
 
 ---
@@ -206,11 +206,15 @@ The third Imperial attempt to take **Meredie** — independent since Bořivoj (p
 
 **PS 1 M05–M06 — Hlubina** — Late spring. Players arrive in Hlubina, a marshland village near ruined Ellesmere, as mercenaries with a refugee caravan. Post-war context: displaced people, scarce food, decimated imperial garrison after Orestor. **Captain Aemon Whiteoak**; **[[People/Kate|Kate]]** (Jeod's apprentice) recruits them. See [[Campaigns/Hlubina]].
 
-**PS 1 M07–M12 — Dragon Independence (Ansir)** — Summer through winter. Players are corsairs of the Free Republic in Ansir. Act I: weapon smuggling, death of Commander Hemmond, Harry Mansion. See [[Campaigns/Dragon Independence]].
+**PS 1 M10–M12 — Dragon Independence, Act I (Ansir)** — Autumn into winter, two to three months. The party sets out from Saltmarsh as corsairs of the Free Republic, meeting a lone rider with a seal fragment on the road. Weapon smuggling, death of Commander Hemmond, Harry Mansion. See [[Campaigns/Dragon Independence]].
+
+**PS 1 M12 — Alastor's return to Saltmarsh** — A plague incident tied to the rider's crystal has drawn a squadron of the Just to Saltmarsh. Alastor sets out after the escaped Vilmaran agent Xendra. In preparation.
 
 ### PS 2 — Second Post-Shattering Year
 
 **PS 2 M02–M03 — Orestor campaign** — Late winter / early spring. Starting situation: the city-republic compact of PS 0–PS 1. See [[Campaigns/Orestor]].
+
+**After PS 2 M03 — Dragon Independence, Acts II–III** — A few months after Act I, following the Orestor campaign.
 
 ### Beyond PS 2
 

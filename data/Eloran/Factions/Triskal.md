@@ -38,7 +38,7 @@ The **Red River** is Triskal's west line: triple-border islands with Empire and 
 
 ## Religion
 
-Hosts **Tyr's Order** (_Tyův řád_) — the Just Ones as state enforcers; reformed under **Branon Vznešený** after the Shattering. Elite host **Tyrovo kladivo** (_Tyr's Hammer_, ~500 paladins) besieges neutral **[[Places/Lapiberg|Lapiberg]]** post-PS 0 (import).
+Hosts the [[Organisations/Order of the Just|Order of the Just]] as state enforcers; reformed under **Branon Vznešený** after the Shattering. An elite host of ~500 paladins besieges neutral **[[Places/Lapiberg|Lapiberg]]** post-PS 0 (import).
 
 ## Open Questions
 

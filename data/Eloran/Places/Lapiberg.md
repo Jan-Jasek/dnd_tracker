@@ -28,15 +28,15 @@ The **Lapiberg campaign** took place in winter, approximately **PS 0 M11–M12**
 ## Present (PS 1)
 
 - **Neutral** — refuses Triskal and Meredian successor politics alike; proverbial answer to diplomats: _„Sral pes vašu politiku, Lapiberg zůstává neutrální.“_
-- **Tyrovo kladivo** (_Tyr's Hammer_) — Triskal's elite paladin host (~500) — moved to besiege Lapiberg after PS 0, facing orc incursions from the **Shadow Pass** (_průsmyk Stínů_) on the western lowlands
-- Champion duel (import): **Eolian Šílený** (Tyův řád) vs **Skagnok** (dwarven champion, rune-forged gear); king **Norwik** at time of challenge
+- An elite Triskal host of the [[Organisations/Order of the Just|Order of the Just]] (~500 paladins) moved to besiege Lapiberg after PS 0, facing orc incursions from the **Shadow Pass** (_průsmyk Stínů_) on the western lowlands
+- Champion duel (import): **Eolian Šílený** (Order of the Just) vs **Skagnok** (dwarven champion, rune-forged gear); king **Norwik** at time of challenge
 
 ## Religion
 
-**Tyův řád** maintains a presence — **Andujar**, Dragonborn cleric, described as ruthless fanatic and current Tyr's representative in Lapiberg (import).
+The [[Organisations/Order of the Just|Order of the Just]] maintains a presence — **Andujar**, Dragonborn cleric, described as a ruthless fanatic and the order's current representative in Lapiberg (import).
 
 ## Open Questions
 
 - How far Grundarmheld caste law runs here
-- Outcome of Tyrovo kladivo siege at PS 1
+- Outcome of the Just host's siege at PS 1
 - Whether Skagnok / post-duel lore is promoted in full

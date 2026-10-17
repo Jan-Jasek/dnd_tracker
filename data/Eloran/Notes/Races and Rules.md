@@ -80,7 +80,7 @@ Mostly pushed to mountains and exterminated. Half-orcs are a rarity in recent de
 
 ### Tieflings — Not Playable
 
-Demons have no active presence in this world. Anyone visibly resembling demonic heritage is killed by mobs or Tyr's Order. Not a viable ancestry.
+Demons have no active presence in this world. Anyone visibly resembling demonic heritage is killed by mobs or the Order of the Just. Not a viable ancestry.
 
 ### Underdark Races — Not Playable
 

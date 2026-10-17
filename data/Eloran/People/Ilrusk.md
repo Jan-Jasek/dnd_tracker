@@ -44,6 +44,8 @@ He understood what the sealing would do to the nine — mark, infection, merge, 
 
 He co-founded the **[[Organisations/Order of the Just|Order of the Just]]** and gave them **Severite / Mlčoun**. Why he armed the order that hunts Maegi is contested.
 
+After Orion and the nine fell, Ilrusk set out to finish his master's work in his own image. He found and studied Orion's early creations. One of them, the Prastarý later known as **Prophet Saybar**, fled to [[Factions/Vilmar|Vilmar]] when Ilrusk moved to destroy him; the two are sworn enemies. The **[[Organisations/Mlcenlivy|Mlčenliví]]** are the latest and most finished piece of that work.
+
 **Azolar** is the name he hates.
 
 ## The Weaver
