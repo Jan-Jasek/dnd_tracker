@@ -15,7 +15,7 @@ source_evidence:
 
 **Founding port** of the **[[Factions/Triple Coalition|Triple Coalition]]** on the **[[Places/Dragon Islands|Dragon Isles]]** (_Dračí ostrovy_) — one of three co-founding corsair republics, with [[Places/Ansir|Ansir]] and [[Places/Saltmarsh|Saltmarsh]].
 
-**Archipelago map:** labelled **Oros** on the [[Maps/Dragon Islands Map]] (north-central Azure Sea coast, south of Rečistě).
+**Archipelago map:** labelled **Oros** on the [[Maps/Dragon Islands Map]], south of Saltmarsh.
 
 ## History
 
@@ -23,7 +23,7 @@ During the [[History/Timeline#The Third Meredian War|Third Meredian War]], islan
 
 ## Role Today
 
-Member republic of the Free Corsair coalition. Less documented in play than Ansir (capital) or Saltmarsh (Act I–II scenes). Treat as a peer port with its own council and corsair captains until expanded.
+Capital of **Hedvábný's** federal state in the Free Corsair coalition. Less documented in play than Ansir or Saltmarsh. Treat as a peer port with its own council and corsair captains until expanded.
 
 ## Open Questions
 

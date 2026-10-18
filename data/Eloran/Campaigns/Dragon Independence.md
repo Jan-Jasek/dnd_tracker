@@ -24,7 +24,7 @@ campaign_window: "Act I PS 1 M10–M12; Acts II–III after PS 2 M03 (approx.)"
 
 **PS 1 M10–M12 — Act I played.** Autumn into winter of the first full year after the Shattering; Acts II–III follow after Orestor. Set in the Dragon Archipelago around Ansir, capital of the Free Corsair Republic.
 
-Working English title: Dragon Independence. Set in the Dragon Archipelago around Ansir, the capital of the Free Corsair Republic.
+Working English title: Dragon Independence. Set in the Dragon Islands around Ansir, capital of Stoupač's state in the Free Corsair Republic.
 
 The campaign is structured in three acts. The players start as corsairs of the Republic in Act I.
 
@@ -34,13 +34,13 @@ The campaign is structured in three acts. The players start as corsairs of the R
 
 **Hilua** (Vilmaran agent of Prophet Saybar; a century-old blood mage in the body of a bloodless girl of about thirteen) is working to destabilize the Republic and disrupt its truce with Triskal so that Vilmar can take over Ansir. Her tools:
 
-- Captain **Henry Von Telten** (former Imperial admiral) is coerced into weapon smuggling by holding his family hostage in Saltmarsh (through **Xendra**).
+- Captain **Henry Von Telten** (former Imperial admiral) is coerced into weapon smuggling aboard the **_Sea Ghost_** (_Mořský přízrak_): a Požehnaný brings him letters signed "X" claiming to hold his family, and stays aboard to watch him. The family's captor is in truth his own wife, **Marie**, a Požehnaná.
 - The weapons pass through **Rotgar** (Rotgar is from the Empire; believed killed at the Battle of Covel; actually operating as a smuggler) and through **Kuliš** in Ansir.
 - **Friedrich**, a local underworld figure, acts as intermediary and wants a rival (**Harry**) dead.
-- **Tauber dark-eyed** (specifically followers of **Aditya**) were receiving weapons and having cursed bloodlines awakened by Hilua to destabilize the islands from within.
-- **Mego** (a Tauber spy sent by Banyu to watch Aditya's faction) was captured near Dirden's farm.
+- **Aditya**, a dark-eyed leader among the natives near **Dras Wyn**, and her followers were receiving weapons and spells from Hilua to destabilize the islands from within.
+- **Mego** (a native spy sent by Banyu to watch Aditya's faction) was captured near Dirden's farm.
 
-Hilua dies in the ritual at Harry's mansion. **Xendra**, the Saltmarsh councilwoman inside the plot, is a Vilmaran agent and escaped. The weapon smuggling was only the beginning of Vilmar's plans on the islands; Xendra carries them on.
+Hilua dies in the ritual at Harry's mansion. **Marie von Telten** survives, frames the Saltmarsh physician and councilwoman **Xendra** as the Vilmaran agent, and flees east with her children and Xendra. The weapon smuggling was only the beginning of Vilmar's plans on the islands; Marie carries them on.
 
 ---
 
@@ -78,13 +78,15 @@ Hilua dies in the ritual at Harry's mansion. **Xendra**, the Saltmarsh councilwo
 
 **Rotgar** — Empire origin; believed dead at the Battle of Covel. More pirate than soldier. Was actually using Dirden's farm as a smuggling base. Receives the weapons and moves them east toward the front. On the first evening after confrontation, he falls into a coma from blood loss and burns — 3 death saves at disadvantage; dies unless healed.
 
-**Captain Henry Von Telten** — Former Imperial admiral, commanded Rotgar at the southern Imperial border with the Sultanate. His family is being held by Xendra in Saltmarsh. His ship survived a wave on the open sea by chance. On the first stopover after the wave, Hilua came to him and took his family hostage.
+**Captain Henry Von Telten** — Former Imperial admiral, commanded Rotgar at the southern Imperial border with the Sultanate; now captains a ship. His family lived in comfort on the island of **Meros**. After the wave he believed them dead, until a Požehnaný came to him with a letter signed "X" claiming to hold them. He gave in, smuggled the weapons aboard the _Sea Ghost_ (_Mořský přízrak_), and could not search for them because the Požehnaný stayed aboard. When the party took the ship, the Požehnaný escaped; Telten showed them the letters. He genuinely believes Xendra took his family.
 
 **Dalibor** — Hobbit thief. Rotgar's fast courier between Mokrá Lhota and Ansir. Small, unremarkable, very nimble; tries to extract profit from any situation.
 
-**Xendra** — Saltmarsh councilwoman and Vilmaran agent. Held Telten's family hostage. Escaped Saltmarsh.
+**Xendra** — Vilmaran-born physician and Saltmarsh councilwoman (health and quality of life). Publicly named as the Vilmaran agent who held Telten's family; in truth innocent, framed by Marie, and taken east with her.
 
-**Hilua** — Saybar's agent; a century-old blood mage in the body of a girl of about thirteen. Used Xendra in Saltmarsh to open smuggling routes. Wanted to weaken the Republic and disrupt the Triskal truce so Vilmar could take Ansir. Led the breach ritual at Harry's mansion. Dies in the ritual's collapse.
+**Marie von Telten** (_Marie Teltenová_) — Telten's Meredian-born wife; a Požehnaná. Lived in Saltmarsh under a false name as Xendra's assistant while Telten believed his family captive. See [[Factions/Vilmar]].
+
+**Hilua** — Saybar's agent; a century-old blood mage in the body of a girl of about thirteen. Planned the islands operation with Marie von Telten. Wanted to weaken the Republic and disrupt the Triskal truce so Vilmar could take Ansir. Led the breach ritual at Harry's mansion. Dies in the ritual's collapse.
 
 **Stoupač** (_Umurad Irdigut_) — warrior from Ioth, Ansir captain and general of the Republic's army. A feared mage hunter who wears the armor and equipment of an [[Organisations/Order of the Just|Order of the Just]] templar, which makes him nearly immune to magic.
 
@@ -133,9 +135,9 @@ First Officer Vigo or Agitus — tall, sinewy 40-year-old. Captain is an older s
 
 **Banyu** — spiritual/tribal leader. Sent Mego to spy on the dark-eyed who joined Aditya.
 
-**Aditya** — met with Hilua multiple times. Hilua gave her spells, information, and awakened cursed blood in the dark-eyed Taubers. Her faction received weapons from Rotgar's people.
+**Aditya** — dark-eyed leader among the natives near Dras Wyn. Met with Hilua multiple times; Hilua gave her spells and information. Her faction received weapons from Rotgar's people.
 
-**Mego** — Tauber spy, caught near Dirden's farm. Wants to join the players.
+**Mego** — native spy, caught near Dirden's farm. Wants to join the players.
 
 **Urian Ab Nesir** — dark-skinned Vilmaran with glasses, fascinated by elves (never met one). Wealthy optician who wants to open a shop on the Dragon Islands. Fellow passenger.
 
@@ -155,7 +157,7 @@ The indigenous peoples want their desecrated lands cleansed — a son of their s
 
 **Erathon** wants to reopen the gate to the Fey world, using Birger Aderen as a medium, before his powers are depleted.
 
-**[[Places/Darkenwold|Darkenwold]]** — dark powers are returning or have returned. Connected to the cursed-blood Tauber factions.
+**[[Places/Darkenwold|Darkenwold]]** — dark powers are returning or have returned. Near the slave coasts; see the necromancer idea.
 
 Details still fragmentary — to be developed.
 

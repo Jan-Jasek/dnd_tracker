@@ -28,7 +28,7 @@ Since the Shattering the Marble Fortress is gone. Orestor's templars are divided
 
 Many templars regard the destruction of [[Places/Ellesmere|Ellesmere]] as divine punishment for the Order's abuses. The city's survivors suffer a wasting corruption. Magical creatures appear and gifts awaken among ordinary people as the Veil returns, overwhelming an institution built to suppress magic.
 
-In Orestor, Benedikt questions both the purpose and practicality of indiscriminate interventions; Tillibor seeks exclusive control of magic through Hněv, with recruitment and coercive exploitation of magical people among the methods under discussion. How the templars detect Veil, and how they distinguish danger amid ubiquitous magical activity, remain open. Local reform does not establish a uniform change of policy among continental branches.
+In Orestor, Benedikt questions both the purpose and practicality of indiscriminate interventions; Tillibor seeks exclusive control of magic through Hněv, with recruitment and coercive exploitation of magical people among the methods under discussion. How they distinguish danger amid ubiquitous magical activity remains open. Local reform does not establish a uniform change of policy among continental branches.
 
 ## What They Opposed
 
@@ -61,6 +61,20 @@ Elite militant faction. Symbol: gauntlet crossed with warhammer. Hunts the most 
 ### Orion's Wrath (Orestor)
 
 Meredian templars who survived the Shattering formed **[[Organisations/Orion's Wrath|Orion's Wrath]]** (_Orionův hněv_) in **[[Places/Orestor|Orestor]]**. Templars remaining with the Just maintain a local presence alongside the old temple. Their military command and relationship to continental leadership remain open. See that file for doctrine.
+
+## Sensing the Veil
+
+**Public belief:** a templar can sense any Veil-user.
+
+**Hidden truth:** templars sense **active** use of the Veil most clearly — a working being cast, a breach opening — and it leaves a **Veil shadow** (_stín Závoje_) they can still sense hours afterwards. They also sense Veil passively in people and things, but since the Shattering the Veil flows everywhere, and quiet sources drown in the noise. Only **powerful** Veil-users, such as a Maegi, and **strong artefacts**, such as the Orion–Erathon fragments, stand out at rest. Since the Shattering they sense far more than ever before, among people who were never mages, which leaves many of them confused and insecure.
+
+## Island Chapters (Dragon Islands)
+
+The Order's Imperial chapters in the [[Places/Dragon Islands|Dragon Islands]] lost their masters overnight when the Empire outlawed the Order after the Shattering. With no word from the mainland, they have rebranded under new leadership and offer their services to the [[Factions/Triple Coalition|Triple Coalition]], seeking legitimacy by proving themselves against real threats. A squadron is in [[Places/Saltmarsh|Saltmarsh]] after the plague incident.
+
+They call themselves the **Ashen Brotherhood** (_Bratrstvo popela_). Many of them believe Ellesmere was divine punishment for the Order's abuses; they wear ash and mean to atone by protecting people rather than hunting them — sincere, insecure, and dangerous in their zeal. Behind their backs, islanders call them **Popelníci** or **Popeláři** (the ash-men; the bin-men) — never to their faces.
+
+**Valerián Dukas** (_Valerian Doukas_) leads them: formerly commander of an Imperial chapter on the islands, he burned the order outlawing them and told his men they would serve whoever needed them. A pragmatist whose faith is cracking, holding his men together because otherwise they would fall apart.
 
 ## Severite / Mlčoun
 

@@ -62,8 +62,8 @@ Key island hub: **[[Places/Ansir]]**.
 
 ### Indigenous Peoples
 
-- **Tauber tribes** — half wood-elf, half Vistani in feel. Light-eyed (higher social status) and dark-eyed variants. Speak their own Draconic dialect, minimal Common. Avoid colonizers; retreat toward [[Places/Darkenwold|Darkenwold]].
-- **Dragonborn** — inhabit inhospitable uncolonized coastline; frequent targets of southern slavers.
+- **Natives** (name open; _Tauberové_ in old notes) — one human people of many regional groups, carrying the dragon blood of Ilimox. The **light-eyed** (_světloocí_) look somewhat elvish, with a wood-elf, Vistani feel, and form the nobility. The **dark-eyed** (_temnoocí_) look more lizard-like and draconic and are the servant caste. Speak their own Draconic dialect, minimal Common. Avoid colonizers; retreat inland and toward [[Places/Darkenwold|Darkenwold]]. See [[Places/Dragon Islands#The Dark-Eyed Blessing]].
+- **Dragonborn** (_drakorození_) — the continental name for the natives, above all the dark-eyed, as slaves. Free dark-eyed communities hold the inhospitable uncolonized coasts and are frequent targets of slavers.
 - **Sanguine / Lizardfolk** — "Fishers"; withdrawn to southern swamps and waterways.
 
 ## Magic
@@ -78,7 +78,7 @@ The world is effectively non-magical from a player perspective at campaign start
 - **Identify** is an arcane check requiring proficiency, not a spell; Detect Magic remains a spell
 - Leomond's Tiny Hut does not exist here
 
-Hidden truth: magic is suppressed and feared. The Erathon soul-fragment crisis, the fey gate Erathon is seeking, and the cursed bloodlines of the Taubers all suggest older forces are waking. After the Shattering some **common folk spark** — untrained Veil-gift. In [[Places/Orestor|Orestor]] that street includes the **[[Organisations/Bořiči]]**.
+Hidden truth: magic is suppressed and feared. The Erathon soul-fragment crisis, the fey gate Erathon is seeking, and the sealed dragon blood of the islands' natives all suggest older forces are waking. After the Shattering some **common folk spark** — untrained Veil-gift. In [[Places/Orestor|Orestor]] that street includes the **[[Organisations/Bořiči]]**.
 
 ## Religion
 
@@ -100,7 +100,7 @@ See [[Notes/Races and Rules]] for full player-facing detail.
 - **Elves** — very rare; withdrew to forest clans; elf ghettos were notorious for misery
 - **Gnomes** — rare; well integrated with humans; only race tolerated by dwarves in Grundarmheld
 - **Halflings** — well integrated, live normally among humans
-- **Dragonborn** — historically enslaved; freed in northern Eloran ~20 years ago; elsewhere still a valuable slave commodity; northern settlements are raided by southern slavers
+- **Dragonborn** (_drakorození_) — not a separate race: the continental name for enslaved Dragon Islands natives, mostly dark-eyed. Freed in northern Eloran ~20 years ago; elsewhere still a valuable slave commodity; northern settlements are raided by southern slavers
 - **Orcs** — pushed to mountains and largely exterminated; half-orcs are rare
 - **Tieflings** — not playable (demons have no presence here; anyone resembling demonic heritage ends up on a pyre)
 - **Underdark races** — not playable

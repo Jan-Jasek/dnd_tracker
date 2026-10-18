@@ -214,9 +214,12 @@ Canon: the **seal** that held the rift broke off and **crystallized** — Orion 
 ## Vilmar
 
 - How much does Vilmar actively pursue taking the Dragon Islands after Hilua's death?
-- Where has Xendra fled, and who else in Saltmarsh worked for her? What became of Von Telten's family?
-- **Saltmarsh council** — to be rebuilt as a full roster. Gellan Primewater's place in it (possibly mayor) is undecided.
-- **Naming pass** — rename people across canon to match each state's cultural inspiration, replacing most English names: [[Factions/Meredie|Meredie]] Czech/Bohemian, Prussian, German, Dutch (Holy Roman Empire + Bohemia); [[Factions/Triskal|Triskal]] French, Italian, Spanish; [[Factions/United Empire|United Empire]] Roman/Byzantine; [[Factions/Vilmar|Vilmar]] Arabic/Persian-sounding (Saybar, Ab Nesir); [[Factions/Valdie|Valdie]] Scandinavian; the **Skeld Isles** British; Dragon Isles natives Eastern (Caribbean/Indonesian feel).
+- What is Marie von Telten's rite on the sacred peak near Kanbar meant to do?
+- Who actually drained Saltmarsh's weapon caches? (Old notes: Stoupač's men stole and resold them.)
+- Name of the Požehnaný aboard the _Sea Ghost_.
+- What should the indigenous people (called _Tauberové_ in old notes) be called, in Czech and English?
+- **Saltmarsh council** — the remaining councillors, their names (with Czech forms), and their leanings.
+- **Naming pass** — rename people across canon to match each state's cultural inspiration, replacing most English names: [[Factions/Meredie|Meredie]] Czech/Bohemian, Prussian, German, Dutch (Holy Roman Empire + Bohemia); [[Factions/Triskal|Triskal]] French, Italian, Spanish; [[Factions/United Empire|United Empire]] Roman/Byzantine; [[Factions/Vilmar|Vilmar]] Arabic/Persian-sounding (Saybar, Ab Nesir); [[Factions/Valdie|Valdie]] Scandinavian; [[Factions/Grundarmheld|Grundarmheld]] dwarves German; the **Skeld Isles** British; Dragon Isles natives Eastern (Caribbean/Indonesian feel).
 - **Gibesh Desert / Akbesi** — Sayid Azolar: folklore or real?
 - Imperial–Vilmar naval balance on the southern continent
 
@@ -224,7 +227,7 @@ Canon: the **seal** that held the rift broke off and **crystallized** — Orion 
 
 - What is the "son of the spiritual leader" who took the sacred relics and what power does he have?
 - What are the specific sacred relics the indigenous people want recovered?
-- What is the nature of the cursed blood that Hilua awakened in the dark-eyed Taubers?
+- What did Hilua offer Aditya's dark-eyed followers near Dras Wyn, and what are that group's own powers?
 - Does Banyu have a specific character arc beyond being Mego's sender?
 
 ## Cleanup

@@ -19,7 +19,7 @@ source_evidence:
 **Provenance:** Fan-made regional map from the Saltmarsh / Ghost of Saltmarsh community, reused as the Dragon Islands setting map. Original English labels kept on the image; Eloran canon renames or adopts ports as needed.
 **Canon status:** Canon — **the** regional map of the Dragon Islands and the **Azure Sea** (_Azurové moře_).
 
-Scale bar: 0–200 miles. Compass: north at top.
+Scale bar: 0–200 miles. **Orientation: the map is upside down — north is at the bottom and east at the left.** The compass rose printed on the image is not canon. The image is kept unrotated so its labels stay readable. From Saltmarsh: Ansir and Covel lie north, Oros south, Kanbar and the Ganner Mountains east.
 
 ## Campaign Use
 
@@ -55,7 +55,7 @@ Islands and archipelagos: **Ryver Archipelago**, **The Three Sisters**, **Anaha 
 - **Covel** — Triskal vs Coalition battle (PS 0, end of the Third Meredian War); **Torsten**, first corsair consul and Birger Aderen's nephew, died here
 - **Bleak Is.** — likely **Bezútěšný vršek** (naval battle and tidal wave); confirm with DM
 - **Meros** — the blue dragon sleeps beneath its fortress (old notes)
-- **Darkenwold** — [[Places/Darkenwold]], the Tauber forest
+- **Darkenwold** — [[Places/Darkenwold]], native forest near the slave coasts
 - **Kam Basha Mts.** — temple of Amon'Ras's artefact (old notes)
 - **Ausiv** supply line — not labelled on this map; may match an unlabelled port
 

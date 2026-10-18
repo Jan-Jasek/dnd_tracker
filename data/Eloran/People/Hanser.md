@@ -28,10 +28,11 @@ Once very bloodthirsty, he has grown calmer since losing the leg. He stays thoro
 
 ## Present — Saltmarsh
 
-Hanser is a Saltmarsh public figure:
+Hanser is a Saltmarsh public figure. He owns **The Empty Net** (_U Prázdné sítě_), a harbour tavern bought with Lucky Jimmies money. War veterans and cripples drink there, the newsletter is printed on an old press in the back, and it serves as his campaign headquarters. Serving the veterans and loudly complaining about current affairs and the leadership is how he wins his popularity.
 
 - Puts out a weekly newsletter for the town.
-- Stands as a candidate for the town council.
+- Runs for the council seat Xendra left empty, on health and quality of life: veterans, the maimed, widows and orphans, and the plague street.
+- Believes Sněhobílý had Xendra framed and removed because she was growing popular and the council needed someone to blame for the lost weapons. He says so in his newsletter.
 - Makes money selling **Lucky Jimmies** — good-luck charms in memory of Jimmy Štístko.
 
 ## Jimmy Štístko

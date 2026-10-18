@@ -23,7 +23,7 @@ The main colonial city of the Dragon Islands and the seat of the Free Corsair Re
 
 ## Political Status
 
-Capital of the Triple Coalition of Free Corsair Republics. Broke away from Empire/Triskal control during the Third Meredian War. [[People/Birger Aderen|Birger Aderen]] is the key political figure visible in Ansir — Valdie fugitive noble; preaching against war and great powers before taking a harder line in Act II.
+Capital of **Stoupač's** federal state within the [[Factions/Triple Coalition|Triple Coalition]] of Free Corsair Republics. Broke away from Empire/Triskal control during the [[History/Timeline#The Third Meredian War|Third Meredian War]]. [[People/Birger Aderen|Birger Aderen]], leader of the Saltmarsh state, was a visible figure here, preaching against war and the great powers.
 
 External threats:
 

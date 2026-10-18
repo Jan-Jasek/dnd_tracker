@@ -34,7 +34,7 @@ Bastard branch of the **[[Factions/Valdie|Valdie]]** royal house:
 
 ## Role
 
-Dominant political and military voice in the **[[Factions/Triple Coalition|Triple Coalition]]** after it forms — visible in **[[Places/Ansir|Ansir]]**, preaching against war and great powers before a harder line in Act II.
+Leader of the federal state with its capital in **[[Places/Saltmarsh|Saltmarsh]]**, and one of the three triumvirs of the **[[Factions/Triple Coalition|Triple Coalition]]**, with an equal vote on foreign matters. Before that he was visible in **[[Places/Ansir|Ansir]]**, preaching against war and the great powers.
 
 Central figure in Act II/III of **Dragon Independence**:
 

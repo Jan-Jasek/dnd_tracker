@@ -161,7 +161,7 @@ See [[Notes/Open Questions#Meredian Wars]].
 ### Recent History (pre-PS ~10–30)
 
 **Dragonborn emancipation in northern Eloran.**
-~20 years before PS 0, the northern states (likely Meredie's sphere) abolished Dragonborn slavery. This caused population growth, the formation of isolated Dragonborn settlements, and retaliatory slave raids from southern powers. The slave trade with the southern Empire continues.
+~20 years before PS 0, the northern states (likely Meredie's sphere) abolished the slavery of Dragonborn — enslaved Dragon Islands natives. This caused population growth, the formation of isolated Dragonborn settlements, and retaliatory slave raids from southern powers. The slave trade with the southern Empire continues.
 
 ---
 
@@ -198,7 +198,7 @@ The third Imperial attempt to take **Meredie** — independent since Bořivoj (p
 **Following weeks to months (late PS 0):**
 
 - Triskal retains **Valdie** on the continent and regains most of the Dragon Islands, while the Empire remains weakened but intact. The betrayal at Orestor and Covel fractures the former alliance.
-- Former Valdie island holdings consolidate into the **[[Factions/Triple Coalition|Triple Coalition of Free Corsair Republics]]**. After Torsten's death, the coalition settles into three federative republics associated with **Birger Aderen**, **Hedvábný**, and **Stoupač**. Its surviving core holds into PS 1.
+- Former Valdie island holdings consolidate into the **[[Factions/Triple Coalition|Triple Coalition of Free Corsair Republics]]**. After Torsten's death no new consul is chosen. The coalition settles into three federal states — Saltmarsh under **Birger Aderen**, Ansir under **Stoupač**, Oros under **Hedvábný** — whose leaders act as a triumvirate with equal votes on foreign matters. Its surviving core holds into PS 1.
 - Triskal's military-religious order reforms under **Branon Vznešený**. The Empire blames the **Order of the Just** and outlaws it; Triskal continues using the Just Ones as state enforcers. An elite Just host of ~500 paladins moves against neutral **[[Places/Lapiberg|Lapiberg]]**, while orc incursions pressure the western lowlands.
 - The former Meredian heartland remains politically fractured. Refugee movement, the disappearance of central authority, Templar hunts for surviving Maegi, and local military strongmen create the conditions seen in **[[Places/Hlubina|Hlubina]]** and the Ellesmere lowlands.
 
@@ -210,7 +210,7 @@ The third Imperial attempt to take **Meredie** — independent since Bořivoj (p
 
 **PS 1 M10–M12 — Dragon Independence, Act I (Ansir)** — Autumn into winter, two to three months. The party sets out from Saltmarsh as corsairs of the Free Republic, meeting a lone rider with an Orion–Erathon fragment on the road. Weapon smuggling, death of Commander Hemmond, Harry Mansion. See [[Campaigns/Dragon Independence]].
 
-**PS 1 M12 — Alastor's return to Saltmarsh** — A plague incident tied to the rider's crystal has drawn a squadron of the Just to Saltmarsh. Alastor sets out after the escaped Vilmaran agent Xendra. In preparation.
+**PS 1 M12 — Alastor's return to Saltmarsh** — A plague incident tied to the rider's crystal has drawn a squadron of the Just to Saltmarsh. Alastor sets out after Xendra, publicly named as the Vilmaran agent. In preparation.
 
 ### PS 2 — Second Post-Shattering Year
 

@@ -22,17 +22,19 @@ The political entity that controls the **Dragon Isles** (_Dračí ostrovy_). Bro
 
 ## Structure
 
-Three **founding ports** — free corsair republics in coalition:
+A federation of three corsair republics. Each founding port is the capital of one federal state, governed by its own leader:
 
-- [[Places/Ansir]] — capital
-- [[Places/Saltmarsh]] — founding port
-- [[Places/Oros]] — founding port
+- [[Places/Saltmarsh]] — state of **[[People/Birger Aderen|Birger Aderen]]** (_Sněhobílý_)
+- [[Places/Ansir]] — state of **Stoupač** (_Umurad Irdigut_)
+- [[Places/Oros]] — state of **Hedvábný**
+
+**Torsten** was the first **consul** (_konzul_), a leader chosen for the whole coalition. Since his death at Covel no new consul has been chosen. The three state leaders act together as a **triumvirate** with equal votes on foreign and international matters.
 
 The Republic uses a military-civic structure with commanders (Hemmond, then Kaplan), a council (Harry was a council member), and corsair captains.
 
 ## Key Figures
 
-- **[[People/Birger Aderen|Birger Aderen]]** — Valdie fugitive noble; dominant voice after the coalition forms; nephew **Torsten** was **first consul** (killed at **Covel**). Wants the republic free of Triskal and the Empire; increasingly paranoid in Act II.
+- **[[People/Birger Aderen|Birger Aderen]]** — Valdie fugitive noble; leader of the Saltmarsh state and triumvir; nephew **Torsten** was **first consul** (killed at **Covel**). Wants the republic free of Triskal and the Empire; increasingly paranoid in Act II.
 - **Harry** — council member; possessed/corrupted; Act I antagonist
 - **Hemmond** — commander; killed during Act I
 - **Kaplan** — captain; takes command after Hemmond

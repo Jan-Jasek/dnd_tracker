@@ -10,7 +10,7 @@ universe: veiling
 
 > Part of: [[Eloran]] | See also: [[Places/Regions]], [[Places/Lapiberg]]
 
-Dwarf mountain kingdom. Extremely caste-locked. Exile is branded; descendants cannot wear clan insignia. Gnomes are the only non-dwarves tolerated inside.
+Dwarf mountain kingdom with German cultural and naming inspiration; dwarves usually carry German names and ancestry. Extremely caste-locked. Exile is branded; descendants cannot wear clan insignia. Gnomes are the only non-dwarves tolerated inside.
 
 Sits **beyond the Shadow Pass** (_průsmyk Stínů_) from the Valdie vassal and the west end of **Hor stínů**. The range runs **north and northwest**.
 

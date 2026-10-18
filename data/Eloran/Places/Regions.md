@@ -66,14 +66,14 @@ Dwarf mountain kingdom beyond the **Shadow Pass**. Range north and northwest. Ca
 
 See [[Places/Dragon Islands]] for the archipelago hub and [[Maps/Dragon Islands Map]] for the regional map. The Corsair Republic controls trade lanes on the **Azure Sea** (Azurové moře).
 
-- [[Ansir]] — coalition capital
-- [[Saltmarsh]] — founding republic; Xendra, Von Telten hostage plot
+- [[Ansir]] — capital of Stoupač's state
+- [[Saltmarsh]] — founding republic; Xendra, Marie von Telten
 - [[Oros]] — founding republic
 - [[Mokrá Lhota]] — weapon-smuggling waypoint toward the front
 
-### Darkenwold (Temnoles)
+### Darkenwold (Temnohvozd)
 
-Forest where Tauber tribes retreat. Dark powers described as returning from here. Connected to Aditya and the cursed dark-eyed bloodlines. See [[Places/Darkenwold]].
+Forest where native groups retreat. Dark powers described as returning from here. Near the slave coasts. See [[Places/Darkenwold]].
 
 ### Dirden's Farm (Dirdenův statek)
 

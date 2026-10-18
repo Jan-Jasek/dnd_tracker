@@ -66,6 +66,8 @@ Timeline (also exists at Universe level and per-Plane level)
 - Preserve contradictions as notes instead of silently overwriting them.
 - Separate public belief, hidden truth, and contested interpretation when useful.
 - Favor playable consequences over encyclopedia prose.
+- Czech is the language of narration at the table. Write canon prose in English, but give every proper name (people, places, organisations, epithets) its Czech form, e.g. `# Darkenwold (Temnohvozd)` or an `aliases:` entry.
+- Write in-character quotes, citations, and in-world texts (letters, newsletters, inscriptions) in Czech.
 
 ## Present-State Writing
 
@@ -110,6 +112,7 @@ Timeline entries should link to the people, places, and factions they involve.
 - Major player choices should create timeline events and consequences.
 - Faction changes should update the faction file, any linked campaign state, and the relevant timeline.
 - Generated maps, images, and other assets should include a nearby Markdown brief explaining purpose, prompts, and canon status.
+- Images referenced from canon must live inside `data/` (e.g. `data/<Universe>/Maps/`) and be embedded with `![[file]]` so Obsidian displays them; files under `imports/` are outside the vault.
 
 ## Validation
 

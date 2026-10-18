@@ -15,52 +15,62 @@ promotion_target:
 
 ## Frame
 
-- **When:** around **PS 1 M12**, after the Dragon Independence party breaks up. The same player then plays [[Campaigns/Orestor]] with other characters. A Dragon Islands part 2 follows a few months after this adventure.
+- **When:** around **PS 1 M12**, right after Act I of Dragon Independence. The same player then plays [[Campaigns/Orestor]] with other characters. Dragon Islands part 2 follows after Orestor.
 - **Who:** Alastor returns to Saltmarsh alone. One extra player may join, from outside the original group.
-- **Core:** the Erathon/Orion seal fragment that a lone rider carried toward Saltmarsh. It is a particularly dark fragment, tied to corrupting bodies and raising the dead. It is a different fragment from the violet one in Orestor; the fragments connect the two campaigns.
+- **Two threads.** The main line is the hunt: **hunt → truth → peak**. The crystal thread (Matyáš, the templars, the plague) runs in the background in Saltmarsh and lays the foundations for a crystal hunt — possibly a second act a few weeks after Alastor returns, and part 2.
 
 ## Alastor
 
-Sixty-year-old bounty hunter. Searching for a cure for his wife, he reached the [[Factions/Vilmar|Vilmar Sultanate]] and one of [[Factions/Vilmar#Prophet Saybar|Saybar's]] blood mages. The mage began turning him into a disciple and told him to feed his wife his blood after the change. She died of it. The ritual did not fully take: Alastor is half-changed, half his face withered. He hunted the mage for years, gave up, and came to the islands for a new life. There he ran into Saybar's people again (Hilua, Xendra) and took it as a sign to pursue vengeance. He knows he must grow stronger before he can stand against them.
+Sixty-year-old bounty hunter. Searching for a cure for his wife, he reached the [[Factions/Vilmar|Vilmar Sultanate]] and one of [[Factions/Vilmar#Prophet Saybar|Saybar's]] blood mages. The mage began turning him into a disciple and told him to feed his wife his blood after the change. She died of it. The ritual did not fully take: Alastor is half-changed, half his face withered. He hunted the mage for years, gave up, and came to the islands for a new life. There he ran into Saybar's people again and took it as a sign to pursue vengeance. He knows he must grow stronger before he can stand against them.
 
-## Agreed
+## The Truth (agreed)
 
-- **The rider is a victim.** The fragment is slowly changing him. Several parties want the fragment, and Alastor may be the first to reach him.
-- **One crystal.** Two of Rotgar's men fought over it after it was taken from a caravan fleeing the front. It sickened them and they spread the sickness to the room where they lay; Dirden's people sealed them in. The crystal never reached the farm. The rider had it when the party met him on the road; he was heading to Saltmarsh, and his presence charms (Wisdom save).
-- **Structure.** The first hook is **finding Xendra**. Before Alastor leaves, Saltmarsh shows hints that something is wrong; the crystal plot takes over when he returns.
-- **The rider is Matyáš** (working name). The party met him on the road as they set out from Saltmarsh at the start of Act I. He spent eight weeks or more in town. An incident tied to the crystal happened there, and a squadron of the Just arrived to investigate. Matyáš left as they arrived, before they could sense him. When Alastor returns, the templars are in town and the incident is the talk of Saltmarsh, but it is not his job. Descriptions of the man the templars want remind Alastor of the rider he met weeks ago.
-- **The Just on the islands** — a scattered remnant, possibly rebranded under new leadership, with no word from the mainland. If the crystal causes an incident in Saltmarsh, a squadron of them arriving to investigate is a strong hook. [[Organisations/Orion's Wrath|Orion's Wrath]] belongs to Orestor and does not appear here.
-- **The rider found the crystal.** He survived a half-burnt settlement where the dead rose from the graveyard, picked up the crystal there, and fled east with a refugee caravan. Rotgar's men robbed the caravan and took it. While the two smugglers lay sick, he took it back and rode on toward Saltmarsh.
-- **The rider is alive and himself.** He believes he is on his way to safety in Saltmarsh, where he means to sell the crystal for a new life.
-- **Perin and Charles are plagued** from the sealed room. That gives Alastor a second reason to chase the fragment.
-- **[[People/Hanser|Jednonohý Hanser]]** is a Saltmarsh figure Alastor knows: newsletter, council candidacy, Lucky Jimmies.
-- **Xendra**, the Saltmarsh councilwoman, is a Vilmaran agent who escaped. Finding her is a natural opening for a former bounty hunter.
-- **Von Telten hires Alastor** to find her, privately. **Sněhobílý** has also put an official Republic bounty on her, so other hunters are on the trail.
-- **Xendra took Von Telten's wife and children** when she fled. The children cooperate better with their mother beside them. She may mean to use them in a further blood ritual.
-- **Seals and the reverse working.** Each protective working is a **seal**, and casting one is **sealing**. Orion combined ten seals into one unique creation, **Orion's Seal**, which held Erathon and himself in the depths of Ellesmere; Jeod destroyed it by reversing nine of its seals, as no one knows the tenth. An **inverted seal** (_obrácená pečeť_; in common speech a **breach**, _průlom_) opens a temporary, local tunnel through the barrier around Eloran so Veil energy can pass; an ordinary sealing then binds the breach so it stays local. Rituals use the pair often. Hilua used them in Harry's crypt.
-- **Energy for the ritual.** Very old lineages, which often carry demon blood from before Orion's days, or royal blood; many ordinary sacrifices; or the caster's own essence, at great cost to it. Hilua needed Harry for his old noble line.
-- **Fragments are pure Veil** — the essence of Erathon and Orion, perhaps of the disciples too. They are not pieces of a working and are not needed for the ritual.
-- **Saybar's blood mages are the Požehnaní** (the Blessed). He has made them for centuries; each is costly and hard to make. They feel empowered since the Shattering.
-- **Xendra and Matyáš.** Xendra knew exposure was coming once communications from Ansir stopped. Before the party could return, she sensed Matyáš's crystal and moved on him: that is the Saltmarsh incident. She does not know what the crystal is, only that it is powerful. Her plan does not depend on it.
-- **Vilmar's plans on the islands go on.** The weapon smuggling was only the beginning. Xendra goes to ground on the islands to carry the plan forward, with the dark-eyed Taubers Hilua armed, rather than fleeing home. Hilua is dead.
-- Whoever offers to make Alastor stronger in exchange for the fragment acts **in person**, not through [[Organisations/Brauer & Hess]]. Jeod's control of the world through the bank's debts stays hidden from the player for Orestor. Jeod travels by the Paths and is not in Orestor himself.
+- **Marie von Telten** (_Marie Teltenová_) — Meredian-born, married into the German noble Von Telten family — is a **Požehnaná**, made by Saybar while Telten served on the Sultanate border. Only Saybar creates Požehnaní. She planned the islands operation with **Hilua**.
+- **Telten is innocent.** His family lived in comfort on **Meros**. After the wave he believed them dead, until a **Požehnaný** (foreign name to be given) brought him a letter signed "X" claiming to hold them. He gave in, smuggled the weapons aboard the **_Sea Ghost_**, and could not search for his family because the Požehnaný stayed aboard. When the party took the ship the Požehnaný escaped; Telten showed the letters.
+- **Marie hid in Saltmarsh** under a false name as a refugee widow with the children, working as assistant to **Xendra**.
+- **Xendra is innocent.** Vilmaran-born physician (_lékařka_), in Saltmarsh only a short time; a good woman who cared for refugees and the wounded through the war and wanted to make the town better. She won the council's health and quality-of-life seat. The "X" letters were written to point at her — a public figure, and Vilmaran.
+- **The Saltmarsh incident.** Marie, sensing something powerful, moved on Matyáš and his crystal. Her helpers rotted. Xendra treated the victims and came close to the truth.
+- **Marie's way inland.** She volunteered to treat and help the Dwarven Company's miners, which took her into the mountains toward Kanbar and let her make contact with the local natives. Hilua and Marie each worked their own angle and knew little of each other's details; Hilua's was Aditya's group near Dras Wyn, three weeks' travel from Saltmarsh.
+- **The flight.** Shortly after, Marie told Xendra that the letters named her and Sněhobílý's men were coming, and proposed escaping to the mountains, where she knew someone who would hide them. Xendra fled with her; the town saw Xendra leave with a cloaked woman and children in her cart. Marie keeps Xendra alive on the road: a dead Xendra in town would raise questions, a vanished one confirms her guilt.
+- **The destination** is a sacred site on a peak in the **Ganner Mountains near Kanbar**, east of Saltmarsh: a native mountain-top city, shrine, or ruins the natives are forbidden to enter, tied to dragons, half-dragons, or draconic magic. Marie means to use her children in a rite there.
+- **The rite** inverts the seal Orion's mages laid on the peak over the dark-eyed natives' dragon blood (see [[Places/Dragon Islands#The Dark-Eyed Blessing]]), powered by the children's old blood. It would return the dark-eyed their power. They would be grateful to Marie, and Vilmar becomes their ally; the natives take back their land, the colonies fall into chaos, and Vilmar gains its base. **The dragon under Meros is a separate story**, Finnigan's — a handful of Požehnaní could not control it.
+
+## Saltmarsh When Alastor Returns (agreed)
+
+- **The council** (six seats by declared focus) governs both town and state: Gellan Primewater (trade, mayor), Sněhobílý (war), Manfred Kupferbart (dwarf; mining and smithies; Dwarven Company mines toward Kanbar), Edwin Kester (Skeld old families), Ondřej Andr (Meredian newcomers), and Xendra's empty health seat, which [[People/Hanser|Hanser]] runs for. Gellan negotiates with Sněhobílý to split the executive powers.
+- **Von Telten hires Alastor** privately to find Xendra and his family. **Sněhobílý** has put an official bounty on Xendra, so other hunters are on the trail.
+- **Hanser and part of the town believe Xendra was framed** by Sněhobílý. They are right that she was framed, wrong about who did it.
+- **The Just** — the island chapters, outlawed by the Empire after the Shattering, cut off from the mainland, rebranded under new leadership, and offering their services to the Republic to prove themselves against real threats — sent a squadron after the incident. Lost and insecure: since the wave they sense the Veil in far more people. They are the **Ashen Brotherhood** (_Bratrstvo popela_; behind their backs _Popelníci_, _Popeláři_), led by **Valerián Dukas**. They sense active Veil use clearly and its **Veil shadow** for hours afterwards; passive Veil drowns in the noise except for powerful users and strong artefacts like the crystal (the player does not know this). Alastor at rest probably passes unnoticed; using his abilities leaves a trail. With Jeod at court, Sněhobílý has two rival advisors who want each other dead. They are in town when Alastor arrives. [[Organisations/Orion's Wrath|Orion's Wrath]] belongs to Orestor and does not appear here.
+- **A Maegi advisor.** After the crystal incident, a Maegi — likely **Jeod Isthar** — approaches Sněhobílý, offers his services in this era of erupting magic, and becomes his advisor. Alastor can meet him there. Jeod's control of the world through [[Organisations/Brauer & Hess]] debts stays hidden for Orestor; he travels by the Paths.
+
+## The Crystal Thread (agreed)
+
+- **One crystal**, an Orion–Erathon fragment tied to corrupting bodies and raising the dead; a different fragment from Orestor's.
+- **Matyáš** (working name), son of a Meredian family from **Covel** who moved to Ansir during the war. He found the crystal after the tsunami on the coast around Covel — perhaps simply fished it out, though some drama is welcome.
+- Two of Rotgar's men robbed the refugee caravan Matyáš travelled with and fought over the crystal. It sickened them, and the sickness spread to the room at Dirden's farm where they were sealed in. The crystal never reached the farm; Matyáš took it back.
+- The party met him on the road as they set out from Saltmarsh at the start of Act I: alive, himself, unnaturally likable (Wisdom save or charmed), heading to Saltmarsh to sell the crystal for a new life.
+- He spent eight weeks or more in Saltmarsh, survived Marie's grab, and left as the templars arrived, before they could sense him. Their description of the man they want reminds Alastor of the rider.
+- **Perin and Charles** carry a mild form of the plague from the sealed room — a punishment for meddling, not the smugglers' fate. It gives Alastor a second reason to chase the fragment.
+
+## World Rules Established
+
+- **Seals and breaches:** see [[Cosmology#Seals and Breaches]]. Jeod knows several seals and their inversions; exactly how Orion's Seal was destroyed is unknown.
+- **Požehnaní** (the Blessed) are Saybar's blood mages; only he makes them; costly and rare; empowered since the Shattering.
+- **Fragments are pure Veil** — the essence of Erathon and Orion, perhaps of the disciples too. Rituals do not need them.
+- **Native clans** each have their own shamans and natural sources of power; Vilmar's plan had several entry points among them.
 
 ## Parked
 
-- **The Saltmarsh incident in detail** — Xendra's failed grab for the crystal; who sickened, what rose, who saw it.
-- **The dark-eyed Taubers** — who they are, what their cursed blood is, and what Aditya wants.
-- **Sněhobílý as a target.** His royal Valdie blood makes him useful to Xendra.
-- **Why Alastor's change failed** — not because Eloran was sealed at the time; open.
-- **Build-up to Act II**: dragons, the necromancer, Finnigan, possibly Sibyla Fayen or another Maegi. Not all need appear in Alastor's adventure.
-- **The Saltmarsh incident** — what happened, who died or sickened.
-- **The new Saltmarsh council** — full roster; Gellan Primewater possibly mayor.
-- **Matyáš's history** — candidate: son of a Meredian fisherman among the early colonists.
-- **The crystal's rules.** Candidates, none decided and possibly unknown in-world: the holder stays well while carrying it, and sickens once it is taken away after it has taken hold; the smugglers sickened trying to take it from him, not from holding it; it gives the holder lich-like powers while slowly killing him.
-- **The plague's course in Perin and Charles** — a mild form, a punishment for meddling, not the smugglers' fate.
-- **The dormant necromancer** — one of Orion's failed attempts to create followers; a thanatomancer who shares his body with the souls he consumed. Candidate: fled to the Dragon Islands long ago and lies dormant there. Possible pull of a death-and-corpses fragment.
-- **The patron.** Jeod in person, another Ellesmere-blast accomplice, or someone else.
-- **Finnigan** (archdruid, outside Orion's history) — wounded by Isthar in old notes, wants to wake the blue dragon under Meros. Candidate rival or ally.
-- **Sibyla Fayen** — suggestion only: a mage who disappeared on the islands long ago and stopped caring about the outside world.
+- **Marie as stepmother** — candidate: she killed Telten's first wife years ago, so the children are not hers.
+- **The natives' names** — native groups differ by region. Candidate: **Moxané** (_Moxan_, "children of Ilimox") for the tribes around Kanbar and Saltmarsh.
+- **Name of the Požehnaný** aboard the _Sea Ghost_ (foreign, Vilmaran).
+- **Who drained Saltmarsh's weapon caches** — old notes: Stoupač's men stole and resold them.
+- **Matyáš's timeline** — how exactly he found the crystal; the half-burnt settlement where the dead rose; the caravan.
+- **The crystal's rules** — candidates, possibly unknown in-world: the holder stays well while carrying it and sickens once separated; others sicken trying to take it; it gives lich-like powers while slowly killing the holder.
+- **Finnigan** (archdruid, outside Orion's history; wants to wake the blue dragon under Meros) — hint at him or introduce him in the wilderness during the chase; act 2 material.
+- **The dormant necromancer** — a separate open story near Darkenwold: [necromancer idea](dragon-islands-necromancer.md).
+- **Sněhobílý as a target** — his royal Valdie blood makes him useful to Vilmar.
+- **Why Alastor's change failed.**
+- **Sibyla Fayen** — suggestion only: a mage who vanished on the islands long ago.
 - **Očistná vlna** — the tsunami cult; role in Saltmarsh, if any.
-- **Saltmarsh's political place** — the DM remembers Saltmarsh as where the Republic began and where Sněhobílý ([[People/Birger Aderen]]) charged the party; canon has Ansir as coalition capital.
 - **Sayid Azolar** — rumored at Akbesi; Ilrusk hates the name Azolar. Same being as Saybar, or a third party?

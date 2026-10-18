@@ -42,9 +42,9 @@ The material plane of the [[Veiling]]. Largely sealed from the Veil since Orion'
 - [[Places/Carleon]], [[Places/Nelbar]] — Imperial cities
 - [[Places/Gibesh Desert]], [[Places/Akbesi]] — southern continent
 - [[Places/Dragon Islands]] — archipelago; Triple Coalition territory (with map)
-- [[Places/Darkenwold]] — Tauber forest (stub)
-- [[Places/Ansir]] — Free Republic capital (with map)
-- [[Places/Saltmarsh]] — founding republic; Von Telten hostage plot (with map)
+- [[Places/Darkenwold]] — native forest near the slave coasts (stub)
+- [[Places/Ansir]] — capital of Stoupač's state (with map)
+- [[Places/Saltmarsh]] — capital of Birger Aderen's state (with map)
 - [[Places/Oros]] — founding republic of the Triple Coalition
 - [[Places/Mokrá Lhota]] — weapon-smuggling waypoint
 - [[Places/Orestor]] — west-delta crown port; city-republic; Konrad, Benedikt; Ilrusk

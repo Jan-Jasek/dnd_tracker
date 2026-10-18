@@ -70,9 +70,9 @@ Well integrated, live normally among humans.
 
 ### Dragonborn
 
-Historically enslaved race imported from overseas. About 20 years ago, northern Eloran abolished Dragonborn slavery, causing population growth and the formation of isolated settlements. Those settlements are regularly raided by southern slavers. In the southern Empire and Triskal, a well-presented Dragonborn slave is a status symbol. The slave trade with the southern Empire is active.
+Not a separate race. **Dragonborn** (_drakorození_) is the continental name for Dragon Islands natives taken as slaves — humans carrying draconic blood, mostly the dark-eyed, whose looks are more lizard-like: scaly patches, slit pupils. About 20 years ago, northern Eloran abolished Dragonborn slavery, causing population growth and the formation of isolated settlements. Those settlements are regularly raided by southern slavers. In the southern Empire and Triskal, a well-presented Dragonborn slave is a status symbol. The slave trade with the southern Empire is active.
 
-In the Dragon Islands: Dragonborn also inhabit the inhospitable uncolonized coastline as a separate group.
+On the Dragon Islands, free dark-eyed communities hold the inhospitable uncolonized coastline. See [[Places/Dragon Islands#The Dark-Eyed Blessing]].
 
 ### Orcs
 
@@ -90,23 +90,23 @@ If an Underdark exists, nothing from it has surfaced. No opportunity to have enc
 
 ## Languages
 
-| Language          | Spoken by                                        |
-| ----------------- | ------------------------------------------------ |
-| **Common**        | Universal; home language of the United Empire    |
-| **Triskal**       | Triskal                                          |
-| **Veildic**       | Valdie                                           |
-| **Meredic**       | Meredie                                          |
-| **Vilmaran**      | Vilmar                                           |
-| **Elvish**        | Elves                                            |
-| **Gnomish**       | Gnomes                                           |
-| **Giant**         | Giants                                           |
-| **Halfling**      | Halflings                                        |
-| **Dwarvish**      | Dwarves                                          |
-| **Orc**           | Orcs                                             |
-| **Goblin**        | Goblins                                          |
-| **Sylvan**        | Druids (special access)                          |
-| **Draconic**      | Dragon Islands (also Tauber dialect); specialist |
-| **Thieves' Cant** | If background justifies it                       |
+| Language          | Spoken by                                     |
+| ----------------- | --------------------------------------------- |
+| **Common**        | Universal; home language of the United Empire |
+| **Triskal**       | Triskal                                       |
+| **Veildic**       | Valdie                                        |
+| **Meredic**       | Meredie                                       |
+| **Vilmaran**      | Vilmar                                        |
+| **Elvish**        | Elves                                         |
+| **Gnomish**       | Gnomes                                        |
+| **Giant**         | Giants                                        |
+| **Halfling**      | Halflings                                     |
+| **Dwarvish**      | Dwarves                                       |
+| **Orc**           | Orcs                                          |
+| **Goblin**        | Goblins                                       |
+| **Sylvan**        | Druids (special access)                       |
+| **Draconic**      | Dragon Islands (native dialect); specialist   |
+| **Thieves' Cant** | If background justifies it                    |
 
 Other exotic languages are not available — there has been no exposure to them in this part of the world.
 

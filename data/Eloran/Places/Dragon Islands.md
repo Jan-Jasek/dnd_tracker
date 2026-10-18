@@ -29,18 +29,25 @@ Seat of the **[[Factions/Triple Coalition|Triple Coalition]]** of Free Corsair R
 
 ## Founding Ports and Settlements
 
-- [[Places/Ansir]] — coalition capital
-- [[Places/Saltmarsh]] — founding port; Xendra, Von Telten hostage plot
-- [[Places/Oros]] — founding port
+- [[Places/Ansir]] — capital of Stoupač's state
+- [[Places/Saltmarsh]] — capital of Birger Aderen's state; Xendra, Marie von Telten
+- [[Places/Oros]] — capital of Hedvábný's state
 - [[Places/Mokrá Lhota]] — inland village on the smuggling route
-- [[Places/Darkenwold]] — forest where the Taubers retreat
+- [[Places/Darkenwold]] — forest where native groups retreat
 
 ## Peoples
 
-- **Taubers** — half-elves; light-eyed and dark-eyed, the light-eyed ranking higher; retreating into Darkenwold
-- **Dragonborn** — on the inhospitable, uncolonized coasts beyond the islands; frequent targets of slave raids
-- **Lizardfolk and other "fishfolk"** — withdrawn into the swamps and river mouths of the south
+- **Natives** (name open; _Tauberové_ in old notes) — one human people carrying the dragon blood of Ilimox, split into regional groups with their own names, shamans, and sources of power. The **light-eyed** (_světloocí_) look somewhat elvish and form the nobility; the **dark-eyed** (_temnoocí_) look more lizard-like and draconic and form the servant caste. Retreating inland and into Darkenwold. On the continent they are called **Dragonborn** (_drakorození_), the name they carry as slaves.
+- **Lizardfolk and other "fishfolk"** — a separate, non-human people withdrawn into the swamps and river mouths of the south
 - Colonial corsairs, merchants, and Imperial remnants
+
+## The Dark-Eyed Blessing
+
+**Public belief:** the dark-eyed are a cursed lesser kind, the dregs of native society (_spodina společnosti_). A dark-eyed child born to light-eyed parents is given away to the dark-eyed to raise as a servant. The light-eyed nobles would rather deal with the colonists and sell their dark-eyed as slaves than risk war with them; free dark-eyed communities survive on the uncolonized coasts, raided by slavers.
+
+**Hidden truth:** the dark eyes are not a curse but a **blessing of the dragon god Ilimox**. In the age of legends the natives' ancestors mingled with his brood, and the dark-eyed carry that blood most strongly. They once ruled the islands. [[Organisations/Order of Maegi|Orion's mages]] sealed their power — with a seal on a sacred peak in the Ganner Mountains near Kanbar, which the natives are forbidden to enter — and the light-eyed took their place. The dark-eyed have been kept down ever since as servants too dangerous to free. The trait is recessive and every native carries it, so even two light-eyed parents can have a dark-eyed child. So much time has passed that only a few old seers remember why.
+
+Breaking that seal would return the dark-eyed their power as formidable Veil users. [[Factions/Vilmar|Vilmar]] offers itself as their ally: Hilua armed Aditya's resentful dark-eyed near Dras Wyn; Marie von Telten goes for the seal itself.
 
 ## Terrain and Threats
 

@@ -25,7 +25,7 @@ This is not the gentle faerie realm of legend. It is a place where Veil runs thi
 - Inaccessible from Eloran since Orion's Seal closed the Paths
 - Erathon is attempting to reopen a gate between this plane and Eloran
 - His creation of [[The Hollow]] was a byproduct of this attempt
-- The Tauber tribes on the Dragon Islands have bloodlines that were touched by the fey plane before the sealing — this is the origin of their "cursed blood"
+- **Contested belief:** some colonists hold that the Dragon Islands natives' "cursed blood" comes from contact with the fey plane before the sealing. The dark-eyed carry Ilimox's dragon blood (see [[Eloran/Places/Dragon Islands#The Dark-Eyed Blessing]]); whether an older, fey-touched curse lies dormant in the light-eyed is open.
 - **[[Eloran/Places/Darkenwold|Darkenwold]]** on the Dračí ostrovy may be a thin point where the planes are close
 
 ## Open Questions
@@ -33,6 +33,6 @@ This is not the gentle faerie realm of legend. It is a place where Veil runs thi
 - What is this plane's name?
 - Are there beings here besides Erathon's dominated creatures?
 - What does the plane look like — is it beautiful, corrupted, alien?
-- What do the Taubers know or remember about the fey plane?
+- What do the Dragon Islands natives know or remember about the fey plane?
 
 See [[Eloran/Cosmology]] for full cosmological context.

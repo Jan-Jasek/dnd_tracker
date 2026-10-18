@@ -17,4 +17,4 @@ location: place.saltmarsh
 **Source:** Carved from `DnD_Eloran_Campaigns / Dračí nezavislost.one (On 26.04.2026).one`
 **Canon status:** Canon — custom Saltmarsh map adapted for the campaign.
 
-The port town where Xendra sat on the council and held Captain Von Telten's family hostage. Use for any Saltmarsh-set scenes.
+The port town where Xendra sat on the council and where Marie von Telten hid under a false name. **Xendros'** on the map is Xendra's house and surgery. Use for any Saltmarsh-set scenes.

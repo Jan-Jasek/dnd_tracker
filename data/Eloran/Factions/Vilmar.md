@@ -26,7 +26,10 @@ Imperial military careers on this frontier are common (e.g. **Captain Henry Von 
 Separate theater — Vilmar projects power by sea:
 
 - **Hilua** (_Hilua_) — century-old blood mage and agent of Saybar in the body of a bloodless girl of about thirteen. Sent to weaken the **[[Factions/Triple Coalition|Triple Coalition]]** and break the Triskal truce so Vilmar could seize **[[Places/Ansir|Ansir]]**. Led the ritual at Harry's mansion that inverted the first of Orion's seals to open a breach in the Veil and imbue Harry. Died in the ritual's collapse.
-- **Xendra** — Saltmarsh councilwoman and Vilmaran agent. Held Captain Von Telten's family hostage to force him into the smuggling chain, and let the town's weapon caches drain away through her council seat. Escaped Saltmarsh after the conspiracy was exposed. The smuggling was only the opening of Vilmar's plans on the islands, and she carries them on.
+- **Marie von Telten** (_Marie Teltenová_) — Meredian-born wife of Captain Henry Von Telten and a **Požehnaná**, made by Saybar while Telten served on the Sultanate border. She planned the islands operation with Hilua. After the wave she vanished with Telten's children and let him believe them dead, then lived in Saltmarsh under a false name as a refugee widow and assistant to the physician Xendra. When the plot unravelled she staged an abduction, framed Xendra with letters signed "X", and fled east into the Ganner Mountains with the children and with Xendra.
+- **A Požehnaný aboard the _Sea Ghost_** (name to be given) — brought Telten the first "X" letter, forced him into smuggling the weapons, and stayed aboard so he could not search for his family. Escaped when the ship was taken.
+
+**Public belief:** **Xendra**, Saltmarsh councilwoman and physician, was the Vilmaran agent: she held Telten's family hostage, let the town's weapon caches drain away through her council seat, and fled when exposed. **Hidden truth:** Xendra is Vilmaran-born but no agent — a good woman who cared for refugees and the wounded through the war and wanted to make Saltmarsh better. Marie framed her.
 
 ## Prophet Saybar
 
@@ -40,7 +43,7 @@ Saybar's blood mages are the **Požehnaní** (the Blessed). He has been making t
 
 ### Aims on the Dragon Islands
 
-Vilmar means to wake the curse in the blood of the dark-eyed Taubers and use them to take control of the Dragon Islands, then launch an invasion of the northern continent. The weapon smuggling in Ansir was only the opening move.
+Vilmar means to break the seal on the dragon blood of the islands' [[Places/Dragon Islands#The Dark-Eyed Blessing|dark-eyed]] natives, win them as grateful allies, and use them to take control of the Dragon Islands, then launch an invasion of the northern continent. The weapon smuggling in Ansir was only the opening move.
 
 ## Reputation
 
