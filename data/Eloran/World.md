@@ -2,7 +2,7 @@
 id: world.eloran
 type: world-bible
 status: canon
-universe: veiling
+universe: weaving
 plane: eloran
 themes:
   - low-magic
@@ -78,7 +78,7 @@ The world is effectively non-magical from a player perspective at campaign start
 - **Identify** is an arcane check requiring proficiency, not a spell; Detect Magic remains a spell
 - Leomond's Tiny Hut does not exist here
 
-Hidden truth: magic is suppressed and feared. The Erathon soul-fragment crisis, the fey gate Erathon is seeking, and the sealed dragon blood of the islands' natives all suggest older forces are waking. After the Shattering some **common folk spark** — untrained Veil-gift. In [[Places/Orestor|Orestor]] that street includes the **[[Organisations/Bořiči]]**.
+Hidden truth: magic is suppressed and feared. The Erathon soul-fragment crisis, the fey gate Erathon is seeking, and the sealed dragon blood of the islands' natives all suggest older forces are waking. After the Shattering some **common folk spark** — untrained Weave-gift. In [[Places/Orestor|Orestor]] that street includes the **[[Organisations/Bořiči]]**.
 
 ## Religion
 
@@ -89,7 +89,7 @@ Two institutions, one history — see [[Organisations/Church of Orion]]:
 - **[[Organisations/Apostolic Church of Orion|Apostolic Church of Orion]]** (_Apoštolská církev Orionova_) — founded at the betrayal; secretly mage-governed for most of the Age of Salvation
 - **[[Organisations/Order of the Just|Order of the Just]]** (_Řád Spravedlivých_) — Ellesmere culling pre-PS ~155 marks the **Just Age** (_Věk spravedlnosti_, pre-PS ~155 → PS 0), a separate era from Salvation. Opposed the mage church, not Orionist devotion.
 
-The Order teaches that the Veil is corrupting; suppression of Veil-wielders is sacred duty. Necromancy and demon-summoning are killed on sight. Tools: **Severite** / **Mlčoun** — gauntlet on white field; Hammer of Orion adds crossed warhammer.
+The Order teaches that the Weave is corrupting; suppression of Weave-wielders is sacred duty. Necromancy and demon-summoning are killed on sight. Tools: **Severite** / **Mlčoun** — gauntlet on white field; Hammer of Orion adds crossed warhammer.
 
 ## Races
 

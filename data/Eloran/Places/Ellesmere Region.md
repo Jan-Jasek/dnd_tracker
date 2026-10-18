@@ -3,7 +3,7 @@ id: place.ellesmere-region
 type: region
 status: canon
 plane: eloran
-universe: veiling
+universe: weaving
 source_evidence:
   - imports/onenote/extracted/lore-one-on-01-03-2023.md
   - imports/onenote/extracted/meredie-one-on-01-03-2023.md

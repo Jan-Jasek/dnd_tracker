@@ -2,7 +2,7 @@
 id: idea.orestor-selith-motives
 type: idea
 status: draft
-universe: veiling
+universe: weaving
 plane: eloran
 promotion_target:
   - character.selith
@@ -55,15 +55,15 @@ Selith appears as Orion and offers salvation he believes is real. His anger conc
 
 ## Nature and followers
 
-Working proposal: Selith is an emotionally volatile being made more of Veil energy than of a permanent body. He exists outside the Art's structure. His capabilities can be more varied than Maegi methods, while his current strength is substantially below Ilrusk's.
+Working proposal: Selith is an emotionally volatile being made more of Weave energy than of a permanent body. He exists outside the Art's structure. His capabilities can be more varied than Maegi methods, while his current strength is substantially below Ilrusk's.
 
 Breadth of ability, strength, precision, and reliability are separate questions. Existing outside the Art does not itself establish immunity to Maegi, Mlčoun, or physical harm to a host.
 
-**Imbuing a person with Veil:** Selith gradually gains greater influence over their will. Something resembling a connected corruption develops among his followers. Resistance is possible at least up to a point; the threshold remains open. Whether entry requires an invitation, how full possession works, the number of simultaneous hosts, range, and access to memories need deciding.
+**Imbuing a person with Weave:** Selith gradually gains greater influence over their will. Something resembling a connected corruption develops among his followers. Resistance is possible at least up to a point; the threshold remains open. Whether entry requires an invitation, how full possession works, the number of simultaneous hosts, range, and access to memories need deciding.
 
 A host's death does not substantially threaten Selith physically in the working direction, though exact consequences remain open. He may nevertheless care deeply about his followers. Losing someone who believed in him means something different to him from losing a usable body. Affection and progressively overriding a follower's will can coexist in his thinking.
 
-**Veil absorption is conditional.** The mere presence of life, magic, or a fragment is insufficient. Prerequisites, prior experience, and the cost remain open. Selith recognizes corruption in Orion's essence; how precisely he understands Erathon's share is undecided.
+**Weave absorption is conditional.** The mere presence of life, magic, or a fragment is insufficient. Prerequisites, prior experience, and the cost remain open. Selith recognizes corruption in Orion's essence; how precisely he understands Erathon's share is undecided.
 
 If a rite involves sacrificing a follower, that choice creates a further tension with this affection. His justification, the follower's understanding and ability to refuse, and whether he mourns the loss need development. A possible belief is that the sacrifice participates in the faithful's shared elevation; that belief is not proof the donor survives within them.
 

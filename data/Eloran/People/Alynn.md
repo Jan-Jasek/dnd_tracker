@@ -3,7 +3,7 @@ id: character.alynn
 type: character
 status: canon
 plane: eloran
-universe: veiling
+universe: weaving
 location: place.orestor
 campaigns:
   - campaign.orestor

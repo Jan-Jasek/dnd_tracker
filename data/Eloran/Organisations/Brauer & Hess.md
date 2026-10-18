@@ -3,7 +3,7 @@ id: organisation.brauer-hess
 type: organisation
 status: canon
 plane: eloran
-universe: veiling
+universe: weaving
 locations:
   - place.orestor
 related:

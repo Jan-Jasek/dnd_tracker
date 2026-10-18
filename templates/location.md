@@ -2,7 +2,7 @@
 id: place.example
 type: location
 status: draft
-universe: veiling
+universe: weaving
 plane: eloran
 region:
 campaigns: []

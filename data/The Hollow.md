@@ -2,21 +2,21 @@
 id: plane.the-hollow
 type: plane
 status: canon
-universe: veiling
+universe: weaving
 ---
 
 # The Hollow
 
-> Part of: [[Veiling]]
+> Part of: [[Weaving]]
 
 A shadow plane — a hollow reflection of [[Eloran/Eloran|Eloran]], created as a byproduct of Erathon's attempted merger of Eloran and the [[Fey|Fey plane]].
 
-The Hollow looks like Eloran but drained: no warmth, no Veil, just the shape of things without their nature. It exists in the dead space between the two planes that Erathon pressed together. The merger failed, but The Hollow remains as a scar.
+The Hollow looks like Eloran but drained: no warmth, no Weave, just the shape of things without their nature. It exists in the dead space between the two planes that Erathon pressed together. The merger failed, but The Hollow remains as a scar.
 
 ## Properties
 
 - Appears as a colorless, silent reflection of Eloran's geography — same rivers, same mountains, wrong light
-- No Veil flows here; it was squeezed out in the merger attempt
+- No Weave flows here; it was squeezed out in the merger attempt
 - Undead and shadow-touched creatures are drawn to it
 - Time may pass differently from Eloran
 

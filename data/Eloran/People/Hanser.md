@@ -3,7 +3,7 @@ id: character.hanser
 type: character
 status: canon
 plane: eloran
-universe: veiling
+universe: weaving
 faction: faction.triple-coalition
 location: place.saltmarsh
 campaigns:

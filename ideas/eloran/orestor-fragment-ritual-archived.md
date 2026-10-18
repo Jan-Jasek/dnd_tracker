@@ -2,7 +2,7 @@
 id: idea.orestor-fragment-ritual-archived
 type: idea
 status: retired
-universe: veiling
+universe: weaving
 plane: eloran
 ---
 
@@ -14,10 +14,10 @@ plane: eloran
 ## Established foundations
 
 - According to [[Cosmology]], the seal collapsed at the Shattering / Roztříštění and crystallized into fragments containing **Orion's and Erathon's essence**. The violet fragment is not an ordinary gem with a spell placed inside it.
-- Selith is proposed as a Veil being capable of absorbing its power under particular conditions. He intends to gather Orion through the fragments and continue his work.
+- Selith is proposed as a Weave being capable of absorbing its power under particular conditions. He intends to gather Orion through the fragments and continue his work.
 - He recognizes corruption in the essence. His idea of purification need not match the actual effect.
-- Mlčoun suppresses the Veil in canon. The box's precise effect on a fragment, detection, and an ongoing rite remains undecided.
-- The DM's setting direction is that much advanced magic requires blood or sacrifice. Existing Maegi creation lore already connects blood, concentrated life, and Veil. The particular method below is a campaign proposal, not a universal spell rule.
+- Mlčoun suppresses the Weave in canon. The box's precise effect on a fragment, detection, and an ongoing rite remains undecided.
+- The DM's setting direction is that much advanced magic requires blood or sacrifice. Existing Maegi creation lore already connects blood, concentrated life, and Weave. The particular method below is a campaign proposal, not a universal spell rule.
 
 ## Proposed physical nature
 
@@ -77,7 +77,7 @@ Remote extraction is not established. Adding it would require explicit limits an
 
 **Obstacle:** releasing Orion's share also releases Erathon's. The unwanted essence needs somewhere to go.
 
-**Preparation:** Selith prepares vessels, potentially altered bodies or objects bound to extracted life energy. Their form, preparation, and cost are open. Canon establishes living beings as concentrations of Veil; this technique is a new proposal.
+**Preparation:** Selith prepares vessels, potentially altered bodies or objects bound to extracted life energy. Their form, preparation, and cost are open. Canon establishes living beings as concentrations of Weave; this technique is a new proposal.
 
 **Interaction:** with the violet fragment present, he tries to accept or distribute Orion's essence while routing corruption into those vessels. Preparation can precede acquisition; actual extraction cannot.
 
@@ -105,7 +105,7 @@ Remote extraction is not established. Adding it would require explicit limits an
 
 **Separate alternative, not an additional requirement of the developing combination.**
 
-The obstacle is incompatibility between Orion's essence and Selith's current arrangement of Veil. Selith alters himself using memories of his creation, seeking properties that can receive Orion's imprint. Shared origin offers a possibility, not safe absorption by default.
+The obstacle is incompatibility between Orion's essence and Selith's current arrangement of Weave. Selith alters himself using memories of his creation, seeking properties that can receive Orion's imprint. Shared origin offers a possibility, not safe absorption by default.
 
 The role of life energy, other people, or death would need a concrete explanation. The symbolism of betrayal alone cannot establish a magical requirement.
 

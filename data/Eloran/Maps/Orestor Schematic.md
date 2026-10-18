@@ -2,7 +2,7 @@
 id: map.orestor-schematic
 type: map
 status: candidate
-universe: veiling
+universe: weaving
 world: eloran
 plane: eloran
 region: eloran-continent

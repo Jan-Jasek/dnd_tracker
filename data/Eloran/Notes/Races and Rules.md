@@ -2,7 +2,7 @@
 id: notes.eloran.races-and-rules
 type: dm-notes
 status: canon
-universe: veiling
+universe: weaving
 plane: eloran
 player_doc: true
 source_evidence: player-document-czech

@@ -2,7 +2,7 @@
 id: idea.orestor-templar-schism
 type: idea
 status: draft
-universe: veiling
+universe: weaving
 plane: eloran
 ---
 
@@ -13,11 +13,11 @@ plane: eloran
 
 ## Direction from the DM
 
-Ellesmere shattered the templars' confidence. Many interpret the catastrophe as divine wrath for their abuse of power. The Veil has surged back, magical creatures appear, ordinary people awaken to gifts, and Ellesmere's survivors suffer a slowly fatal corruption. The institution's old methods cannot deal with the scale of change.
+Ellesmere shattered the templars' confidence. Many interpret the catastrophe as divine wrath for their abuse of power. The Weave has surged back, magical creatures appear, ordinary people awaken to gifts, and Ellesmere's survivors suffer a slowly fatal corruption. The institution's old methods cannot deal with the scale of change.
 
 Benedikt leads the Just in Orestor and believes they must adapt. Tillibor seeks to make Hněv the sole organisation controlling magic. He may recruit magical people or enslave and use them against others. Benedikt wants an alternative to subduing the magical world by force. Local templar numbers are roughly evenly split, but Tillibor gains ground.
 
-Templars need a means of sensing Veil; specialized seekers are a possibility. The mechanism, personnel, and accuracy remain open. Their reports now come from everywhere. Detecting Veil does not establish possession, an artifact, or an imminent threat.
+Templars need a means of sensing Weave; specialized seekers are a possibility. The mechanism, personnel, and accuracy remain open. Their reports now come from everywhere. Detecting Weave does not establish possession, an artifact, or an imminent threat.
 
 ## Why Benedikt can end the ship intervention
 
@@ -44,7 +44,7 @@ Tillibor may aspire to replace that church leader and eventually control the wid
 
 ## Questions that can wait until this thread needs them
 
-- Exact means and limits of Veil detection; whether seekers form a distinct role.
+- Exact means and limits of Weave detection; whether seekers form a distinct role.
 - Corruption-plague symptoms, pace, treatment, transmissibility, and consequences for named survivors such as Jeod and Kate. No immunity or exception is assumed.
 - Whether Tillibor believes all his doctrine, how he secures obedience from recruited or enslaved magical people, and the terms or privileges of sanctioned gifts.
 - Jimmy's hinted flame powers and their compatibility with his faction's programme.

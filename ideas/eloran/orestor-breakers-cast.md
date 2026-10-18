@@ -2,7 +2,7 @@
 id: idea.orestor-breakers-cast
 type: idea
 status: draft
-universe: veiling
+universe: weaving
 plane: eloran
 promotion_target:
   - organisation.borici
@@ -18,7 +18,7 @@ promotion_target:
 
 ### Matyáš Vorel — The Judge
 
-**Birth:** common-born, Orestor. **Public position:** magistrate. **Private position:** revolutionary leader and Ilrusk's Veil disciple.
+**Birth:** common-born, Orestor. **Public position:** magistrate. **Private position:** revolutionary leader and Ilrusk's Weave disciple.
 
 Current history proposal: a miller's son placed in charge of the mill's workers, he settled their disputes and continued to do so wherever he went. He has a calm, imposing presence and natural authority; people look to him to resolve problems without his needing to raise his voice. His nickname predates his judicial appointment. The city now says he can tell guilt simply by looking at someone. This is a reputation, not an established supernatural ability. His judicial career showed him how entrenched power protects itself. He believes democracy requires the Great Change and accepts destructive revolution as its price. His restraint of manner does not establish restraint of policy.
 
@@ -64,7 +64,7 @@ He grew up in exceptional luxury. The disparity between his own abundance and ot
 
 ### Rewyn Ilrusk — the Weaver; public name Antonín
 
-**Birth and ancient legal estate:** unresolved. **Public position:** librarian and volunteer in the town hospital. **Private position:** hidden patron and the Judge's Veil teacher.
+**Birth and ancient legal estate:** unresolved. **Public position:** librarian and volunteer in the town hospital. **Private position:** hidden patron and the Judge's Weave teacher.
 
 **Rewyn Ilrusk** is the historical figure's name. **Antonín** is his ordinary public identity; the townspeople do not recognize the ancient disciple. Ilrusk connects to Bořiči through the Judge alone and does not attend its local meetings. The Great Change serves his attempt to introduce democracy, displace bank leverage, and preserve his own influence over Orestor. The Judge believes they share his revolutionary purpose. Ordinary recruits can mistake several local leaders for the Weaver. The Judge's knowledge of his teacher's ancient identity and the other members' understanding remain open.
 

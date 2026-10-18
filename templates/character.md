@@ -2,7 +2,7 @@
 id: character.example
 type: character
 status: draft
-universe: veiling
+universe: weaving
 plane: eloran
 location:
 org:

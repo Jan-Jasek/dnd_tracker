@@ -3,7 +3,7 @@ id: notes.eloran.open-questions
 type: open-questions
 status: active
 plane: eloran
-universe: veiling
+universe: weaving
 ---
 
 # Open Questions
@@ -71,7 +71,7 @@ Discussion order: [numbered preparation questions](../../../ideas/eloran/orestor
 - **Concealed powder shipment** — quantity, customs and safety rules, ownership, reserve custodian, access, and proof of delivery. Define armed leverage in Alynn's capitalist-republic project and the handoff through Matěj Šimek. The bank does not tell the firm the beneficiary; set how completion can be verified. [Ship dossier](../../../ideas/eloran/orestor-ship-dossier.md).
 - **Trader and passengers** — [bilingual ship dossier](../../../ideas/eloran/orestor-ship-dossier.md). Confirm _The Shoalrunner_ / _Mělčinář_, whether the captain keeps Varek or takes the proposed Hungarian-inspired name Váradi Bálint, his home port, vessel size, island-fort → Meredian landing → Orestor route, grain quantity, and the passenger count, which depends on the number of Novotný children. Fix hold dimensions, concealed magazine, unloading route, and covered-deck layout. Berthold Rauk's tool cases make him a natural suspect after the weapon rumor and later theft; his apprentice Greta's stolen bracelet is a separate discovery on a thorough personal search. Develop Claire's poisons and remains, Lukáš's desertion, and bounty hunter Piere's reputation and purpose. Decide what the Novotní did to afford the voyage and who knows. The ship survived the Shattering while sheltered upriver; pinpoint its berth and subsequent circuit.
 - **Religious ship intervention** — authority, sensing limits, and Benedikt's favor over contested Just grounds or artifacts held by Hněv. Choose site or objects, custodian, claims, task, deadline, concession, and consequences for Tillibor. [Current leads](../../../ideas/eloran/orestor-opening-side-quests.md).
-- **Templar detection and plague** — how Veil is sensed, whether there are specialized seekers, and what distinguishes danger from ordinary magic. Set the survivor plague's symptoms, pace, treatment, transmissibility, and effects on named survivors. Detailed command below Benedikt and Tillibor, and a possible separate Hněv political representative, remain open.
+- **Templar detection and plague** — how Weave is sensed, whether there are specialized seekers, and what distinguishes danger from ordinary magic. Set the survivor plague's symptoms, pace, treatment, transmissibility, and effects on named survivors. Detailed command below Benedikt and Tillibor, and a possible separate Hněv political representative, remain open.
 - **First-night attempt and held-man lead** — public meeting, “Tupoun” Jožka's testimony, senior officer's warning and opening, Jindra's background, ordinary home, friend, safehouse watcher, and later outcome after Hans's urgent warning, Hans's dealings with Zdenda and the raid contract, brothers' briefing, full inventory, key access, boarding, transport, and evidence of Varek’s murder. Zdenda receives the haul first; fix the berth, brothers’ hideout, receiving place, boat, possible temporary storage, and handoff timing. Distinguish actual theft from Matěj's belief that powder is missing. [Numbered questions](../../../ideas/eloran/orestor-preparation-questions.md).
 - **Crystal discovery and corruption** — search scope, resulting custody, onset of possessiveness, resistance, containment, and any custodian's possible disappearance and traces. Early discovery and secure custody must have prepared outcomes. [Custody timeline](../../../ideas/eloran/orestor-sacred-timeline.md).
 - **Exploited ship emergency** — council sponsor, “Tupoun” Jožka's arrest and interrogation record, the rumor's transformation into the official threat report, Sir Lothar's knowledge, evidence available to players, and the lasting control sought. [Opening job](../../../ideas/eloran/orestor-opening-job.md).
@@ -81,7 +81,7 @@ Discussion order: [numbered preparation questions](../../../ideas/eloran/orestor
 - **[[People/Konrad|Konrad]]** — what he is. Candidate: Ilrusk made him, Silent high-rank unnatural, a new Orion. Old Silent lore: high rankers magical/unnatural
 - **Orestor city layout, library, and civic contacts** — the library is a dominant building outside Nebeská čtvrť; choose its district and the city's other major buildings in a later layout pass. Develop [Orion's Library](../../../ideas/eloran/orestor-orion-library.md): public name, Ilrusk's long custodianship, staff, ownership, surviving Orion writings, restricted access, and one ship-case document. The [city follow-ups](../../../ideas/eloran/orestor-opening-city.md) also need a judge for conflicting decrees, Zbožní membership and terms, the Černý přívoz landing, innkeepers, a copyist, and a judge's clerk.
 - **Mlčenliví revision — proposal, not canon yet** — consider replacing the [ranked thieves' and assassins' guild](../Organisations/Mlcenlivy.md) with a few unnatural killers controlled by Konrad for Ilrusk. Konrad can keep the ordinary underground on a short leash and use Fenris as the party's indirect contact. Develop Zbožní as a reachable independent criminal group. Decide which old named members remain before updating the organisation, city, and campaign files.
-- **The Judge and Bořiči core** — names, backstories, methods and limits of the Great Change, Veil training, hierarchy, and six local members' contacts with ordinary recruits. Establish Weaver rumors versus actual leadership; develop the Judge's knowledge and autonomy under his patron Ilrusk, the Weaver, and the other leaders' knowledge. Review [the proposed cast names, histories, ambitions, and private wrongdoing](../../../ideas/eloran/orestor-breakers-cast.md), including the highborn member, Hněv templar, and Apostolic bishop; develop the noble and bishop as meeting figures. Develop Captain Hans's western Meredian history and Lyanna's Imperial province and history. Develop the templar's monitoring agreement and reporting route; Benedikt does not know the revolutionary affiliation. Develop the anti-bank purpose of the Great Change, the nobleman's position in Oto's household, the highborn Valdic bishop, and Ilrusk's common public identity. Record birth and legal status, wealth, and influence separately, including Sir Lothar's and Zbožný Zdenda's possible noble ancestry. [Numbered questions](../../../ideas/eloran/orestor-preparation-questions.md).
+- **The Judge and Bořiči core** — names, backstories, methods and limits of the Great Change, Weave training, hierarchy, and six local members' contacts with ordinary recruits. Establish Weaver rumors versus actual leadership; develop the Judge's knowledge and autonomy under his patron Ilrusk, the Weaver, and the other leaders' knowledge. Review [the proposed cast names, histories, ambitions, and private wrongdoing](../../../ideas/eloran/orestor-breakers-cast.md), including the highborn member, Hněv templar, and Apostolic bishop; develop the noble and bishop as meeting figures. Develop Captain Hans's western Meredian history and Lyanna's Imperial province and history. Develop the templar's monitoring agreement and reporting route; Benedikt does not know the revolutionary affiliation. Develop the anti-bank purpose of the Great Change, the nobleman's position in Oto's household, the highborn Valdic bishop, and Ilrusk's common public identity. Record birth and legal status, wealth, and influence separately, including Sir Lothar's and Zbožný Zdenda's possible noble ancestry. [Numbered questions](../../../ideas/eloran/orestor-preparation-questions.md).
 - **Day 1 side quests** — public conversation, “Tupoun” Jožka's arrest and testimony, guard warning, Jindra's reachable shelter, and Benedikt's favor over Just grounds or artifacts held by Hněv. Oto's possible request for dirt on a loyalist is a later political follow-up. [Current leads](../../../ideas/eloran/orestor-opening-side-quests.md).
 - Name of the **[[Organisations/Legal Consultate|legal consultate]]**
 - **[[Organisations/Bořiči]]** — detailed socialist programme, hierarchy, methods, and personal reasons for joining. Develop Lyanna's affection for Alynn, divided loyalties, shipment intelligence, and message through Jindra “Šňůra” to Hans. Develop what Lyanna conceals about Alynn's dealings with Severin Varro, how the raiders identify the weapon, and the witnesses and arrest surrounding the riverside meeting. Define merchant political franchise and the conflict between the two movements.
@@ -140,10 +140,10 @@ These are later follow-ups outside the Day 1 working scope. Discussion order is 
 - What is the nature of the Fey gate?
 - What does Birger Aderen's shadow-lord fragment actually grant/cost him?
 
-## Cosmology — Veiling
+## Cosmology — Weaving
 
-- What caused the Sundering that shattered the Veil and broke the Paths between planes?
-- How many pre-Sundering beings exist across the Veiling, and what are they doing?
+- What caused the Sundering that shattered the Weave and broke the Paths between planes?
+- How many pre-Sundering beings exist across the Weaving, and what are they doing?
 - Are any pre-Sundering beings benevolent, or does isolation inevitably corrupt them?
 - What is the name of the Fey plane?
 - What do the pre-Sundering beings in the Fey plane (besides Erathon) want?
@@ -166,20 +166,20 @@ Orion **merged with Erathon** in the rift. Intent of the working is still argued
 
 - **The Druids** — the _Krvavá válka druidů_ (Bloody War of the Druids) is in legend. May be a ripple effect of the Maegi crusade against rival powers after Orion's death.
 - **[[Places/Darkenwold|Darkenwold]]** (Dračí ostrovy) — hold a crypt of an old Maegi enemy. Identity, location specifics, and current threat status open.
-- **Earlier Veil lineages** — blood mages and others created by Orion's earlier framings. How many remain today, and where? Is **[[People/Selith]]** one of them?
+- **Earlier Weave lineages** — blood mages and others created by Orion's earlier framings. How many remain today, and where? Is **[[People/Selith]]** one of them?
 
 ## Apostolic Church & Order of the Just
 
-- **WIP:** `ideas/eloran/order-of-the-just-wip.md` — three layers of truth (doctrine, institutional secrets, founding lie), Veilbreaker, underground imprisonment for ~150 years, Tillibor / Orionův hněv
+- **WIP:** `ideas/eloran/order-of-the-just-wip.md` — three layers of truth (doctrine, institutional secrets, founding lie), Weavebreaker, underground imprisonment for ~150 years, Tillibor / Orionův hněv
 - How much do current Just Ones know of the founding cover-up?
 - Are there Orionist factions that suspect the apostolic mage oligarchy — or blame all clergy equally?
-- Does any templar know Severite was forged from Veil knowledge by Ilrusk?
+- Does any templar know Severite was forged from Weave knowledge by Ilrusk?
 - What happens when the Hammer of Orion realizes the fragments contain traces of their saint?
 - How do Orionist priests and Just One garrisons share authority in mixed parishes after the coup?
 
 ## Maegi Nature and Creation
 
-- **How are Maegi created?** Canon: the creation ritual centers on blood — living creatures concentrate the Veil, and the ritual channels that concentration through blood. Specific mechanics, costs, and constraints are open.
+- **How are Maegi created?** Canon: the creation ritual centers on blood — living creatures concentrate the Weave, and the ritual channels that concentration through blood. Specific mechanics, costs, and constraints are open.
 - How do the earlier "blood mage" lineages relate to Maegi creation? Same root technique, less refined?
 - Can a Maegi be unmade — and if so, how?
 - Maegi don't die of natural causes. Marked survivors withered or went mad — how many still exist as something other than Ilrusk?

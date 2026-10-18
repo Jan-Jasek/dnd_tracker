@@ -3,7 +3,7 @@ id: place.oros
 type: location
 status: canon
 plane: eloran
-universe: veiling
+universe: weaving
 region: dragon-islands
 source_evidence:
   - imports/onenote/extracted/dra-nezavislost-one-on-26-04-2026.md

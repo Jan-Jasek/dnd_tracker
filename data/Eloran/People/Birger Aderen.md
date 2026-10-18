@@ -3,7 +3,7 @@ id: character.birger-aderen
 type: character
 status: canon
 plane: eloran
-universe: veiling
+universe: weaving
 faction: valdie
 locations:
   - place.ansir

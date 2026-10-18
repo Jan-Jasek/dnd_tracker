@@ -3,7 +3,7 @@ id: character.jeronym
 type: character
 status: canon
 plane: eloran
-universe: veiling
+universe: weaving
 location: place.orestor
 org: organisation.apostolic-church-of-orion
 campaigns:

@@ -3,7 +3,7 @@ id: character.kate
 type: character
 status: canon
 plane: eloran
-universe: veiling
+universe: weaving
 org: organisation.order-of-maegi
 mentor: character.jeod-isthar
 source_evidence:
@@ -20,7 +20,7 @@ Jeod Isthar's apprentice — currently his only named student in canon. Shadow-m
 
 Kate was at Ellesmere at **PS 0** — with Jeod when he broke the seal. Mortals smuggled them into the city and the Marble Fortress. She knows the blast was the cost of the working.
 
-She travels in Jeod's name, recruiting Veil-capable people while he pursues the larger restoration of the Veil. She scales with the party and may appear around Hlubina and other imperial staging areas.
+She travels in Jeod's name, recruiting Weave-capable people while he pursues the larger restoration of the Weave. She scales with the party and may appear around Hlubina and other imperial staging areas.
 
 At **Hlubina** she recruits the players into imperial service. **Captain Aemon Whiteoak** commands the advance guard; Kate handles recruitment. They are not the same person.
 

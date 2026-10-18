@@ -2,7 +2,7 @@
 id: idea.dragon-islands-alastor-solo
 type: idea
 status: draft
-universe: veiling
+universe: weaving
 plane: eloran
 promotion_target:
   - campaign.dragon-independence
@@ -40,7 +40,7 @@ Sixty-year-old bounty hunter. Searching for a cure for his wife, he reached the 
 - **The council** (six seats by declared focus) governs both town and state: Gellan Primewater (trade, mayor), Sněhobílý (war), Manfred Kupferbart (dwarf; mining and smithies; Dwarven Company mines toward Kanbar), Edwin Kester (Skeld old families), Ondřej Andr (Meredian newcomers), and Xendra's empty health seat, which [[People/Hanser|Hanser]] runs for. Gellan negotiates with Sněhobílý to split the executive powers.
 - **Von Telten hires Alastor** privately to find Xendra and his family. **Sněhobílý** has put an official bounty on Xendra, so other hunters are on the trail.
 - **Hanser and part of the town believe Xendra was framed** by Sněhobílý. They are right that she was framed, wrong about who did it.
-- **The Just** — the island chapters, outlawed by the Empire after the Shattering, cut off from the mainland, rebranded under new leadership, and offering their services to the Republic to prove themselves against real threats — sent a squadron after the incident. Lost and insecure: since the wave they sense the Veil in far more people. They are the **Ashen Brotherhood** (_Bratrstvo popela_; behind their backs _Popelníci_, _Popeláři_), led by **Valerián Dukas**. They sense active Veil use clearly and its **Veil shadow** for hours afterwards; passive Veil drowns in the noise except for powerful users and strong artefacts like the crystal (the player does not know this). Alastor at rest probably passes unnoticed; using his abilities leaves a trail. With Jeod at court, Sněhobílý has two rival advisors who want each other dead. They are in town when Alastor arrives. [[Organisations/Orion's Wrath|Orion's Wrath]] belongs to Orestor and does not appear here.
+- **The Just** — the island chapters, outlawed by the Empire after the Shattering, cut off from the mainland, rebranded under new leadership, and offering their services to the Republic to prove themselves against real threats — sent a squadron after the incident. Lost and insecure: since the wave they sense the Weave in far more people. They are the **Ashen Brotherhood** (_Bratrstvo popela_; behind their backs _Popelníci_, _Popeláři_), led by **Valerián Dukas**. They sense active Weave use clearly and its **Weave shadow** for hours afterwards; passive Weave drowns in the noise except for powerful users and strong artefacts like the crystal (the player does not know this). Alastor at rest probably passes unnoticed; using his abilities leaves a trail. With Jeod at court, Sněhobílý has two rival advisors who want each other dead. They are in town when Alastor arrives. [[Organisations/Orion's Wrath|Orion's Wrath]] belongs to Orestor and does not appear here.
 - **A Maegi advisor.** After the crystal incident, a Maegi — likely **Jeod Isthar** — approaches Sněhobílý, offers his services in this era of erupting magic, and becomes his advisor. Alastor can meet him there. Jeod's control of the world through [[Organisations/Brauer & Hess]] debts stays hidden for Orestor; he travels by the Paths.
 
 ## The Crystal Thread (agreed)
@@ -56,7 +56,7 @@ Sixty-year-old bounty hunter. Searching for a cure for his wife, he reached the 
 
 - **Seals and breaches:** see [[Cosmology#Seals and Breaches]]. Jeod knows several seals and their inversions; exactly how Orion's Seal was destroyed is unknown.
 - **Požehnaní** (the Blessed) are Saybar's blood mages; only he makes them; costly and rare; empowered since the Shattering.
-- **Fragments are pure Veil** — the essence of Erathon and Orion, perhaps of the disciples too. Rituals do not need them.
+- **Fragments are pure Weave** — the essence of Erathon and Orion, perhaps of the disciples too. Rituals do not need them.
 - **Native clans** each have their own shamans and natural sources of power; Vilmar's plan had several entry points among them.
 
 ## Parked

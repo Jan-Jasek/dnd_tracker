@@ -3,7 +3,7 @@ id: faction.grundarmheld
 type: faction
 status: canon
 plane: eloran
-universe: veiling
+universe: weaving
 ---
 
 # Grundarmheld

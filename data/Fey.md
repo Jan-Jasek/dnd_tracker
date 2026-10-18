@@ -2,23 +2,23 @@
 id: plane.fey
 type: plane
 status: draft
-universe: veiling
+universe: weaving
 plane_name_status: placeholder
 ---
 
 # Fey Plane
 
-> Part of: [[Veiling]]
+> Part of: [[Weaving]]
 
 _Name TBD. Referred to as "the Fey world" or "the fey gate" in Eloran legend._
 
-The fey plane was cut off from the broader Veil alongside [[Eloran/Eloran|Eloran]] during the Sundering. Unlike Eloran, which was subsequently sealed by Orion, the fey plane fell under the domination of Erathon — a pre-Sundering being now trapped in an isolated pocket of Veil overlapping this plane.
+The fey plane was cut off from the broader Weave alongside [[Eloran/Eloran|Eloran]] during the Sundering. Unlike Eloran, which was subsequently sealed by Orion, the fey plane fell under the domination of Erathon — a pre-Sundering being now trapped in an isolated pocket of Weave overlapping this plane.
 
 ## Nature
 
-Erathon's hunger saturates the plane. It is overgrown, consuming, alive in a way that feels wrong — the Veil here is abundant but tainted, shaped by Erathon's will over ages. Other pre-Sundering beings may also inhabit this plane; their status is unknown.
+Erathon's hunger saturates the plane. It is overgrown, consuming, alive in a way that feels wrong — the Weave here is abundant but tainted, shaped by Erathon's will over ages. Other pre-Sundering beings may also inhabit this plane; their status is unknown.
 
-This is not the gentle faerie realm of legend. It is a place where Veil runs thick and hot and hungry.
+This is not the gentle faerie realm of legend. It is a place where Weave runs thick and hot and hungry.
 
 ## Connection to Eloran
 

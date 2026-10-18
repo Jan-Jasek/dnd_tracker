@@ -4,7 +4,7 @@ type: campaign
 status: canon
 play_status: completed
 plane: eloran
-universe: veiling
+universe: weaving
 locations:
   - place.hlubina
   - place.ellesmere-region
@@ -18,7 +18,7 @@ campaign_window: "PS 1 M05–M06 (approx.)"
 
 # Hlubina — The Prologue Arc
 
-> Part of: [[Eloran]] | [[Veiling]] | See also: [[Campaigns/Dragon Independence]], [[History/Timeline]]
+> Part of: [[Eloran]] | [[Weaving]] | See also: [[Campaigns/Dragon Independence]], [[History/Timeline]]
 
 **PS 1 M05–M06 — played campaign.** Late spring of the first full year after the Shattering, in the marshlands near ruined Ellesmere.
 

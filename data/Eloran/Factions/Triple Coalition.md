@@ -3,7 +3,7 @@ id: faction.triple-coalition
 type: faction
 status: canon
 plane: eloran
-universe: veiling
+universe: weaving
 locations:
   - place.ansir
   - place.dragon-islands

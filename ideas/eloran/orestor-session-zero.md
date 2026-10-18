@@ -2,7 +2,7 @@
 id: idea.orestor-session-zero
 type: idea
 status: draft
-universe: veiling
+universe: weaving
 plane: eloran
 promotion_target:
   - campaign.orestor

@@ -2,7 +2,7 @@
 id: character.jeod-isthar
 type: character
 status: canon
-universe: veiling
+universe: weaving
 plane: eloran
 org: organisation.order-of-maegi
 location: place.ellesmere
@@ -20,13 +20,13 @@ Responsible for destroying **Orion's Seal** at Ellesmere. Exactly how he did it 
 
 ## Nature
 
-Maegi do not die of natural causes (see [[Organisations/Order of Maegi]]). Jeod has lived continuously through the recent centuries of Maegi persecution — long enough to watch the Templars consolidate, the lineages dwindle, the Veil draining grow undeniable. He has stayed in his own body throughout.
+Maegi do not die of natural causes (see [[Organisations/Order of Maegi]]). Jeod has lived continuously through the recent centuries of Maegi persecution — long enough to watch the Templars consolidate, the lineages dwindle, the Weave draining grow undeniable. He has stayed in his own body throughout.
 
 He is _old_, but not _ancient_. He is not Ilrusk's contemporary. He is the kind of Maegi who has seen everything that matters in the Templar era and nothing of what came before.
 
 ## Motive
 
-Jeod's primary goal was to **restore the Veil**. The Veil's slow draining since Orion's partial seal has been visibly killing Eloran in his lifetime; he chose to act when others would not.
+Jeod's primary goal was to **restore the Weave**. The Weave's slow draining since Orion's partial seal has been visibly killing Eloran in his lifetime; he chose to act when others would not.
 
 He knew the working would **blow the Marble Fortress**. He did not know the rift would collapse. He did not expect the **magnitude**. He did not care. No warning, no evacuation.
 

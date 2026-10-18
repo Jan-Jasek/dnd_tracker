@@ -3,7 +3,7 @@ id: organisation.zvestovatele
 type: organisation
 status: canon
 plane: eloran
-universe: veiling
+universe: weaving
 locations:
   - place.orestor
 related:

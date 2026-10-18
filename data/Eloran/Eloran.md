@@ -2,19 +2,19 @@
 id: plane.eloran
 type: plane
 status: canon
-universe: veiling
+universe: weaving
 ---
 
 # Eloran
 
-> Part of: [[Veiling]]
+> Part of: [[Weaving]]
 
-The material plane of the [[Veiling]]. Largely sealed from the Veil since Orion's working. The [[Regions/Northern Continent|Northern Continent]], the [[Regions/Southern Continent|Southern Continent]], and the [[Places/Dragon Islands|Dragon Islands]] are the primary campaign geography.
+The material plane of the [[Weaving]]. Largely sealed from the Weave since Orion's working. The [[Regions/Northern Continent|Northern Continent]], the [[Regions/Southern Continent|Southern Continent]], and the [[Places/Dragon Islands|Dragon Islands]] are the primary campaign geography.
 
 ## Cosmology & Universe
 
-- [[Veiling]] — the universe
-- [[Cosmology]] — the Veil, the Accord, the Sundering, Erathon's rise
+- [[Weaving]] — the universe
+- [[Cosmology]] — the Weave, the Accord, the Sundering, Erathon's rise
 - [[../Fey|Fey Plane]] — the fey plane (name TBD); dominated by Erathon
 - [[../The Hollow|The Hollow]] — the shadow plane; a reflection of Eloran
 
@@ -66,7 +66,7 @@ The material plane of the [[Veiling]]. Largely sealed from the Veil since Orion'
 - [[People/Konrad]] — Konšel; master of the docks; Vorlen; Ilrusk's proxy
 - [[People/Benedikt]] — Konšel; Just temple in Orestor
 - [[People/Jeroným]] — apostolic archbishop; Orestor Konšel
-- [[People/Selith]] — ancient being Orion made to create more Veil-users; walks as Orion at night
+- [[People/Selith]] — ancient being Orion made to create more Weave-users; walks as Orion at night
 - [[People/Birger Aderen]] — Valdie fugitive noble; Triple Coalition leader; shadow-lord fragment
 - [[People/Hanser]] — one-legged dwarf veteran; Saltmarsh newsletter and council candidate
 - [[People/Aemon Whiteoak]] — imperial captain; Hlubina prologue only

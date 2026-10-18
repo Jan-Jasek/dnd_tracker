@@ -2,7 +2,7 @@
 id: asset.map-ansir
 type: map-brief
 status: canon
-universe: veiling
+universe: weaving
 plane: eloran
 location: place.ansir
 ---

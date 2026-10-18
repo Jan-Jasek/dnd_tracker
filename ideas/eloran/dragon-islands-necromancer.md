@@ -2,7 +2,7 @@
 id: idea.dragon-islands-necromancer
 type: idea
 status: draft
-universe: veiling
+universe: weaving
 plane: eloran
 promotion_target:
   - place.darkenwold

@@ -3,7 +3,7 @@ id: character.konrad
 type: character
 status: canon
 plane: eloran
-universe: veiling
+universe: weaving
 location: place.orestor
 org: organisation.mlcenlivy
 campaigns:

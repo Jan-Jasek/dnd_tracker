@@ -3,7 +3,7 @@ id: place.ellesmere
 type: location
 status: canon
 plane: eloran
-universe: veiling
+universe: weaving
 region: ellesmere-region
 source_evidence:
   - imports/onenote/extracted/lore-one-on-01-03-2023.md
@@ -22,7 +22,7 @@ The Third Meredian War ended here. Imperial siege under Marshal Von Edgeira was 
 
 ## Hidden Truth
 
-The Marble Fortress was a cage around a **floating rift** — Path-wound, immovable, secret even from later Maegi. Jeod destroyed **Orion's Seal**, which held it. He meant to restore the Veil and to blow the templar fortress. He did not know the rift would collapse. He did not expect the size of the blast. The broken seal crystallized into fragments of Orion and Erathon.
+The Marble Fortress was a cage around a **floating rift** — Path-wound, immovable, secret even from later Maegi. Jeod destroyed **Orion's Seal**, which held it. He meant to restore the Weave and to blow the templar fortress. He did not know the rift would collapse. He did not expect the size of the blast. The broken seal crystallized into fragments of Orion and Erathon.
 
 ## Survivors & Aftermath
 

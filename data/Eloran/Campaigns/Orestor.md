@@ -3,7 +3,7 @@ id: campaign.orestor
 type: campaign
 status: draft
 plane: eloran
-universe: veiling
+universe: weaving
 locations:
   - place.orestor
 related:
@@ -31,7 +31,7 @@ campaign_window: "PS 2 M02; opening job, then escalation of undecided duration"
 
 # Orestor
 
-> Part of: [[Eloran]] | [[Veiling]] | See also: [[Places/Orestor]], [[People/Alynn]], [[People/Oto]], [[People/Lothar]], [[People/Konrad]], [[People/Benedikt]], [[People/Jeroným]], [[People/Selith]], [[People/Ilrusk]], [[People/The Judge]], [[Organisations/Mlcenlivy]], [[Organisations/Bořiči]], [[Organisations/Orionovi Zvěstovatelé]], [[Organisations/Orion's Wrath]], [[Organisations/Apostolic Church of Orion]], [[Organisations/Brauer & Hess]], [[History/Timeline]]
+> Part of: [[Eloran]] | [[Weaving]] | See also: [[Places/Orestor]], [[People/Alynn]], [[People/Oto]], [[People/Lothar]], [[People/Konrad]], [[People/Benedikt]], [[People/Jeroným]], [[People/Selith]], [[People/Ilrusk]], [[People/The Judge]], [[Organisations/Mlcenlivy]], [[Organisations/Bořiči]], [[Organisations/Orionovi Zvěstovatelé]], [[Organisations/Orion's Wrath]], [[Organisations/Apostolic Church of Orion]], [[Organisations/Brauer & Hess]], [[History/Timeline]]
 
 **PS 2 M02.** Late winter / early spring of the second year after the Shattering. City campaign in **[[Places/Orestor|Orestor]]**. Same players as **[[Campaigns/Dragon Independence]]** Act I (Ansir).
 
@@ -61,7 +61,7 @@ For the opening's immediate play, the [city state and venues](../../../ideas/elo
 
 Selith's ambition to gather Orion's fragments and share his essence with followers remains distinct from the rites. The means and consequences of using a recovered fragment are open. [Motives and nature](../../../ideas/eloran/orestor-selith-motives.md).
 
-The religious dispute grows from a crisis of purpose after Ellesmere. Benedikt seeks adaptation while Tillibor demands harsher persecution; widespread Veil detections make the old methods increasingly unworkable. [Templar schism and Benedikt's proposed bargain](../../../ideas/eloran/orestor-templar-schism.md).
+The religious dispute grows from a crisis of purpose after Ellesmere. Benedikt seeks adaptation while Tillibor demands harsher persecution; widespread Weave detections make the old methods increasingly unworkable. [Templar schism and Benedikt's proposed bargain](../../../ideas/eloran/orestor-templar-schism.md).
 
 If Jeroným dies, his council seat becomes vacant. The Apostolic flock's proposed response is the **Kajícníci** (Orion came to **punish us**; repent); Heralds say he came to **save us** and **cleanse sinners**. A replacement for one seat or a general election remains open. Prepare responses to the actual outcome of play.
 

@@ -2,7 +2,7 @@
 id: asset.map-dragon-islands
 type: map-brief
 status: canon
-universe: veiling
+universe: weaving
 plane: eloran
 location: place.dragon-islands
 source_evidence:

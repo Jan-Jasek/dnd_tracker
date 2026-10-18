@@ -2,7 +2,7 @@
 id: idea.orestor-opening-side-quests
 type: idea
 status: draft
-universe: veiling
+universe: weaving
 plane: eloran
 promotion_target:
   - campaign.orestor
@@ -57,7 +57,7 @@ Lyanna learns the ship's name and the promise of a weapon. She passes that intel
 
 ## Bořiči leadership — current direction
 
-The public magistrate and revolutionary **Judge** are one person, with ordinary origins and a nickname earned before judicial appointment. He appears bureaucratic, believes in democracy, and advocates destroying the entrenched order to bring **the Great Change**. The **Weaver** is a working title for a rumored hidden leader: cells may identify different inner-circle members or confuse the Weaver with the Judge. **Rewyn Ilrusk, the Weaver**, is the Judge's Veil teacher and secret patron, cultivating the movement for control of Orestor. He connects to Bořiči through the Judge alone; the Judge believes they share the purpose of his revolution. Develop the true chain of influence, the Judge's knowledge and autonomy, and who deals with lower-ranking members in [the preparation questions](orestor-preparation-questions.md).
+The public magistrate and revolutionary **Judge** are one person, with ordinary origins and a nickname earned before judicial appointment. He appears bureaucratic, believes in democracy, and advocates destroying the entrenched order to bring **the Great Change**. The **Weaver** is a working title for a rumored hidden leader: cells may identify different inner-circle members or confuse the Weaver with the Judge. **Rewyn Ilrusk, the Weaver**, is the Judge's Weave teacher and secret patron, cultivating the movement for control of Orestor. He connects to Bořiči through the Judge alone; the Judge believes they share the purpose of his revolution. Develop the true chain of influence, the Judge's knowledge and autonomy, and who deals with lower-ranking members in [the preparation questions](orestor-preparation-questions.md).
 
 ## Jindra “Šňůra”'s investigation — to develop
 
@@ -110,13 +110,13 @@ Build the trail from the actual departure and ordinary relationships. The follow
 
 ### Shapeshifting and interference — optional idea outside Day 1 preparation
 
-One Bořiči member could shapeshift and actively interfere with investigations, inspired by Yoru Sulfur in _The First Law_. **Lyanna** is a possible holder of this newly developed power, with the Judge teaching her to use the Veil. Neither the ability nor that teaching relationship is established. Keep this idea outside the numbered preparation queue; it does not block Day 1. Before adopting it, discuss whether the extra complexity is useful, its place in the setting's Veil and Art rules, what can be copied, costs and limits, and clues that could expose an impersonation.
+One Bořiči member could shapeshift and actively interfere with investigations, inspired by Yoru Sulfur in _The First Law_. **Lyanna** is a possible holder of this newly developed power, with the Judge teaching her to use the Weave. Neither the ability nor that teaching relationship is established. Keep this idea outside the numbered preparation queue; it does not block Day 1. Before adopting it, discuss whether the extra complexity is useful, its place in the setting's Weave and Art rules, what can be copied, costs and limits, and clues that could expose an impersonation.
 
 An interference attempt must follow the faction's actual information about an investigation. Define its purpose, target identity, briefing, and possible discovery; do not grant the operative knowledge of private player conversations or plans without an in-world source. Consider its effect on the watch's investigation and the no-firm timeline as well as encounters with the players.
 
 ## Zdenda's commission and the captain — in discussion
 
-The brothers enter the captain's cabin to demand the hold key and interrogate him about weapons. The captain understands their question could expose the bank's lot and deliberately directs them to **Master Berthold Rauk's** cargo. Rauk carries mechanical inventions, particularly crossbow mechanisms, and new alloys. These give the brothers a convincing military shipment to take. Rauk also carries **Veilbreaker** among his materials; form, quantity, source, and effect remain open. Existing [Just notes](order-of-the-just-wip.md#veilbreaker-mlčoun--severite) describe it as a metal, also called Mlčoun / Severite.
+The brothers enter the captain's cabin to demand the hold key and interrogate him about weapons. The captain understands their question could expose the bank's lot and deliberately directs them to **Master Berthold Rauk's** cargo. Rauk carries mechanical inventions, particularly crossbow mechanisms, and new alloys. These give the brothers a convincing military shipment to take. Rauk also carries **Weavebreaker** among his materials; form, quantity, source, and effect remain open. Existing [Just notes](order-of-the-just-wip.md#weavebreaker-mlčoun--severite) describe it as a metal, also called Mlčoun / Severite.
 
 The brothers kill Varek after questioning him and taking his key, eliminating a witness. He deliberately directs them to Rauk’s equipment, and the concealed bank lot remains aboard. Player intervention can change this outcome; track the sensitive lot’s actual location separately from Matěj’s belief. Portable valuables can be stolen in addition to the supposed weapon, leaving bulk grain.
 

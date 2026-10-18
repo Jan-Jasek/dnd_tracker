@@ -2,7 +2,7 @@
 id: character.the-judge
 type: character
 status: canon
-universe: veiling
+universe: weaving
 plane: eloran
 location: place.orestor
 org: organisation.borici
@@ -31,7 +31,7 @@ He believes in democracy and considers destructive revolution necessary to remov
 
 ## Hidden Relationships
 
-**[[People/Ilrusk|Rewyn Ilrusk]], the Weaver**, is his Veil teacher and secret patron. The Judge believes their shared purpose is his revolution. Ilrusk cultivates the movement as one of several means to keep control of Orestor.
+**[[People/Ilrusk|Rewyn Ilrusk]], the Weaver**, is his Weave teacher and secret patron. The Judge believes their shared purpose is his revolution. Ilrusk cultivates the movement as one of several means to keep control of Orestor.
 
 Ilrusk connects to the Bořiči leadership through the Judge alone. Ordinary members can identify different prominent members as the Weaver, or believe the Judge and Weaver are the same figure. The Judge's knowledge of his teacher's ancient identity and the other leaders' exact knowledge remain open.
 

@@ -3,7 +3,7 @@ id: place.gutberg
 type: location
 status: canon
 plane: eloran
-universe: veiling
+universe: weaving
 region: eloran-continent
 source_evidence:
   - data/Eloran/History/Timeline.md

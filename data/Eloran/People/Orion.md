@@ -2,7 +2,7 @@
 id: character.orion
 type: character
 status: canon
-universe: veiling
+universe: weaving
 plane: eloran
 location: place.ellesmere-depths
 org: organisation.order-of-maegi
@@ -12,7 +12,7 @@ org: organisation.order-of-maegi
 
 > Part of: [[Eloran]] | [[Organisations/Order of Maegi]] | [[Organisations/Apostolic Church of Orion]] | See also: [[Cosmology]]
 
-A mortal born during the Age of Darkness — when the tainted Veil was destroying civilizations and pre-Sundering beings like Erathon dominated the continent. Rose to become the most powerful Veil-wielder in recorded history. Founded Orestor. Bound Erathon. Merged with him in the Ellesmere rift — not the ending he meant.
+A mortal born during the Age of Darkness — when the tainted Weave was destroying civilizations and pre-Sundering beings like Erathon dominated the continent. Rose to become the most powerful Weave-wielder in recorded history. Founded Orestor. Bound Erathon. Merged with him in the Ellesmere rift — not the ending he meant.
 
 Whether he was savior or monster in intent is still the argument. His body is not walking.
 
@@ -20,7 +20,7 @@ Whether he was savior or monster in intent is still the argument. His body is no
 
 ## Public Belief
 
-The Church of Orion teaches that Orion was the Saint and Martyr who saved the world from Erathon's corruption. He sealed the demon, gave his life closing the Paths, and left behind the Order of Maegi — though the Church teaches that even the Art was a curse, and that Orion's true legacy was the _suppression_ of the Veil that protects humanity.
+The Church of Orion teaches that Orion was the Saint and Martyr who saved the world from Erathon's corruption. He sealed the demon, gave his life closing the Paths, and left behind the Order of Maegi — though the Church teaches that even the Art was a curse, and that Orion's true legacy was the _suppression_ of the Weave that protects humanity.
 
 ## Hidden Truth
 
@@ -32,9 +32,9 @@ Whether the disciples were heroes who stopped a man trying to consume the world,
 
 ## The Art — Orion's Framework
 
-Before Orion, others had tried to wield the tainted Veil and produced unstable, divergent results — practitioners with real power but uncontrolled forms. These earlier lineages persist (blood mages and others); they are not lesser, just structurally incomplete. In **[[Places/Orestor|Orestor]]** an ancient being he made while shaping the Veil — **[[People/Selith]]** — walks at night looking like him and marks **Heralds**. They believe Orion has returned to **save us** and **cleanse sinners**.
+Before Orion, others had tried to wield the tainted Weave and produced unstable, divergent results — practitioners with real power but uncontrolled forms. These earlier lineages persist (blood mages and others); they are not lesser, just structurally incomplete. In **[[Places/Orestor|Orestor]]** an ancient being he made while shaping the Weave — **[[People/Selith]]** — walks at night looking like him and marks **Heralds**. They believe Orion has returned to **save us** and **cleanse sinners**.
 
-Orion's final and most complete framework was the Art: the Veil structured as **ten distinct powers**. He mastered all ten. He gifted nine to his inner disciples — one each. He kept the tenth.
+Orion's final and most complete framework was the Art: the Weave structured as **ten distinct powers**. He mastered all ten. He gifted nine to his inner disciples — one each. He kept the tenth.
 
 The tenth power was tied to the **10th seal** — the final ritual that would have permanently sealed Eloran from the Paths in some controlled way (not a simple closure). He never taught it to anyone.
 
@@ -52,7 +52,7 @@ Orion and his nine inner disciples performed the nine seals at that rift. Eratho
 
 Orion's longer plan was to use the seals a second time — combined with the 10th — to permanently seal Eloran from the Paths. The disciples agreed, then betrayed him mid-working and tried to kill him.
 
-Unable to complete the working as designed, Orion **sacrificed his own Veil** to force through the 10th seal alone. The result was imperfect: Eloran cut off, the Veil draining, the world beginning to die.
+Unable to complete the working as designed, Orion **sacrificed his own Weave** to force through the 10th seal alone. The result was imperfect: Eloran cut off, the Weave draining, the world beginning to die.
 
 **What happened to him:** he died into the seal. He **merged with Erathon** inside the rift — not what he wanted, not what he expected. Some of the nine may have been pulled in with them; those essences were destroyed by the two of them.
 
@@ -70,7 +70,7 @@ After Orion's death, the Maegi did not just construct a cover-up. They **launche
 
 ## Aftermath — The Cover-Up
 
-The nine disciples survived. They returned to a world that had begun to wither and faced two problems: explain what happened, and eliminate anyone who could contradict their story. Their answer was the **[[Organisations/Apostolic Church of Orion|Apostolic Church of Orion]]** — Orionists worshipping the saint-and-martyr myth while mages governed in secret — and a generational crusade against rival Veil-wielders.
+The nine disciples survived. They returned to a world that had begun to wither and faced two problems: explain what happened, and eliminate anyone who could contradict their story. Their answer was the **[[Organisations/Apostolic Church of Orion|Apostolic Church of Orion]]** — Orionists worshipping the saint-and-martyr myth while mages governed in secret — and a generational crusade against rival Weave-wielders.
 
 The church grew beyond its founders. Ilrusk co-founded the **[[Organisations/Order of the Just|Order of the Just]]** and gave them **Severite** / **Mlčoun**. pre-PS ~155 the Order overthrew mage control of the hierarchy at Ellesmere — the **Just Age** (_Věk spravedlnosti_) — without suppressing Orionist faith. They turned on Maegi lineages, not parish devotion.
 
@@ -84,7 +84,7 @@ Other Maegi created in later generations — by the original disciples and their
 
 ## The Fragments
 
-**Orion's Seal** — ten seals combined into one unique, permanent working — held the rift in place along with Orion's and Erathon's essence. [[People/Jeod Isthar|Jeod]] destroyed it; exactly how is unknown. No one knows the tenth seal. The rift collapsed, and the essence the Seal held **crystallized** into fragments of pure Veil, **Orion and Erathon** together. See [[Cosmology#Seals and Breaches]].
+**Orion's Seal** — ten seals combined into one unique, permanent working — held the rift in place along with Orion's and Erathon's essence. [[People/Jeod Isthar|Jeod]] destroyed it; exactly how is unknown. No one knows the tenth seal. The rift collapsed, and the essence the Seal held **crystallized** into fragments of pure Weave, **Orion and Erathon** together. See [[Cosmology#Seals and Breaches]].
 
 A "shadow lord" in a fragment (e.g. **[[People/Birger Aderen|Birger Aderen]]**'s) is that mix, not a disciple. Ilrusk hunts them for reasons that are not Konrad's.
 

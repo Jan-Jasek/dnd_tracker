@@ -3,7 +3,7 @@ id: faction.vilmar
 type: faction
 status: canon
 plane: eloran
-universe: veiling
+universe: weaving
 source_evidence:
   - imports/onenote/extracted/dra-nezavislost-one-on-26-04-2026.md
   - data/Eloran/Campaigns/Dragon Independence.md
@@ -25,7 +25,7 @@ Imperial military careers on this frontier are common (e.g. **Captain Henry Von 
 
 Separate theater — Vilmar projects power by sea:
 
-- **Hilua** (_Hilua_) — century-old blood mage and agent of Saybar in the body of a bloodless girl of about thirteen. Sent to weaken the **[[Factions/Triple Coalition|Triple Coalition]]** and break the Triskal truce so Vilmar could seize **[[Places/Ansir|Ansir]]**. Led the ritual at Harry's mansion that inverted the first of Orion's seals to open a breach in the Veil and imbue Harry. Died in the ritual's collapse.
+- **Hilua** (_Hilua_) — century-old blood mage and agent of Saybar in the body of a bloodless girl of about thirteen. Sent to weaken the **[[Factions/Triple Coalition|Triple Coalition]]** and break the Triskal truce so Vilmar could seize **[[Places/Ansir|Ansir]]**. Led the ritual at Harry's mansion that inverted the first of Orion's seals to open a breach in the Weave and imbue Harry. Died in the ritual's collapse.
 - **Marie von Telten** (_Marie Teltenová_) — Meredian-born wife of Captain Henry Von Telten and a **Požehnaná**, made by Saybar while Telten served on the Sultanate border. She planned the islands operation with Hilua. After the wave she vanished with Telten's children and let him believe them dead, then lived in Saltmarsh under a false name as a refugee widow and assistant to the physician Xendra. When the plot unravelled she staged an abduction, framed Xendra with letters signed "X", and fled east into the Ganner Mountains with the children and with Xendra.
 - **A Požehnaný aboard the _Sea Ghost_** (name to be given) — brought Telten the first "X" letter, forced him into smuggling the weapons, and stayed aboard so he could not search for his family. Escaped when the ship was taken.
 

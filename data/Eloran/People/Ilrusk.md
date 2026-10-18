@@ -3,7 +3,7 @@ id: character.ilrusk
 type: character
 status: canon
 plane: eloran
-universe: veiling
+universe: weaving
 org: organisation.order-of-maegi
 aliases:
   - Antonín
@@ -52,7 +52,7 @@ After Orion and the nine fell, Ilrusk set out to finish his master's work in his
 
 As **the Weaver**, Ilrusk secretly cultivates **[[Organisations/Bořiči]]** as another means to retain control of Orestor. He diversifies his influence across civic institutions, the underground, and the revolutionary movement.
 
-**[[People/The Judge|The Judge]]**, an Orestor magistrate and revolutionary leader, is his Veil disciple and secret political intermediary. The Judge believes their shared purpose is bringing about his revolution. Ilrusk uses the Great Change to introduce democracy and remove the Imperial bank's leverage while preserving his own influence over the city. Republican borrowing to fund separation creates a route for financial dependence on [[Organisations/Brauer & Hess]] and its Imperial interests.
+**[[People/The Judge|The Judge]]**, an Orestor magistrate and revolutionary leader, is his Weave disciple and secret political intermediary. The Judge believes their shared purpose is bringing about his revolution. Ilrusk uses the Great Change to introduce democracy and remove the Imperial bank's leverage while preserving his own influence over the city. Republican borrowing to fund separation creates a route for financial dependence on [[Organisations/Brauer & Hess]] and its Imperial interests.
 
 Ilrusk connects to Bořiči through the Judge alone. Lower-ranking members hear of the Weaver but may identify different prominent members with that title or confuse him with the Judge. The other leaders' knowledge and the Judge's understanding of Ilrusk's ancient identity remain open.
 

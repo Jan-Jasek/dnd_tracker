@@ -3,7 +3,7 @@ id: place.nelbar
 type: location
 status: canon
 plane: eloran
-universe: veiling
+universe: weaving
 region: united-empire
 source_evidence:
   - imports/onenote/extracted/lore-one-on-01-03-2023.md

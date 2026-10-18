@@ -2,7 +2,7 @@
 id: idea.order-of-the-just-wip
 type: idea
 status: draft
-universe: veiling
+universe: weaving
 plane: eloran
 promotion_target:
   - organisation.order-of-the-just
@@ -17,7 +17,7 @@ source_evidence:
 
 # Řád Spravedlivých — working thoughts (WIP)
 
-> **Not canon.** Brainstorm pro hlubší vrstvy řádu, Tillibora, Veilbreaker a podzemí Ellesmere. Veřejná doktrína v `data/Eloran/Organisations/Order of the Just.md` zůstává platná; tento soubor rozšiřuje **tajemství instituce** a **otevřené otázky**.
+> **Not canon.** Brainstorm pro hlubší vrstvy řádu, Tillibora, Weavebreaker a podzemí Ellesmere. Veřejná doktrína v `data/Eloran/Organisations/Order of the Just.md` zůstává platná; tento soubor rozšiřuje **tajemství instituce** a **otevřené otázky**.
 
 ## Spark
 
@@ -27,21 +27,21 @@ Tillibor a Orionův hněv = temnější větev, která po Roztříštění zjist
 
 ## Tři vrstvy pravdy
 
-| Vrstva                        | Kdo to zná                                          | Obsah                                                                                                                                                                       |
-| ----------------------------- | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Veřejná doktrína**          | Každý templář, věřící, státy                        | Magie = zločin; Mlčoun jako nástroj potlačení; pomalé chřadnutí světa = cena Orionovy pečeti; **pravidla jsou svatá a striktní**                                            |
-| **Institucionální tajemství** | Arcitempláři, rada Marble Fortress, Hammer of Orion | V **hlubinách Ellesmere** ~150 let drželi zajaté Maegi — oslepení, zkrocení **Veilbreakerem** (Mlčoun jako okovy, ne jen čepel); loutky na experimenty a **čerpání** Závoje |
-| **Zakladatelská lež**         | Nejnižší kruh „První rukavice“                      | Oficiální legenda o založení řádu je **úmyslně zkreslená**; pravda o Ilruskovi, Mlčounu a identitě nejvyššího představeného                                                 |
+| Vrstva                        | Kdo to zná                                          | Obsah                                                                                                                                                                         |
+| ----------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Veřejná doktrína**          | Každý templář, věřící, státy                        | Magie = zločin; Mlčoun jako nástroj potlačení; pomalé chřadnutí světa = cena Orionovy pečeti; **pravidla jsou svatá a striktní**                                              |
+| **Institucionální tajemství** | Arcitempláři, rada Marble Fortress, Hammer of Orion | V **hlubinách Ellesmere** ~150 let drželi zajaté Maegi — oslepení, zkrocení **Weavebreakerem** (Mlčoun jako okovy, ne jen čepel); loutky na experimenty a **čerpání** Přediva |
+| **Zakladatelská lež**         | Nejnižší kruh „První rukavice“                      | Oficiální legenda o založení řádu je **úmyslně zkreslená**; pravda o Ilruskovi, Mlčounu a identitě nejvyššího představeného                                                   |
 
 **Důležité:** vrstva 1 není falešná propaganda pro řadové bratry. Nenávist k magii a kodex jsou skutečné. Pokrytectví začíná tam, kde vedení ví o vrstvě 2–3 a před veřejností (i před vlastními nižšími patry) hraje vrstvu 1.
 
-## Veilbreaker (Mlčoun / Severite)
+## Weavebreaker (Mlčoun / Severite)
 
 Jeden kov, dvě jména, tři použití:
 
 | Funkce       | Efekt                                  | Kdo to zná    |
 | ------------ | -------------------------------------- | ------------- |
-| **Zbraň**    | přeruší kanál Závoje                   | každý templář |
+| **Zbraň**    | přeruší kanál Přediva                  | každý templář |
 | **Okovy**    | dlouhodobé umlčení bez smrti           | vyšší patra   |
 | **Čerpadlo** | z vězně se bere život / síla / „mládí“ | nejvyšší kruh |
 
@@ -60,7 +60,7 @@ Import (Sir Hans): mágové, kteří uprchli po zničení města, byli **vězně
 WIP rozšíření:
 
 - Vězení **pod Mramorovou pevností / v hlubinách** — stejná osa jako Orionova vazba a Erathonův krystal
-- Zajatci: převážně **Maegi** (ne pouhí čarodějové); oslepení, okovaní Veilbreakerem, poslušné loutky
+- Zajatci: převážně **Maegi** (ne pouhí čarodějové); oslepení, okovaní Weavebreakerem, poslušné loutky
 - Po **Roztříštění (PS 0):** kolik přežilo? utekli? probudilo se něco pod nimi? — otevřená hrozba PS 1
 
 Souvislost s `place.ellesmere-depths` — zatím jen Orion/Erathon; tento koncept přidává **templářské vězení** jako druhou vrstvu podzemí.

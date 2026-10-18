@@ -3,7 +3,7 @@ id: character.benedikt
 type: character
 status: canon
 plane: eloran
-universe: veiling
+universe: weaving
 location: place.orestor
 org: organisation.order-of-the-just
 campaigns:
@@ -30,9 +30,9 @@ Parish voice of the Just Saint on the Konšelé. Old temple, old manners. He say
 
 The destruction of [[Places/Ellesmere|Ellesmere]] shattered the templars' confidence. Many fear divine punishment for the Order's abuse of power. Survivors suffer a wasting corruption, while magical creatures appear and gifts awaken among ordinary people.
 
-Benedikt faces repeated interventions by men using old methods against an abundance of Veil they cannot meaningfully distinguish. He doubts that these actions fulfil the Order's purpose. A report of sensed Veil alone is insufficient reason to treat every person or shipment as a threat. He can call off an investigation because its grounds are weak, its demands disproportionate, or more urgent needs require his men.
+Benedikt faces repeated interventions by men using old methods against an abundance of Weave they cannot meaningfully distinguish. He doubts that these actions fulfil the Order's purpose. A report of sensed Weave alone is insufficient reason to treat every person or shipment as a threat. He can call off an investigation because its grounds are weak, its demands disproportionate, or more urgent needs require his men.
 
-How the templars detect Veil, and what establishes a concrete danger, remain open. The proposed ship intervention and favor are [campaign preparation](../../../ideas/eloran/orestor-opening-job.md).
+How the templars detect Weave, and what establishes a concrete danger, remain open. The proposed ship intervention and favor are [campaign preparation](../../../ideas/eloran/orestor-opening-job.md).
 
 ## Wants
 

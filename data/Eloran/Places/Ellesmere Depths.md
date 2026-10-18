@@ -3,7 +3,7 @@ id: place.ellesmere-depths
 type: location
 status: canon
 plane: eloran
-universe: veiling
+universe: weaving
 region: ellesmere-region
 parent: place.ellesmere
 source_evidence:

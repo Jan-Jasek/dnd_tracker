@@ -3,7 +3,7 @@ id: faction.united-empire
 type: faction
 status: canon
 plane: eloran
-universe: veiling
+universe: weaving
 source_evidence:
   - imports/onenote/extracted/lore-one-on-01-03-2023.md
   - data/Eloran/History/Timeline.md

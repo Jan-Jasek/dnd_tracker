@@ -3,7 +3,7 @@ id: place.orestor
 type: location
 status: canon
 plane: eloran
-universe: veiling
+universe: weaving
 region: eloran-continent
 source_evidence:
   - imports/onenote/extracted/orestor-one-on-01-03-2023.md

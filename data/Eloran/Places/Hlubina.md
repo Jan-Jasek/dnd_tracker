@@ -3,7 +3,7 @@ id: place.hlubina
 type: location
 status: canon
 plane: eloran
-universe: veiling
+universe: weaving
 region: ellesmere-region
 source_evidence:
   - imports/onenote/extracted/meredie-one-on-01-03-2023.md

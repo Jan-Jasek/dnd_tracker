@@ -3,7 +3,7 @@ id: history.eloran.timeline
 type: timeline
 status: canon
 plane: eloran
-universe: veiling
+universe: weaving
 source_evidence:
   - imports/onenote/extracted/lore-one-on-01-03-2023.md
   - imports/onenote/extracted/orestor-one-on-01-03-2023.md
@@ -14,7 +14,7 @@ source_evidence:
 
 > Part of: [[Eloran]] | See also: [[Cosmology]] for universe-scale history
 
-This file is the **Eloran plane chronology** — ages, wars, and campaign events. Universe history (the Accord, the Sundering, pre-Sundering beings) lives in [[Cosmology]] and [[Veiling]].
+This file is the **Eloran plane chronology** — ages, wars, and campaign events. Universe history (the Accord, the Sundering, pre-Sundering beings) lives in [[Cosmology]] and [[Weaving]].
 
 **Campaign-era anchors** span **PS 0–PS 2**. Campaigns sit in approximate seasonal/month windows; relative timing is canon, not exact calendar dates.
 
@@ -38,7 +38,7 @@ This file is the **Eloran plane chronology** — ages, wars, and campaign events
 
 Deep world ages still use approximate **pre-PS** spans (e.g. pre-PS ~5,000 for Orion's rise). Calibrate within ranges.
 
-**Other aliases** (same event, not alternate calendars): _Katastrofa_ (Meredian grief, pre-dates formal _Roztříštění_ usage), _the Convergence_ / _Konvergence_ (Maegi — Veil and Paths stirring). Imperial scare-preachers may say _cataclysm_, but that risks confusion with the **Sundering** at universe scale.
+**Other aliases** (same event, not alternate calendars): _Katastrofa_ (Meredian grief, pre-dates formal _Roztříštění_ usage), _the Convergence_ / _Konvergence_ (Maegi — Weave and Paths stirring). Imperial scare-preachers may say _cataclysm_, but that risks confusion with the **Sundering** at universe scale.
 
 ---
 
@@ -48,27 +48,27 @@ Two scales nest inside each other:
 
 | Scale            | File                       | What it tracks                             |
 | ---------------- | -------------------------- | ------------------------------------------ |
-| **Universe**     | [[Cosmology]], [[Veiling]] | The Veil, the Paths, all planes            |
+| **Universe**     | [[Cosmology]], [[Weaving]] | The Weave, the Paths, all planes           |
 | **Eloran plane** | This file                  | Wars, nations, magic on the material world |
 
 ### Universe Ages
 
-| Age                | Character                                                                        |
-| ------------------ | -------------------------------------------------------------------------------- |
-| **The Accord**     | Veil unified; Paths open; pre-Sundering beings connected, not yet hungry         |
-| **The Sundering**  | Cataclysm; Veil shatters; Paths break; Eloran and the Fey plane severed together |
-| _(post-Sundering)_ | Isolated pockets; beings grow hungry in their traps — see [[Cosmology]]          |
+| Age                | Character                                                                         |
+| ------------------ | --------------------------------------------------------------------------------- |
+| **The Accord**     | Weave unified; Paths open; pre-Sundering beings connected, not yet hungry         |
+| **The Sundering**  | Cataclysm; Weave shatters; Paths break; Eloran and the Fey plane severed together |
+| _(post-Sundering)_ | Isolated pockets; beings grow hungry in their traps — see [[Cosmology]]           |
 
 ### Eloran Ages
 
-| Age                                 | Approx. span              | Character                                                                                             |
-| ----------------------------------- | ------------------------- | ----------------------------------------------------------------------------------------------------- |
-| **Age of Harmony** (_Věk harmonie_) | Creation → Sundering      | Peak civilizations; Veil flows freely; dates unknown                                                  |
-| **Age of Darkness** (_Věk temnoty_) | Sundering → pre-PS ~5,000 | Erathon feeds on Eloran; tainted Veil corrupts wielders; civilizations rise and collapse in cycles    |
-| **Age of Orion** (_Orionův věk_)    | pre-PS ~5,000 → ~2,000    | Orion perfects the Art; binds Erathon; founds Orestor; disciples survive                              |
-| **Age of Salvation** (_Věk spásy_)  | pre-PS ~2,000 → ~155      | Apostolic Church era; imperfect seal drains the Veil; crusade against rival lineages                  |
-| **Just Age** (_Věk spravedlnosti_)  | pre-PS ~155 → PS 0        | Order of the Just rules; Ellesmere culling; mage church overthrown; Orionist worship continues        |
-| **Age of Fragments** (_Věk úlomků_) | PS 0 → present            | Jeod destroys Orion's Seal; Veil surges back; Erathon shards scatter; old powers and creatures awaken |
+| Age                                 | Approx. span              | Character                                                                                              |
+| ----------------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Age of Harmony** (_Věk harmonie_) | Creation → Sundering      | Peak civilizations; Weave flows freely; dates unknown                                                  |
+| **Age of Darkness** (_Věk temnoty_) | Sundering → pre-PS ~5,000 | Erathon feeds on Eloran; tainted Weave corrupts wielders; civilizations rise and collapse in cycles    |
+| **Age of Orion** (_Orionův věk_)    | pre-PS ~5,000 → ~2,000    | Orion perfects the Art; binds Erathon; founds Orestor; disciples survive                               |
+| **Age of Salvation** (_Věk spásy_)  | pre-PS ~2,000 → ~155      | Apostolic Church era; imperfect seal drains the Weave; crusade against rival lineages                  |
+| **Just Age** (_Věk spravedlnosti_)  | pre-PS ~155 → PS 0        | Order of the Just rules; Ellesmere culling; mage church overthrown; Orionist worship continues         |
+| **Age of Fragments** (_Věk úlomků_) | PS 0 → present            | Jeod destroys Orion's Seal; Weave surges back; Erathon shards scatter; old powers and creatures awaken |
 
 ### Present Era Beats (within Age of Fragments)
 
@@ -86,15 +86,15 @@ Two scales nest inside each other:
 
 ### Age of Harmony — Creation to Sundering
 
-Eloran's first named era. Civilizations reach their peak while the Veil flows freely through the Paths. No reliable calendar survives; treat all dates as mythic order, not arithmetic.
+Eloran's first named era. Civilizations reach their peak while the Weave flows freely through the Paths. No reliable calendar survives; treat all dates as mythic order, not arithmetic.
 
 The **Accord** at universe scale and the **Age of Harmony** on Eloran describe the same pre-Sundering world from different scopes — see [[Cosmology]].
 
 ### pre-PS ~5,000 — Age of Darkness → Orion's Rise
 
-The Veil on Eloran is tainted following the Sundering. Pre-Sundering beings (Erathon chief among them) feed on it. Veil users become corrupted and hungry for power. Civilizations are built and destroyed in cycles of war.
+The Weave on Eloran is tainted following the Sundering. Pre-Sundering beings (Erathon chief among them) feed on it. Weave users become corrupted and hungry for power. Civilizations are built and destroyed in cycles of war.
 
-**Orion rises.** A mortal born in this era. Develops the Art through multiple attempts — earlier frameworks produce other Veil lineages (blood mages and others) before he achieves the complete ten-power structure. Founds Orestor (Prastaré město — the Ancient City). See [[People/Orion]].
+**Orion rises.** A mortal born in this era. Develops the Art through multiple attempts — earlier frameworks produce other Weave lineages (blood mages and others) before he achieves the complete ten-power structure. Founds Orestor (Prastaré město — the Ancient City). See [[People/Orion]].
 
 **The Binding of Erathon.** Orion chooses Ellesmere for Path-access. He and the nine bind Erathon into a **floating rift**. Their students are not in the chamber. A fortress is raised around the rift.
 
@@ -108,7 +108,7 @@ The Order of Maegi continues to grow through later generations of blood-ritual c
 
 ### The Long Depletion (~2,000 years)
 
-With Eloran's Paths sealed and the Veil unable to replenish, magic slowly fades. Species wither. Civilizations that once practiced the Art lose access to it. The process takes thousands of years.
+With Eloran's Paths sealed and the Weave unable to replenish, magic slowly fades. Species wither. Civilizations that once practiced the Art lose access to it. The process takes thousands of years.
 
 The Apostolic Church grows autonomous — mage-governed in secret. The **Order of the Just** (_Řád Spravedlivých_), co-founded by Ilrusk and equipped with **Severite / Mlčoun**, grows into the force that will overthrow mage control of the church hierarchy.
 
@@ -130,11 +130,11 @@ The culling marks the templar coup and ends the **Age of Salvation**. The **Just
 
 ### PS 0 — The Shattering (Age of Fragments begins)
 
-[[People/Jeod Isthar|Jeod Isthar]] destroys Orion's Seal, which holds the rift. He means to restore the Veil. He knows the Marble Fortress will blow. He does not know the rift will collapse. He does not expect the scale. He does not care. The essence it held crystallizes into fragments of Orion and Erathon. Ellesmere is leveled. Jeod survives.
+[[People/Jeod Isthar|Jeod Isthar]] destroys Orion's Seal, which holds the rift. He means to restore the Weave. He knows the Marble Fortress will blow. He does not know the rift will collapse. He does not expect the scale. He does not care. The essence it held crystallizes into fragments of Orion and Erathon. Ellesmere is leveled. Jeod survives.
 
 The catastrophe shifts the land and seabed. A great earthquake sends a tsunami against exposed eastern shores of the continent and across the Dragon Archipelago to its far eastern islands. Many coastal ships are destroyed. Vessels sheltered farther upriver or in protected waters have better chances of surviving; the actual damage depends on local geography. Trade and shipping remain disrupted long afterward.
 
-**Veil resurgence:** Magic strengthens worldwide. Forgotten creatures awaken — orcs, dryads, gith bands, and others press borders that had been quiet for centuries. The Templars of the Just reform under Branon Vznešený; magic becomes registered and tolerated under supervision in some states, hunted in others.
+**Weave resurgence:** Magic strengthens worldwide. Forgotten creatures awaken — orcs, dryads, gith bands, and others press borders that had been quiet for centuries. The Templars of the Just reform under Branon Vznešený; magic becomes registered and tolerated under supervision in some states, hunted in others.
 
 **Aftermath in Orestor:** survivors of [[Places/Ellesmere|Ellesmere]] suffer wasting corruption. Many [[Organisations/Order of the Just|templars]] fear divine punishment for their abuses as magic awakens among ordinary people. [[People/Benedikt|Benedikt]] seeks adaptation; Lucian Tillibor leads [[Organisations/Orion's Wrath|Hněv]] toward escalating persecution. By PS 2 the local templars are divided roughly evenly, with Hněv gaining ground.
 
@@ -193,7 +193,7 @@ The third Imperial attempt to take **Meredie** — independent since Bořivoj (p
 - The war ends without a clean victory for either side. **Meredie's** noble class is decimated, the royal line is effectively ended, and political power begins shifting toward merchant, criminal, and military networks.
 - At **[[Places/Orestor|Orestor]]**, Triskal massacres the Imperial eastern column, then negotiates a **protectorate** with the purkrabí. When the deal becomes known, monarchists seize the purkrabí and his family. Loyalists, republicans, refugees, and mediators force a city-republic compact rather than allowing the port to fall into another full-scale battle.
 - In the **Dragon Archipelago**, the battle at **Bezútěšný vršek** (_Bleak Hill_) is interrupted by the Shattering's tsunami. Survivors regroup at **Covel**. Triskal turns on its Imperial allies, **Torsten** dies, and the corsair forces retreat toward the Ansir peninsula.
-- The Veil surges back into Eloran. Forgotten creatures and hostile powers begin reappearing, and the first Erathon fragments begin finding hosts. Refugee streams move south and east from the ruined Ellesmere region.
+- The Weave surges back into Eloran. Forgotten creatures and hostile powers begin reappearing, and the first Erathon fragments begin finding hosts. Refugee streams move south and east from the ruined Ellesmere region.
 
 **Following weeks to months (late PS 0):**
 

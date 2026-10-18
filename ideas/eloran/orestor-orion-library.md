@@ -2,7 +2,7 @@
 id: idea.orestor-orion-library
 type: idea
 status: draft
-universe: veiling
+universe: weaving
 plane: eloran
 promotion_target:
   - place.orestor
@@ -23,12 +23,12 @@ Ilrusk is the library's **public librarian**: he receives scholars, rules on req
 
 ## Rooms and access
 
-| Area                | What is there                                                                                         | Who can use it                                                                                                                          |
-| ------------------- | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Public reading hall | Civic records, maps, copied sermons, practical treatises, and a staffed request desk.                 | Petitioners, scholars, clerks, and ordinary residents during posted hours.                                                              |
-| Copyists' gallery   | Collation tables, translators, repair benches, and ledgers of who requested which volume.             | Registered copyists and supervised visitors. The request ledger can become an investigative clue.                                       |
-| Sealed stacks       | Conflicting accounts of Orion, pre-Church sources, early Veil experiments, and censured commentaries. | Access by written license from both civic and Church custodians, or by an exceptional court or council order. Exact rules need setting. |
-| Deep store          | Originals too fragile or dangerous to handle and inventories whose omissions matter.                  | A very small custodial circle. What Ilrusk has removed, hidden, or altered remains open.                                                |
+| Area                | What is there                                                                                          | Who can use it                                                                                                                          |
+| ------------------- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Public reading hall | Civic records, maps, copied sermons, practical treatises, and a staffed request desk.                  | Petitioners, scholars, clerks, and ordinary residents during posted hours.                                                              |
+| Copyists' gallery   | Collation tables, translators, repair benches, and ledgers of who requested which volume.              | Registered copyists and supervised visitors. The request ledger can become an investigative clue.                                       |
+| Sealed stacks       | Conflicting accounts of Orion, pre-Church sources, early Weave experiments, and censured commentaries. | Access by written license from both civic and Church custodians, or by an exceptional court or council order. Exact rules need setting. |
+| Deep store          | Originals too fragile or dangerous to handle and inventories whose omissions matter.                   | A very small custodial circle. What Ilrusk has removed, hidden, or altered remains open.                                                |
 
 The library should answer **historical and legal questions**, not function as an oracle. A record can identify an old doctrine, a name, or a contradiction; it cannot automatically identify Bery's fragment, Selith's present host, or the powder aboard the ship. Useful research costs time, access, and interpretation. Those costs make a librarian, a copyist, a judge, or a smuggler relevant without making a single NPC hold the whole answer.
 

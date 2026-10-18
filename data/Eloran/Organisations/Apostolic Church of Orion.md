@@ -2,7 +2,7 @@
 id: organisation.apostolic-church-of-orion
 type: organisation
 status: canon
-universe: veiling
+universe: weaving
 plane: eloran
 source_evidence:
   - imports/onenote/extracted/lore-one-on-01-03-2023.md
@@ -22,14 +22,14 @@ The **founding church** — built by Orion's nine disciples immediately after th
 ## Public Doctrine
 
 - Orion confronted Erathon and sacrificed himself to seal the corruption
-- The Veil is dangerous; only the Saint's sacrifice keeps the world safe
+- The Weave is dangerous; only the Saint's sacrifice keeps the world safe
 - The Apostolic succession runs from Orion's nine disciples — the "bereaved apostles"
 
 ## Hidden Truth
 
 A cover-up from day one. The disciples betrayed Orion during the sealing ritual and needed a religion that made their version of events the only acceptable one.
 
-For the **Age of Salvation** (_Věk spásy_, pre-PS ~2,000 → ~155), this church was the continental faith — secretly steered by Veil-wielders who knew the truth. It launched the crusade against rival lineages (see _Krvavá válka druidů_ in legend).
+For the **Age of Salvation** (_Věk spásy_, pre-PS ~2,000 → ~155), this church was the continental faith — secretly steered by Weave-wielders who knew the truth. It launched the crusade against rival lineages (see _Krvavá válka druidů_ in legend).
 
 ## Fall
 

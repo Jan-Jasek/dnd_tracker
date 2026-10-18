@@ -3,7 +3,7 @@ id: place.dragon-islands
 type: region
 status: canon
 plane: eloran
-universe: veiling
+universe: weaving
 aliases:
   - Dračí ostrovy
   - Dragon Isles
@@ -47,7 +47,7 @@ Seat of the **[[Factions/Triple Coalition|Triple Coalition]]** of Free Corsair R
 
 **Hidden truth:** the dark eyes are not a curse but a **blessing of the dragon god Ilimox**. In the age of legends the natives' ancestors mingled with his brood, and the dark-eyed carry that blood most strongly. They once ruled the islands. [[Organisations/Order of Maegi|Orion's mages]] sealed their power — with a seal on a sacred peak in the Ganner Mountains near Kanbar, which the natives are forbidden to enter — and the light-eyed took their place. The dark-eyed have been kept down ever since as servants too dangerous to free. The trait is recessive and every native carries it, so even two light-eyed parents can have a dark-eyed child. So much time has passed that only a few old seers remember why.
 
-Breaking that seal would return the dark-eyed their power as formidable Veil users. [[Factions/Vilmar|Vilmar]] offers itself as their ally: Hilua armed Aditya's resentful dark-eyed near Dras Wyn; Marie von Telten goes for the seal itself.
+Breaking that seal would return the dark-eyed their power as formidable Weave users. [[Factions/Vilmar|Vilmar]] offers itself as their ally: Hilua armed Aditya's resentful dark-eyed near Dras Wyn; Marie von Telten goes for the seal itself.
 
 ## Terrain and Threats
 

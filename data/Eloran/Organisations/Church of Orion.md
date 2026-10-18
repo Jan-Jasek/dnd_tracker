@@ -2,7 +2,7 @@
 id: organisation.church-of-orion
 type: organisation
 status: canon
-universe: veiling
+universe: weaving
 plane: eloran
 ---
 

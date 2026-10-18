@@ -3,7 +3,7 @@ id: character.aemon-whiteoak
 type: character
 status: canon
 plane: eloran
-universe: veiling
+universe: weaving
 location: place.hlubina
 source_evidence:
   - imports/onenote/extracted/meredie-one-on-01-03-2023.md

@@ -2,10 +2,10 @@
 id: idea.orestor-seal-fragments
 type: idea
 status: draft
-universe: veiling
+universe: weaving
 plane: eloran
 promotion_target:
-  - cosmology.veiling
+  - cosmology.weaving
   - campaign.orestor
 ---
 

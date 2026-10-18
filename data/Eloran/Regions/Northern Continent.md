@@ -3,7 +3,7 @@ id: region.northern-continent
 type: region
 status: canon
 plane: eloran
-universe: veiling
+universe: weaving
 ---
 
 # Northern Continent

@@ -3,7 +3,7 @@ id: place.darkenwold
 type: region
 status: draft
 plane: eloran
-universe: veiling
+universe: weaving
 region: dragon-islands
 aliases:
   - Temnohvozd

@@ -25,15 +25,15 @@ This repository is a source-of-truth workspace for a custom DND world, campaign 
 
 ## Setting Identity
 
-- **Universe:** Veiling — named for the Veil, the primal energy that flows through all planes via the Paths
-- **Material plane:** Eloran — largely sealed from the Veil since Orion's working; primary campaign setting
-- **Fey plane:** name TBD — dominated by Erathon; saturated with tainted Veil
+- **Universe:** Weaving (_Tkaní_) — the whole woven from the Weave, the primal energy that flows through all planes via the Paths
+- **Material plane:** Eloran — largely sealed from the Weave since Orion's working; primary campaign setting
+- **Fey plane:** name TBD — dominated by Erathon; saturated with tainted Weave
 - **Shadow plane:** The Hollow — a hollow reflection of Eloran, created as a byproduct of Erathon's attempted merger
-- **Primal energy:** the Veil — once unified across the Veiling; shattered by the Sundering into isolated, hungry pockets
-- **The Paths:** channels that carry Veil between planes; broken or corrupted since the Sundering
-- **The Accord:** the pre-Sundering era when the Veil flowed freely and the universe was harmonious
-- **The Sundering:** the cataclysm that shattered the Veil; cause unknown
-- **Erathon:** a pre-Sundering being, trapped in a pocket of Veil overlapping the Fey plane; imprisoned on Eloran by Orion; now fragmenting back into the world
+- **Primal energy:** the Weave (_Předivo_) — the underlying substance of all things; once unified across the Weaving; shattered by the Sundering into isolated, hungry pockets
+- **The Paths:** channels that carry Weave between planes; broken or corrupted since the Sundering
+- **The Accord:** the pre-Sundering era when the Weave flowed freely and the universe was harmonious
+- **The Sundering:** the cataclysm that shattered the Weave; cause unknown
+- **Erathon:** a pre-Sundering being, trapped in a pocket of Weave overlapping the Fey plane; imprisoned on Eloran by Orion; now fragmenting back into the world
 - See `data/Eloran/Cosmology.md` for the full cosmological account
 
 ## Universe Ontology
@@ -66,7 +66,7 @@ Timeline (also exists at Universe level and per-Plane level)
 - Use Markdown with YAML frontmatter for campaign content.
 - Every canon file must have `id`, `type`, `status`, and `universe` fields.
 - Plane-specific files must also have a `plane` field. Location files add `region`. People files add `faction` or `org` where applicable.
-- Prefer stable lowercase dotted IDs: `universe.veiling`, `plane.eloran`, `faction.triple-coalition`, `place.orestor`, `character.eirys`.
+- Prefer stable lowercase dotted IDs: `universe.weaving`, `plane.eloran`, `faction.triple-coalition`, `place.orestor`, `character.eirys`.
 - Preserve contradictions as notes instead of silently overwriting them.
 - Separate public belief, hidden truth, and contested interpretation when useful.
 - Favor playable consequences over encyclopedia prose.

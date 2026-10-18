@@ -2,7 +2,7 @@
 id: idea.drevolhota
 type: idea
 status: draft
-universe: veiling
+universe: weaving
 plane: eloran
 promotion_target: campaign.dragon-independence
 source_evidence:

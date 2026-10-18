@@ -2,7 +2,7 @@
 id: idea.orestor-fragment-commission
 type: idea
 status: draft
-universe: veiling
+universe: weaving
 plane: eloran
 promotion_target:
   - campaign.orestor
@@ -44,7 +44,7 @@ The representative places a metal box on the desk and opens it. A lining of **Se
 
 ## The containment box
 
-**Established lore:** **Severite** is the Imperial / Common name; **Mlčoun** is Meredic. It is a Veil-suppressing metal used for shackles, blades, and armor. See [[Organisations/Order of the Just#Severite / Mlčoun]].
+**Established lore:** **Severite** is the Imperial / Common name; **Mlčoun** is Meredic. It is a Weave-suppressing metal used for shackles, blades, and armor. See [[Organisations/Order of the Just#Severite / Mlčoun]].
 
 **Proposed prop:** a lockable metal case with a Severite lining and dense compressible foam that prevents the enclosed stone from shifting. Foam secures it mechanically; Severite is the proposed means of magical suppression. Supply a mundane transfer implement, such as tongs, so the no-touch instruction is actionable.
 

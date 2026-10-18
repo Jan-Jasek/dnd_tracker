@@ -3,7 +3,7 @@ id: place.lapiberg
 type: location
 status: canon
 plane: eloran
-universe: veiling
+universe: weaving
 region: eloran-continent
 source_evidence:
   - imports/onenote/extracted/lore-one-on-01-03-2023.md

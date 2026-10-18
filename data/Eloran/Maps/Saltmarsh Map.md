@@ -2,7 +2,7 @@
 id: asset.map-saltmarsh
 type: map-brief
 status: canon
-universe: veiling
+universe: weaving
 plane: eloran
 location: place.saltmarsh
 ---

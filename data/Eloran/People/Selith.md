@@ -3,7 +3,7 @@ id: character.selith
 type: character
 status: canon
 plane: eloran
-universe: veiling
+universe: weaving
 location: place.orestor
 org: organisation.zvestovatele
 campaigns:
@@ -22,7 +22,7 @@ related:
 
 The marked call Selith **Orion**.
 
-An **ancient being** [[People/Orion|Orion]] made while shaping the Veil on Eloran — an attempt to create more Veil-users to help him secure the world.
+An **ancient being** [[People/Orion|Orion]] made while shaping the Weave on Eloran — an attempt to create more Weave-users to help him secure the world.
 
 By night it walks looking like Orion. It visits people, convinces them, marks them as **Heralds**. It has done this for some time. Slogans and ritual sites exist in the city.
 

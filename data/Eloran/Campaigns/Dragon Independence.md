@@ -4,7 +4,7 @@ type: campaign
 status: canon
 play_status: completed
 plane: eloran
-universe: veiling
+universe: weaving
 locations:
   - place.ansir
   - place.saltmarsh
@@ -20,7 +20,7 @@ campaign_window: "Act I PS 1 M10–M12; Acts II–III after PS 2 M03 (approx.)"
 
 # Dragon Independence
 
-> Part of: [[Eloran]] | [[Veiling]] | See also: [[Places/Ansir]], [[Factions/Triple Coalition]], [[People/Birger Aderen]], [[History/Timeline]]
+> Part of: [[Eloran]] | [[Weaving]] | See also: [[Places/Ansir]], [[Factions/Triple Coalition]], [[People/Birger Aderen]], [[History/Timeline]]
 
 **PS 1 M10–M12 — Act I played.** Autumn into winter of the first full year after the Shattering; Acts II–III follow after Orestor. Set in the Dragon Archipelago around Ansir, capital of the Free Corsair Republic.
 
@@ -101,7 +101,7 @@ Harry is ~60 years old in appearance but actually barely forty. Connected to Hed
 - Lair Action: AOE Blood Drain — CON 16 save; nearby enemies take 1d6 force damage, lose that much max HP; Harry heals for damage dealt + temporary HP.
 - Actions: 2× Attack (+10, 1d6+7). Close range: Blood Drain (CON 16, 2d6 force + heal) instead of one attack.
 
-**The breach in the family crypt** — Hilua inverted the first of Orion's seals (_obrácená pečeť_) to open a breach (_průlom_) and pour Veil into Harry: a moving pattern of blood and dust rotating on the floor. Interaction requires DC 15 CON save + 2d6 force damage; max HP reduced by damage taken.
+**The breach in the family crypt** — Hilua inverted the first of Orion's seals (_obrácená pečeť_) to open a breach (_průlom_) and pour Weave into Harry: a moving pattern of blood and dust rotating on the floor. Interaction requires DC 15 CON save + 2d6 force damage; max HP reduced by damage taken.
 
 **Outcome:** Ritual destroys Harry Mansion — one section of the estate levels, part of a nearby church is also destroyed. A scatter of coins and servant body parts. Hilua dies in the collapse.
 

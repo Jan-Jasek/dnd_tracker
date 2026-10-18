@@ -3,7 +3,7 @@ id: faction.valdie
 type: faction
 status: canon
 plane: eloran
-universe: veiling
+universe: weaving
 source_evidence:
   - imports/onenote/extracted/lore-one-on-01-03-2023.md
   - imports/onenote/extracted/dra-nezavislost-one-on-26-04-2026.md

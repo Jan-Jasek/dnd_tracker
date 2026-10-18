@@ -3,7 +3,7 @@ id: organisation.consultate
 type: organisation
 status: candidate
 plane: eloran
-universe: veiling
+universe: weaving
 locations:
   - place.orestor
 related:
