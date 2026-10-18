@@ -130,15 +130,13 @@ These are later follow-ups outside the Day 1 working scope. Discussion order is 
 ## Harry and the Ritual
 
 - What exactly is Harry? Possessed by something? Slowly transformed? A willing participant in the ritual?
-- What was the ritual in the family crypt attempting to do?
-- What is Orion's First Seal and who set it there?
 
 ## Act III / Endgame
 
 - What is Erathon's goal in reopening the Fey gate, and what does he gain from it?
 - How much agency does Erathon have while fragmented — is he directing the corruption, or spreading passively?
 - Does Birger Aderen's fragment make him a vessel/conduit for Erathon, or is he merely corrupted?
-- What exactly is Temnoles — a region, a curse, an entity?
+- What exactly is Darkenwold — a region, a curse, an entity?
 - What is the nature of the Fey gate?
 - What does Birger Aderen's shadow-lord fragment actually grant/cost him?
 
@@ -167,7 +165,7 @@ Orion **merged with Erathon** in the rift. Intent of the working is still argued
 ## Other Parties of Power (Pre-Orion / Contemporary)
 
 - **The Druids** — the _Krvavá válka druidů_ (Bloody War of the Druids) is in legend. May be a ripple effect of the Maegi crusade against rival powers after Orion's death.
-- **[[Places/Temnoles|Temnoles]]** (Dračí ostrovy) — hold a crypt of an old Maegi enemy. Identity, location specifics, and current threat status open.
+- **[[Places/Darkenwold|Darkenwold]]** (Dračí ostrovy) — hold a crypt of an old Maegi enemy. Identity, location specifics, and current threat status open.
 - **Earlier Veil lineages** — blood mages and others created by Orion's earlier framings. How many remain today, and where? Is **[[People/Selith]]** one of them?
 
 ## Apostolic Church & Order of the Just
@@ -210,20 +208,19 @@ Canon: the **seal** that held the rift broke off and **crystallized** — Orion 
 
 ## Geography
 
-- Proper name for the **southern continent** (_jižní kontinent_)
+- Proper names for the **Northern Continent** and the **Southern Continent** (_jižní kontinent_)
 - **Nelbar** — role, location, relation to Carleon
 
 ## Vilmar
 
-- How much does Vilmar actively pursue taking the Dragon Islands after Hilua's presumed death?
+- How much does Vilmar actively pursue taking the Dragon Islands after Hilua's death?
 - Where has Xendra fled, and who else in Saltmarsh worked for her? What became of Von Telten's family?
 - **Saltmarsh council** — to be rebuilt as a full roster. Gellan Primewater's place in it (possibly mayor) is undecided.
 - **Naming pass** — rename people across canon to match each state's cultural inspiration, replacing most English names: [[Factions/Meredie|Meredie]] Czech/Bohemian, Prussian, German, Dutch (Holy Roman Empire + Bohemia); [[Factions/Triskal|Triskal]] French, Italian, Spanish; [[Factions/United Empire|United Empire]] Roman/Byzantine; [[Factions/Vilmar|Vilmar]] Arabic/Persian-sounding (Saybar, Ab Nesir); [[Factions/Valdie|Valdie]] Scandinavian; the **Skeld Isles** British; Dragon Isles natives Eastern (Caribbean/Indonesian feel).
-- Is Hilua dead? Her body was seen regenerating in the mansion rubble.
-- **Gibešská poušť / Akbesi** — Sayid Azolar: folklore or real?
+- **Gibesh Desert / Akbesi** — Sayid Azolar: folklore or real?
 - Imperial–Vilmar naval balance on the southern continent
 
-## Dračí ostrovy — Indigenous
+## Dragon Islands — Indigenous
 
 - What is the "son of the spiritual leader" who took the sacred relics and what power does he have?
 - What are the specific sacred relics the indigenous people want recovered?

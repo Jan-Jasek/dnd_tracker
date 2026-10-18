@@ -30,11 +30,11 @@ player_doc: true
 
 The playable material plane has **two major landmasses** plus the **Dragon Archipelago** in the **Azure Sea**:
 
-| Landmass                                   | Powers                                                          | Campaign role                   |
-| ------------------------------------------ | --------------------------------------------------------------- | ------------------------------- |
-| **Eloran continent**                       | Empire, Meredie, Triskal, Valdie, Grundarmheld                  | Hlubina, Orestor, Meredian Wars |
-| **Southern continent** (_jižní kontinent_) | Empire vs **Vilmar** across the sea; **Gibešská poušť**, Akbesi | Border lore, necromancer rumors |
-| **Dragon Isles**                           | **Triple Coalition** (since PS 0)                               | Dragon Independence             |
+| Landmass                                               | Powers                                                         | Campaign role                   |
+| ------------------------------------------------------ | -------------------------------------------------------------- | ------------------------------- |
+| **[[Regions/Northern Continent\|Northern Continent]]** | Empire, Meredie, Triskal, Valdie, Grundarmheld                 | Hlubina, Orestor, Meredian Wars |
+| **Southern continent** (_jižní kontinent_)             | Empire vs **Vilmar** across the sea; **Gibesh Desert**, Akbesi | Border lore, necromancer rumors |
+| **Dragon Isles**                                       | **Triple Coalition** (since PS 0)                              | Dragon Independence             |
 
 Colonial activity on the archipelago is a phenomenon of the last few decades. Main campaign: **Dragon Isles**.
 
@@ -62,7 +62,7 @@ Key island hub: **[[Places/Ansir]]**.
 
 ### Indigenous Peoples
 
-- **Tauber tribes** — half wood-elf, half Vistani in feel. Light-eyed (higher social status) and dark-eyed variants. Speak their own Draconic dialect, minimal Common. Avoid colonizers; retreat toward [[Places/Temnoles|Temnoles]].
+- **Tauber tribes** — half wood-elf, half Vistani in feel. Light-eyed (higher social status) and dark-eyed variants. Speak their own Draconic dialect, minimal Common. Avoid colonizers; retreat toward [[Places/Darkenwold|Darkenwold]].
 - **Dragonborn** — inhabit inhospitable uncolonized coastline; frequent targets of southern slavers.
 - **Sanguine / Lizardfolk** — "Fishers"; withdrawn to southern swamps and waterways.
 

@@ -37,11 +37,21 @@ Sixty-year-old bounty hunter. Searching for a cure for his wife, he reached the 
 - **Xendra**, the Saltmarsh councilwoman, is a Vilmaran agent who escaped. Finding her is a natural opening for a former bounty hunter.
 - **Von Telten hires Alastor** to find her, privately. **Sněhobílý** has also put an official Republic bounty on her, so other hunters are on the trail.
 - **Xendra took Von Telten's wife and children** when she fled. The children cooperate better with their mother beside them. She may mean to use them in a further blood ritual.
+- **Seals and the reverse working.** Each protective working is a **seal**, and casting one is **sealing**. Orion combined ten seals into one unique creation, **Orion's Seal**, which held Erathon and himself in the depths of Ellesmere; Jeod destroyed it by reversing nine of its seals, as no one knows the tenth. An **inverted seal** (_obrácená pečeť_; in common speech a **breach**, _průlom_) opens a temporary, local tunnel through the barrier around Eloran so Veil energy can pass; an ordinary sealing then binds the breach so it stays local. Rituals use the pair often. Hilua used them in Harry's crypt.
+- **Energy for the ritual.** Very old lineages, which often carry demon blood from before Orion's days, or royal blood; many ordinary sacrifices; or the caster's own essence, at great cost to it. Hilua needed Harry for his old noble line.
+- **Fragments are pure Veil** — the essence of Erathon and Orion, perhaps of the disciples too. They are not pieces of a working and are not needed for the ritual.
+- **Saybar's blood mages are the Požehnaní** (the Blessed). He has made them for centuries; each is costly and hard to make. They feel empowered since the Shattering.
+- **Xendra and Matyáš.** Xendra knew exposure was coming once communications from Ansir stopped. Before the party could return, she sensed Matyáš's crystal and moved on him: that is the Saltmarsh incident. She does not know what the crystal is, only that it is powerful. Her plan does not depend on it.
+- **Vilmar's plans on the islands go on.** The weapon smuggling was only the beginning. Xendra goes to ground on the islands to carry the plan forward, with the dark-eyed Taubers Hilua armed, rather than fleeing home. Hilua is dead.
 - Whoever offers to make Alastor stronger in exchange for the fragment acts **in person**, not through [[Organisations/Brauer & Hess]]. Jeod's control of the world through the bank's debts stays hidden from the player for Orestor. Jeod travels by the Paths and is not in Orestor himself.
 
 ## Parked
 
-- **Xendra's goal now that she is exposed** — next decision. It decides what she wants the family for.
+- **The Saltmarsh incident in detail** — Xendra's failed grab for the crystal; who sickened, what rose, who saw it.
+- **The dark-eyed Taubers** — who they are, what their cursed blood is, and what Aditya wants.
+- **Sněhobílý as a target.** His royal Valdie blood makes him useful to Xendra.
+- **Why Alastor's change failed** — not because Eloran was sealed at the time; open.
+- **Build-up to Act II**: dragons, the necromancer, Finnigan, possibly Sibyla Fayen or another Maegi. Not all need appear in Alastor's adventure.
 - **The Saltmarsh incident** — what happened, who died or sickened.
 - **The new Saltmarsh council** — full roster; Gellan Primewater possibly mayor.
 - **Matyáš's history** — candidate: son of a Meredian fisherman among the early colonists.
@@ -52,6 +62,5 @@ Sixty-year-old bounty hunter. Searching for a cure for his wife, he reached the 
 - **Finnigan** (archdruid, outside Orion's history) — wounded by Isthar in old notes, wants to wake the blue dragon under Meros. Candidate rival or ally.
 - **Sibyla Fayen** — suggestion only: a mage who disappeared on the islands long ago and stopped caring about the outside world.
 - **Očistná vlna** — the tsunami cult; role in Saltmarsh, if any.
-- **Hilua** — presumed dead; her body was seen regenerating in the mansion rubble.
 - **Saltmarsh's political place** — the DM remembers Saltmarsh as where the Republic began and where Sněhobílý ([[People/Birger Aderen]]) charged the party; canon has Ansir as coalition capital.
 - **Sayid Azolar** — rumored at Akbesi; Ilrusk hates the name Azolar. Same being as Saybar, or a third party?

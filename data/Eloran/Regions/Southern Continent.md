@@ -11,20 +11,20 @@ source_evidence:
 
 # Southern Continent (jižní kontinent)
 
-> Part of: [[Eloran]] | See also: [[Factions/United Empire]], [[Factions/Vilmar]]
+> Part of: [[Eloran]] | See also: [[Regions/Northern Continent]], [[Factions/United Empire]], [[Factions/Vilmar]]
 
-Second major landmass of the material plane **Eloran** setting — distinct from the **Eloran continent** where Meredie, Triskal, Valdie, and the core Empire lie.
+Second major landmass of the material plane **Eloran** setting — distinct from the **Northern Continent** where Meredie, Triskal, Valdie, and the core Empire lie.
 
 ## Imperial–Vilmar Frontier
 
-The **[[Factions/United Empire|United Empire]]** and **[[Factions/Vilmar|Vilmar]]** (_Vilmarský sultanát_) border each other **across the sea** on this continent — not on the main Eloran landmass.
+The **[[Factions/United Empire|United Empire]]** and **[[Factions/Vilmar|Vilmar]]** (_Vilmarský sultanát_) border each other **across the sea** on this continent — not on the Northern Continent.
 
-- **[[Places/Gibešská poušť|Gibešská poušť]]** — desert region; Imperial holdings face Vilmar across maritime routes
+- **[[Places/Gibesh Desert|Gibesh Desert]]** — desert region; Imperial holdings face Vilmar across maritime routes
 - Imperial officers such as **Captain Henry Von Telten** served on the **southern Imperial border with the Sultanate** before Dragon Islands events
 
 ## Dragon Isles (separate)
 
-The **[[Places/Dračí ostrovy|Dragon Archipelago]]** sits in the **Azure Sea** — colonized from Eloran continental powers in recent decades; not part of this southern landmass.
+The **[[Places/Dragon Islands|Dragon Archipelago]]** sits in the **Azure Sea** — colonized from Northern Continent powers in recent decades; not part of this southern landmass.
 
 ## Open Questions
 

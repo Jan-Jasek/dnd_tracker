@@ -53,9 +53,17 @@ When Orion attempted the larger ritual to seal Eloran from the Paths, his discip
 
 The Church of Orion is the cover-up. Later Maegi were never told the rift existed.
 
-The **seal** held the rift in place. When [[People/Jeod Isthar|Jeod]] broke it, the rift collapsed. The seal **crystallized** into solid fragments of **Orion's and Erathon's soul and essence**.
+**Orion's Seal** held the rift in place. It was a unique working: ten seals combined into one permanent seal, a hovering black hollow in the depths of Ellesmere that held Orion's and Erathon's essence. When [[People/Jeod Isthar|Jeod]] destroyed it, the rift collapsed and the Seal shattered. The essence it held **crystallized** into solid fragments: pure Veil of **Orion and Erathon**, perhaps of some of the nine as well.
 
 See [[People/Orion]] for the full account.
+
+## Seals and Breaches
+
+A **seal** (_pečeť_) is a protective working that closes the barrier between Eloran and the Veil; casting one is **sealing**. Orion's Seal is the one unique creation built from ten of them.
+
+An **inverted seal** (_obrácená pečeť_) is a seal cast in reverse. It opens a temporary, local tunnel through the barrier through which Veil energy can pass. Common speech, witnesses, and templars call the result a **breach** (_průlom_). An ordinary sealing then binds the breach so it stays local. Blood rituals use the pair often. Each of the nine disciples and their lineages guarded their own seals; no one knows the tenth. Exactly how Jeod and those who helped him destroyed Orion's Seal at Ellesmere is unknown.
+
+Opening a breach takes enormous energy. Known sources are the blood of very old lineages, which often carry demon blood from before Orion's days, or royal blood; many ordinary sacrifices; or the caster's own essence, at the cost of a large part of it.
 
 ## The Slow Depletion
 
@@ -67,7 +75,7 @@ Over centuries the [[Organisations/Apostolic Church of Orion|Apostolic Church]] 
 
 ## Jeod Isthar and the Shattering
 
-[[People/Jeod Isthar|Jeod Isthar]] — a Maegi up to ~500 years old who witnessed the Templar rise and the Ellesmere culling, _not_ a founding-era Maegi — broke the Ellesmere seal at **PS 0** (**the Shattering**; _Roztříštění_ / _Rozštěpení_). Goal: restore the Veil. He knew the blast would take the Marble Fortress. He did not know the rift would collapse. He did not expect the scale. He did not care. Fragments of the broken seal — Orion and Erathon, solid — scattered. Jeod survived.
+[[People/Jeod Isthar|Jeod Isthar]] — a Maegi up to ~500 years old who witnessed the Templar rise and the Ellesmere culling, _not_ a founding-era Maegi — destroyed Orion's Seal at Ellesmere at **PS 0** (**the Shattering**; _Roztříštění_ / _Rozštěpení_). Goal: restore the Veil. He knew the blast would take the Marble Fortress. He did not know the rift would collapse. He did not expect the scale. He did not care. Fragments of the broken seal — Orion and Erathon, solid — scattered. Jeod survived.
 
 The collapse sent the Veil surging back into Eloran. Magical creatures appear and previously ordinary people awaken to magical abilities. Survivors of [[Places/Ellesmere|Ellesmere]] suffer a wasting corruption; the full nature and progression of that condition remain open.
 
@@ -75,13 +83,13 @@ See [[History/Timeline]] for the named world ages and campaign-era sequence.
 
 ## Current State
 
-| Layer                   | State                                                      |
-| ----------------------- | ---------------------------------------------------------- |
-| Veiling (universe)      | Fragmented; most Paths broken or corrupted                 |
-| Eloran (material plane) | Seal broken; Veil returning; Orion–Erathon fragments loose |
-| Fey plane               | Veil-saturated; dominated by Erathon's hunger              |
-| The Hollow              | Dead space; no Veil; Erathon uses it as a conduit          |
-| Pre-Sundering beings    | Many exist; locations and states unknown                   |
+| Layer                   | State                                                                 |
+| ----------------------- | --------------------------------------------------------------------- |
+| Veiling (universe)      | Fragmented; most Paths broken or corrupted                            |
+| Eloran (material plane) | Orion's Seal destroyed; Veil returning; Orion–Erathon fragments loose |
+| Fey plane               | Veil-saturated; dominated by Erathon's hunger                         |
+| The Hollow              | Dead space; no Veil; Erathon uses it as a conduit                     |
+| Pre-Sundering beings    | Many exist; locations and states unknown                              |
 
 ## Open Questions
 

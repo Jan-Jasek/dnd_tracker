@@ -15,7 +15,7 @@ source_evidence:
 
 French, Italian, and Spanish cultural inspiration. **Triskal** is the federation's common language; its coastal states have distinct local speech and naming traditions. A federation of small wealthy coastal and merchant states that **grouped as Triskal** when the **[[Factions/United Empire|United Empire]]** rose in the south. Before that the map here was ever-changing.
 
-Northern expansionist once federated. Ally of convenience with the Empire in the **Third Meredian War** — then betrayal at Orestor and Covel.
+Northern expansionist once federated. Ally of convenience with the Empire in the [[History/Timeline#The Third Meredian War|Third Meredian War]] — then betrayal at Orestor and Covel.
 
 The **Red River** is Triskal's west line: triple-border islands with Empire and Meredie, then the Triskal–Meredie stretch, then the **east bank of the delta** facing **[[Places/Orestor|Orestor]]**. That east-delta city is unnamed.
 

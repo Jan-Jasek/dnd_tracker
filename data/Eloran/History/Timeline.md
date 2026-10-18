@@ -20,7 +20,7 @@ This file is the **Eloran plane chronology** — ages, wars, and campaign events
 
 ### Dating Convention — PS (Post-Shattering)
 
-**The Shattering** — the night Ellesmere fell, the rift's holding seal broke, and fragments of Orion and Erathon scattered. Marks **PS 0** and opens the **Age of Fragments** (_Věk úlomků_).
+**The Shattering** — the night Ellesmere fell, Orion's Seal, which held the rift, was destroyed, and fragments of Orion and Erathon scattered. Marks **PS 0** and opens the **Age of Fragments** (_Věk úlomků_).
 
 **Czech:** _**Roztříštění**_ (chronicles, scholars — stresses fragments) or _**Rozštěpení**_ (common speech, sermons — shorter, more immediate). Both are canon; _Katastrofa_ survives as raw grief-talk, not the epoch name.
 
@@ -28,13 +28,13 @@ This file is the **Eloran plane chronology** — ages, wars, and campaign events
 
 **Month notation:** `M01`–`M12` are approximate calendar-month positions within a PS year. They are seasonal anchors, not exact dates and not a count of months since the Shattering.
 
-| Notation         | Meaning                                                                       |
-| ---------------- | ----------------------------------------------------------------------------- |
-| **PS 0**         | Year of the Shattering — seal broken, city destroyed, Third Meredian War ends |
-| **PS 1**         | First full year after the Shattering; Hlubina and Ansir campaign windows      |
-| **PS 2**         | Second year after the Shattering; Orestor campaign window                     |
-| **PS N M01–M12** | Approximate months within a Post-Shattering year                              |
-| **pre-PS (~N)**  | Roughly _N_ years before the Shattering                                       |
+| Notation         | Meaning                                                                                  |
+| ---------------- | ---------------------------------------------------------------------------------------- |
+| **PS 0**         | Year of the Shattering — Orion's Seal destroyed, city destroyed, Third Meredian War ends |
+| **PS 1**         | First full year after the Shattering; Hlubina and Ansir campaign windows                 |
+| **PS 2**         | Second year after the Shattering; Orestor campaign window                                |
+| **PS N M01–M12** | Approximate months within a Post-Shattering year                                         |
+| **pre-PS (~N)**  | Roughly _N_ years before the Shattering                                                  |
 
 Deep world ages still use approximate **pre-PS** spans (e.g. pre-PS ~5,000 for Orion's rise). Calibrate within ranges.
 
@@ -61,14 +61,14 @@ Two scales nest inside each other:
 
 ### Eloran Ages
 
-| Age                                 | Approx. span              | Character                                                                                          |
-| ----------------------------------- | ------------------------- | -------------------------------------------------------------------------------------------------- |
-| **Age of Harmony** (_Věk harmonie_) | Creation → Sundering      | Peak civilizations; Veil flows freely; dates unknown                                               |
-| **Age of Darkness** (_Věk temnoty_) | Sundering → pre-PS ~5,000 | Erathon feeds on Eloran; tainted Veil corrupts wielders; civilizations rise and collapse in cycles |
-| **Age of Orion** (_Orionův věk_)    | pre-PS ~5,000 → ~2,000    | Orion perfects the Art; binds Erathon; founds Orestor; disciples survive                           |
-| **Age of Salvation** (_Věk spásy_)  | pre-PS ~2,000 → ~155      | Apostolic Church era; imperfect seal drains the Veil; crusade against rival lineages               |
-| **Just Age** (_Věk spravedlnosti_)  | pre-PS ~155 → PS 0        | Order of the Just rules; Ellesmere culling; mage church overthrown; Orionist worship continues     |
-| **Age of Fragments** (_Věk úlomků_) | PS 0 → present            | Jeod breaks the seal; Veil surges back; Erathon shards scatter; old powers and creatures awaken    |
+| Age                                 | Approx. span              | Character                                                                                             |
+| ----------------------------------- | ------------------------- | ----------------------------------------------------------------------------------------------------- |
+| **Age of Harmony** (_Věk harmonie_) | Creation → Sundering      | Peak civilizations; Veil flows freely; dates unknown                                                  |
+| **Age of Darkness** (_Věk temnoty_) | Sundering → pre-PS ~5,000 | Erathon feeds on Eloran; tainted Veil corrupts wielders; civilizations rise and collapse in cycles    |
+| **Age of Orion** (_Orionův věk_)    | pre-PS ~5,000 → ~2,000    | Orion perfects the Art; binds Erathon; founds Orestor; disciples survive                              |
+| **Age of Salvation** (_Věk spásy_)  | pre-PS ~2,000 → ~155      | Apostolic Church era; imperfect seal drains the Veil; crusade against rival lineages                  |
+| **Just Age** (_Věk spravedlnosti_)  | pre-PS ~155 → PS 0        | Order of the Just rules; Ellesmere culling; mage church overthrown; Orionist worship continues        |
+| **Age of Fragments** (_Věk úlomků_) | PS 0 → present            | Jeod destroys Orion's Seal; Veil surges back; Erathon shards scatter; old powers and creatures awaken |
 
 ### Present Era Beats (within Age of Fragments)
 
@@ -130,7 +130,7 @@ The culling marks the templar coup and ends the **Age of Salvation**. The **Just
 
 ### PS 0 — The Shattering (Age of Fragments begins)
 
-[[People/Jeod Isthar|Jeod Isthar]] breaks the seal that holds the rift. He means to restore the Veil. He knows the Marble Fortress will blow. He does not know the rift will collapse. He does not expect the scale. He does not care. The seal crystallizes into fragments of Orion and Erathon. Ellesmere is leveled. Jeod survives.
+[[People/Jeod Isthar|Jeod Isthar]] destroys Orion's Seal, which holds the rift. He means to restore the Veil. He knows the Marble Fortress will blow. He does not know the rift will collapse. He does not expect the scale. He does not care. The essence it held crystallizes into fragments of Orion and Erathon. Ellesmere is leveled. Jeod survives.
 
 The catastrophe shifts the land and seabed. A great earthquake sends a tsunami against exposed eastern shores of the continent and across the Dragon Archipelago to its far eastern islands. Many coastal ships are destroyed. Vessels sheltered farther upriver or in protected waters have better chances of surviving; the actual damage depends on local geography. Trade and shipping remain disrupted long afterward.
 
@@ -138,7 +138,7 @@ The catastrophe shifts the land and seabed. A great earthquake sends a tsunami a
 
 **Aftermath in Orestor:** survivors of [[Places/Ellesmere|Ellesmere]] suffer wasting corruption. Many [[Organisations/Order of the Just|templars]] fear divine punishment for their abuses as magic awakens among ordinary people. [[People/Benedikt|Benedikt]] seeks adaptation; Lucian Tillibor leads [[Organisations/Orion's Wrath|Hněv]] toward escalating persecution. By PS 2 the local templars are divided roughly evenly, with Hněv gaining ground.
 
-The Third Meredian War's closing battles unfold in the same catastrophe window — see below. Fragments begin finding hosts.
+The [[#The Third Meredian War|Third Meredian War]]'s closing battles unfold in the same catastrophe window — see below. Fragments begin finding hosts.
 
 ---
 
@@ -165,7 +165,9 @@ See [[Notes/Open Questions#Meredian Wars]].
 
 ---
 
-### The Third Meredian War (culminates PS 0)
+### The Third Meredian War
+
+Culminates at PS 0.
 
 The third Imperial attempt to take **Meredie** — independent since Bořivoj (pre-PS ~300), templar heartland since the culling. Triskal joins as an ally of convenience. The sequence:
 
@@ -178,7 +180,7 @@ The third Imperial attempt to take **Meredie** — independent since Bořivoj (p
 7. Von Edgeira secures flanks and supply lines and prepares a proper siege.
 8. Before the siege begins: **Ellesmere is destroyed overnight in a massive explosion**. The epicenter is the Marble Fortress of the Templars of the Just Ones. The central district is a crater. Much of the city collapses.
 
-**The Ellesmere explosion** is Jeod breaking the seal. The rift collapses. Fragments of Orion and Erathon scatter. Anyone who handles a fragment is psychically influenced — violence, corruption, obsession. This is the hidden root of the Shattering.
+**The Ellesmere explosion** is Jeod destroying Orion's Seal. The rift collapses. Fragments of Orion and Erathon scatter. Anyone who handles a fragment is psychically influenced — violence, corruption, obsession. This is the hidden root of the Shattering.
 
 **Archipelago closing (same PS 0 window):**
 
@@ -206,7 +208,7 @@ The third Imperial attempt to take **Meredie** — independent since Bořivoj (p
 
 **PS 1 M05–M06 — Hlubina** — Late spring. Players arrive in Hlubina, a marshland village near ruined Ellesmere, as mercenaries with a refugee caravan. Post-war context: displaced people, scarce food, decimated imperial garrison after Orestor. **Captain Aemon Whiteoak**; **[[People/Kate|Kate]]** (Jeod's apprentice) recruits them. See [[Campaigns/Hlubina]].
 
-**PS 1 M10–M12 — Dragon Independence, Act I (Ansir)** — Autumn into winter, two to three months. The party sets out from Saltmarsh as corsairs of the Free Republic, meeting a lone rider with a seal fragment on the road. Weapon smuggling, death of Commander Hemmond, Harry Mansion. See [[Campaigns/Dragon Independence]].
+**PS 1 M10–M12 — Dragon Independence, Act I (Ansir)** — Autumn into winter, two to three months. The party sets out from Saltmarsh as corsairs of the Free Republic, meeting a lone rider with an Orion–Erathon fragment on the road. Weapon smuggling, death of Commander Hemmond, Harry Mansion. See [[Campaigns/Dragon Independence]].
 
 **PS 1 M12 — Alastor's return to Saltmarsh** — A plague incident tied to the rider's crystal has drawn a squadron of the Just to Saltmarsh. Alastor sets out after the escaped Vilmaran agent Xendra. In preparation.
 

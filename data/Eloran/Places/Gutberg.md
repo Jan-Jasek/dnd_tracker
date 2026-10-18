@@ -13,7 +13,7 @@ source_evidence:
 
 > Part of: [[Eloran]] | [[Factions/Meredie]] | [[Places/Regions]]
 
-Meredian mountain fortress on the **Red River** (_Rudá řeka_). The **south gate** of Meredie. Fell to the Empire in the Third Meredian War (PS 0) — the shock of that war. The bridge did not fall with it.
+Meredian mountain fortress on the **Red River** (_Rudá řeka_). The **south gate** of Meredie. Fell to the Empire in the [[History/Timeline#The Third Meredian War|Third Meredian War]] (PS 0) — the shock of that war. The bridge did not fall with it.
 
 ## The path
 

@@ -12,7 +12,7 @@ source_evidence:
 
 # Mokrá Lhota (Mokrá Lhota)
 
-> Part of: [[Eloran]] | [[Places/Dračí ostrovy]] | [[Campaigns/Dragon Independence]]
+> Part of: [[Eloran]] | [[Places/Dragon Islands]] | [[Campaigns/Dragon Independence]]
 
 Inland village on the Dragon Archipelago — a waypoint on the weapon-smuggling route from [[Places/Ansir|Ansir]] toward the eastern front.
 

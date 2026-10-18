@@ -9,7 +9,7 @@ universe: veiling
 
 > Part of: [[Veiling]]
 
-The material plane of the [[Veiling]]. Largely sealed from the Veil since Orion's working. **Eloran continent**, **southern continent** (_jižní kontinent_), and the **Dragon Archipelago** are the primary campaign geography.
+The material plane of the [[Veiling]]. Largely sealed from the Veil since Orion's working. The [[Regions/Northern Continent|Northern Continent]], the [[Regions/Southern Continent|Southern Continent]], and the [[Places/Dragon Islands|Dragon Islands]] are the primary campaign geography.
 
 ## Cosmology & Universe
 
@@ -36,12 +36,13 @@ The material plane of the [[Veiling]]. Largely sealed from the Veil since Orion'
 
 ## Places
 
-- [[Places/Regions]] — regions index (Eloran continent + archipelago)
-- [[Regions/Southern Continent]] — Empire–Vilmar landmass; Gibešská poušť
+- [[Places/Regions]] — regions index (Northern Continent + archipelago)
+- [[Regions/Northern Continent]] — main landmass; the colonial powers and the Skeld Isles
+- [[Regions/Southern Continent]] — Empire–Vilmar landmass; Gibesh Desert
 - [[Places/Carleon]], [[Places/Nelbar]] — Imperial cities
-- [[Places/Gibešská poušť]], [[Places/Akbesi]] — southern continent
-- [[Places/Dračí ostrovy]] — souostroví; území Trojkoalice
-- [[Places/Temnoles]] — les Tauberů (stub)
+- [[Places/Gibesh Desert]], [[Places/Akbesi]] — southern continent
+- [[Places/Dragon Islands]] — archipelago; Triple Coalition territory (with map)
+- [[Places/Darkenwold]] — Tauber forest (stub)
 - [[Places/Ansir]] — Free Republic capital (with map)
 - [[Places/Saltmarsh]] — founding republic; Von Telten hostage plot (with map)
 - [[Places/Oros]] — founding republic of the Triple Coalition
@@ -56,7 +57,7 @@ The material plane of the [[Veiling]]. Largely sealed from the Veil since Orion'
 ## People
 
 - [[People/Orion]] — founder of Orestor and the Order of Maegi; merged with Erathon in the Ellesmere rift
-- [[People/Jeod Isthar]] — Maegi; destroyed the Ellesmere seal; present-day catalyst
+- [[People/Jeod Isthar]] — Maegi; destroyed Orion's Seal; present-day catalyst
 - [[People/Ilrusk]] — last of the nine disciples; librarian in Orestor; town-hospital volunteer; principal of the Silents
 - [[People/The Judge]] — Orestor magistrate and revolutionary leader; disciple of Ilrusk, the Weaver
 - [[People/Alynn]] — Konšel; Merchants' Guild; republican face in Orestor
@@ -67,6 +68,7 @@ The material plane of the [[Veiling]]. Largely sealed from the Veil since Orion'
 - [[People/Jeroným]] — apostolic archbishop; Orestor Konšel
 - [[People/Selith]] — ancient being Orion made to create more Veil-users; walks as Orion at night
 - [[People/Birger Aderen]] — Valdie fugitive noble; Triple Coalition leader; shadow-lord fragment
+- [[People/Hanser]] — one-legged dwarf veteran; Saltmarsh newsletter and council candidate
 - [[People/Aemon Whiteoak]] — imperial captain; Hlubina prologue only
 - [[People/Kate]] — Jeod's apprentice; recruits the party at Hlubina
 
@@ -97,7 +99,8 @@ Index with languages and symbols: [[Places/Regions]]
 
 ## Assets
 
-- Dračí ostrovy / Azure Sea (fan-made regional base): `imports/onenote/images/dragon-islands-archipelago.png` — brief: `imports/onenote/images/map-dragon-islands-brief.md`
-- Ansir city map: `imports/onenote/images/dra-nezavislost-one-on-26-04-2026-img004.png`
-- Saltmarsh town map: `imports/onenote/images/dra-nezavislost-one-on-26-04-2026-img005.jpg`
-- Other extracted images (mostly stat blocks): `imports/onenote/images/`
+- [[Maps/Dragon Islands Map]] — regional map of the Dragon Islands and the Azure Sea
+- [[Maps/Ansir Map]] — Ansir city map
+- [[Maps/Saltmarsh Map]] — Saltmarsh town map
+- [[Maps/Orestor Schematic]] — Orestor city and river schematics
+- Other extracted images (mostly stat blocks): `imports/onenote/images/` — outside the vault

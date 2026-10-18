@@ -21,16 +21,16 @@ The Empire forms in the south after **Bořivoj I** unifies **[[Factions/Meredie|
 
 ## Geography — Two Landmasses
 
-| Landmass                     | Empire presence                                                                                                                                                                                                                                                                                                                                  |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Eloran continent**         | Core heartland south of Meredie. **Hor stínů** (_Shadow Mountains_) west and southwest — river source, slowly descending, Gith on the slopes. The Red River lands **south of [[Places/Gutberg\|Gutberg]]** (name TBD) are Imperial. Marches along the river are the Empire–Meredie border; the island stretch is the triple border with Triskal. |
-| **Southern continent**       | Maritime frontier with [[Factions/Vilmar\|Vilmar]]; [[Places/Gibešská poušť]], [[Places/Akbesi]]                                                                                                                                                                                                                                                 |
-| **Dragon Isles** (Azure Sea) | Colonial archipelago — lost direct control to the [[Factions/Triple Coalition]] at PS 0; banking (Brauner & Hess in Ansir) remains                                                                                                                                                                                                               |
+| Landmass                                               | Empire presence                                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **[[Regions/Northern Continent\|Northern Continent]]** | Core heartland south of Meredie. **Hor stínů** (_Shadow Mountains_) west and southwest — river source, slowly descending, Gith on the slopes. The Red River lands **south of [[Places/Gutberg\|Gutberg]]** (name TBD) are Imperial. Marches along the river are the Empire–Meredie border; the island stretch is the triple border with Triskal. |
+| **Southern continent**                                 | Maritime frontier with [[Factions/Vilmar\|Vilmar]]; [[Places/Gibesh Desert]], [[Places/Akbesi]]                                                                                                                                                                                                                                                  |
+| **Dragon Isles** (Azure Sea)                           | Colonial archipelago — lost direct control to the [[Factions/Triple Coalition]] at PS 0; banking ([[Organisations/Brauer & Hess\|Brauer & Hess]] in Ansir) remains                                                                                                                                                                               |
 
 ## Named Imperial Cities (canon)
 
-- **[[Places/Carleon|Carleon]]** — císařské město on Eloran continent
-- **[[Places/Nelbar|Nelbar]]** — císařské město on Eloran continent
+- **[[Places/Carleon|Carleon]]** — Imperial city on the Northern Continent
+- **[[Places/Nelbar|Nelbar]]** — Imperial city on the Northern Continent
 - **Ellesmere** — Meredian capital; City of Mages; never an Imperial seat in the Just Age; destroyed at PS 0
 
 ## Meredian Wars

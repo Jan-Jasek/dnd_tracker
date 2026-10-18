@@ -18,7 +18,7 @@ player_doc: true
 
 > Part of: [[Eloran]]
 
-The political entity that controls the **Dragon Isles** (_Dračí ostrovy_). Broke away from Empire/Triskal during the chaos of the Third Meredian War.
+The political entity that controls the **Dragon Isles** (_Dračí ostrovy_). Broke away from Empire/Triskal during the chaos of the [[History/Timeline#The Third Meredian War|Third Meredian War]].
 
 ## Structure
 
@@ -41,7 +41,7 @@ The Republic uses a military-civic structure with commanders (Hemmond, then Kapl
 
 - **Triskal** — wants either annexation or protectorate status over the islands
 - **Vilmar** — Hilua's plan: disrupt the Triskal truce so Vilmar can take Ansir
-- **United Empire** — banking interests (Brauner & Hess), merchant networks, and former Imperial officers still operating in the islands
+- **United Empire** — banking interests ([[Organisations/Brauer & Hess|Brauer & Hess]]), merchant networks, and former Imperial officers still operating in the islands
 
 ## Player Position
 

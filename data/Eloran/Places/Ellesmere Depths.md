@@ -21,11 +21,11 @@ The scene of the crime. Orion chose this ground because the **Paths** were stron
 
 A **floating rift**. It consumed anyone who touched it. It could not be moved. The Marble Fortress was built around it as a cage. Even later Maegi were not told. The nine kept the secret.
 
-[[People/Orion|Orion]] bound **Erathon** into that rift, then was pulled in with him when he forced the 10th seal. They merged. That is what the seal held in place.
+[[People/Orion|Orion]] bound **Erathon** into that rift, then was pulled in with him when he forced the 10th seal. They merged. That is what Orion's Seal held in place.
 
 ## PS 0
 
-[[People/Jeod Isthar|Jeod]] broke the seal. The rift collapsed. The seal crystallized into fragments — Orion and Erathon, solid — and the fortress and city died in the blast.
+[[People/Jeod Isthar|Jeod]] destroyed Orion's Seal. The rift collapsed. Its essence crystallized into fragments — Orion and Erathon, solid — and the fortress and city died in the blast.
 
 ## Present
 

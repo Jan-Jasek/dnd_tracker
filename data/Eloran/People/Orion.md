@@ -64,7 +64,7 @@ Unable to complete the working as designed, Orion **sacrificed his own Veil** to
 
 Orion would not have trusted only his closest disciples with a working of this scale. Earlier creations and allies — practitioners from his cruder pre-Maegi frameworks (blood mages and others), perhaps druids, perhaps figures whose names are lost — were almost certainly present at or near the ritual. **Who actually killed Orion** is therefore a deeper question than "the disciples did it." The disciples broke the ritual, but the political picture around the betrayal involved multiple factions of power.
 
-After Orion's death, the Maegi did not just construct a cover-up. They **launched a crusade** against the rival powers of that era — eliminating witnesses, rivals, and survivors of Orion's earlier work. The _Krvavá válka druidů_ (Bloody War of the Druids) referenced in Eloran legend is likely a ripple effect of this crusade. The crypt of an old Maegi enemy reportedly held in [[Places/Temnoles|Temnoles]] is another fragment of that purge.
+After Orion's death, the Maegi did not just construct a cover-up. They **launched a crusade** against the rival powers of that era — eliminating witnesses, rivals, and survivors of Orion's earlier work. The _Krvavá válka druidů_ (Bloody War of the Druids) referenced in Eloran legend is likely a ripple effect of this crusade. The crypt of an old Maegi enemy reportedly held in [[Places/Darkenwold|Darkenwold]] is another fragment of that purge.
 
 **Azolar** — a name surfacing as the figure Ilrusk hates most. Identity unconfirmed; likely a survivor of the post-Orion crusade, or a powerful rival of that era who escaped the Maegi's reach. Possibly still alive or possibly the entity in the Temnoles crypt.
 
@@ -84,7 +84,7 @@ Other Maegi created in later generations — by the original disciples and their
 
 ## The Fragments
 
-The **seal** held the rift in place. When [[People/Jeod Isthar|Jeod]] broke that seal, the rift collapsed. The seal itself **broke off** and **crystallized** — solid pieces of **Orion's and Erathon's soul and essence** together.
+**Orion's Seal** — ten seals combined into one unique, permanent working — held the rift in place along with Orion's and Erathon's essence. [[People/Jeod Isthar|Jeod]] destroyed it; exactly how is unknown. No one knows the tenth seal. The rift collapsed, and the essence the Seal held **crystallized** into fragments of pure Veil, **Orion and Erathon** together. See [[Cosmology#Seals and Breaches]].
 
 A "shadow lord" in a fragment (e.g. **[[People/Birger Aderen|Birger Aderen]]**'s) is that mix, not a disciple. Ilrusk hunts them for reasons that are not Konrad's.
 

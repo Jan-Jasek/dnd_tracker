@@ -13,11 +13,13 @@ source_evidence:
 
 > Part of: [[Eloran]] | [[Places/Regions|Dragon Archipelago]]
 
-The main colonial city of the Dragon Archipelago and the seat of the Free Corsair Republic (Triple Coalition). Also referred to as Saltwater in some sources.
+The main colonial city of the Dragon Islands and the seat of the Free Corsair Republic (Triple Coalition).
 
-**City map:** `imports/onenote/images/dra-nezavislost-one-on-26-04-2026-img004.png`
+**City map:** [[Maps/Ansir Map]]
 
-**Archipelago map:** shown as **Anstr** on `imports/onenote/images/dragon-islands-archipelago.png` (campaign name **Ansir**)
+![[ansir-city-map.png]]
+
+**Archipelago map:** shown as **Anstr** on the [[Maps/Dragon Islands Map]] (campaign name **Ansir**)
 
 ## Political Status
 
@@ -27,7 +29,7 @@ External threats:
 
 - **Triskal** — wants the islands under its control or influence
 - **Vilmar** — Hilua's plan was specifically to disrupt the Triskal truce so Vilmar could take Ansir
-- **United Empire** — still has interests via the banking house Brauner & Hess and merchant connections
+- **United Empire** — still has interests via the banking house [[Organisations/Brauer & Hess|Brauer & Hess]] and merchant connections
 
 ## Key Locations
 
@@ -37,7 +39,7 @@ External threats:
 - **Orion's Temple (Orionův chrám)** — reorganized by soldiers after players' visit; connected to Harry's ritual
 - **Temple of Umberlee** — on a small square; rune inscription: "Křič s námi" ("Scream with us")
 - **The Brothel** — used as distraction during the weapon theft
-- **Brauner & Hess banking house** — newly constructed; Imperial bank operating in the city
+- **[[Organisations/Brauer & Hess|Brauer & Hess]] banking house** — newly constructed; Imperial bank operating in the city
 
 ## Notable Figures in Ansir
 

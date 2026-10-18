@@ -16,7 +16,7 @@ source_evidence:
 
 > Part of: [[Eloran]] | [[Factions/Valdie]] | [[Places/Ansir]] | [[Campaigns/Dragon Independence]]
 
-Valdie bastard. Coalition speech calls him **_Sněhobílý_** (white-haired) and **_Staroch_**. **[[Places/Carleon|Carleon]]** is an Imperial city on the Eloran continent — not his home.
+Valdie bastard. Coalition speech calls him **_Sněhobílý_** (white-haired) and **_Staroch_**. **[[Places/Carleon|Carleon]]** is an Imperial city on the Northern Continent — not his home.
 
 ## Family
 
@@ -30,7 +30,7 @@ Bastard branch of the **[[Factions/Valdie|Valdie]]** royal house:
 ## Origin
 
 - **[[Factions/Valdie|Valdie]]** (_Valdie_) noble — **bastard branch** of the royal house
-- **Fugitive** (_uprchlý šlechtic_) after Valdie fell to Triskal in the Third Meredian War
+- **Fugitive** (_uprchlý šlechtic_) after Valdie fell to Triskal in the [[History/Timeline#The Third Meredian War|Third Meredian War]]
 
 ## Role
 

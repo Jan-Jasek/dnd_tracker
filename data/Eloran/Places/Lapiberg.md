@@ -12,7 +12,7 @@ source_evidence:
 
 # Lapiberg
 
-> Part of: [[Eloran]] | [[Factions/Meredie]] | [[Places/Regions|Eloran Continent]]
+> Part of: [[Eloran]] | [[Factions/Meredie]] | [[Places/Regions|Northern Continent]]
 
 Dwarven **ground city** in western Meredie — one of three surface holdings of **[[Factions/Grundarmheld|Grundarmheld]]** that sit in a circle around the mountain kingdom (the others: unnamed cities in Valdie and in the west Valdie vassal). Formally Meredic; the halls lie beyond the **Shadow Pass** (_průsmyk Stínů_).
 

@@ -12,13 +12,13 @@ source_evidence:
 
 # Akbesi
 
-> Part of: [[Eloran]] | [[Places/Gibešská poušť]] | [[Regions/Southern Continent]]
+> Part of: [[Eloran]] | [[Places/Gibesh Desert]] | [[Regions/Southern Continent]]
 
-Town (_městečko_) in the **[[Places/Gibešská poušť|Gibešská poušť]]** on the **southern continent** — market and caravan stop at the Empire–Vilmar maritime frontier.
+Town (_městečko_) in the **[[Places/Gibesh Desert|Gibesh Desert]]** on the **southern continent** — market and caravan stop at the Empire–Vilmar maritime frontier.
 
 ## Rumors
 
-- Vilmaran **blood mages** and necromancers — whispered at the **bazaar** (_tržiště v Gibesi_)
+- Vilmaran **blood mages** and necromancers — whispered at the **bazaar** (_tržiště v Gibesi_, the Gibesh market)
 - **Sayid Azolar** — one name passed on by travelers (may be folklore)
 
 ## Open Questions

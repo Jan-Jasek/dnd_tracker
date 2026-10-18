@@ -14,7 +14,7 @@ location: place.ellesmere
 
 A Maegi, **up to ~500 years old** — possibly less. Old enough to have witnessed the Templars' rise to power and the Ellesmere culling first-hand, but **not** a founding-era Maegi. He never met Orion or the original disciples; what he knows of that era comes through Maegi lineage transmission, not personal memory.
 
-Responsible for breaking the Ellesmere seal. He did not go in alone. **[[People/Kate|Kate]]** was there. Mortals smuggled them into the Marble Fortress. One of those mortals was **marked by death** — becoming a lich in slow motion, still mortal at PS 0. The rest of that party is unwritten.
+Responsible for destroying **Orion's Seal** at Ellesmere. Exactly how he did it is unknown. He did not go in alone. **[[People/Kate|Kate]]** was there. Mortals smuggled them into the Marble Fortress. One of those mortals was **marked by death** — becoming a lich in slow motion, still mortal at PS 0. The rest of that party is unwritten.
 
 ---
 
@@ -37,7 +37,7 @@ He did not know fragments of Orion and Erathon would walk out of it.
 
 ## What He Knows
 
-Jeod's first-hand knowledge is centred on the **last few centuries**: the Templar takeover of the Church, the rise of the Just Ones, the Ellesmere culling, the methods used to suppress Maegi. He knows the locations and use of at least one of Orion's seals (the one he destroyed); he likely knows of others in legend, but his knowledge of the founding era is **second-hand** — passed through Maegi teaching from those who came before him.
+Jeod's first-hand knowledge is centred on the **last few centuries**: the Templar takeover of the Church, the rise of the Just Ones, the Ellesmere culling, the methods used to suppress Maegi. He knew where Orion's Seal lay. He has collected the knowledge of several of Orion's seals and their inversions — around five — although each of the nine disciples and their lineages originally guarded their own. He could not have done Ellesmere alone. The tenth seal is unknown to him, as to everyone. His knowledge of the founding era is **second-hand** — passed through Maegi teaching from those who came before him.
 
 He has never met Ilrusk knowingly. Whether their paths have crossed under other names is open.
 
@@ -50,7 +50,7 @@ Jeod is alive in the present day. He carries full knowledge of what he did and w
 ## Adventure Hooks
 
 - A living first-hand witness to the Templar consolidation and the Ellesmere culling
-- He likely knows where at least one or two other Orion seals are located
+- He knows several of Orion's seals and their inversions — knowledge every blood mage would kill for
 - His relationship with **Ilrusk** is undefined — they have probably never met directly. Ilrusk is from a different generation entirely. They may have learned of each other only recently, if at all
 - He owns **[[Organisations/Brauer & Hess]]** in secret and will charge the Orestor consultate when the fragment job drops
 - A confrontation with Jeod cannot be flattened into hero or villain — he is a man who decided the world was worth more than a city
@@ -64,5 +64,5 @@ Jeod is alive in the present day. He carries full knowledge of what he did and w
 - Who were the mortal smugglers at Ellesmere, and what is the name of the one marked by death?
 - Does he know [[People/Ilrusk]] is in Orestor? Does Ilrusk know Jeod's name?
 - Does he have allies — other surviving Maegi or sympathizers?
-- Is he still pursuing further seal-breaking, or has he stopped at one?
-- Where does his knowledge of the seal's location come from?
+- Is he looking for the tenth seal?
+- Where did he learn Orion's seals and the Seal's location?

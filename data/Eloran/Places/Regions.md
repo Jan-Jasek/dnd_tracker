@@ -14,7 +14,7 @@ player_doc: true
 
 > Part of: [[Eloran]]
 
-## Eloran Continent — States & Powers
+## [[Regions/Northern Continent|Northern Continent]] — States & Powers
 
 Full faction files live under `Factions/`:
 
@@ -32,7 +32,7 @@ The named **Meredian Wars** are Imperial campaigns against independent templar-M
 
 ## The Red River (_Rudá řeka_)
 
-Spine of the Eloran continent. Source in the **Shadow Mountains** (_Hor stínů_) — southwest and west, slowly descending. Course: **east** out of the mountains, then **northeast**, then **north** to the sea.
+Spine of the Northern Continent. Source in the **Shadow Mountains** (_Hor stínů_) — southwest and west, slowly descending. Course: **east** out of the mountains, then **northeast**, then **north** to the sea.
 
 Tributaries join along the way. None of them are named yet; none are the spine.
 
@@ -64,16 +64,16 @@ Dwarf mountain kingdom beyond the **Shadow Pass**. Range north and northwest. Ca
 
 ## Dragon Archipelago
 
-See [[Dračí ostrovy]] for the archipelago hub. Regional map: `imports/onenote/images/dragon-islands-archipelago.png`. The Corsair Republic controls trade lanes on the **Azure Sea** (Azurové moře).
+See [[Places/Dragon Islands]] for the archipelago hub and [[Maps/Dragon Islands Map]] for the regional map. The Corsair Republic controls trade lanes on the **Azure Sea** (Azurové moře).
 
 - [[Ansir]] — coalition capital
 - [[Saltmarsh]] — founding republic; Xendra, Von Telten hostage plot
 - [[Oros]] — founding republic
 - [[Mokrá Lhota]] — weapon-smuggling waypoint toward the front
 
-### Temnoles
+### Darkenwold (Temnoles)
 
-Forest where Tauber tribes retreat. Dark powers described as returning from here. Connected to Aditya and the cursed dark-eyed bloodlines. See [[Temnoles]].
+Forest where Tauber tribes retreat. Dark powers described as returning from here. Connected to Aditya and the cursed dark-eyed bloodlines. See [[Places/Darkenwold]].
 
 ### Dirden's Farm (Dirdenův statek)
 
@@ -83,26 +83,26 @@ Smuggler's hideout; built on ruins of an old necromantic stone temple. Dagobar-s
 
 ## Southern Continent
 
-See [[Regions/Southern Continent]] — Empire and Vilmar border **across the sea**; not part of the Eloran mainland.
+See [[Regions/Southern Continent]] — Empire and Vilmar border **across the sea**; not part of the Northern Continent.
 
-- [[Places/Gibešská poušť]] — desert; Imperial–Vilmar maritime frontier
+- [[Places/Gibesh Desert]] — desert; Imperial–Vilmar maritime frontier
 - [[Places/Akbesi]] — market town; necromancer rumors
 
-## Imperial Cities (Eloran continent)
+## Imperial Cities (Northern Continent)
 
-- [[Places/Carleon]] — císařské město
-- [[Places/Nelbar]] — císařské město
+- [[Places/Carleon]] — Imperial city
+- [[Places/Nelbar]] — Imperial city
 
 ## Other Named Locations (from Lore / Orestor notes)
 
-| Name                     | Notes                                                                           |
-| ------------------------ | ------------------------------------------------------------------------------- |
-| [[Ellesmere]]            | Former capital of Meredie; City of Mages; kotlin not yet pinned to a river-mile |
-| Dol Andor                | Fell during the Third Meredian War; Von Edgeira took it quickly                 |
-| [[Places/Gutberg]]       | South gate of Meredie; metal span; fell PS 0                                    |
-| _(south of Gutberg)_     | Red River lands now Imperial; former patchwork of states; **name TBD**          |
-| _(west of Meredie)_      | Inner state; Valdie vassal; **name TBD**; Shadow Pass to Hor stínů              |
-| _(Triskal east-delta)_   | Triskal port facing Orestor; **name TBD**; old river-coalition city             |
-| _(Imperial island-fort)_ | End of the marches; islands and banks; **name TBD**; old river-coalition city   |
-| Červánkov                | Mentioned in Meredie notes                                                      |
-| [[Places/Lapiberg]]      | Dwarven free city; forges armed Bořivoj's unification; neutral at PS 1          |
+| Name                     | Notes                                                                                                        |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| [[Ellesmere]]            | Former capital of Meredie; City of Mages; kotlin not yet pinned to a river-mile                              |
+| Dol Andor                | Fell during the [[History/Timeline#The Third Meredian War\|Third Meredian War]]; Von Edgeira took it quickly |
+| [[Places/Gutberg]]       | South gate of Meredie; metal span; fell PS 0                                                                 |
+| _(south of Gutberg)_     | Red River lands now Imperial; former patchwork of states; **name TBD**                                       |
+| _(west of Meredie)_      | Inner state; Valdie vassal; **name TBD**; Shadow Pass to Hor stínů                                           |
+| _(Triskal east-delta)_   | Triskal port facing Orestor; **name TBD**; old river-coalition city                                          |
+| _(Imperial island-fort)_ | End of the marches; islands and banks; **name TBD**; old river-coalition city                                |
+| Červánkov                | Mentioned in Meredie notes                                                                                   |
+| [[Places/Lapiberg]]      | Dwarven free city; forges armed Bořivoj's unification; neutral at PS 1                                       |

@@ -26,7 +26,7 @@ This is not the gentle faerie realm of legend. It is a place where Veil runs thi
 - Erathon is attempting to reopen a gate between this plane and Eloran
 - His creation of [[The Hollow]] was a byproduct of this attempt
 - The Tauber tribes on the Dragon Islands have bloodlines that were touched by the fey plane before the sealing — this is the origin of their "cursed blood"
-- **[[Eloran/Places/Temnoles|Temnoles]]** on the Dračí ostrovy may be a thin point where the planes are close
+- **[[Eloran/Places/Darkenwold|Darkenwold]]** on the Dračí ostrovy may be a thin point where the planes are close
 
 ## Open Questions
 

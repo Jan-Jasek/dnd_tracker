@@ -10,11 +10,11 @@ source_evidence:
   - imports/onenote/extracted/dra-nezavislost-one-on-26-04-2026.md
 ---
 
-# Gibešská poušť (Gibeská poušť)
+# Gibesh Desert (Gibešská poušť)
 
 > Part of: [[Eloran]] | [[Regions/Southern Continent]] | [[Factions/United Empire]] | [[Factions/Vilmar]]
 
-Desert on the **southern continent** — **not** on the main Eloran continent. Here the **[[Factions/United Empire|Empire]]** and **[[Factions/Vilmar|Vilmar]]** face each other **across the sea**.
+Desert on the **southern continent** — **not** on the Northern Continent. Here the **[[Factions/United Empire|Empire]]** and **[[Factions/Vilmar|Vilmar]]** face each other **across the sea**.
 
 ## [[Places/Akbesi|Akbesi]]
 
@@ -23,7 +23,7 @@ Market town (_městečko Akbesi_) in or on the desert fringe. Rumors on the baza
 Import hooks (promote when needed):
 
 - Whispered name **Sayid Azolar** — mage spoken of at the Akbesi market
-- **Abir Ab Medir** — contact in **[[Places/Ansir|Ansir]]** / Saltwater who spoke of Vilmaran necromancers; seekers were advised to travel via the islands first
+- **Abir Ab Medir** — contact in **[[Places/Ansir|Ansir]]** who spoke of Vilmaran necromancers; seekers were advised to travel via the islands first
 
 ## Travel Lore
 

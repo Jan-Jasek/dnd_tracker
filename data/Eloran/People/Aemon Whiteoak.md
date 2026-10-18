@@ -13,21 +13,21 @@ source_evidence:
 
 > Part of: [[Eloran]] | [[Places/Hlubina]] | [[Campaigns/Hlubina]]
 
-**Aemon Bělodub** je česká forma jména — stejná postava, ne politický vůdce na Dračích ostrovech.
+**Aemon Bělodub** is the Czech form of the name — the same character, not a political leader on the Dragon Islands.
 
-Kapitán císařské armády ve **Hlubině** (dřív malá vesnice, za války opevněné stanoviště maršála von Edgeira). Veterán, rytíř, praktický muž: chápe, že pořádek nejde držet jen silou.
+Captain of the Imperial army in **Hlubina** (formerly a small village, fortified as Marshal von Edgeira's outpost during the war). A veteran, a knight, a practical man: he understands that order cannot be held by force alone.
 
-## Role v Hlubině
+## Role in Hlubina
 
-- Velí posádce v palisádovém jádru městečka
-- Najímá družinu na lokální problémy: dryády v lesích, dezertéry, bandity Wolfa, ghůly u bitevního pohřebiště, nedostatek dřeva od dřevorubců
-- Spolupracuje (nebo soupeří) s místním obyvatelstvem — bez nich výstavba nestojí
+- Commands the garrison in the town's palisaded core
+- Hires the party for local problems: dryads in the woods, deserters, Wolf's bandits, ghouls at the battlefield burial ground, the woodcutters' shortage of timber
+- Works with (or against) the local population — without them, construction stalls
 
-## Handoff do Dračí nezávislosti
+## Handoff
 
-Po Skrčkově nočním útoku dorazí císařský předvoj. **Kate** (učednice Jeoda Istara) rekrutuje družinu do imperiálních služeb — Whiteoak vede vojáky, ne republiku.
+After Skrček's night attack, the Imperial vanguard arrives. **[[People/Kate|Kate]]** (Jeod Isthar's apprentice) recruits the party into Imperial service — Whiteoak leads soldiers, not the republic.
 
-## Není totéž co
+## Not the Same As
 
-- **[[People/Birger Aderen|Birger Aderen]]** — vůdce na Dračích ostrovech, fragment, politika koalice
-- **Kate** — stínová mágka, rekrutér Jeoda; jiná postava
+- **[[People/Birger Aderen|Birger Aderen]]** — leader on the Dragon Islands; fragment; coalition politics
+- **Kate** — shadow mage, Jeod's recruiter; a different character

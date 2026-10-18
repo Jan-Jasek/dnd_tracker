@@ -22,7 +22,7 @@ The original village center sits on raised ground surrounded by a moat tied to t
 
 ## Present Situation
 
-Post–Third Meredian War. Imperial garrison decimated at Orestor; local captain bought off by crime boss **Skrček**. Refugee influx strains food and order. Crime boss controls extortion; **Hector's Liberators** oppose him from eastern marshes.
+Post–[[History/Timeline#The Third Meredian War|Third Meredian War]]. Imperial garrison decimated at Orestor; local captain bought off by crime boss **Skrček**. Refugee influx strains food and order. Crime boss controls extortion; **Hector's Liberators** oppose him from eastern marshes.
 
 ## Key Sites
 

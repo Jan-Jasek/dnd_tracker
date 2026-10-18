@@ -32,15 +32,15 @@ The campaign is structured in three acts. The players start as corsairs of the R
 
 ## Master Plot
 
-**Hilua** (Vilmaran agent of Prophet Saybar; ancient, in the body of a bloodless girl of about thirteen) is working to destabilize the Republic and disrupt its truce with Triskal so that Vilmar can take over Ansir. Her tools:
+**Hilua** (Vilmaran agent of Prophet Saybar; a century-old blood mage in the body of a bloodless girl of about thirteen) is working to destabilize the Republic and disrupt its truce with Triskal so that Vilmar can take over Ansir. Her tools:
 
 - Captain **Henry Von Telten** (former Imperial admiral) is coerced into weapon smuggling by holding his family hostage in Saltmarsh (through **Xendra**).
-- The weapons pass through **Rotgar** (Rotgar is from the Empire; believed killed at the Battle of Corvel; actually operating as a smuggler) and through **Kuliš** in Ansir.
+- The weapons pass through **Rotgar** (Rotgar is from the Empire; believed killed at the Battle of Covel; actually operating as a smuggler) and through **Kuliš** in Ansir.
 - **Friedrich**, a local underworld figure, acts as intermediary and wants a rival (**Harry**) dead.
 - **Tauber dark-eyed** (specifically followers of **Aditya**) were receiving weapons and having cursed bloodlines awakened by Hilua to destabilize the islands from within.
 - **Mego** (a Tauber spy sent by Banyu to watch Aditya's faction) was captured near Dirden's farm.
 
-Hilua is presumed dead after the ritual at Harry's mansion. **Xendra**, the Saltmarsh councilwoman inside the plot, is a Vilmaran agent; she holds Hilua's second Sending Stone and escaped.
+Hilua dies in the ritual at Harry's mansion. **Xendra**, the Saltmarsh councilwoman inside the plot, is a Vilmaran agent and escaped. The weapon smuggling was only the beginning of Vilmar's plans on the islands; Xendra carries them on.
 
 ---
 
@@ -76,17 +76,17 @@ Hilua is presumed dead after the ritual at Harry's mansion. **Xendra**, the Salt
 
 **Prcek** — Arrived with Třesavec and Arryn's men. Led soldiers to the wagon. Drunkenly recruited into the weapon theft.
 
-**Rotgar** — Empire origin; believed dead at the Battle of Corvel. More pirate than soldier. Was actually using Dirden's farm as a smuggling base. Receives the weapons and moves them east toward the front. On the first evening after confrontation, he falls into a coma from blood loss and burns — 3 death saves at disadvantage; dies unless healed.
+**Rotgar** — Empire origin; believed dead at the Battle of Covel. More pirate than soldier. Was actually using Dirden's farm as a smuggling base. Receives the weapons and moves them east toward the front. On the first evening after confrontation, he falls into a coma from blood loss and burns — 3 death saves at disadvantage; dies unless healed.
 
 **Captain Henry Von Telten** — Former Imperial admiral, commanded Rotgar at the southern Imperial border with the Sultanate. His family is being held by Xendra in Saltmarsh. His ship survived a wave on the open sea by chance. On the first stopover after the wave, Hilua came to him and took his family hostage.
 
 **Dalibor** — Hobbit thief. Rotgar's fast courier between Mokrá Lhota and Ansir. Small, unremarkable, very nimble; tries to extract profit from any situation.
 
-**Xendra** — Saltmarsh councilwoman and Vilmaran agent. Held Telten's family hostage. Has Hilua's second Sending Stone. Escaped Saltmarsh.
+**Xendra** — Saltmarsh councilwoman and Vilmaran agent. Held Telten's family hostage. Escaped Saltmarsh.
 
-**Hilua** — Saybar's agent; an ancient blood mage in the body of a girl of about thirteen. Used Xendra in Saltmarsh to open smuggling routes. Wanted to weaken the Republic and disrupt the Triskal truce so Vilmar could take Ansir. Led the First Seal ritual at Harry's mansion. Presumed dead.
+**Hilua** — Saybar's agent; a century-old blood mage in the body of a girl of about thirteen. Used Xendra in Saltmarsh to open smuggling routes. Wanted to weaken the Republic and disrupt the Triskal truce so Vilmar could take Ansir. Led the breach ritual at Harry's mansion. Dies in the ritual's collapse.
 
-**Stoupač** (_Umurad Irdigut_) — Iotian warrior, Ansir captain and general of the Republic's army. A feared mage hunter who wears the armor and equipment of an [[Organisations/Order of the Just|Order of the Just]] templar, which makes him nearly immune to magic.
+**Stoupač** (_Umurad Irdigut_) — warrior from Ioth, Ansir captain and general of the Republic's army. A feared mage hunter who wears the armor and equipment of an [[Organisations/Order of the Just|Order of the Just]] templar, which makes him nearly immune to magic.
 
 ### Harry Mansion Encounter
 
@@ -99,9 +99,9 @@ Harry is ~60 years old in appearance but actually barely forty. Connected to Hed
 - Lair Action: AOE Blood Drain — CON 16 save; nearby enemies take 1d6 force damage, lose that much max HP; Harry heals for damage dealt + temporary HP.
 - Actions: 2× Attack (+10, 1d6+7). Close range: Blood Drain (CON 16, 2d6 force + heal) instead of one attack.
 
-**Orion's First Seal** — in the family crypt: a moving pattern of blood and dust rotating on the floor. Interaction requires DC 15 CON save + 2d6 force damage; max HP reduced by damage taken.
+**The breach in the family crypt** — Hilua inverted the first of Orion's seals (_obrácená pečeť_) to open a breach (_průlom_) and pour Veil into Harry: a moving pattern of blood and dust rotating on the floor. Interaction requires DC 15 CON save + 2d6 force damage; max HP reduced by damage taken.
 
-**Outcome:** Ritual destroys Harry Mansion — one section of the estate levels, part of a nearby church is also destroyed. A scatter of coins and servant body parts. Hiluino's (Hilua-connected) crushed body regenerates between the rubble. Banker's Sending Stone is on the body.
+**Outcome:** Ritual destroys Harry Mansion — one section of the estate levels, part of a nearby church is also destroyed. A scatter of coins and servant body parts. Hilua dies in the collapse.
 
 ### Dirden's Farm
 
@@ -139,7 +139,7 @@ First Officer Vigo or Agitus — tall, sinewy 40-year-old. Captain is an older s
 
 **Urian Ab Nesir** — dark-skinned Vilmaran with glasses, fascinated by elves (never met one). Wealthy optician who wants to open a shop on the Dragon Islands. Fellow passenger.
 
-**Grimír Špinavec (Dirty Grimír)** — owes 7,100–17,100 gold Imperial marks to the bank Brauner & Hess (debt bought from the Grundermwald State Library, originally his grandfather's). Escalating due to interest and fees.
+**Grimnir** (_Grimír Špinavec_, Dirty Grimír) — owes 7,100–17,100 gold Imperial marks to the bank [[Organisations/Brauer & Hess|Brauer & Hess]] (debt bought from the Grundarmheld State Library, originally his grandfather's). Escalating due to interest and fees.
 
 **[[People/Hanser|Jednonohý Hanser]]** — one-legged dwarf veteran of Bezútěšný vršek and Covel; close to the party. Interviewed in the _Slanobažinní týdeník_ (Saltmarsh Weekly) about the death of **Jimmy Štístko** at Covel.
 
@@ -155,7 +155,7 @@ The indigenous peoples want their desecrated lands cleansed — a son of their s
 
 **Erathon** wants to reopen the gate to the Fey world, using Birger Aderen as a medium, before his powers are depleted.
 
-**[[Places/Temnoles|Temnoles]]** — dark powers are returning or have returned. Connected to the cursed-blood Tauber factions.
+**[[Places/Darkenwold|Darkenwold]]** — dark powers are returning or have returned. Connected to the cursed-blood Tauber factions.
 
 Details still fragmentary — to be developed.
 
@@ -174,5 +174,5 @@ Alastor's solo return to Saltmarsh (PS 1 M12) is in preparation: [Alastor's retu
 - What was the political situation in Ansir at the coup (who staged it, who survived)?
 - Who is Arryn and what do his men want?
 - What is the **Očistná vlna** (Cleansing Wave) cult — born of the Shattering's tsunami — doing in Ansir?
-- What is the nature of Temnoles?
+- What is the nature of Darkenwold?
 - Does Erathon have a full identity separate from Birger Aderen's arc?
