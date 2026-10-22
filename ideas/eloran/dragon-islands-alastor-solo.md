@@ -57,7 +57,7 @@ Sixty-year-old bounty hunter. Searching for a cure for his wife, he reached the 
 - He spent about six weeks in Saltmarsh while the party was away; what he did in the first weeks is open. He fought off Marie's hirelings and fled south toward **Oros** that same night. The town knows he was mugged and vanished. The description of the young man the Brotherhood wants reminds Alastor of the rider.
 - **Perin and Charles** carry a mild form of the plague from the sealed room — a punishment for meddling, not the smugglers' fate. It gives Alastor a second reason to chase the fragment.
 
-## Saltmarsh Clues (proposed — DM to vet)
+## Saltmarsh Clues (approved)
 
 **Timing.** The incident was five days before Alastor arrives; Xendra fled three days before. Since then messengers from Ansir, sent ahead while the _Sea Ghost_ is repaired, have brought Telten's testimony and a warning about Xendra, and announced the party's return; After her flight, on the Brotherhood's report of the Weave around her, Sněhobílý first issued a warrant for her in connection with the sickness; when the messengers came, he issued a second warrant, for high treason, the same day. The Ashen Brotherhood searched Xendra's house first, looking for the source of the sickness because they had felt the Weave around her; they broke down the door and took her papers. When the warrant came there was nothing left to search. Since then four addicts have squatted in the house and defend it as their own.
 
@@ -87,11 +87,12 @@ Sixty-year-old bounty hunter. Searching for a cure for his wife, he reached the 
 > Encounters, problems, and village clues: [encounters draft](dragon-islands-alastor-encounters.md).
 
 - **Length:** three sessions, following **hunt → truth → peak**: Saltmarsh, the road east, the mountains. The rite ends the solo line.
-- **The road east**, from the bottom up: **Splav** (_Splav_), the raftsmen's and loggers' village on the Gannera and the Dwarven Company's landing, where ore and timber go from wagons onto rafts for Saltmarsh; **Ruda** (_Ruda_), high in the mountains by the mines, from which ore is carted down to Splav; **Hraničná** (_Hraničná_), the hunters' settlement highest up, the last place before Moxan land. Travel times open.
+  **The road east:** from Saltmarsh east to **Splav** (_Splav_), the raftsmen's and loggers' village on the Gannera and the Dwarven Company's landing, where ore and timber go from wagons onto rafts for Saltmarsh; then up to **Ruda** (_Ruda_), the mining camp, from which ore is carted down to Splav. From Ruda, **Hraničná** (_Hraničná_) lies northeast, around the mountain and lower than Ruda, in the forest where the hunters work: cleaner and quieter than the mines, and the last settlement before Moxan land.
+- **Travel times:** Saltmarsh → Splav one day on foot, a long half day by wagon; Splav → Ruda two days of climbing, with the empty ore wagons; Ruda → Hraničná half a day to a day; beyond, two to three days through Moxan land to the peak (rough).
 - **Kupferbart's workers** took the women and children from the miners' road to Splav (see the clues).
 - **On the road (agreed directions):**
   - _Xendra cannot stop being a doctor._ She treats someone on the way and is remembered kindly; people also remember Marie pulling her away.
-  - _Ambush._ Xendra, afraid of the Požehnaní, begged people not to talk about her. Marie asked miners or shadier men to make sure anyone sniffing after them dies in the mountains. Possibly combined with the bounty hunters getting rid of competition.
+  - _Kuba's trap_ in place of an ambush: the miners are hard men, not murderers. Xendra, afraid of the Požehnaní, begged people not to talk about her; Marie asked Kuba, a young miner whose hand she saved, to lead any pursuers off the trail or get rid of them, and he leads the players into the drake's den (see the encounters draft).
   - _Bounty hunters_ after Sněhobílý's reward, with a renegade templar among them, or led by one.
   - _A monster:_ a small, stunted lizard-drake.
   - _The Ashen Brotherhood_ follow the Weave shadow east; Alastor meets them at some point.
@@ -110,7 +111,6 @@ Sixty-year-old bounty hunter. Searching for a cure for his wife, he reached the 
 
 - **Marie as stepmother** — candidate: she killed Telten's first wife years ago, so the children are not hers.
 - **Matyáš's timeline** — how exactly he found the crystal; the half-burnt settlement where the dead rose; the caravan.
-- **Vet the Saltmarsh clue table** — next step. The Dwarven Company carter row is an agent proposal the DM has not adopted.
 - **Hanser and the flight** (pinned): he may have helped persuade Xendra, his friend, to flee, or arranged their way out.
 - **The crystal's rules** — agreed so far: it gives Matyáš powers he cannot consciously use, which act through him when he is threatened; it changes his mind slowly (his "luck", not something to sell); its corruption is **necrotic decay**, not slime, killing over days, and does not pass on a single touch. Keep the mechanics abstract. Open: whether he sickens once separated from it, and the slow lich-like change.
 - **Finnigan** (archdruid, outside Orion's history; wants to wake the blue dragon under Meros) — hint at him or introduce him in the wilderness during the chase; act 2 material.

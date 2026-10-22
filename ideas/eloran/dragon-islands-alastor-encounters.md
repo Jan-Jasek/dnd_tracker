@@ -16,8 +16,10 @@ promotion_target:
 ## Frame (approved)
 
 - **Three sessions.** 1: Saltmarsh. 2 and 3: the road east and the mountains; the rite ends the solo line. How the road splits between sessions is open.
+- **One step behind.** It is a hunt: the players do not meet Marie or Xendra before the end.
 - **The Gannera** (_Gannera_) runs through Saltmarsh.
-- **The road east**, from the bottom up: **Splav** (_Splav_), the raftsmen's and loggers' village on the Gannera and the Dwarven Company's landing, where ore and timber go from wagons onto rafts for Saltmarsh; **Ruda** (_Ruda_), high in the mountains by the mines, from which ore is carted down to Splav; **Hraničná** (_Hraničná_), the hunters' settlement highest up, the last place before Moxan land. Travel times open. What happens in each is open.
+  **The road east:** from Saltmarsh east to **Splav** (_Splav_), the raftsmen's and loggers' village on the Gannera and the Dwarven Company's landing, where ore and timber go from wagons onto rafts for Saltmarsh; then up to **Ruda** (_Ruda_), the mining camp, from which ore is carted down to Splav. From Ruda, **Hraničná** (_Hraničná_) lies northeast, around the mountain and lower than Ruda, in the forest where the hunters work: cleaner and quieter than the mines, and the last settlement before Moxan land.
+- **Travel times:** Saltmarsh → Splav one day on foot, a long half day by wagon; Splav → Ruda two days of climbing, with the empty ore wagons; Ruda → Hraničná half a day to a day; beyond, two to three days through Moxan land to the peak (rough).
 - **Lorenzo Vasari** — a Triskalan templar of the island chapters, now a renegade, leads a band on Xendra's trail; Dukas knows him. When Dukas burned the Empire's decree outlawing the Order and proclaimed atonement and protection of the people, Vasari called it heresy. He left and took two things from the chapter: its **Mlčoun shackles** (_mlčounová pouta_; Severite), made for carrying Weave users to the pyre, which would strip Alastor's half-change if they closed on him; and the **Book of Names** (_Kniha jmen_), the chapter's list, kept under the Empire, of people on the islands suspected of the Weave. Vasari means to work through it. He holds to the old ways: whoever carries the Weave belongs on the pyre. The blow the Just's authority has taken eats at him.
 - **Vasari's band** — four or five: Vasari, two or three deserters, and a bounty hunter who is also the tracker.
   - **The deserters** ran from the Republic's front near Ansir and face the rope. Under a templar they pass as a holy man's armed escort, not fugitives. Vasari despises them and needs them.
@@ -27,6 +29,13 @@ promotion_target:
 - **Marie's contact** among the Moxané belongs to a clan far from Aditya's.
 
 ## Session 1 — Saltmarsh
+
+### The opening at The Anchor
+
+- The new player sits in **The Anchor** during Hanser's monologue. Alastor arrives, back from Ansir, asking Hanser what happened.
+- **Nesir**, chased by a mob of the Cleansing Tide, bursts into The Anchor, because Hanser defends Vilmarans in his weekly. The mob follows him in.
+- Someone spots **Alastor's withered face** and shouts that he is cursed too; the mob turns on Alastor. The newcomer is caught up in it beside him; Nesir hides behind them; Hanser yells at everyone to get out of his pub.
+- Afterwards Hanser makes his offer to both: **prove Xendra innocent and I'll pay.** Not a hire: a reward for the truth, a counterweight to Sněhobílý's warrant. Nesir owes them a favour, useful for reading Xendra's notes.
 
 ### Dukas
 
@@ -118,7 +127,7 @@ One of the nurses Xendra trained, nearly a physician herself, who runs the hospi
 
 ### Urian Ab Nesir
 
-Since the warrant, Nesir is the only Vilmaran left in town and under suspicion. Someone smashed his shop window and drew [[Organisations/Order of the Just#Rank & Symbol|the Palm]] on his door; it points at the Ashen Brotherhood, which frightens him more. Who drew it is open. His price for translating the notes: an interview with Hanser in the weekly to clear his name. Hanser would gladly take it — readers and votes — so Alastor only has to bring the two together.
+Since the warrant, Nesir is the only Vilmaran left in town and under suspicion. Someone smashed his shop window and drew [[Organisations/Order of the Just#Rank & Symbol|the Palm]] on his door; it points at the Ashen Brotherhood, which frightens him more. Who drew it is open. After the players save him from the Cleansing Tide mob at The Anchor he owes them a favour, and he pays it by translating the notes. He also asks, without insisting, for an interview with Hanser in the weekly to clear his name. Hanser would gladly take it — readers and votes — so Alastor only has to bring the two together.
 
 ## The road east
 
@@ -137,8 +146,68 @@ Kupferbart's wagon left the women and children here. Vasari's band came through 
 - **Winning the raftsmen.** The first talk is cold. The players can win them by tending the beaten raftsman's broken fingers; by telling the truth, that they want Xendra away from a dangerous companion, not burned (the child's drawing or the letter helps); or with Hanser's name, since there are veterans among the raftsmen and the weekly is read here too. Won over, the raftsmen name the carter and stand with the players when Vasari returns; otherwise they shut themselves in.
 - **Vasari returns** while the players are there, to punish the liars. He has no time to linger over the raftsmen. As an "apology" for the deceit his deserters demand a few young girls of the village, and Vasari grants them as Splav's punishment for the lie; the rest of the reckoning can wait until he comes back down with Xendra. It wins him his men's favour and their respect. With the raftsmen on their side the players have the numbers; without them they face the band alone. They can also stay out of it and simply leave before the band does.
 
+### Ruda
+
+**Layout:** one camp strung down a slope.
+
+- **Top:** the adit (mine entrance), sorting yard, tool forge, spoil heaps. Loud and dusty. Nobody sleeps in the mine.
+- **A short walk below:** log barracks, Žofie's canteen and company store, a few family huts, a small shrine, a stream.
+- **Bottom, by the road:** the loading yard where the ore wagons turn, and maybe the smelting shed.
+
+About forty to fifty people, dwarves and humans. Most families stay in Splav or Saltmarsh. The ore wagons are the only link down.
+
+**People.**
+
+- **Hartmut Eisner** — dwarf foreman, Kupferbart's man, in the camp most of the time. Gruff, fair, speaks for the camp. Would oppose killing anyone; the trap happens behind his back.
+- **Kuba** — young miner whose crushed hand Marie saved. Marie asked him to lead any pursuers off the trail, or to get rid of them; he leads the players to the drake's den, believing he protects her.
+- **Old Žofie** (_stará Žofie_) — runs the canteen and store; camp mother and gossip; knows who went where. Liked Marie.
+- **Drahoš** — blaster, sour, drinks; lost his brother in a cave-in. Distrusts the "doctor ladies"; might quietly warn the players.
+- **Ulf** — dwarf carter of the ore wagon between Splav and Ruda; brought the women up. The children made him a little animal of grass stalks and twigs as a keepsake, and it rides on his wagon seat; it gives him away when he denies having carried anyone. Someone in Splav lets slip that the women rode up with Ulf, or with "the dwarf". A possibility, not counted on: if the players truly win Kupferbart over in Saltmarsh, he gives them a note or sign for his men, and Ulf talks because the boss wants it.
+
+**Marie in Ruda.** Treated as a normal, warm person: _„paní doktorka“_, though only the assistant. She remembered names and children, set bones, brought news. She used the mines mainly for convenient access inland. No blood-magic side effects. She is a sociopath who masks it well; do not write her as an obvious cold monster. Whether she magically influenced the miners is open and not needed: months of kindness are enough. When she came through with Xendra and the children she said bad men were after them.
+
+**The clue to Hraničná.** Žofie (or Drahoš) mentions that Marie always went on to the hunters at Hraničná after her rounds at the mine.
+
+**The trap.** The miners are hard men, not murderers, so there is no ambush; Kuba uses the drake instead. Kuba and a few mates offer to guide the players to Hraničná, truthfully where the women went. On the way Kuba proposes a shortcut over the ridge, or a cave to shelter in for the night; it is the stunted drake's den, and he slips away while they are inside. If they survive, they are still on the right road.
+
+### The drake
+
+- A beast, not a hoard dragon. It hunts in the open sky and dens in a natural cave, not the mine.
+- **Out hunting** when the players arrive; it comes back aware that someone was in its lair.
+- The den holds bones and remains, and **one interesting corpse**. Tentative: a **dark Moxan messenger** with clan markings, sent by Marie's contact's clan and caught by the drake; it tells the players which clan to look for.
+- If the players skipped Vasari at Splav, his band could have been sent to the den first instead.
+- **It stalks the players as sport:** a multi-encounter of strike and withdraw, starting on the way back to Ruda. If not killed, it follows them to Hraničná, where it has taken dogs and goats all season; the hunters are terrified.
+
+### Hraničná (in progress)
+
+- A dozen hunter families in log houses behind a palisade. Furs and game for Ruda; trade with the Moxané; outside company control.
+- **Bára Lišková** — old trapper woman who speaks for them (proposed, not confirmed). Buried two husbands; speaks some Moxan; has traded with them for twenty years.
+- **Marie** came here many times before and went on into Moxan land. The hunters know her as the doctor's assistant who deals with and treats the Moxané; her arrival with Xendra and the children surprised nobody. **No token.**
+- **The children.** On her earlier trips Marie left them here with **one of the hunters' wives** (name open) and went into Moxan land alone: she can look after herself (she regenerates quickly), the children cannot, and their blood makes them precious to her. The children like their stepmother well enough but mostly miss their father. What the wife learned from them: later.
+- **The children depend on the players' pace.** If the players are quick, the children are still with the hunter's wife and Marie is coming back for them: leverage and a ticking clock. If they are slow, Marie has already taken them, and the hunter's wife is frightened, because Marie never did that before.
+
+### Optional encounters (for pacing)
+
+With two players the session may run fast; these can be dropped in.
+
+- **Moxan toll** — between Ruda and Hraničná, Moxané ambush the players and demand tribute to cross. They do not recognise Saltmarsh's borders and do this now and then.
+- **Vavřín, or someone from Splav** — follows the players depending on how things went with Vasari, and turns up at the worst possible moment. Open.
+- **A possible hard stop** (a possibility, not chosen): a snowstorm closing the way at Hraničná.
+
+## Suggestions (not decided)
+
+- Next prep priority: the ending — the seal, the rite, and what Marie does at the peak.
+- Pick three or four must-find clues in Saltmarsh (e.g. Kiorna's coats, the child's drawing, Pepa Kudla, Kupferbart); the rest are bonus.
+- Three-clue rule: plant three clues for every conclusion the players must reach.
+- Show Marie's warm side without her present, e.g. a note or carved toy she left the children at the hunter's wife's house.
+- Give the new player a personal stake beyond Hanser's reward.
+- Prune names and side characters that will not come up in a two-player game.
+
 ## Open
 
+- The interesting corpse in the den (the Moxan messenger is tentative).
+- Hraničná: confirm Bára; name the hunter's wife; what she knows from the children.
+- What happens beyond Hraničná; the seal and the rite.
 - **The date of the rite.** Alastor's return falls in PS 1 M12; whether the rite is tied to the winter solstice is open, for a later session.
 
 Everything else in Saltmarsh, the road (villages, order, events), and the mountains is to be decided step by step.
