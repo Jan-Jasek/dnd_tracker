@@ -25,7 +25,7 @@ This is not the gentle faerie realm of legend. It is a place where Weave runs th
 - Inaccessible from Eloran since Orion's Seal closed the Paths
 - Erathon is attempting to reopen a gate between this plane and Eloran
 - His creation of [[The Hollow]] was a byproduct of this attempt
-- **Contested belief:** some colonists hold that the Dragon Islands natives' "cursed blood" comes from contact with the fey plane before the sealing. The dark-eyed carry Ilimox's dragon blood (see [[Eloran/Places/Dragon Islands#The Dark-Eyed Blessing]]); whether an older, fey-touched curse lies dormant in the light-eyed is open.
+- **Contested belief:** some colonists hold that the Dragon Islands natives' "cursed blood" comes from contact with the fey plane before the sealing. The dark natives carry Ilimox's dragon blood (see [[Eloran/Places/Dragon Islands#The Blessing of Ilimox]]); whether an older, fey-touched curse lies dormant in the light is open.
 - **[[Eloran/Places/Darkenwold|Darkenwold]]** on the Dračí ostrovy may be a thin point where the planes are close
 
 ## Open Questions

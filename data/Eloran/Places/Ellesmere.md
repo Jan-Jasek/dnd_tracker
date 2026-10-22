@@ -14,7 +14,7 @@ source_evidence:
 
 > Part of: [[Eloran]] | [[Places/Ellesmere Region]] | See also: [[Cosmology]], [[History/Timeline]]
 
-Former capital of the **Meredian Kingdom** since **Bořivoj I** unified the country (pre-PS ~300) — the **City of Mages** (Město mágů), older than that crown. Destroyed at **PS 0** — **the Shattering** (_Roztříštění_ / _Rozštěpení_) — when [[People/Jeod Isthar|Jeod Isthar]] destroyed Orion's Seal, which held the rift.
+Former capital of the **Meredian Kingdom** since **Bořivoj I** unified the country (pre-PS ~300) — in history the **City of Mages** (_Město mágů_), older than that crown. Since the culling the Just have seen to it that it is called the **Marble City** (_Mramorové město_), after their fortress. Destroyed at **PS 0** — **the Shattering** (_Roztříštění_ / _Rozštěpení_) — when [[People/Jeod Isthar|Jeod Isthar]] destroyed Orion's Seal, which held the rift.
 
 ## Public History
 

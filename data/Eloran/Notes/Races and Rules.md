@@ -70,9 +70,9 @@ Well integrated, live normally among humans.
 
 ### Dragonborn
 
-Not a separate race. **Dragonborn** (_drakorození_) is the continental name for Dragon Islands natives taken as slaves — humans carrying draconic blood, mostly the dark-eyed, whose looks are more lizard-like: scaly patches, slit pupils. About 20 years ago, northern Eloran abolished Dragonborn slavery, causing population growth and the formation of isolated settlements. Those settlements are regularly raided by southern slavers. In the southern Empire and Triskal, a well-presented Dragonborn slave is a status symbol. The slave trade with the southern Empire is active.
+Not a separate race. **Dragonborn** (_drakorození_) is the continental name for Dragon Islands natives taken as slaves — humans carrying draconic blood, mostly the dark (_tmaví_), whose looks are more lizard-like: scaly patches, slit pupils. About 20 years ago, northern Eloran abolished Dragonborn slavery, causing population growth and the formation of isolated settlements. Those settlements are regularly raided by southern slavers. In the southern Empire and Triskal, a well-presented Dragonborn slave is a status symbol. The slave trade with the southern Empire is active.
 
-On the Dragon Islands, free dark-eyed communities hold the inhospitable uncolonized coastline. See [[Places/Dragon Islands#The Dark-Eyed Blessing]].
+On the Dragon Islands, free dark communities hold the inhospitable uncolonized coastline. See [[Places/Dragon Islands#The Blessing of Ilimox]].
 
 ### Orcs
 

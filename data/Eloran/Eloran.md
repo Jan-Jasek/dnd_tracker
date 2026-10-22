@@ -51,7 +51,7 @@ The material plane of the [[Weaving]]. Largely sealed from the Weave since Orion
 - [[Places/Gutberg]] — south gate of Meredie; old-age metal span; fell PS 0
 - [[Places/Lapiberg]] — dwarven free city; Grundarmheld ground city in Meredie
 - [[Places/Ellesmere Region]] — Meredian lowlands around ruined Ellesmere
-- [[Places/Ellesmere]] — destroyed City of Mages
+- [[Places/Ellesmere]] — destroyed Marble City (once the City of Mages)
 - [[Places/Hlubina]] — marsh prologue village
 
 ## People

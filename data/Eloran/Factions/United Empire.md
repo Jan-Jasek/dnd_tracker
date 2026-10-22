@@ -31,7 +31,7 @@ The Empire forms in the south after **Bořivoj I** unifies **[[Factions/Meredie|
 
 - **[[Places/Carleon|Carleon]]** — Imperial city on the Northern Continent
 - **[[Places/Nelbar|Nelbar]]** — Imperial city on the Northern Continent
-- **Ellesmere** — Meredian capital; City of Mages; never an Imperial seat in the Just Age; destroyed at PS 0
+- **Ellesmere** — Meredian capital; the Marble City (once the City of Mages); never an Imperial seat in the Just Age; destroyed at PS 0
 
 ## Meredian Wars
 

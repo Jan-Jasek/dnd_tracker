@@ -97,7 +97,7 @@ See [[Regions/Southern Continent]] — Empire and Vilmar border **across the sea
 
 | Name                     | Notes                                                                                                        |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------ |
-| [[Ellesmere]]            | Former capital of Meredie; City of Mages; kotlin not yet pinned to a river-mile                              |
+| [[Ellesmere]]            | Former capital of Meredie; Marble City (once the City of Mages); kotlin not yet pinned to a river-mile       |
 | Dol Andor                | Fell during the [[History/Timeline#The Third Meredian War\|Third Meredian War]]; Von Edgeira took it quickly |
 | [[Places/Gutberg]]       | South gate of Meredie; metal span; fell PS 0                                                                 |
 | _(south of Gutberg)_     | Red River lands now Imperial; former patchwork of states; **name TBD**                                       |

@@ -47,6 +47,8 @@ He has never met Ilrusk knowingly. Whether their paths have crossed under other 
 
 Jeod is alive in the present day. He carries full knowledge of what he did and why. He owns **[[Organisations/Brauer & Hess]]** in secret — an established Imperial bank in Orestor. The consultate already works for the bank. On the **fragment** job day he charges them through that house.
 
+On the [[Places/Dragon Islands|Dragon Islands]] he serves openly, under a name of his choosing, as advisor to [[People/Birger Aderen|Sněhobílý]] in [[Places/Saltmarsh|Saltmarsh]]. He came there on the trail of the archdruid Finnigan, a few days after an incident with a rider's crystal, and is eager to shape the coalition his way. He found the [[Organisations/Order of the Just#Island Chapters (Dragon Islands)|Ashen Brotherhood]] already in Sněhobílý's service. He travels by the Paths. The islands hold ancient power — among it a seal from Orion's era on a sacred peak near Kanbar.
+
 ## Adventure Hooks
 
 - A living first-hand witness to the Templar consolidation and the Ellesmere culling

@@ -25,7 +25,7 @@ The political entity that controls the **Dragon Isles** (_Dračí ostrovy_). Bro
 A federation of three corsair republics. Each founding port is the capital of one federal state, governed by its own leader:
 
 - [[Places/Saltmarsh]] — state of **[[People/Birger Aderen|Birger Aderen]]** (_Sněhobílý_)
-- [[Places/Ansir]] — state of **Stoupač** (_Umurad Irdigut_)
+- [[Places/Ansir]] — state of **Stoupač** (_Duncan Harrow_)
 - [[Places/Oros]] — state of **Hedvábný**
 
 **Torsten** was the first **consul** (_konzul_), a leader chosen for the whole coalition. Since his death at Covel no new consul has been chosen. The three state leaders act together as a **triumvirate** with equal votes on foreign and international matters.

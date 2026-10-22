@@ -34,10 +34,10 @@ The campaign is structured in three acts. The players start as corsairs of the R
 
 **Hilua** (Vilmaran agent of Prophet Saybar; a century-old blood mage in the body of a bloodless girl of about thirteen) is working to destabilize the Republic and disrupt its truce with Triskal so that Vilmar can take over Ansir. Her tools:
 
-- Captain **Henry Von Telten** (former Imperial admiral) is coerced into weapon smuggling aboard the **_Sea Ghost_** (_Mořský přízrak_): a Požehnaný brings him letters signed "X" claiming to hold his family, and stays aboard to watch him. The family's captor is in truth his own wife, **Marie**, a Požehnaná.
+- Captain **Henry Von Telten** (former Imperial admiral) is coerced into weapon smuggling aboard the **_Sea Ghost_** (_Mořský přízrak_): a Požehnaný tells him his family is held hostage, stays aboard to watch him, and speaks by magic with a captor he calls Xendra, relaying Telten messages from his wife. The family's captor is in truth his own wife, **Marie**, a Požehnaná.
 - The weapons pass through **Rotgar** (Rotgar is from the Empire; believed killed at the Battle of Covel; actually operating as a smuggler) and through **Kuliš** in Ansir.
 - **Friedrich**, a local underworld figure, acts as intermediary and wants a rival (**Harry**) dead.
-- **Aditya**, a dark-eyed leader among the natives near **Dras Wyn**, and her followers were receiving weapons and spells from Hilua to destabilize the islands from within.
+- **Aditya**, a leader of the dark natives near **Dras Wyn**, and her followers were receiving weapons and spells from Hilua to destabilize the islands from within.
 - **Mego** (a native spy sent by Banyu to watch Aditya's faction) was captured near Dirden's farm.
 
 Hilua dies in the ritual at Harry's mansion. **Marie von Telten** survives, frames the Saltmarsh physician and councilwoman **Xendra** as the Vilmaran agent, and flees east with her children and Xendra. The weapon smuggling was only the beginning of Vilmar's plans on the islands; Marie carries them on.
@@ -53,7 +53,7 @@ Hilua dies in the ritual at Harry's mansion. **Marie von Telten** survives, fram
 | Night before Day 1 | Players in Ansir during off-screen events near a logging village (concept: Dřevolhota — see `ideas/eloran/drevolhota.md`). Survivor of a coup dies 3 days prior.                                                                                                                                                                                                                        |
 | Night of Day 1     | Prcek and Třesavec arrive with Arryn's men. At The Local (Lokál), players encounter them and realize someone is moving weapons. Prcek and Třesavec + soldiers stage a party, lure guards to the brothel, kill Třesavec, break into the fortress, steal weapons (wrapped in oiled leather), lower them to the river, barge upriver, load onto a wagon, depart for Mokrá Lhota overnight. |
 | Night after Day 1  | Kuliš dies. Weapons are stolen. Drson's men depart.                                                                                                                                                                                                                                                                                                                                     |
-| Day 2 morning      | Stoupač (Umurad Irdigut, Commander) leaves for the front to chase a sorceress.                                                                                                                                                                                                                                                                                                          |
+| Day 2 morning      | Stoupač (Duncan Harrow, Commander) leaves for the front to chase a sorceress.                                                                                                                                                                                                                                                                                                           |
 | Evening of Day 3   | Hemmond dies. Captain Kaplan takes command.                                                                                                                                                                                                                                                                                                                                             |
 | Morning of Day 4   | Players have an arranged meeting with Nastěnka (Kuliš's girlfriend).                                                                                                                                                                                                                                                                                                                    |
 | Evening of Day 4   | Friedrich summons the players.                                                                                                                                                                                                                                                                                                                                                          |
@@ -78,7 +78,7 @@ Hilua dies in the ritual at Harry's mansion. **Marie von Telten** survives, fram
 
 **Rotgar** — Empire origin; believed dead at the Battle of Covel. More pirate than soldier. Was actually using Dirden's farm as a smuggling base. Receives the weapons and moves them east toward the front. On the first evening after confrontation, he falls into a coma from blood loss and burns — 3 death saves at disadvantage; dies unless healed.
 
-**Captain Henry Von Telten** — Former Imperial admiral, commanded Rotgar at the southern Imperial border with the Sultanate; now captains a ship. His family lived in comfort on the island of **Meros**. After the wave he believed them dead, until a Požehnaný came to him with a letter signed "X" claiming to hold them. He gave in, smuggled the weapons aboard the _Sea Ghost_ (_Mořský přízrak_), and could not search for them because the Požehnaný stayed aboard. When the party took the ship, the Požehnaný escaped; Telten showed them the letters. He genuinely believes Xendra took his family.
+**Captain Henry Von Telten** — Former Imperial admiral, commanded Rotgar at the southern Imperial border with the Sultanate; now captains a ship. His family lived in comfort on the island of **Meros**. After the wave he believed them dead, until a Požehnaný, **Zahir Nuamet**, came aboard claiming they were held hostage. He gave in, smuggled the weapons aboard the _Sea Ghost_ (_Mořský přízrak_), and could not search for them because the Požehnaný stayed aboard. Nothing was ever written down: the Požehnaný spoke by magic with someone he called Xendra and relayed messages from Telten's wife that rang true. At landings Telten learned that Saltmarsh had a councilwoman Xendra, who had come to town with a woman and two children matching his family. When the party took the ship, the Požehnaný escaped and Telten told them all this. He genuinely believes Xendra took his family.
 
 **Dalibor** — Hobbit thief. Rotgar's fast courier between Mokrá Lhota and Ansir. Small, unremarkable, very nimble; tries to extract profit from any situation.
 
@@ -88,7 +88,7 @@ Hilua dies in the ritual at Harry's mansion. **Marie von Telten** survives, fram
 
 **Hilua** — Saybar's agent; a century-old blood mage in the body of a girl of about thirteen. Planned the islands operation with Marie von Telten. Wanted to weaken the Republic and disrupt the Triskal truce so Vilmar could take Ansir. Led the breach ritual at Harry's mansion. Dies in the ritual's collapse.
 
-**Stoupač** (_Umurad Irdigut_) — warrior from Ioth, Ansir captain and general of the Republic's army. A feared mage hunter who wears the armor and equipment of an [[Organisations/Order of the Just|Order of the Just]] templar, which makes him nearly immune to magic.
+**Stoupač** (_Duncan Harrow_) — warrior from the Skeld Isles, Ansir captain and general of the Republic's army. A feared mage hunter who wears the armor and equipment of an [[Organisations/Order of the Just|Order of the Just]] templar, which makes him nearly immune to magic.
 
 ### Harry Mansion Encounter
 
@@ -109,7 +109,7 @@ Harry is ~60 years old in appearance but actually barely forty. Connected to Hed
 
 Old smuggling base. Built on ruins of a stone necromantic temple; undead avoid the structure (protective wards from the necromancers who didn't want their creations returning to them). Dirden operates here with his numerous family (sons: Alaric, Asger, Calder, Colborn, Dagobar Jr.).
 
-Secret room: 3 bodies covered in blue slime. Small body of Prcek — groaning, begging for mercy. At close range they attack: 3rd-level Inflict Wounds each round + spell slot drain. 80 HP + resistance.
+Secret room: 3 bodies blackened by necrotic decay. Small body of Prcek — groaning, begging for mercy. At close range they attack: 3rd-level Inflict Wounds each round + spell slot drain. 80 HP + resistance.
 
 Dirden will cooperate if players are convincing enough. He's just a smuggler in it for profit; allowed Rotgar to use his old hidden cove because it's sheltered by rocks and no one spotted the ships. He's troubled because two of Rotgar's men fought over a crystal taken from a trade caravan fleeing east from the front. Both sickened from handling it, and the sickness spread to the room where they lay. Dirden's people sealed the sick men in — the room that held all his food. The crystal itself never came to the farm.
 
@@ -133,9 +133,9 @@ First Officer Vigo or Agitus — tall, sinewy 40-year-old. Captain is an older s
 
 **[[People/Birger Aderen|Birger Aderen]]** — Valdie fugitive noble (bastard royal branch). Receives a fragment containing a shadow lord's soul. Determined to free the republic from both Triskal and the United Empire. Ancient indigenous relic may offer a path — if desecrated lands are cleansed first.
 
-**Banyu** — spiritual/tribal leader. Sent Mego to spy on the dark-eyed who joined Aditya.
+**Banyu** — spiritual/tribal leader. Sent Mego to spy on the dark who joined Aditya.
 
-**Aditya** — dark-eyed leader among the natives near Dras Wyn. Met with Hilua multiple times; Hilua gave her spells and information. Her faction received weapons from Rotgar's people.
+**Aditya** — leader of the dark natives near Dras Wyn. Met with Hilua multiple times; Hilua gave her spells and information. Her faction received weapons from Rotgar's people.
 
 **Mego** — native spy, caught near Dirden's farm. Wants to join the players.
 
@@ -175,6 +175,6 @@ Alastor's solo return to Saltmarsh (PS 1 M12) is in preparation: [Alastor's retu
 - Who is Hedváb (Silky) and what is their relationship to the Empire?
 - What was the political situation in Ansir at the coup (who staged it, who survived)?
 - Who is Arryn and what do his men want?
-- What is the **Očistná vlna** (Cleansing Wave) cult — born of the Shattering's tsunami — doing in Ansir?
+- What is the **Cleansing Tide** (_Očistná vlna_) cult — born of the Shattering's tsunami — doing in Ansir? In Saltmarsh it has a doomsday preacher.
 - What is the nature of Darkenwold?
 - Does Erathon have a full identity separate from Birger Aderen's arc?

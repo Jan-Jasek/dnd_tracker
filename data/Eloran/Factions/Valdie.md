@@ -21,7 +21,7 @@ The Meredie border is mountainy and more open than the south (Krkonoše-like). A
 
 ## Third Meredian War
 
-Fell to **[[Factions/Triskal|Triskal]]** (with northern **Ioth** raider allies) in the opening phase of the [[History/Timeline#The Third Meredian War|Third Meredian War]] — weeks, not months. The first time a southern neighbour overruns the accessible kingdom. What remains of the deep north is open.
+Fell to **[[Factions/Triskal|Triskal]]** (with allies from the **Skeld Isles**) in the opening phase of the [[History/Timeline#The Third Meredian War|Third Meredian War]] — weeks, not months. The first time a southern neighbour overruns the accessible kingdom. What remains of the deep north is open.
 
 ## Dragon Archipelago
 

@@ -28,12 +28,12 @@ Once very bloodthirsty, he has grown calmer since losing the leg. He stays thoro
 
 ## Present — Saltmarsh
 
-Hanser is a Saltmarsh public figure. He owns **The Empty Net** (_U Prázdné sítě_), a harbour tavern bought with Lucky Jimmies money. War veterans and cripples drink there, the newsletter is printed on an old press in the back, and it serves as his campaign headquarters. Serving the veterans and loudly complaining about current affairs and the leadership is how he wins his popularity.
+Hanser is a Saltmarsh public figure. He owns **The Anchor** (_U Kotvy_), a harbour tavern bought with Lucky Jimmies money and renamed because his sailing days are over (labelled The Empty Net on the [[Maps/Saltmarsh Map|town map]]). War veterans and cripples drink there, the newsletter is printed on an old press in the back, and it serves as his campaign headquarters. Serving the veterans and loudly complaining about current affairs and the leadership is how he wins his popularity.
 
 - Puts out a weekly newsletter for the town.
-- Runs for the council seat Xendra left empty, on health and quality of life: veterans, the maimed, widows and orphans, and the plague street.
-- Believes Sněhobílý had Xendra framed and removed because she was growing popular and the council needed someone to blame for the lost weapons. He says so in his newsletter.
-- Makes money selling **Lucky Jimmies** — good-luck charms in memory of Jimmy Štístko.
+- Runs for the council seat Xendra left empty, on health and quality of life: veterans, the maimed, widows and orphans, and the families of those who burned in The Snapping Line.
+- Believes Sněhobílý had Xendra framed and removed because she was growing popular and the council needed someone to blame for the weapons stolen in Ansir. He says so in his newsletter.
+- Makes money selling **Lucky Jimmies** (_Štístka_) — good-luck charms in memory of Jimmy Štístko. The cheap kind is a small carved wooden or bone halfling with a singed face and arms raised mid-throw: _„Kdo nosí Štístka, toho oheň mine.“_ The dear kind has a pinch of ash sealed in its back, sold as ash from Covel. He also sells other souvenirs, such as tin badges stamped with Jimmy's grin and _„Ó zhebni, Císaři!“_
 
 ## Jimmy Štístko
 
@@ -42,5 +42,7 @@ Hanser is a Saltmarsh public figure. He owns **The Empty Net** (_U Prázdné sí
 His father, a tanner, lives alone and mourns two dead sons. He has asked after his third son, **Billy**, who lives in Červánkov, and offers Jimmy's ring as reward.
 
 ## Open Questions
+
+- Something magical is amiss around Hanser. Is he an unknowing Weave channeler? It would explain how a former brute charms so many people.
 
 - Is Jimmy really dead? The Orestor templar **Jimmy** of [[Organisations/Orion's Wrath|Orion's Wrath]] has hinted flame gifts.

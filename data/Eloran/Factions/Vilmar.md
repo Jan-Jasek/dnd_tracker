@@ -26,10 +26,14 @@ Imperial military careers on this frontier are common (e.g. **Captain Henry Von 
 Separate theater — Vilmar projects power by sea:
 
 - **Hilua** (_Hilua_) — century-old blood mage and agent of Saybar in the body of a bloodless girl of about thirteen. Sent to weaken the **[[Factions/Triple Coalition|Triple Coalition]]** and break the Triskal truce so Vilmar could seize **[[Places/Ansir|Ansir]]**. Led the ritual at Harry's mansion that inverted the first of Orion's seals to open a breach in the Weave and imbue Harry. Died in the ritual's collapse.
-- **Marie von Telten** (_Marie Teltenová_) — Meredian-born wife of Captain Henry Von Telten and a **Požehnaná**, made by Saybar while Telten served on the Sultanate border. She planned the islands operation with Hilua. After the wave she vanished with Telten's children and let him believe them dead, then lived in Saltmarsh under a false name as a refugee widow and assistant to the physician Xendra. When the plot unravelled she staged an abduction, framed Xendra with letters signed "X", and fled east into the Ganner Mountains with the children and with Xendra.
-- **A Požehnaný aboard the _Sea Ghost_** (name to be given) — brought Telten the first "X" letter, forced him into smuggling the weapons, and stayed aboard so he could not search for his family. Escaped when the ship was taken.
+- **Marie von Telten** (_Marie Teltenová_) — Meredian-born wife of Captain Henry Von Telten and a **Požehnaná**, made by Saybar while Telten served on the Sultanate border. She planned the islands operation with Hilua. After the wave she vanished with Telten's children and let him believe them dead, then lived in Saltmarsh under a false name as a refugee widow and assistant to the physician Xendra. When the plot unravelled she staged an abduction, let the Požehnaný aboard the _Sea Ghost_ name Xendra as Telten's family's captor, and fled east into the Ganner Mountains with the children and with Xendra.
+- **Zahir Nuamet** — the Požehnaný aboard the _Sea Ghost_; told Telten his family was held hostage, forced him into smuggling the weapons, and stayed aboard so he could not search for them. He spoke by magic with a captor he called Xendra and relayed Telten messages from his wife. Escaped when the ship was taken.
 
-**Public belief:** **Xendra**, Saltmarsh councilwoman and physician, was the Vilmaran agent: she held Telten's family hostage, let the town's weapon caches drain away through her council seat, and fled when exposed. **Hidden truth:** Xendra is Vilmaran-born but no agent — a good woman who cared for refugees and the wounded through the war and wanted to make Saltmarsh better. Marie framed her.
+**Public belief:** **Xendra**, Saltmarsh councilwoman and physician, was the Vilmaran agent: she held Telten's family hostage, ran the smuggling of the weapons stolen in Ansir, and fled when exposed. **Hidden truth:** Xendra is Vilmaran-born but no agent — a good woman who cared for refugees and the wounded through the war and wanted to make Saltmarsh better. Marie framed her.
+
+## Vilmarion
+
+**Vilmarion** — the old god of Vilmar, worshipped before Prophet Saybar's church: god of the sky and of light, of the stars that guide desert caravans, and of clear sight. Vilmar's physicians and opticians count their craft as his work. How his worship stands under Saybar's church is open. His sign is a small silver star set with a round lens; held to the light, the lens shows a tiny engraved constellation.
 
 ## Prophet Saybar
 
@@ -43,12 +47,13 @@ Saybar's blood mages are the **Požehnaní** (the Blessed). He has been making t
 
 ### Aims on the Dragon Islands
 
-Vilmar means to break the seal on the dragon blood of the islands' [[Places/Dragon Islands#The Dark-Eyed Blessing|dark-eyed]] natives, win them as grateful allies, and use them to take control of the Dragon Islands, then launch an invasion of the northern continent. The weapon smuggling in Ansir was only the opening move.
+Vilmar means to break the seal on the dragon blood of the islands' [[Places/Dragon Islands#The Blessing of Ilimox|dark]] natives, win them as grateful allies, and use them to take control of the Dragon Islands, then launch an invasion of the northern continent. The weapon smuggling in Ansir was only the opening move.
 
 ## Reputation
 
+- A land of learning as well as fear: its **physicians** and **opticians** are the best known in the world — Xendra in Saltmarsh, Urian Ab Nesir with his lenses — yet it is ruled as a **theocracy** through the church of Prophet Saybar.
+
 - **Blood mages** (_krvaví mágové_) and necromancers — feared in desert rumor; **Sayid Azolar** whispered at Akbesi market
-- **Nebeský Vilmarion** (Heavenly Vilmarion) in old notes
 - **Urian Ab Nesir** — Vilmaran optician seeking trade on the Dragon Isles
 
 ## Open Questions

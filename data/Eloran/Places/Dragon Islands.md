@@ -37,17 +37,17 @@ Seat of the **[[Factions/Triple Coalition|Triple Coalition]]** of Free Corsair R
 
 ## Peoples
 
-- **Natives** (name open; _Tauberové_ in old notes) — one human people carrying the dragon blood of Ilimox, split into regional groups with their own names, shamans, and sources of power. The **light-eyed** (_světloocí_) look somewhat elvish and form the nobility; the **dark-eyed** (_temnoocí_) look more lizard-like and draconic and form the servant caste. Retreating inland and into Darkenwold. On the continent they are called **Dragonborn** (_drakorození_), the name they carry as slaves.
-- **Lizardfolk and other "fishfolk"** — a separate, non-human people withdrawn into the swamps and river mouths of the south
+- **Moxans** (_Moxané_, sg. _Moxan_; their own name, "children of Ilimox"; _Tauberové_ in old notes) — the natives, one human people carrying the dragon blood of Ilimox, split into regional groups with their own names, shamans, and sources of power. They divide into the **light** (_světlí_), small and fair, somewhat elvish-looking, who form the nobility, and the **dark** (_tmaví_), with lizard-like, draconic features, who form the servant caste. Retreating inland and into Darkenwold. On the continent they are called **Dragonborn** (_drakorození_), the name they carry as slaves.
+- **Saurini** — called **Rybáci** (fish people) by the colonists; a separate, non-human fish people withdrawn into the swamps and river mouths of the south
 - Colonial corsairs, merchants, and Imperial remnants
 
-## The Dark-Eyed Blessing
+## The Blessing of Ilimox
 
-**Public belief:** the dark-eyed are a cursed lesser kind, the dregs of native society (_spodina společnosti_). A dark-eyed child born to light-eyed parents is given away to the dark-eyed to raise as a servant. The light-eyed nobles would rather deal with the colonists and sell their dark-eyed as slaves than risk war with them; free dark-eyed communities survive on the uncolonized coasts, raided by slavers.
+**Public belief:** the dark are a cursed lesser kind, the dregs of native society (_spodina společnosti_). A dark child born to light parents is given away to the dark to raise as a servant. The light nobles would rather deal with the colonists and sell their dark as slaves than risk war with them; free dark communities survive on the uncolonized coasts, raided by slavers.
 
-**Hidden truth:** the dark eyes are not a curse but a **blessing of the dragon god Ilimox**. In the age of legends the natives' ancestors mingled with his brood, and the dark-eyed carry that blood most strongly. They once ruled the islands. [[Organisations/Order of Maegi|Orion's mages]] sealed their power — with a seal on a sacred peak in the Ganner Mountains near Kanbar, which the natives are forbidden to enter — and the light-eyed took their place. The dark-eyed have been kept down ever since as servants too dangerous to free. The trait is recessive and every native carries it, so even two light-eyed parents can have a dark-eyed child. So much time has passed that only a few old seers remember why.
+**Hidden truth:** the dark features are not a curse but a **blessing of the dragon god Ilimox**. In the age of legends the natives' ancestors mingled with his brood, and the dark carry that blood most strongly. They once ruled the islands. [[Organisations/Order of Maegi|Orion's mages]] sealed their power — with a seal on a sacred peak in the Ganner Mountains near Kanbar, which the natives are forbidden to enter — and the light took their place. The dark have been kept down ever since as servants too dangerous to free. The trait is recessive and every native carries it, so even two light parents can have a dark child. So much time has passed that only a few old seers remember why.
 
-Breaking that seal would return the dark-eyed their power as formidable Weave users. [[Factions/Vilmar|Vilmar]] offers itself as their ally: Hilua armed Aditya's resentful dark-eyed near Dras Wyn; Marie von Telten goes for the seal itself.
+Breaking that seal would return the dark their power as formidable Weave users. [[Factions/Vilmar|Vilmar]] offers itself as their ally: Hilua armed Aditya's resentful dark near Dras Wyn; Marie von Telten goes for the seal itself.
 
 ## Terrain and Threats
 

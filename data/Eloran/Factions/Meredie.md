@@ -33,7 +33,7 @@ For centuries Meredie was split, vassalized, and fought over — **[[Factions/Va
 
 ## Unification (pre-PS ~300)
 
-**Bořivoj I** unifies the country into a single nation that can defend its borders. He grants **[[Places/Lapiberg|Lapiberg]]** free-city status. Ellesmere is the capital — City of Mages, Apostolic seat, later templar seat.
+**Bořivoj I** unifies the country into a single nation that can defend its borders. He grants **[[Places/Lapiberg|Lapiberg]]** free-city status. Ellesmere is the capital — the City of Mages, Apostolic seat, later templar seat, which the Just renamed the Marble City (_Mramorové město_).
 
 That northern peace is what gives the south room to become the **[[Factions/United Empire|United Empire]]**.
 

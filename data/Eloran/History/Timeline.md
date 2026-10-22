@@ -176,7 +176,7 @@ The third Imperial attempt to take **Meredie** — independent since Bořivoj (p
 3. Meredie mobilizes fast, maneuvers the Empire into splitting forces.
 4. One Empire column under Marshal **Von Edgeira** takes **Dol Andor** after a short siege, leaving a minimal garrison.
 5. The other column under General **Jenryr Von Nedur** — acting against orders — engages Meredie directly and is decisively defeated. Von Nedur dies.
-6. Meredian forces, overconfident after the victory, attack Von Edgeira's regrouped army and are repelled. They retreat to **Ellesmere** (capital; City of Mages; templar seat).
+6. Meredian forces, overconfident after the victory, attack Von Edgeira's regrouped army and are repelled. They retreat to **Ellesmere** (capital; the Marble City; templar seat).
 7. Von Edgeira secures flanks and supply lines and prepares a proper siege.
 8. Before the siege begins: **Ellesmere is destroyed overnight in a massive explosion**. The epicenter is the Marble Fortress of the Templars of the Just Ones. The central district is a crater. Much of the city collapses.
 
@@ -208,7 +208,7 @@ The third Imperial attempt to take **Meredie** — independent since Bořivoj (p
 
 **PS 1 M05–M06 — Hlubina** — Late spring. Players arrive in Hlubina, a marshland village near ruined Ellesmere, as mercenaries with a refugee caravan. Post-war context: displaced people, scarce food, decimated imperial garrison after Orestor. **Captain Aemon Whiteoak**; **[[People/Kate|Kate]]** (Jeod's apprentice) recruits them. See [[Campaigns/Hlubina]].
 
-**PS 1 M10–M12 — Dragon Independence, Act I (Ansir)** — Autumn into winter, two to three months. The party sets out from Saltmarsh as corsairs of the Free Republic, meeting a lone rider with an Orion–Erathon fragment on the road. Weapon smuggling, death of Commander Hemmond, Harry Mansion. See [[Campaigns/Dragon Independence]].
+**PS 1 M10–M12 — Dragon Independence, Act I (Ansir)** — Autumn into winter; the party is away from Saltmarsh about six weeks. The party sets out from Saltmarsh as corsairs of the Free Republic, meeting a lone rider with an Orion–Erathon fragment on the road. Weapon smuggling, death of Commander Hemmond, Harry Mansion. See [[Campaigns/Dragon Independence]].
 
 **PS 1 M12 — Alastor's return to Saltmarsh** — A plague incident tied to the rider's crystal has drawn a squadron of the Just to Saltmarsh. Alastor sets out after Xendra, publicly named as the Vilmaran agent. In preparation.
 

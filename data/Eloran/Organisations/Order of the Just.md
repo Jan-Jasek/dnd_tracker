@@ -49,6 +49,8 @@ The faithful name the **Just Age** (_Věk spravedlnosti_) — pre-PS ~155 → PS
 
 Golden plate gauntlet on a white field. Senior templars bear stars above the gauntlet.
 
+**The Palm** (_Dlaň_) — a raised open palm outlined in soot or charcoal, drawn from the Order's gauntlet. In the Just Age templars marked the houses of burned mages and cursed places with it. People still know it and read it as "stop, keep away".
+
 ### The Hammer of Orion
 
 Elite militant faction. Symbol: gauntlet crossed with warhammer. Hunts the most dangerous Weave-wielders, Erathon fragments, and Ellesmere survivors.
@@ -70,7 +72,7 @@ Meredian templars who survived the Shattering formed **[[Organisations/Orion's W
 
 ## Island Chapters (Dragon Islands)
 
-The Order's Imperial chapters in the [[Places/Dragon Islands|Dragon Islands]] lost their masters overnight when the Empire outlawed the Order after the Shattering. With no word from the mainland, they have rebranded under new leadership and offer their services to the [[Factions/Triple Coalition|Triple Coalition]], seeking legitimacy by proving themselves against real threats. A squadron is in [[Places/Saltmarsh|Saltmarsh]] after the plague incident.
+The Order's Imperial chapters in the [[Places/Dragon Islands|Dragon Islands]] lost their masters overnight when the Empire outlawed the Order after the Shattering. With no word from the mainland, they have rebranded under new leadership and offer their services to the [[Factions/Triple Coalition|Triple Coalition]], seeking legitimacy by proving themselves against real threats. A squadron arrived near [[Places/Saltmarsh|Saltmarsh]] a few weeks before the plague incident and camped in the wild. A few days before the incident they offered Sněhobílý their services and he refused them; the day after it, he sent for them himself. A few days later [[People/Jeod Isthar|Jeod Isthar]] became Sněhobílý's counsellor; they do not know who he is.
 
 They call themselves the **Ashen Brotherhood** (_Bratrstvo popela_). Many of them believe Ellesmere was divine punishment for the Order's abuses; they wear ash and mean to atone by protecting people rather than hunting them — sincere, insecure, and dangerous in their zeal. Behind their backs, islanders call them **Popelníci** or **Popeláři** (the ash-men; the bin-men) — never to their faces.
 

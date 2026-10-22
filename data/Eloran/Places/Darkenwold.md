@@ -21,7 +21,7 @@ A forest on the Dragon Islands where native groups retreat from the colonists. L
 ## What Is Known
 
 - Dark powers are said to be returning here, or to have returned already
-- Lies close to the coasts where slavers capture dark-eyed natives as Dragonborn slaves
+- Lies close to the coasts where slavers capture dark natives as Dragonborn slaves
 - Possibly where Orion left a mad Prastarý necromancer dormant — see the [open idea](../../../ideas/eloran/dragon-islands-necromancer.md)
 - In legend, after the Orionist crusade: the supposed crypt of an old enemy of the Order of Maegi (see [[People/Orion]], [[Cosmology]])
 - Possibly a thin place between Eloran and the fey plane (see [[Fey]])
