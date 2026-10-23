@@ -86,8 +86,8 @@ Besides the council (above):
 - **Skerrin Chytač** — kept The Snapping Line until it burned. Whether he was inside is open.
 - **Tyrol Železňák** — dwarf smith who came to the islands on a ship full of machines to build a great manufactory. Works with his lads (_ogaři_). The workers of the drowned smith **Jóža** went to him.
 - **Wellgar Slanoruký** (_Wellgar Brinehand_) — the Apostolic cleric; a drunk.
-- **The old seer of the Grove** — known in town as the weirdo by the grove (_pošuk od háje_). An old dark native, one of the few who remember the truth of the blessing of Ilimox. Name open.
-- **The preacher of the Cleansing Tide** (_Očistná vlna_) — a doomsday preacher of the wave and leader of its cult. Name open.
+- **The old seer of the Grove** — known in town as the weirdo by the grove (_pošuk od háje_). An old dark native, one of the few who remember the truth of the blessing of Ilimox.
+- **The preacher of the Cleansing Tide** (_Očistná vlna_) — a doomsday preacher of the wave and leader of its cult.
 - **Urian Ab Nesir** — Vilmaran optician, fascinated by elves; runs Nesir's All-Seeing Shop: _„Navštivte Nesirovo všezórium, kouzelná nasazovátka pro všechny špatně vidící, poznejte konečně, koho potkáte na ulicích! Již od 2 zlatých!“_
 - **The librarian** — awakened as a mage after the wave. Name open.
 - **Mára** — the hospice grave digger, a man. Handles the dead every day and fears nothing.

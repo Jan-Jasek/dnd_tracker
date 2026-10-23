@@ -16,6 +16,7 @@ promotion_target:
 ## Frame (approved)
 
 - **Three sessions.** 1: Saltmarsh. 2 and 3: the road east and the mountains; the rite ends the solo line. How the road splits between sessions is open.
+- **Finnigan** does not appear in the solo line.
 - **One step behind.** It is a hunt: the players do not meet Marie or Xendra before the end.
 - **The Gannera** (_Gannera_) runs through Saltmarsh.
   **The road east:** from Saltmarsh east to **Splav** (_Splav_), the raftsmen's and loggers' village on the Gannera and the Dwarven Company's landing, where ore and timber go from wagons onto rafts for Saltmarsh; then up to **Ruda** (_Ruda_), the mining camp, from which ore is carted down to Splav. From Ruda, **Hraničná** (_Hraničná_) lies northeast, around the mountain and lower than Ruda, in the forest where the hunters work: cleaner and quieter than the mines, and the last settlement before Moxan land.
@@ -26,7 +27,7 @@ promotion_target:
   - **Wiranto**, called **Wiru** by the colonists — a light Moxan who used to catch dark ones for the slavers. He knows the mountains and Moxan ways, speaks their tongue, and reads a trail even on stone. Vasari needs him more than anyone. The dark Moxané hate him; the light ones call him a traitor for serving foreigners.
   - **The tension:** the bounty is the band's cover and income, but Vasari wants the pyre. The hirelings want gold and Xendra alive, as the warrant pays for her alive; Vasari wants her burned.
 - **Vasari's head start.** He turned up in Saltmarsh as soon as the warrant was posted and set out after Xendra a day before Alastor's ship arrives. One of Dukas' men glimpsed him at the market; the watch on Hoolwatch saw the band ride east on the miners' road. Dukas knows from them. Alastor does not meet Vasari in town; he hears of him first.
-- **Marie's contact** among the Moxané belongs to a clan far from Aditya's.
+- **Marie's contact** among the Moxané belongs to the **Sisik** clan (_Sisik_, "scale"), far from Aditya's.
 
 ## Session 1 — Saltmarsh
 
@@ -56,7 +57,7 @@ Dukas learns that Alastor is heading east. He gives his information up front: wh
 
 **What they have and know.**
 
-- **Rezka** — the half-burned letter from the fireplace, kept for its red wax seal. She trades it, never gives it.
+- **Rezka** — the half-burned letter from the fireplace (Xendra burned it herself, having changed her mind so as not to draw attention), kept for its red wax seal. She trades it, never gives it.
 - **Šlupka** — the child's drawing found behind a bed. The dragon reminds him of something he saw burn at Covel; he gives it to whoever listens to him talk about Jimmy.
 - **Kmotr** — came right after the search and knows what was left: all of Xendra's personal things, nothing of the assistant or the children. The ash-men "sniffed along the walls like dogs", longest in the assistant's room and in the cellar.
 - **Malej** — Xendra's amulet of [[Factions/Vilmar#Vilmarion|Vilmarion]], found in her room: a silver star with a lens. He keeps it because he likes it. Whoever knows the sign sees that Xendra keeps the old faith, not Saybar's church; Nesir recognises it.
@@ -67,7 +68,7 @@ Alastor is Sněhobílý's man. If he reports to him after the return, Sněhobíl
 
 ### Jeod
 
-Jeod notices Alastor's withered face but says nothing this time; he marks Alastor for later. Whether he sits in on the audience with Sněhobílý is open.
+Jeod notices Alastor's withered face but says nothing this time; he marks Alastor for later. He is probably at the audience with Sněhobílý; the DM decides by the situation and when the players go.
 
 ### Von Telten in jail
 
@@ -106,7 +107,7 @@ Kupferbart knows his men's supply wagon took the women and children from the min
 
 ### The old seer of the Grove
 
-**Who.** An old dark Moxan, known in town as the weirdo by the grove (_pošuk od háje_); one of the few who know the truth of the blessing of Ilimox. A little cracked as well, so his riddles read both as caution and as madness. Name open.
+**Who.** An old dark Moxan, known in town as the weirdo by the grove (_pošuk od háje_); one of the few who know the truth of the blessing of Ilimox. A little cracked as well, so his riddles read both as caution and as madness. He needs no name.
 
 **Why the town lets him stay.** He was there before Saltmarsh. The Grove is an old Moxan sacred grove, and the Skeld settlers built the town around it. He refused to leave. Among the old Skeld families (the Kesters) a superstition holds that the town will not fall while he lives in the Grove; when the wave tore away half the harbour and left the Grove untouched, the belief grew. Whoever tried to drive him out would have the old families and the fishermen against him.
 
@@ -116,7 +117,7 @@ Kupferbart knows his men's supply wagon took the women and children from the min
 
 - _„Draci spí. Ať spí. Kdo je probudí, ten je nakrmí.“_
 - _„V krvi je síla. Velká síla. Nebezpečná síla.“_
-- _„Nesmí se to. Nesmí.“_
+- _„Kletba musí zůstat. Musí.“_
 
 ### Agáta
 
@@ -127,13 +128,23 @@ One of the nurses Xendra trained, nearly a physician herself, who runs the hospi
 
 ### Urian Ab Nesir
 
-Since the warrant, Nesir is the only Vilmaran left in town and under suspicion. Someone smashed his shop window and drew [[Organisations/Order of the Just#Rank & Symbol|the Palm]] on his door; it points at the Ashen Brotherhood, which frightens him more. Who drew it is open. After the players save him from the Cleansing Tide mob at The Anchor he owes them a favour, and he pays it by translating the notes. He also asks, without insisting, for an interview with Hanser in the weekly to clear his name. Hanser would gladly take it — readers and votes — so Alastor only has to bring the two together.
+Since the warrant, Nesir is the only Vilmaran left in town and under suspicion. Someone smashed his shop window and drew [[Organisations/Order of the Just#Rank & Symbol|the Palm]] on his door. It was the Cleansing Tide mob, but it points at the Ashen Brotherhood, which frightens him more. After the players save him from the Cleansing Tide mob at The Anchor he owes them a favour, and he pays it by translating the notes. He also asks, without insisting, for an interview with Hanser in the weekly to clear his name. Hanser would gladly take it — readers and votes — so Alastor only has to bring the two together.
 
 ## The road east
+
+**Saltmarsh → Splav.** Nothing happens on the way; a short description of the land, then Splav.
 
 ### Splav
 
 Kupferbart's wagon left the women and children here. Vasari's band came through a day before Alastor.
+
+**Layout.**
+
+- **The landing:** a wooden jetty by the weir that holds back water for floating. Below the weir lie lashed rafts; on the bank, heaps of ore and stacks of logs. Wagons unload straight onto the rafts. Loud, wet, everything muddy.
+- **The village:** about a dozen log houses on stilts, since the Gannera rises in spring; fish smokehouses, a forge for raft irons, and one tavern where carters wait for loads.
+- **The far bank:** the loggers' clearings in the forest, where the raftsmen sent Vasari.
+- **The people:** some sixty to eighty raftsmen and loggers with their families. Hard, distrustful, they stick together.
+- **Winter:** felling is in full swing in the forest, as logs drag well over snow; they pile up on the bank waiting for the spring flood. Only the ore rafts go down now, in cold water and short days.
 
 - **Old Vondra** (_starý Vondra_) — head of the raftsmen; speaks for them all, and his word holds.
 - **Vavřín** — the raftsman who would not talk; the band broke his fingers.
@@ -145,6 +156,8 @@ Kupferbart's wagon left the women and children here. Vasari's band came through 
 - **Sent the wrong way.** Out of spite the raftsmen told Vasari the women had been rafted across the river to the loggers' clearings. The band crossed and lost a day; on the far bank Wiru finds no trail and knows they were fooled.
 - **Winning the raftsmen.** The first talk is cold. The players can win them by tending the beaten raftsman's broken fingers; by telling the truth, that they want Xendra away from a dangerous companion, not burned (the child's drawing or the letter helps); or with Hanser's name, since there are veterans among the raftsmen and the weekly is read here too. Won over, the raftsmen name the carter and stand with the players when Vasari returns; otherwise they shut themselves in.
 - **Vasari returns** while the players are there, to punish the liars. He has no time to linger over the raftsmen. As an "apology" for the deceit his deserters demand a few young girls of the village, and Vasari grants them as Splav's punishment for the lie; the rest of the reckoning can wait until he comes back down with Xendra. It wins him his men's favour and their respect. With the raftsmen on their side the players have the numbers; without them they face the band alone. They can also stay out of it and simply leave before the band does.
+
+**Splav → Ruda.** Two days of climbing; empty ore wagons go up, full ones come down. The players meet **Ulf** on the way up, as he drives a full wagon down (see Ruda). Oxen pull the wagons (or stocky draught ponies); mules carry packs on the paths above Ruda, where no wagon goes.
 
 ### Ruda
 
@@ -158,13 +171,22 @@ About forty to fifty people, dwarves and humans. Most families stay in Splav or 
 
 **People.**
 
-- **Hartmut Eisner** — dwarf foreman, Kupferbart's man, in the camp most of the time. Gruff, fair, speaks for the camp. Would oppose killing anyone; the trap happens behind his back.
+- **Hartmut Eisner** — dwarf foreman, Kupferbart's man, in the camp most of the time; he is also the fire-setter, who cracks the rock with fire and water. Gruff, fair, speaks for the camp. Would oppose killing anyone; the trap happens behind his back.
 - **Kuba** — young miner whose crushed hand Marie saved. Marie asked him to lead any pursuers off the trail, or to get rid of them; he leads the players to the drake's den, believing he protects her.
 - **Old Žofie** (_stará Žofie_) — runs the canteen and store; camp mother and gossip; knows who went where. Liked Marie.
-- **Drahoš** — blaster, sour, drinks; lost his brother in a cave-in. Distrusts the "doctor ladies"; might quietly warn the players.
-- **Ulf** — dwarf carter of the ore wagon between Splav and Ruda; brought the women up. The children made him a little animal of grass stalks and twigs as a keepsake, and it rides on his wagon seat; it gives him away when he denies having carried anyone. Someone in Splav lets slip that the women rode up with Ulf, or with "the dwarf". A possibility, not counted on: if the players truly win Kupferbart over in Saltmarsh, he gives them a note or sign for his men, and Ulf talks because the boss wants it.
+- **Drahoš** — timberman, who builds the shoring that holds up the adit roof; sour, drinks. His brother was pulled out of a cave-in alive, legs crushed. Marie treated him and said he would make it; that evening he still talked with Drahoš, clear-headed. That night Marie sat with him alone, and by morning he was dead. Everyone took it as fate. Drahoš did not: he saw how calmly Marie washed her hands afterwards. He claims his brother was _„bílej jak křída“_; it is not true (no blood magic was involved), but Alastor may read something into it. The others think him a drunk who needs someone to blame. Distrusts the "doctor ladies". He does not warn the players about anything; he only complains about Marie.
+- **Ulf** — dwarf carter of the ore wagon between Splav and Ruda; brought the women up. The children made him a little animal of grass stalks and twigs as a keepsake, and it rides on his wagon seat; it gives him away when he denies having carried anyone. Someone in Splav lets slip that the women rode up with Ulf, or with "the dwarf". A possibility, not counted on: if the players truly win Kupferbart over in Saltmarsh, he gives them a note or sign for his men, and Ulf talks because the boss wants it. **What Ulf says** once he talks: he drove two women and two children up from Splav. The widow did the talking and paid in thanks, not money, since she had once treated him. The doctor was pale and listless the whole way. The children plaited him the little animal on his seat and asked whether dragons live in the mountains. The widow said bad men were after them and begged him to tell no one.
 
 **Marie in Ruda.** Treated as a normal, warm person: _„paní doktorka“_, though only the assistant. She remembered names and children, set bones, brought news. She used the mines mainly for convenient access inland. No blood-magic side effects. She is a sociopath who masks it well; do not write her as an obvious cold monster. Whether she magically influenced the miners is open and not needed: months of kindness are enough. When she came through with Xendra and the children she said bad men were after them.
+
+**Arrival.**
+
+- **What they see.** The last hours of road break into switchbacks; the ox wagon crawls. They smell Ruda before they see it: smoke rolls out of the adit, where Hartmut is firing the rock, then the hiss of steam and the crack of stone as it is quenched. Log huts climb the slope between grey spoil heaps and mud mixed with dust. In the yard below a wagon is being turned, and a dog runs among the ore heaps.
+- **The welcome.** Marie came through saying bad men were after them, so strangers asking after women and children are exactly the bad men she warned of. Nobody saw anything. The miners are polite and cold. Alastor's withered face does not help.
+- **Where the players will likely go.** Žofie's canteen, the only warm place with food: Žofie is curious and loves to talk, but will not say a bad word about the _„paní doktorka“_; once she trusts them she gives the clue to Hraničná. Hartmut, who as foreman wants to know who walks into his camp: direct and fair, he will not stand in their way if they show they mean Xendra no harm, but he likes Marie. Drahoš, alone with a bottle, who complains about Marie to anyone who sits down.
+- **Then.** By evening at the latest, Kuba and his mates offer to guide them to Hraničná in the morning.
+
+**Xendra in Ruda.** She treated no one here. The women only spent the night and went on to Hraničná in the morning. Žofie: _„Ta doktorka byla jako duch. Ani se nenajedla.“_ A sign for the players that something is wrong with Xendra on the road, fear or Marie's hold.
 
 **The clue to Hraničná.** Žofie (or Drahoš) mentions that Marie always went on to the hunters at Hraničná after her rounds at the mine.
 
@@ -173,18 +195,27 @@ About forty to fifty people, dwarves and humans. Most families stay in Splav or 
 ### The drake
 
 - A beast, not a hoard dragon. It hunts in the open sky and dens in a natural cave, not the mine.
+- **Looks:** the size of a big horse, wingspan twice that; small for a dragon, huge for a man. Sinewy, scales the colour of wet slate, a row of blunt spines down the back; the Sisik messenger wears scale markings like them. On the ground it creeps like a lizard; in the air it is fast and silent, and strikes diving from the rocks. Stunted: one wing is twisted, so it flies in short stretches and leaps a lot from rock to rock.
 - **Out hunting** when the players arrive; it comes back aware that someone was in its lair.
-- The den holds bones and remains, and **one interesting corpse**. Tentative: a **dark Moxan messenger** with clan markings, sent by Marie's contact's clan and caught by the drake; it tells the players which clan to look for.
+- The den holds bones and remains, and **one interesting corpse**: a **dark Moxan messenger** with clan markings, sent after Marie by the Sisik clan and caught by the drake. The markings tell the players which clan to look for. On him:
+  - **An amber amulet** — a drop of amber with a tiny lizard caught inside, so perfect it looks like a little dragon. Sacred to the dark Moxané, a sign of Ilimox's blood; whoever shows it to them is not wholly a stranger.
+  - **A vial of poison** — a small hollowed gourd of dark resin from the skin of jungle frogs. The Moxané smear darts and points with it; it does not kill but numbs and puts to sleep, for hunting game and taking people alive.
 - If the players skipped Vasari at Splav, his band could have been sent to the den first instead.
-- **It stalks the players as sport:** a multi-encounter of strike and withdraw, starting on the way back to Ruda. If not killed, it follows them to Hraničná, where it has taken dogs and goats all season; the hunters are terrified.
+- **It stalks the players as sport:** a multi-encounter of strike and withdraw, starting right after the den, on the way on to Hraničná. If not killed, it follows them all the way there, where it has taken dogs and goats all season; the hunters are terrified.
 
 ### Hraničná (in progress)
 
 - A dozen hunter families in log houses behind a palisade. Furs and game for Ruda; trade with the Moxané; outside company control.
-- **Bára Lišková** — old trapper woman who speaks for them (proposed, not confirmed). Buried two husbands; speaks some Moxan; has traded with them for twenty years.
+- **Livia Corvina** — old trapper woman who speaks for them; Imperial-born, once of a better family, now in furs. Buried two husbands; speaks some Moxan; has traded with them for twenty years.
 - **Marie** came here many times before and went on into Moxan land. The hunters know her as the doctor's assistant who deals with and treats the Moxané; her arrival with Xendra and the children surprised nobody. **No token.**
-- **The children.** On her earlier trips Marie left them here with **one of the hunters' wives** (name open) and went into Moxan land alone: she can look after herself (she regenerates quickly), the children cannot, and their blood makes them precious to her. The children like their stepmother well enough but mostly miss their father. What the wife learned from them: later.
+- **The children.** On her earlier trips Marie left them here with **Sari**, a light Moxan married to one of the hunters, and went into Moxan land alone: she can look after herself (she regenerates quickly), the children cannot, and their blood makes them precious to her. The children like their stepmother well enough but mostly miss their father. What Sari learned from them: Marie told them bedtime stories about a mountain where a dragon sleeps, and that one day they will go there (it echoes the child's drawing); they boasted that they have rare old blood and are special because of it, as Marie told them; and they believe their father is on a ship and will soon come for them, which breaks Sari's heart. She took it all for children's talk; only when the players tell her where Marie is going does she understand what it means.
+- **The way to the Sisik.** Livia, and maybe others in Hraničná, know the Sisik markings from trade and how to find the clan, but warn the players that the Sisik will not suffer strangers on their land.
 - **The children depend on the players' pace.** If the players are quick, the children are still with the hunter's wife and Marie is coming back for them: leverage and a ticking clock. If they are slow, Marie has already taken them, and the hunter's wife is frightened, because Marie never did that before.
+
+### The Sisik clan
+
+- **Marie's contact is the clan's young chief** (name open), who explored the ruins near the summit himself. No shaman would have let her near the peak. Through Hilua and other clans Marie supplied him with weapons; after a while that was enough for him to let her in, without the rest of the clan knowing.
+- **Talking to Moxané.** If the players talk with Moxané, of this clan or another they meet, and mention the peak, the child's drawing, or breaking the curse, they are most likely taken to the clan's shaman, and the chief steps in.
 
 ### Optional encounters (for pacing)
 
@@ -205,8 +236,7 @@ With two players the session may run fast; these can be dropped in.
 
 ## Open
 
-- The interesting corpse in the den (the Moxan messenger is tentative).
-- Hraničná: confirm Bára; name the hunter's wife; what she knows from the children.
+- **Vasari in Ruda** — what happens if the players skipped or fought him at Splav (DM to think over).
 - What happens beyond Hraničná; the seal and the rite.
 - **The date of the rite.** Alastor's return falls in PS 1 M12; whether the rite is tied to the winter solstice is open, for a later session.
 
